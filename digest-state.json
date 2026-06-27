@@ -1,1 +1,42 @@
-{}
+{
+  "last_run_utc": "2026-06-27T04:00:00Z",
+  "last_run_window": "Friday 26 Jun 2026 US session + early Saturday 27 Jun 2026 weekend (to ~12:00 MYT)",
+  "stories": [
+    {
+      "id": "openai-ipo-delay-ai-infra",
+      "headline": "OpenAI IPO delay report triggers AI infrastructure spending sustainability concern; chip stocks lead Nasdaq to 5th consecutive loss",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "may-pce-2026",
+      "headline": "May PCE: headline 4.1% YoY, core 3.4% YoY — highest readings since 2023",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "kashkari-hawkish-pivot",
+      "headline": "Fed voter Kashkari (Minneapolis) pivots hawkish, explicitly pencils in one rate hike for 2026",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "brent-hormuz-recovery",
+      "headline": "Brent crude retreats to ~$78, near pre-war levels; Strait of Hormuz transit at ~75% capacity as US-Iran interim deal holds",
+      "score": 5,
+      "direction": "neutral"
+    },
+    {
+      "id": "umich-june-final",
+      "headline": "UMich June final: sentiment 49.5 (revised up from 48.9); 5-year inflation expectations drop sharply to 3.3% from 3.9%",
+      "score": 5,
+      "direction": "neutral"
+    },
+    {
+      "id": "jobless-claims-215k-jun-week3",
+      "headline": "Weekly jobless claims 215K vs 225K expected; labor market holds up",
+      "score": 4,
+      "direction": "neutral"
+    }
+  ]
+}
