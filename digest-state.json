@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-06-27T04:00:00Z",
-  "last_run_window": "Friday 26 Jun 2026 US session + early Saturday 27 Jun 2026 weekend (to ~12:00 MYT)",
+  "last_run_utc": "2026-06-28T02:00:00Z",
+  "last_run_window": "Saturday 27 Jun 2026 afternoon + Sunday 28 Jun 2026 (weekend)",
   "stories": [
     {
       "id": "openai-ipo-delay-ai-infra",
@@ -22,9 +22,9 @@
     },
     {
       "id": "brent-hormuz-recovery",
-      "headline": "Brent crude retreats to ~$78, near pre-war levels; Strait of Hormuz transit at ~75% capacity as US-Iran interim deal holds",
+      "headline": "Brent slides further to ~$72 (from $78); Iran temporarily closes Strait of Hormuz Saturday citing Israeli strikes on Hezbollah — ceasefire thread fraying",
       "score": 5,
-      "direction": "neutral"
+      "direction": "mixed-bearish"
     },
     {
       "id": "umich-june-final",
@@ -35,6 +35,18 @@
     {
       "id": "jobless-claims-215k-jun-week3",
       "headline": "Weekly jobless claims 215K vs 225K expected; labor market holds up",
+      "score": 4,
+      "direction": "neutral"
+    },
+    {
+      "id": "alphabet-djia-inclusion",
+      "headline": "Alphabet joins Dow Jones Industrial Average effective Monday 29 June, replacing Verizon — passive rebalancing flows into GOOGL before Monday open",
+      "score": 4,
+      "direction": "bullish"
+    },
+    {
+      "id": "eu-ai-act-aug2-deadline",
+      "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — 35 days out; fines up to 1.5% of global revenue for non-compliance",
       "score": 4,
       "direction": "neutral"
     }
