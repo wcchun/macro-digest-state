@@ -1,0 +1,57 @@
+name: AAPL MA Crossover
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 21 * * 1-5'  # 4pm ET, weekdays
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install yfinance pandas
+
+      - name: Run crossover script
+        run: |
+          python3 - << 'EOF'
+          import yfinance as yf
+          import json
+          from datetime import datetime, timezone
+
+          ticker = yf.Ticker("AAPL")
+          df = ticker.history(period="6mo")
+          df["20MA"] = df["Close"].rolling(20).mean()
+          df["50MA"] = df["Close"].rolling(50).mean()
+
+          crossover = bool(df["20MA"].iloc[-1] > df["50MA"].iloc[-1])
+          result = {
+              "ticker": "AAPL",
+              "as_of": df.index[-1].strftime("%Y-%m-%d"),
+              "close": round(float(df["Close"].iloc[-1]), 2),
+              "20MA": round(float(df["20MA"].iloc[-1]), 2),
+              "50MA": round(float(df["50MA"].iloc[-1]), 2),
+              "bullish_crossover": crossover,
+              "run_at": datetime.now(timezone.utc).isoformat(),
+          }
+          print(json.dumps(result, indent=2))
+          with open("aapl-crossover-result.json", "w") as f:
+              json.dump(result, f, indent=2)
+          EOF
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add aapl-crossover-result.json
+          git diff --cached --quiet || git commit -m "chore: update AAPL crossover result"
+          git push
