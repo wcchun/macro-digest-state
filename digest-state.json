@@ -1,11 +1,23 @@
 {
-  "last_run_utc": "2026-06-28T02:00:00Z",
-  "last_run_window": "Saturday 27 Jun 2026 afternoon + Sunday 28 Jun 2026 (weekend)",
+  "last_run_utc": "2026-06-29T01:30:00Z",
+  "last_run_window": "Sunday 28 Jun 2026 afternoon + Monday 29 Jun 2026 pre-market",
   "stories": [
     {
-      "id": "openai-ipo-delay-ai-infra",
-      "headline": "OpenAI IPO delay report triggers AI infrastructure spending sustainability concern; chip stocks lead Nasdaq to 5th consecutive loss",
+      "id": "us-iran-hormuz-military-exchange",
+      "headline": "US strikes Iranian sites Saturday; Iran retaliates with drones on Bahrain Sunday — Hormuz military escalation (Strait traffic ~5% of pre-conflict levels)",
       "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "tsmc-advanced-node-price-hikes",
+      "headline": "TSMC informing customers of price hikes across advanced nodes (3nm, 7nm; 74% of wafer business)",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "openai-ipo-delay-ai-infra",
+      "headline": "OpenAI IPO delay to 2027 increasingly confirmed; AI infrastructure spending sustainability questioned",
+      "score": 6,
       "direction": "bearish"
     },
     {
@@ -15,38 +27,32 @@
       "direction": "bearish"
     },
     {
-      "id": "kashkari-hawkish-pivot",
-      "headline": "Fed voter Kashkari (Minneapolis) pivots hawkish, explicitly pencils in one rate hike for 2026",
-      "score": 6,
+      "id": "google-talent-exodus-jun2026",
+      "headline": "Google AI talent exodus: Shazeer (OpenAI), Jumper (Anthropic), Adler, Pritzel departing late June 2026",
+      "score": 5,
       "direction": "bearish"
     },
     {
-      "id": "brent-hormuz-recovery",
-      "headline": "Brent slides further to ~$72 (from $78); Iran temporarily closes Strait of Hormuz Saturday citing Israeli strikes on Hezbollah — ceasefire thread fraying",
+      "id": "openai-broadcom-jalapeno-chip",
+      "headline": "OpenAI + Broadcom unveil 'Jalapeño' custom AI chip; prototypes end-2026, production scale H1 2028",
       "score": 5,
-      "direction": "mixed-bearish"
+      "direction": "mixed"
     },
     {
-      "id": "umich-june-final",
-      "headline": "UMich June final: sentiment 49.5 (revised up from 48.9); 5-year inflation expectations drop sharply to 3.3% from 3.9%",
+      "id": "kashkari-hawkish-pivot",
+      "headline": "Fed voter Kashkari (Minneapolis) pivots hawkish, explicitly pencils in one rate hike for 2026",
       "score": 5,
-      "direction": "neutral"
+      "direction": "bearish"
     },
     {
-      "id": "jobless-claims-215k-jun-week3",
-      "headline": "Weekly jobless claims 215K vs 225K expected; labor market holds up",
+      "id": "anthropic-965b-ipo-filing",
+      "headline": "Anthropic closes financing at ~$965B valuation (surpassing OpenAI), confidential S-1 IPO filed",
       "score": 4,
       "direction": "neutral"
-    },
-    {
-      "id": "alphabet-djia-inclusion",
-      "headline": "Alphabet joins Dow Jones Industrial Average effective Monday 29 June, replacing Verizon — passive rebalancing flows into GOOGL before Monday open",
-      "score": 4,
-      "direction": "bullish"
     },
     {
       "id": "eu-ai-act-aug2-deadline",
-      "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — 35 days out; fines up to 1.5% of global revenue for non-compliance",
+      "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — 35 days out; fines up to 1.5% of global revenue",
       "score": 4,
       "direction": "neutral"
     }
