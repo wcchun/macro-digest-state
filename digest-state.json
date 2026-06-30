@@ -1,60 +1,17 @@
 {
-  "last_run_utc": "2026-06-29T01:30:00Z",
-  "last_run_window": "Sunday 28 Jun 2026 afternoon + Monday 29 Jun 2026 pre-market",
+  "last_run_utc": "2026-06-30T04:30:00Z",
+  "last_run_window": "Monday 29 Jun 2026 US session + Tuesday 30 Jun 2026 pre-market and morning",
   "stories": [
-    {
-      "id": "us-iran-hormuz-military-exchange",
-      "headline": "US strikes Iranian sites Saturday; Iran retaliates with drones on Bahrain Sunday — Hormuz military escalation (Strait traffic ~5% of pre-conflict levels)",
-      "score": 7,
-      "direction": "bearish"
-    },
-    {
-      "id": "tsmc-advanced-node-price-hikes",
-      "headline": "TSMC informing customers of price hikes across advanced nodes (3nm, 7nm; 74% of wafer business)",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "openai-ipo-delay-ai-infra",
-      "headline": "OpenAI IPO delay to 2027 increasingly confirmed; AI infrastructure spending sustainability questioned",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "may-pce-2026",
-      "headline": "May PCE: headline 4.1% YoY, core 3.4% YoY — highest readings since 2023",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "google-talent-exodus-jun2026",
-      "headline": "Google AI talent exodus: Shazeer (OpenAI), Jumper (Anthropic), Adler, Pritzel departing late June 2026",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "openai-broadcom-jalapeno-chip",
-      "headline": "OpenAI + Broadcom unveil 'Jalapeño' custom AI chip; prototypes end-2026, production scale H1 2028",
-      "score": 5,
-      "direction": "mixed"
-    },
-    {
-      "id": "kashkari-hawkish-pivot",
-      "headline": "Fed voter Kashkari (Minneapolis) pivots hawkish, explicitly pencils in one rate hike for 2026",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "anthropic-965b-ipo-filing",
-      "headline": "Anthropic closes financing at ~$965B valuation (surpassing OpenAI), confidential S-1 IPO filed",
-      "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "eu-ai-act-aug2-deadline",
-      "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — 35 days out; fines up to 1.5% of global revenue",
-      "score": 4,
-      "direction": "neutral"
-    }
+    { "id": "tsmc-advanced-node-price-hikes", "headline": "TSMC advanced-node price hikes across 3nm/7nm (74% of wafer business)", "score": 6, "direction": "bearish" },
+    { "id": "openai-ipo-delay-ai-infra", "headline": "OpenAI IPO delay to 2027 confirmed; AI infrastructure spending sustainability questioned", "score": 6, "direction": "bearish" },
+    { "id": "us-iran-hormuz-military-exchange", "headline": "US-Iran ceasefire MOU holding (signed June 17); Hormuz partially reopening; oil -36% from conflict peak; June 30 stocks rebound on Middle East calm", "score": 5, "direction": "neutral" },
+    { "id": "google-talent-exodus-jun2026", "headline": "Google AI talent exodus: Shazeer (OpenAI), Jumper (Anthropic), Adler, Pritzel departing late June 2026", "score": 5, "direction": "bearish" },
+    { "id": "openai-broadcom-jalapeno-chip", "headline": "OpenAI + Broadcom 'Jalapeño' custom AI chip; prototypes end-2026, production scale H1 2028", "score": 5, "direction": "mixed" },
+    { "id": "qualcomm-ai-platform-bet", "headline": "Qualcomm acquires Modular ($4B, CUDA-alternative AI software) + in advanced talks for Tenstorrent ($8-10B AI chip startup)", "score": 5, "direction": "bearish" },
+    { "id": "may-pce-2026", "headline": "May PCE 4.1%/3.4% core: now priced via June 17 FOMC (median dot raised to 3.8%; 9 officials see at least 1 hike in 2026)", "score": 4, "direction": "bearish" },
+    { "id": "kashkari-hawkish-pivot", "headline": "Kashkari hawkish pivot absorbed into June FOMC consensus — 9 of 19 officials pencil at least 1 hike for 2026", "score": 4, "direction": "bearish" },
+    { "id": "anthropic-965b-ipo-filing", "headline": "Anthropic closes financing at ~$965B valuation; confidential S-1 IPO filed", "score": 4, "direction": "neutral" },
+    { "id": "eu-ai-act-aug2-deadline", "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — 33 days out; fines up to 1.5% of global revenue", "score": 4, "direction": "neutral" },
+    { "id": "spacex-nasdaq100-entry", "headline": "SpaceX Nasdaq-100 Fast Entry expected ~July 7; passive QQQ-tracking funds must mechanically buy ~$2.5T market cap addition", "score": 4, "direction": "neutral" }
   ]
 }
