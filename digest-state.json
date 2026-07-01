@@ -1,17 +1,14 @@
 {
-  "last_run_utc": "2026-06-30T04:30:00Z",
-  "last_run_window": "Monday 29 Jun 2026 US session + Tuesday 30 Jun 2026 pre-market and morning",
+  "last_run_utc": "2026-07-01T14:30:00Z",
+  "last_run_window": "Tue 30 Jun 2026 US session through Wed 1 Jul 2026 pre-market/morning (incl. Warsh Sintra panel, JOLTS, ISM PMI)",
   "stories": [
-    { "id": "tsmc-advanced-node-price-hikes", "headline": "TSMC advanced-node price hikes across 3nm/7nm (74% of wafer business)", "score": 6, "direction": "bearish" },
-    { "id": "openai-ipo-delay-ai-infra", "headline": "OpenAI IPO delay to 2027 confirmed; AI infrastructure spending sustainability questioned", "score": 6, "direction": "bearish" },
-    { "id": "us-iran-hormuz-military-exchange", "headline": "US-Iran ceasefire MOU holding (signed June 17); Hormuz partially reopening; oil -36% from conflict peak; June 30 stocks rebound on Middle East calm", "score": 5, "direction": "neutral" },
-    { "id": "google-talent-exodus-jun2026", "headline": "Google AI talent exodus: Shazeer (OpenAI), Jumper (Anthropic), Adler, Pritzel departing late June 2026", "score": 5, "direction": "bearish" },
-    { "id": "openai-broadcom-jalapeno-chip", "headline": "OpenAI + Broadcom 'Jalapeño' custom AI chip; prototypes end-2026, production scale H1 2028", "score": 5, "direction": "mixed" },
-    { "id": "qualcomm-ai-platform-bet", "headline": "Qualcomm acquires Modular ($4B, CUDA-alternative AI software) + in advanced talks for Tenstorrent ($8-10B AI chip startup)", "score": 5, "direction": "bearish" },
-    { "id": "may-pce-2026", "headline": "May PCE 4.1%/3.4% core: now priced via June 17 FOMC (median dot raised to 3.8%; 9 officials see at least 1 hike in 2026)", "score": 4, "direction": "bearish" },
-    { "id": "kashkari-hawkish-pivot", "headline": "Kashkari hawkish pivot absorbed into June FOMC consensus — 9 of 19 officials pencil at least 1 hike for 2026", "score": 4, "direction": "bearish" },
-    { "id": "anthropic-965b-ipo-filing", "headline": "Anthropic closes financing at ~$965B valuation; confidential S-1 IPO filed", "score": 4, "direction": "neutral" },
-    { "id": "eu-ai-act-aug2-deadline", "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — 33 days out; fines up to 1.5% of global revenue", "score": 4, "direction": "neutral" },
-    { "id": "spacex-nasdaq100-entry", "headline": "SpaceX Nasdaq-100 Fast Entry expected ~July 7; passive QQQ-tracking funds must mechanically buy ~$2.5T market cap addition", "score": 4, "direction": "neutral" }
+    { "id": "strong-data-hawkish-fed-jun30-jul1", "headline": "JOLTS job openings hit 2-yr high (7.6M) + ISM Manufacturing PMI beats (54.0), reinforcing hawkish Fed rate path ahead of July 2 NFP", "score": 6, "direction": "bearish" },
+    { "id": "anthropic-fable5-export-restriction-lifted", "headline": "US lifts export restriction on Anthropic's Fable 5 model; OpenAI's GPT-5.6 remains under White House-directed staged rollout", "score": 5, "direction": "bullish" },
+    { "id": "smci-taiwan-raid-nvidia-smuggling-probe", "headline": "Taiwan prosecutors raid Super Micro Taiwan office/affiliates in expanded Nvidia chip-smuggling probe; SMCI -8%", "score": 4, "direction": "bearish" },
+    { "id": "warsh-sintra-debut-no-signal", "headline": "Fed Chair Warsh's Sintra ECB Forum debut delivers no new policy signal, sticks to low-information communication strategy", "score": 4, "direction": "neutral" },
+    { "id": "us-iran-hormuz-deescalation-continues", "headline": "Oil extends slide to ~$70.70/bbl (worst quarter since 2020) as US-Iran talks resume in Doha; Hormuz shipping traffic rebounds", "score": 4, "direction": "bullish" },
+    { "id": "alphabet-dow-inclusion", "headline": "Alphabet joins Dow Jones Industrial Average, replacing Verizon; GOOGL +3.7-4.8%", "score": 4, "direction": "bullish" },
+    { "id": "spacex-nasdaq100-entry", "headline": "SpaceX Nasdaq-100 Fast Entry confirmed for before market open July 7; passive QQQ-tracking funds to mechanically buy ~$4.3B", "score": 4, "direction": "neutral" },
+    { "id": "eu-ai-act-aug2-deadline", "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — 32 days out; fines up to 1.5% of global revenue", "score": 4, "direction": "neutral" }
   ]
 }
