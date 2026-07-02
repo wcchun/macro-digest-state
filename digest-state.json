@@ -1,13 +1,8 @@
 {
-  "last_run_utc": "2026-07-02T01:08:03Z",
-  "last_run_window": "Wed 1 Jul 2026 US session close through Thu 2 Jul 2026 ~9:08am MYT (incl. Meta Compute pivot, SMCI Taiwan detentions, semi/memory profit-taking; ahead of Jul 2 NFP)",
+  "last_run_utc": "2026-07-02T17:21:29Z",
+  "last_run_window": "Thu 2 Jul 2026 ~9:08am MYT through Fri 3 Jul 2026 ~1:21am MYT (June NFP miss +57K, unemployment 4.2%; semi/memory selloff spreads to Asia + new DRAM price-fixing suit)",
   "stories": [
-    { "id": "meta-compute-cloud-pivot", "headline": "Meta reportedly building \"Meta Compute\" cloud business to resell excess AI capacity; META +9-10%, CoreWeave -10.8%, Nebius -12.4%", "score": 6, "direction": "bullish" },
-    { "id": "smci-taiwan-raid-nvidia-smuggling-probe", "headline": "Taiwan court detains two Super Micro employees (escalated from raids) in Nvidia chip-smuggling-to-China probe; Singapore seizes S$55M bungalow, files new money-laundering charge in parallel case; SMCI -8%", "score": 5, "direction": "bearish" },
-    { "id": "semi-memory-selloff-profit-taking", "headline": "Broad semiconductor/memory profit-taking: SOXX -4.7%, Micron -8.2%, SanDisk -10%, Western Digital -7%, after outsized 2026 YTD gains, no negative company-specific news", "score": 5, "direction": "bearish" },
-    { "id": "anthropic-fable5-export-restriction-lifted", "headline": "US lifts export restriction on Anthropic's Fable 5 model; OpenAI's GPT-5.6 remains under White House-directed staged rollout", "score": 5, "direction": "bullish" },
-    { "id": "us-iran-hormuz-deescalation-continues", "headline": "Oil steady near $69-70/bbl as US-Iran talks continue in Doha with no resolution; Hormuz shipping traffic stable", "score": 4, "direction": "bullish" },
-    { "id": "spacex-nasdaq100-entry", "headline": "SpaceX Nasdaq-100 Fast Entry confirmed for before market open July 7; passive QQQ-tracking funds to mechanically buy ~$4.3B", "score": 4, "direction": "neutral" },
-    { "id": "eu-ai-act-aug2-deadline", "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — fines up to 1.5% of global revenue", "score": 4, "direction": "neutral" }
+    { "id": "june-nfp-miss-yields-ease", "headline": "June NFP miss (+57K vs ~110-115K est.), unemployment ticks down to 4.2%, jobless claims 215K (below forecast); 10yr yield eases to 4.47%, Sept rate-hike odds fall to ~50% from ~65%", "score": 6, "direction": "bullish" },
+    { "id": "semi-memory-selloff-global-spread", "headline": "Semiconductor/memory selloff extends to a second day and spreads to Asia: SMH -3%, Micron -4% (-12% wk), SanDisk -11% intraday (-20%+ 2-day), Teradyne/KLA -8%, Samsung/SK Hynix -9%+ in Korea; new DRAM price-fixing class action and Citrini note flagging AI-capex memory-cost risk", "score": 6, "direction": "bearish" }
   ]
 }
