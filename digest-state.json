@@ -1,14 +1,13 @@
 {
-  "last_run_utc": "2026-07-01T14:30:00Z",
-  "last_run_window": "Tue 30 Jun 2026 US session through Wed 1 Jul 2026 pre-market/morning (incl. Warsh Sintra panel, JOLTS, ISM PMI)",
+  "last_run_utc": "2026-07-02T01:08:03Z",
+  "last_run_window": "Wed 1 Jul 2026 US session close through Thu 2 Jul 2026 ~9:08am MYT (incl. Meta Compute pivot, SMCI Taiwan detentions, semi/memory profit-taking; ahead of Jul 2 NFP)",
   "stories": [
-    { "id": "strong-data-hawkish-fed-jun30-jul1", "headline": "JOLTS job openings hit 2-yr high (7.6M) + ISM Manufacturing PMI beats (54.0), reinforcing hawkish Fed rate path ahead of July 2 NFP", "score": 6, "direction": "bearish" },
+    { "id": "meta-compute-cloud-pivot", "headline": "Meta reportedly building \"Meta Compute\" cloud business to resell excess AI capacity; META +9-10%, CoreWeave -10.8%, Nebius -12.4%", "score": 6, "direction": "bullish" },
+    { "id": "smci-taiwan-raid-nvidia-smuggling-probe", "headline": "Taiwan court detains two Super Micro employees (escalated from raids) in Nvidia chip-smuggling-to-China probe; Singapore seizes S$55M bungalow, files new money-laundering charge in parallel case; SMCI -8%", "score": 5, "direction": "bearish" },
+    { "id": "semi-memory-selloff-profit-taking", "headline": "Broad semiconductor/memory profit-taking: SOXX -4.7%, Micron -8.2%, SanDisk -10%, Western Digital -7%, after outsized 2026 YTD gains, no negative company-specific news", "score": 5, "direction": "bearish" },
     { "id": "anthropic-fable5-export-restriction-lifted", "headline": "US lifts export restriction on Anthropic's Fable 5 model; OpenAI's GPT-5.6 remains under White House-directed staged rollout", "score": 5, "direction": "bullish" },
-    { "id": "smci-taiwan-raid-nvidia-smuggling-probe", "headline": "Taiwan prosecutors raid Super Micro Taiwan office/affiliates in expanded Nvidia chip-smuggling probe; SMCI -8%", "score": 4, "direction": "bearish" },
-    { "id": "warsh-sintra-debut-no-signal", "headline": "Fed Chair Warsh's Sintra ECB Forum debut delivers no new policy signal, sticks to low-information communication strategy", "score": 4, "direction": "neutral" },
-    { "id": "us-iran-hormuz-deescalation-continues", "headline": "Oil extends slide to ~$70.70/bbl (worst quarter since 2020) as US-Iran talks resume in Doha; Hormuz shipping traffic rebounds", "score": 4, "direction": "bullish" },
-    { "id": "alphabet-dow-inclusion", "headline": "Alphabet joins Dow Jones Industrial Average, replacing Verizon; GOOGL +3.7-4.8%", "score": 4, "direction": "bullish" },
+    { "id": "us-iran-hormuz-deescalation-continues", "headline": "Oil steady near $69-70/bbl as US-Iran talks continue in Doha with no resolution; Hormuz shipping traffic stable", "score": 4, "direction": "bullish" },
     { "id": "spacex-nasdaq100-entry", "headline": "SpaceX Nasdaq-100 Fast Entry confirmed for before market open July 7; passive QQQ-tracking funds to mechanically buy ~$4.3B", "score": 4, "direction": "neutral" },
-    { "id": "eu-ai-act-aug2-deadline", "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — 32 days out; fines up to 1.5% of global revenue", "score": 4, "direction": "neutral" }
+    { "id": "eu-ai-act-aug2-deadline", "headline": "EU AI Act Article 50 transparency obligations apply from 2 August 2026 — fines up to 1.5% of global revenue", "score": 4, "direction": "neutral" }
   ]
 }
