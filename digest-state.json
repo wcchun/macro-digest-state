@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-07-02T17:21:29Z",
-  "last_run_window": "Thu 2 Jul 2026 ~9:08am MYT through Fri 3 Jul 2026 ~1:21am MYT (June NFP miss +57K, unemployment 4.2%; semi/memory selloff spreads to Asia + new DRAM price-fixing suit)",
+  "last_run_utc": "2026-07-03T01:05:35Z",
+  "last_run_window": "Fri 3 Jul 2026 ~1:21am MYT through Fri 3 Jul 2026 ~9:06am MYT (Thu 2 Jul US close: Dow record on rotation, Nasdaq -0.8% as chip selloff continued; no new tech-sector driver. US markets closed Fri 3 Jul for Independence Day; next session Mon 6 Jul)",
   "stories": [
     { "id": "june-nfp-miss-yields-ease", "headline": "June NFP miss (+57K vs ~110-115K est.), unemployment ticks down to 4.2%, jobless claims 215K (below forecast); 10yr yield eases to 4.47%, Sept rate-hike odds fall to ~50% from ~65%", "score": 6, "direction": "bullish" },
     { "id": "semi-memory-selloff-global-spread", "headline": "Semiconductor/memory selloff extends to a second day and spreads to Asia: SMH -3%, Micron -4% (-12% wk), SanDisk -11% intraday (-20%+ 2-day), Teradyne/KLA -8%, Samsung/SK Hynix -9%+ in Korea; new DRAM price-fixing class action and Citrini note flagging AI-capex memory-cost risk", "score": 6, "direction": "bearish" }
