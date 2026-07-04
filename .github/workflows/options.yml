@@ -2,8 +2,6 @@ name: Options Chain
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '15 21 * * 1-5'  # 4:15pm ET, weekdays
 
 jobs:
   run:
@@ -38,12 +36,10 @@ jobs:
                   results[symbol] = {"error": "no options data"}
                   continue
 
-              # nearest expiry
               exp = expirations[0]
               chain = tk.option_chain(exp)
 
               def summarise(df):
-                  # top 5 by open interest
                   top = df.nlargest(5, "openInterest")[["strike", "lastPrice", "bid", "ask", "volume", "openInterest", "impliedVolatility"]]
                   top["impliedVolatility"] = top["impliedVolatility"].round(4)
                   return top.to_dict(orient="records")
