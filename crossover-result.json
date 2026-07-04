@@ -1,0 +1,33 @@
+{
+  "run_at": "2026-07-04T11:02:20.573677+00:00",
+  "results": {
+    "AAPL": {
+      "as_of": "2026-07-02",
+      "close": 308.63,
+      "20MA": 294.8,
+      "50MA": 293.46,
+      "bullish_crossover": true
+    },
+    "PLTR": {
+      "as_of": "2026-07-02",
+      "close": 129.3,
+      "20MA": 125.97,
+      "50MA": 134.58,
+      "bullish_crossover": false
+    },
+    "TSLA": {
+      "as_of": "2026-07-02",
+      "close": 393.45,
+      "20MA": 399.16,
+      "50MA": 406.42,
+      "bullish_crossover": false
+    },
+    "FIG": {
+      "as_of": "2026-07-02",
+      "close": 21.34,
+      "20MA": 19.39,
+      "50MA": 20.24,
+      "bullish_crossover": false
+    }
+  }
+}
