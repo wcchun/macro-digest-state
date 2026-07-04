@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-07-04T09:15:00Z",
-  "last_run_window": "Sat 4 Jul 2026 ~1:06–9:15am UTC / ~9:06–5:15pm MYT (post-Independence Day; US markets closed Fri 3 Jul; Asia session reactions + weekend macro commentary)",
+  "last_run_utc": "2026-07-04T15:00:00Z",
+  "last_run_window": "Sat 4 Jul 2026 ~9:15am–3:00pm UTC / ~5:15pm–11:00pm MYT (post-Independence Day; markets closed; no material intraday changes; next catalyst Tue 14 Jul CPI, Aug 26 NVIDIA guidance)",
   "stories": [
     { "id": "nfp-june-warsh-hawkish-tempers-cuts", "headline": "June NFP miss (+57K) initially bullish for rate cuts, but Fed Chair Warsh signals inflation 'too high,' refuses July FOMC commitment, removes traditional guidance; July 28-29 FOMC viewed as open debate", "score": 7, "direction": "bearish" },
     { "id": "semi-hbm-bottleneck-chip-selloff-reversal", "headline": "Semiconductor recovery reverses: Micron -13%, SMH -5%, Intel -9%, AMD -7% on SK Hynix HBM slowdown, AI ROI skepticism, Warsh hawkishness; Friday's +5-10% Asia bounce fully erased", "score": 8, "direction": "bearish" },
