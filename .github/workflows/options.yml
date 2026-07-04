@@ -1,0 +1,72 @@
+name: Options Chain
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 21 * * 1-5'  # 4:15pm ET, weekdays
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install yfinance pandas
+
+      - name: Fetch options chain
+        run: |
+          python3 - << 'EOF'
+          import yfinance as yf
+          import json
+          from datetime import datetime, timezone
+
+          tickers = ["AAPL", "PLTR", "TSLA", "FIG"]
+          results = {}
+
+          for symbol in tickers:
+              tk = yf.Ticker(symbol)
+              expirations = tk.options
+              if not expirations:
+                  results[symbol] = {"error": "no options data"}
+                  continue
+
+              # nearest expiry
+              exp = expirations[0]
+              chain = tk.option_chain(exp)
+
+              def summarise(df):
+                  # top 5 by open interest
+                  top = df.nlargest(5, "openInterest")[["strike", "lastPrice", "bid", "ask", "volume", "openInterest", "impliedVolatility"]]
+                  top["impliedVolatility"] = top["impliedVolatility"].round(4)
+                  return top.to_dict(orient="records")
+
+              results[symbol] = {
+                  "expiration": exp,
+                  "calls_top5_oi": summarise(chain.calls),
+                  "puts_top5_oi": summarise(chain.puts),
+              }
+              print(f"{symbol} ({exp}): {len(chain.calls)} calls, {len(chain.puts)} puts")
+
+          output = {
+              "run_at": datetime.now(timezone.utc).isoformat(),
+              "results": results,
+          }
+          with open("options-result.json", "w") as f:
+              json.dump(output, f, indent=2)
+          EOF
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add options-result.json
+          git diff --cached --quiet || git commit -m "chore: update options chain results"
+          git push
