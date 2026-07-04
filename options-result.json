@@ -1,0 +1,393 @@
+{
+  "run_at": "2026-07-04T11:14:27.984772+00:00",
+  "results": {
+    "AAPL": {
+      "expiration": "2026-07-06",
+      "calls_top5_oi": [
+        {
+          "strike": 300.0,
+          "lastPrice": 8.9,
+          "bid": 7.75,
+          "ask": 9.5,
+          "volume": 9499,
+          "openInterest": 5415,
+          "impliedVolatility": 0.3347
+        },
+        {
+          "strike": 305.0,
+          "lastPrice": 4.35,
+          "bid": 4.1,
+          "ask": 4.9,
+          "volume": 29333,
+          "openInterest": 5063,
+          "impliedVolatility": 0.2439
+        },
+        {
+          "strike": 302.5,
+          "lastPrice": 6.74,
+          "bid": 5.6,
+          "ask": 6.8,
+          "volume": 7335,
+          "openInterest": 4027,
+          "impliedVolatility": 0.2439
+        },
+        {
+          "strike": 290.0,
+          "lastPrice": 18.35,
+          "bid": 17.65,
+          "ask": 18.8,
+          "volume": 1484,
+          "openInterest": 3908,
+          "impliedVolatility": 0.3916
+        },
+        {
+          "strike": 295.0,
+          "lastPrice": 13.6,
+          "bid": 12.75,
+          "ask": 14.0,
+          "volume": 3707,
+          "openInterest": 3880,
+          "impliedVolatility": 0.3589
+        }
+      ],
+      "puts_top5_oi": [
+        {
+          "strike": 275.0,
+          "lastPrice": 0.02,
+          "bid": 0.02,
+          "ask": 0.07,
+          "volume": 125.0,
+          "openInterest": 1997,
+          "impliedVolatility": 0.541
+        },
+        {
+          "strike": 270.0,
+          "lastPrice": 0.01,
+          "bid": 0.01,
+          "ask": 0.03,
+          "volume": 346.0,
+          "openInterest": 1800,
+          "impliedVolatility": 0.5625
+        },
+        {
+          "strike": 265.0,
+          "lastPrice": 0.02,
+          "bid": 0.0,
+          "ask": 0.24,
+          "volume": 95.0,
+          "openInterest": 1330,
+          "impliedVolatility": 0.7871
+        },
+        {
+          "strike": 272.5,
+          "lastPrice": 0.01,
+          "bid": 0.0,
+          "ask": 0.07,
+          "volume": 76.0,
+          "openInterest": 1299,
+          "impliedVolatility": 0.5625
+        },
+        {
+          "strike": 290.0,
+          "lastPrice": 0.04,
+          "bid": 0.04,
+          "ask": 0.06,
+          "volume": 3745.0,
+          "openInterest": 1216,
+          "impliedVolatility": 0.3291
+        }
+      ]
+    },
+    "PLTR": {
+      "expiration": "2026-07-10",
+      "calls_top5_oi": [
+        {
+          "strike": 132.0,
+          "lastPrice": 2.62,
+          "bid": 2.56,
+          "ask": 2.73,
+          "volume": 11375.0,
+          "openInterest": 12585,
+          "impliedVolatility": 0.5327
+        },
+        {
+          "strike": 129.0,
+          "lastPrice": 4.1,
+          "bid": 3.85,
+          "ask": 4.1,
+          "volume": 2545.0,
+          "openInterest": 10473,
+          "impliedVolatility": 0.5359
+        },
+        {
+          "strike": 130.0,
+          "lastPrice": 3.5,
+          "bid": 3.4,
+          "ask": 3.55,
+          "volume": 10010.0,
+          "openInterest": 9291,
+          "impliedVolatility": 0.5327
+        },
+        {
+          "strike": 127.0,
+          "lastPrice": 5.25,
+          "bid": 4.95,
+          "ask": 5.25,
+          "volume": 854.0,
+          "openInterest": 5337,
+          "impliedVolatility": 0.5425
+        },
+        {
+          "strike": 134.0,
+          "lastPrice": 1.97,
+          "bid": 1.9,
+          "ask": 1.97,
+          "volume": 5037.0,
+          "openInterest": 4665,
+          "impliedVolatility": 0.5276
+        }
+      ],
+      "puts_top5_oi": [
+        {
+          "strike": 106.0,
+          "lastPrice": 0.14,
+          "bid": 0.12,
+          "ask": 0.14,
+          "volume": 4048.0,
+          "openInterest": 7110,
+          "impliedVolatility": 0.75
+        },
+        {
+          "strike": 115.0,
+          "lastPrice": 0.37,
+          "bid": 0.34,
+          "ask": 0.38,
+          "volume": 2038.0,
+          "openInterest": 4581,
+          "impliedVolatility": 0.5986
+        },
+        {
+          "strike": 107.0,
+          "lastPrice": 0.14,
+          "bid": 0.13,
+          "ask": 0.16,
+          "volume": 4038.0,
+          "openInterest": 4196,
+          "impliedVolatility": 0.7344
+        },
+        {
+          "strike": 130.0,
+          "lastPrice": 4.1,
+          "bid": 4.1,
+          "ask": 4.2,
+          "volume": 3811.0,
+          "openInterest": 3859,
+          "impliedVolatility": 0.5293
+        },
+        {
+          "strike": 117.0,
+          "lastPrice": 0.5,
+          "bid": 0.49,
+          "ask": 0.52,
+          "volume": 777.0,
+          "openInterest": 3402,
+          "impliedVolatility": 0.5801
+        }
+      ]
+    },
+    "TSLA": {
+      "expiration": "2026-07-06",
+      "calls_top5_oi": [
+        {
+          "strike": 700.0,
+          "lastPrice": 0.01,
+          "bid": 0.0,
+          "ask": 0.08,
+          "volume": 25,
+          "openInterest": 5879,
+          "impliedVolatility": 2.125
+        },
+        {
+          "strike": 395.0,
+          "lastPrice": 4.6,
+          "bid": 4.5,
+          "ask": 4.6,
+          "volume": 22004,
+          "openInterest": 3482,
+          "impliedVolatility": 0.3745
+        },
+        {
+          "strike": 430.0,
+          "lastPrice": 0.22,
+          "bid": 0.21,
+          "ask": 0.22,
+          "volume": 18760,
+          "openInterest": 2932,
+          "impliedVolatility": 0.5166
+        },
+        {
+          "strike": 450.0,
+          "lastPrice": 0.12,
+          "bid": 0.11,
+          "ask": 0.12,
+          "volume": 7506,
+          "openInterest": 2859,
+          "impliedVolatility": 0.666
+        },
+        {
+          "strike": 435.0,
+          "lastPrice": 0.18,
+          "bid": 0.16,
+          "ask": 0.17,
+          "volume": 6803,
+          "openInterest": 2564,
+          "impliedVolatility": 0.5479
+        }
+      ],
+      "puts_top5_oi": [
+        {
+          "strike": 345.0,
+          "lastPrice": 0.09,
+          "bid": 0.08,
+          "ask": 0.1,
+          "volume": 315.0,
+          "openInterest": 6380,
+          "impliedVolatility": 0.6426
+        },
+        {
+          "strike": 420.0,
+          "lastPrice": 26.95,
+          "bid": 26.75,
+          "ask": 28.2,
+          "volume": 6546.0,
+          "openInterest": 3294,
+          "impliedVolatility": 0.5535
+        },
+        {
+          "strike": 390.0,
+          "lastPrice": 4.09,
+          "bid": 4.1,
+          "ask": 4.25,
+          "volume": 31331.0,
+          "openInterest": 2736,
+          "impliedVolatility": 0.4103
+        },
+        {
+          "strike": 400.0,
+          "lastPrice": 9.25,
+          "bid": 9.35,
+          "ask": 10.2,
+          "volume": 24716.0,
+          "openInterest": 2578,
+          "impliedVolatility": 0.4461
+        },
+        {
+          "strike": 395.0,
+          "lastPrice": 6.35,
+          "bid": 6.25,
+          "ask": 6.75,
+          "volume": 19900.0,
+          "openInterest": 1852,
+          "impliedVolatility": 0.4169
+        }
+      ]
+    },
+    "FIG": {
+      "expiration": "2026-07-10",
+      "calls_top5_oi": [
+        {
+          "strike": 22.0,
+          "lastPrice": 0.85,
+          "bid": 0.76,
+          "ask": 0.89,
+          "volume": 1635,
+          "openInterest": 2198,
+          "impliedVolatility": 0.9395
+        },
+        {
+          "strike": 20.0,
+          "lastPrice": 1.91,
+          "bid": 1.76,
+          "ask": 2.05,
+          "volume": 1590,
+          "openInterest": 2129,
+          "impliedVolatility": 0.9727
+        },
+        {
+          "strike": 21.0,
+          "lastPrice": 1.3,
+          "bid": 1.03,
+          "ask": 1.6,
+          "volume": 1378,
+          "openInterest": 1279,
+          "impliedVolatility": 0.9727
+        },
+        {
+          "strike": 18.5,
+          "lastPrice": 3.14,
+          "bid": 2.67,
+          "ask": 3.55,
+          "volume": 67,
+          "openInterest": 811,
+          "impliedVolatility": 1.082
+        },
+        {
+          "strike": 19.0,
+          "lastPrice": 2.67,
+          "bid": 2.21,
+          "ask": 3.1,
+          "volume": 383,
+          "openInterest": 699,
+          "impliedVolatility": 1.0039
+        }
+      ],
+      "puts_top5_oi": [
+        {
+          "strike": 19.0,
+          "lastPrice": 0.29,
+          "bid": 0.25,
+          "ask": 0.29,
+          "volume": 3517.0,
+          "openInterest": 2117,
+          "impliedVolatility": 0.9453
+        },
+        {
+          "strike": 17.0,
+          "lastPrice": 0.08,
+          "bid": 0.0,
+          "ask": 0.08,
+          "volume": 56.0,
+          "openInterest": 966,
+          "impliedVolatility": 0.9375
+        },
+        {
+          "strike": 18.0,
+          "lastPrice": 0.11,
+          "bid": 0.06,
+          "ask": 0.19,
+          "volume": 344.0,
+          "openInterest": 711,
+          "impliedVolatility": 0.9648
+        },
+        {
+          "strike": 17.5,
+          "lastPrice": 0.14,
+          "bid": 0.03,
+          "ask": 0.1,
+          "volume": 155.0,
+          "openInterest": 369,
+          "impliedVolatility": 0.9258
+        },
+        {
+          "strike": 16.0,
+          "lastPrice": 0.03,
+          "bid": 0.02,
+          "ask": 0.03,
+          "volume": 37.0,
+          "openInterest": 327,
+          "impliedVolatility": 1.0625
+        }
+      ]
+    }
+  }
+}
