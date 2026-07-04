@@ -1,9 +1,10 @@
 {
-  "last_run_utc": "2026-07-04T06:00:00Z",
+  "last_run_utc": "2026-07-04T10:54:59Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 3 Jul close through Sat 4 Jul ~14:00 MYT (US market closed for Independence Day; no new material stories)",
+      "last_run_window": "Sat 4 Jul 06:00–10:54 UTC (14:00–18:54 MYT); delta run on Sat 4 Jul (US market closed Independence Day)",
       "stories": [
+        { "id": "karp-token-pricing-critique-openai-anthropic", "headline": "CEO Karp criticizes OpenAI and Anthropic token pricing models; 'Something has gone completely wrong' with enterprise value", "score": 4, "direction": "bullish" },
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
         { "id": "da-davidson-upgrade-buy-175", "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165→$175, raises EPS estimates above consensus", "score": 6, "direction": "bullish" },
         { "id": "trump-financial-disclosure-pltr-stake", "headline": "Trump financial disclosure shows $1M+ PLTR stake, ~$260k added in Q1 2026", "score": 5, "direction": "bullish" },
@@ -11,13 +12,13 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 3 Jul close through Sat 4 Jul ~14:00 MYT; first full digest (market closed)",
+      "last_run_window": "Sat 4 Jul 06:00–10:54 UTC (14:00–18:54 MYT); delta run on Sat 4 Jul (US market closed Independence Day)",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 3 Jul close through Sat 4 Jul ~14:00 MYT; first full digest (market closed)",
+      "last_run_window": "Sat 4 Jul 06:00–10:54 UTC (14:00–18:54 MYT); delta run on Sat 4 Jul (US market closed Independence Day)",
       "stories": [
         { "id": "citigroup-buy-initiation-36-pt", "headline": "Citigroup initiates coverage on Figma with Buy rating; $36 price target (82% upside from $19.7)", "score": 7, "direction": "bullish" },
         { "id": "russell-index-inclusion-jul-2", "headline": "Russell Index inclusion effective July 2; mechanical buying drives 8.85% single-day gain", "score": 6, "direction": "bullish" }
