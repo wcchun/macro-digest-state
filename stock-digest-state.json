@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-03T01:11:07Z",
+  "last_run_utc": "2026-07-04T01:11:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "First run — Mon 29 Jun (Nvidia/Surf Air announcement) through Fri 3 Jul ~9:00am MYT (US market closed today for observed July 4th holiday; window extended back to the start of the current catalyst cluster since this is PLTR's first digest)",
+      "last_run_window": "Fri 3 Jul ~9:11am MYT through Sat 4 Jul ~9:11am MYT (US market closed Fri for observed July 4th holiday, no cash session since; no new material stories)",
       "stories": [
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
         { "id": "da-davidson-upgrade-buy-175", "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165→$175, raises EPS estimates above consensus", "score": 6, "direction": "bullish" },
