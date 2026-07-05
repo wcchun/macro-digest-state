@@ -3,7 +3,11 @@ name: MA Crossover
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * 1-5'  # 4pm ET, weekdays
+    - cron: '0 21 * * 1-5'  # 21:00 UTC = 5pm EDT / 4pm EST, after the US close, weekdays
+
+concurrency:
+  group: crossover
+  cancel-in-progress: false
 
 jobs:
   run:
@@ -22,40 +26,25 @@ jobs:
         run: pip install yfinance pandas
 
       - name: Run crossover script
-        run: |
-          python3 - << 'EOF'
-          import yfinance as yf
-          import json
-          from datetime import datetime, timezone
-
-          tickers = ["AAPL", "PLTR", "TSLA", "FIG"]
-          results = {}
-
-          for symbol in tickers:
-              df = yf.Ticker(symbol).history(period="6mo")
-              df["20MA"] = df["Close"].rolling(20).mean()
-              df["50MA"] = df["Close"].rolling(50).mean()
-              results[symbol] = {
-                  "as_of": df.index[-1].strftime("%Y-%m-%d"),
-                  "close": round(float(df["Close"].iloc[-1]), 2),
-                  "20MA": round(float(df["20MA"].iloc[-1]), 2),
-                  "50MA": round(float(df["50MA"].iloc[-1]), 2),
-                  "bullish_crossover": bool(df["20MA"].iloc[-1] > df["50MA"].iloc[-1]),
-              }
-              print(f"{symbol}: {results[symbol]}")
-
-          output = {
-              "run_at": datetime.now(timezone.utc).isoformat(),
-              "results": results,
-          }
-          with open("crossover-result.json", "w") as f:
-              json.dump(output, f, indent=2)
-          EOF
+        run: python3 scripts/crossover.py
 
       - name: Commit result
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add crossover-result.json
-          git diff --cached --quiet || git commit -m "chore: update crossover results"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update crossover results"
+          # The digest routines also push to this branch; rebase-retry instead of failing.
+          for i in 1 2 3 4; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $i), rebasing on latest ${GITHUB_REF_NAME}..."
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            sleep $((2 ** i))
+          done
+          git push origin "HEAD:${GITHUB_REF_NAME}"

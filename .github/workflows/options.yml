@@ -2,6 +2,12 @@ name: Options Chain
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '45 20 * * 1-5'  # 20:45 UTC = 4:45pm EDT, after options data settles, weekdays
+
+concurrency:
+  group: options
+  cancel-in-progress: false
 
 jobs:
   run:
@@ -19,50 +25,26 @@ jobs:
       - name: Install dependencies
         run: pip install yfinance pandas
 
-      - name: Fetch options chain
-        run: |
-          python3 - << 'EOF'
-          import yfinance as yf
-          import json
-          from datetime import datetime, timezone
-
-          tickers = ["AAPL", "PLTR", "TSLA", "FIG"]
-          results = {}
-
-          for symbol in tickers:
-              tk = yf.Ticker(symbol)
-              expirations = tk.options
-              if not expirations:
-                  results[symbol] = {"error": "no options data"}
-                  continue
-
-              exp = expirations[0]
-              chain = tk.option_chain(exp)
-
-              def summarise(df):
-                  top = df.nlargest(5, "openInterest")[["strike", "lastPrice", "bid", "ask", "volume", "openInterest", "impliedVolatility"]]
-                  top["impliedVolatility"] = top["impliedVolatility"].round(4)
-                  return top.to_dict(orient="records")
-
-              results[symbol] = {
-                  "expiration": exp,
-                  "calls_top5_oi": summarise(chain.calls),
-                  "puts_top5_oi": summarise(chain.puts),
-              }
-              print(f"{symbol} ({exp}): {len(chain.calls)} calls, {len(chain.puts)} puts")
-
-          output = {
-              "run_at": datetime.now(timezone.utc).isoformat(),
-              "results": results,
-          }
-          with open("options-result.json", "w") as f:
-              json.dump(output, f, indent=2)
-          EOF
+      - name: Fetch options snapshot
+        run: python3 scripts/options_snapshot.py
 
       - name: Commit result
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add options-result.json
-          git diff --cached --quiet || git commit -m "chore: update options chain results"
-          git push
+          git add options-result.json iv-history.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update options snapshot and IV history"
+          # The digest routines also push to this branch; rebase-retry instead of failing.
+          for i in 1 2 3 4; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $i), rebasing on latest ${GITHUB_REF_NAME}..."
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            sleep $((2 ** i))
+          done
+          git push origin "HEAD:${GITHUB_REF_NAME}"
