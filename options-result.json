@@ -1,53 +1,94 @@
 {
-  "run_at": "2026-07-04T11:14:27.984772+00:00",
+  "run_at": "2026-07-05T17:55:31.070970+00:00",
   "results": {
     "AAPL": {
-      "expiration": "2026-07-06",
+      "as_of": "2026-07-02",
+      "spot": 308.63,
+      "iv_term_structure": [
+        {
+          "expiration": "2026-07-06",
+          "dte": 1,
+          "atm_iv": 0.2629
+        },
+        {
+          "expiration": "2026-07-08",
+          "dte": 3,
+          "atm_iv": 0.3089
+        },
+        {
+          "expiration": "2026-07-10",
+          "dte": 5,
+          "atm_iv": 0.2969
+        },
+        {
+          "expiration": "2026-07-13",
+          "dte": 8,
+          "atm_iv": 0.3036
+        },
+        {
+          "expiration": "2026-07-15",
+          "dte": 10,
+          "atm_iv": 0.3192
+        },
+        {
+          "expiration": "2026-07-17",
+          "dte": 12,
+          "atm_iv": 0.2763
+        }
+      ],
+      "iv30_interpolated": 0.2763,
+      "term_structure_ratio": 0.952,
+      "volume_put_call_ratio": 0.653,
+      "oi_put_call_ratio": 0.562,
+      "skew_25d_proxy_volpts": 1.07,
+      "skew_expiry_used": "2026-07-17",
+      "max_pain_nearest_expiry": 285.0,
+      "nearest_expiration": "2026-07-06",
       "calls_top5_oi": [
         {
           "strike": 300.0,
           "lastPrice": 8.9,
           "bid": 7.75,
           "ask": 9.5,
-          "volume": 9499,
+          "volume": 9499.0,
           "openInterest": 5415,
-          "impliedVolatility": 0.3347
+          "impliedVolatility": 0.4099
         },
         {
           "strike": 305.0,
           "lastPrice": 4.35,
           "bid": 4.1,
           "ask": 4.9,
-          "volume": 29333,
+          "volume": 29333.0,
           "openInterest": 5063,
-          "impliedVolatility": 0.2439
+          "impliedVolatility": 0.2988
         },
         {
           "strike": 302.5,
           "lastPrice": 6.74,
           "bid": 5.6,
           "ask": 6.8,
-          "volume": 7335,
+          "volume": 7335.0,
           "openInterest": 4027,
-          "impliedVolatility": 0.2439
+          "impliedVolatility": 0.2988
         },
         {
           "strike": 290.0,
           "lastPrice": 18.35,
           "bid": 17.65,
           "ask": 18.8,
-          "volume": 1484,
+          "volume": 1484.0,
           "openInterest": 3908,
-          "impliedVolatility": 0.3916
+          "impliedVolatility": 0.4795
         },
         {
           "strike": 295.0,
           "lastPrice": 13.6,
           "bid": 12.75,
           "ask": 14.0,
-          "volume": 3707,
+          "volume": 3707.0,
           "openInterest": 3880,
-          "impliedVolatility": 0.3589
+          "impliedVolatility": 0.4395
         }
       ],
       "puts_top5_oi": [
@@ -58,7 +99,7 @@
           "ask": 0.07,
           "volume": 125.0,
           "openInterest": 1997,
-          "impliedVolatility": 0.541
+          "impliedVolatility": 0.6641
         },
         {
           "strike": 270.0,
@@ -67,7 +108,7 @@
           "ask": 0.03,
           "volume": 346.0,
           "openInterest": 1800,
-          "impliedVolatility": 0.5625
+          "impliedVolatility": 0.6875
         },
         {
           "strike": 265.0,
@@ -76,7 +117,7 @@
           "ask": 0.24,
           "volume": 95.0,
           "openInterest": 1330,
-          "impliedVolatility": 0.7871
+          "impliedVolatility": 0.9648
         },
         {
           "strike": 272.5,
@@ -85,7 +126,7 @@
           "ask": 0.07,
           "volume": 76.0,
           "openInterest": 1299,
-          "impliedVolatility": 0.5625
+          "impliedVolatility": 0.6875
         },
         {
           "strike": 290.0,
@@ -94,12 +135,63 @@
           "ask": 0.06,
           "volume": 3745.0,
           "openInterest": 1216,
-          "impliedVolatility": 0.3291
+          "impliedVolatility": 0.4023
         }
-      ]
+      ],
+      "earnings_within_30d": {
+        "flag": true,
+        "date": "2026-07-30",
+        "days_away": 25
+      },
+      "iv_rank_to_date": {
+        "rank_pct": null,
+        "sample_size": 1,
+        "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
+      }
     },
     "PLTR": {
-      "expiration": "2026-07-10",
+      "as_of": "2026-07-02",
+      "spot": 129.3,
+      "iv_term_structure": [
+        {
+          "expiration": "2026-07-10",
+          "dte": 5,
+          "atm_iv": 0.5731
+        },
+        {
+          "expiration": "2026-07-17",
+          "dte": 12,
+          "atm_iv": 0.5554
+        },
+        {
+          "expiration": "2026-07-24",
+          "dte": 19,
+          "atm_iv": 0.5423
+        },
+        {
+          "expiration": "2026-07-31",
+          "dte": 26,
+          "atm_iv": 0.5374
+        },
+        {
+          "expiration": "2026-08-07",
+          "dte": 33,
+          "atm_iv": 0.6456
+        },
+        {
+          "expiration": "2026-08-14",
+          "dte": 40,
+          "atm_iv": 0.6207
+        }
+      ],
+      "iv30_interpolated": 0.5992,
+      "term_structure_ratio": 0.956,
+      "volume_put_call_ratio": 0.468,
+      "oi_put_call_ratio": 0.706,
+      "skew_25d_proxy_volpts": -2.4,
+      "skew_expiry_used": "2026-08-07",
+      "max_pain_nearest_expiry": 122.0,
+      "nearest_expiration": "2026-07-10",
       "calls_top5_oi": [
         {
           "strike": 132.0,
@@ -108,7 +200,7 @@
           "ask": 2.73,
           "volume": 11375.0,
           "openInterest": 12585,
-          "impliedVolatility": 0.5327
+          "impliedVolatility": 0.5754
         },
         {
           "strike": 129.0,
@@ -117,7 +209,7 @@
           "ask": 4.1,
           "volume": 2545.0,
           "openInterest": 10473,
-          "impliedVolatility": 0.5359
+          "impliedVolatility": 0.5789
         },
         {
           "strike": 130.0,
@@ -126,7 +218,7 @@
           "ask": 3.55,
           "volume": 10010.0,
           "openInterest": 9291,
-          "impliedVolatility": 0.5327
+          "impliedVolatility": 0.5754
         },
         {
           "strike": 127.0,
@@ -135,7 +227,7 @@
           "ask": 5.25,
           "volume": 854.0,
           "openInterest": 5337,
-          "impliedVolatility": 0.5425
+          "impliedVolatility": 0.5862
         },
         {
           "strike": 134.0,
@@ -144,7 +236,7 @@
           "ask": 1.97,
           "volume": 5037.0,
           "openInterest": 4665,
-          "impliedVolatility": 0.5276
+          "impliedVolatility": 0.5698
         }
       ],
       "puts_top5_oi": [
@@ -155,7 +247,7 @@
           "ask": 0.14,
           "volume": 4048.0,
           "openInterest": 7110,
-          "impliedVolatility": 0.75
+          "impliedVolatility": 0.8105
         },
         {
           "strike": 115.0,
@@ -164,7 +256,7 @@
           "ask": 0.38,
           "volume": 2038.0,
           "openInterest": 4581,
-          "impliedVolatility": 0.5986
+          "impliedVolatility": 0.6465
         },
         {
           "strike": 107.0,
@@ -173,7 +265,7 @@
           "ask": 0.16,
           "volume": 4038.0,
           "openInterest": 4196,
-          "impliedVolatility": 0.7344
+          "impliedVolatility": 0.793
         },
         {
           "strike": 130.0,
@@ -182,7 +274,7 @@
           "ask": 4.2,
           "volume": 3811.0,
           "openInterest": 3859,
-          "impliedVolatility": 0.5293
+          "impliedVolatility": 0.5715
         },
         {
           "strike": 117.0,
@@ -191,57 +283,108 @@
           "ask": 0.52,
           "volume": 777.0,
           "openInterest": 3402,
-          "impliedVolatility": 0.5801
+          "impliedVolatility": 0.6265
         }
-      ]
+      ],
+      "earnings_within_30d": {
+        "flag": true,
+        "date": "2026-08-03",
+        "days_away": 29
+      },
+      "iv_rank_to_date": {
+        "rank_pct": null,
+        "sample_size": 1,
+        "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
+      }
     },
     "TSLA": {
-      "expiration": "2026-07-06",
+      "as_of": "2026-07-02",
+      "spot": 393.45,
+      "iv_term_structure": [
+        {
+          "expiration": "2026-07-06",
+          "dte": 1,
+          "atm_iv": 0.4836
+        },
+        {
+          "expiration": "2026-07-08",
+          "dte": 3,
+          "atm_iv": 0.5144
+        },
+        {
+          "expiration": "2026-07-10",
+          "dte": 5,
+          "atm_iv": 0.5066
+        },
+        {
+          "expiration": "2026-07-13",
+          "dte": 8,
+          "atm_iv": 0.466
+        },
+        {
+          "expiration": "2026-07-15",
+          "dte": 10,
+          "atm_iv": 0.4859
+        },
+        {
+          "expiration": "2026-07-17",
+          "dte": 12,
+          "atm_iv": 0.4749
+        }
+      ],
+      "iv30_interpolated": 0.4749,
+      "term_structure_ratio": 1.018,
+      "volume_put_call_ratio": 0.714,
+      "oi_put_call_ratio": 0.699,
+      "skew_25d_proxy_volpts": 0.69,
+      "skew_expiry_used": "2026-07-17",
+      "max_pain_nearest_expiry": 407.5,
+      "nearest_expiration": "2026-07-06",
       "calls_top5_oi": [
         {
           "strike": 700.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.08,
-          "volume": 25,
-          "openInterest": 5879,
-          "impliedVolatility": 2.125
+          "volume": 25.0,
+          "openInterest": 5879.0,
+          "impliedVolatility": 2.6094
         },
         {
           "strike": 395.0,
           "lastPrice": 4.6,
           "bid": 4.5,
           "ask": 4.6,
-          "volume": 22004,
-          "openInterest": 3482,
-          "impliedVolatility": 0.3745
+          "volume": 22004.0,
+          "openInterest": 3482.0,
+          "impliedVolatility": 0.4586
         },
         {
           "strike": 430.0,
           "lastPrice": 0.22,
           "bid": 0.21,
           "ask": 0.22,
-          "volume": 18760,
-          "openInterest": 2932,
-          "impliedVolatility": 0.5166
+          "volume": 18760.0,
+          "openInterest": 2932.0,
+          "impliedVolatility": 0.6328
         },
         {
           "strike": 450.0,
           "lastPrice": 0.12,
           "bid": 0.11,
           "ask": 0.12,
-          "volume": 7506,
-          "openInterest": 2859,
-          "impliedVolatility": 0.666
+          "volume": 7506.0,
+          "openInterest": 2859.0,
+          "impliedVolatility": 0.8145
         },
         {
           "strike": 435.0,
           "lastPrice": 0.18,
           "bid": 0.16,
           "ask": 0.17,
-          "volume": 6803,
-          "openInterest": 2564,
-          "impliedVolatility": 0.5479
+          "volume": 6803.0,
+          "openInterest": 2564.0,
+          "impliedVolatility": 0.6709
         }
       ],
       "puts_top5_oi": [
@@ -251,8 +394,8 @@
           "bid": 0.08,
           "ask": 0.1,
           "volume": 315.0,
-          "openInterest": 6380,
-          "impliedVolatility": 0.6426
+          "openInterest": 6380.0,
+          "impliedVolatility": 0.7871
         },
         {
           "strike": 420.0,
@@ -260,8 +403,8 @@
           "bid": 26.75,
           "ask": 28.2,
           "volume": 6546.0,
-          "openInterest": 3294,
-          "impliedVolatility": 0.5535
+          "openInterest": 3294.0,
+          "impliedVolatility": 0.6777
         },
         {
           "strike": 390.0,
@@ -269,8 +412,8 @@
           "bid": 4.1,
           "ask": 4.25,
           "volume": 31331.0,
-          "openInterest": 2736,
-          "impliedVolatility": 0.4103
+          "openInterest": 2736.0,
+          "impliedVolatility": 0.5024
         },
         {
           "strike": 400.0,
@@ -278,8 +421,8 @@
           "bid": 9.35,
           "ask": 10.2,
           "volume": 24716.0,
-          "openInterest": 2578,
-          "impliedVolatility": 0.4461
+          "openInterest": 2578.0,
+          "impliedVolatility": 0.5066
         },
         {
           "strike": 395.0,
@@ -287,13 +430,64 @@
           "bid": 6.25,
           "ask": 6.75,
           "volume": 19900.0,
-          "openInterest": 1852,
-          "impliedVolatility": 0.4169
+          "openInterest": 1852.0,
+          "impliedVolatility": 0.5105
         }
-      ]
+      ],
+      "earnings_within_30d": {
+        "flag": true,
+        "date": "2026-07-22",
+        "days_away": 17
+      },
+      "iv_rank_to_date": {
+        "rank_pct": null,
+        "sample_size": 1,
+        "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
+      }
     },
     "FIG": {
-      "expiration": "2026-07-10",
+      "as_of": "2026-07-02",
+      "spot": 21.34,
+      "iv_term_structure": [
+        {
+          "expiration": "2026-07-10",
+          "dte": 5,
+          "atm_iv": 1.0283
+        },
+        {
+          "expiration": "2026-07-17",
+          "dte": 12,
+          "atm_iv": 0.9365
+        },
+        {
+          "expiration": "2026-07-24",
+          "dte": 19,
+          "atm_iv": 0.8784
+        },
+        {
+          "expiration": "2026-07-31",
+          "dte": 26,
+          "atm_iv": 0.9595
+        },
+        {
+          "expiration": "2026-08-07",
+          "dte": 33,
+          "atm_iv": 0.898
+        },
+        {
+          "expiration": "2026-08-14",
+          "dte": 40,
+          "atm_iv": 0.9578
+        }
+      ],
+      "iv30_interpolated": 0.9244,
+      "term_structure_ratio": 1.112,
+      "volume_put_call_ratio": 0.444,
+      "oi_put_call_ratio": 0.388,
+      "skew_25d_proxy_volpts": -11.13,
+      "skew_expiry_used": "2026-08-07",
+      "max_pain_nearest_expiry": 19.0,
+      "nearest_expiration": "2026-07-10",
       "calls_top5_oi": [
         {
           "strike": 22.0,
@@ -302,7 +496,7 @@
           "ask": 0.89,
           "volume": 1635,
           "openInterest": 2198,
-          "impliedVolatility": 0.9395
+          "impliedVolatility": 1.0156
         },
         {
           "strike": 20.0,
@@ -311,7 +505,7 @@
           "ask": 2.05,
           "volume": 1590,
           "openInterest": 2129,
-          "impliedVolatility": 0.9727
+          "impliedVolatility": 1.0488
         },
         {
           "strike": 21.0,
@@ -320,7 +514,7 @@
           "ask": 1.6,
           "volume": 1378,
           "openInterest": 1279,
-          "impliedVolatility": 0.9727
+          "impliedVolatility": 1.0508
         },
         {
           "strike": 18.5,
@@ -329,7 +523,7 @@
           "ask": 3.55,
           "volume": 67,
           "openInterest": 811,
-          "impliedVolatility": 1.082
+          "impliedVolatility": 1.168
         },
         {
           "strike": 19.0,
@@ -338,7 +532,7 @@
           "ask": 3.1,
           "volume": 383,
           "openInterest": 699,
-          "impliedVolatility": 1.0039
+          "impliedVolatility": 1.084
         }
       ],
       "puts_top5_oi": [
@@ -349,7 +543,7 @@
           "ask": 0.29,
           "volume": 3517.0,
           "openInterest": 2117,
-          "impliedVolatility": 0.9453
+          "impliedVolatility": 1.0195
         },
         {
           "strike": 17.0,
@@ -358,7 +552,7 @@
           "ask": 0.08,
           "volume": 56.0,
           "openInterest": 966,
-          "impliedVolatility": 0.9375
+          "impliedVolatility": 1.0156
         },
         {
           "strike": 18.0,
@@ -367,7 +561,7 @@
           "ask": 0.19,
           "volume": 344.0,
           "openInterest": 711,
-          "impliedVolatility": 0.9648
+          "impliedVolatility": 1.0391
         },
         {
           "strike": 17.5,
@@ -376,7 +570,7 @@
           "ask": 0.1,
           "volume": 155.0,
           "openInterest": 369,
-          "impliedVolatility": 0.9258
+          "impliedVolatility": 0.998
         },
         {
           "strike": 16.0,
@@ -385,9 +579,19 @@
           "ask": 0.03,
           "volume": 37.0,
           "openInterest": 327,
-          "impliedVolatility": 1.0625
+          "impliedVolatility": 1.1406
         }
-      ]
+      ],
+      "earnings_within_30d": {
+        "flag": false,
+        "date": null,
+        "days_away": null
+      },
+      "iv_rank_to_date": {
+        "rank_pct": null,
+        "sample_size": 1,
+        "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
+      }
     }
   }
 }
