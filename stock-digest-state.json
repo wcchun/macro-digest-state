@@ -1,24 +1,26 @@
 {
-  "last_run_utc": "2026-07-04T10:54:59Z",
+  "last_run_utc": "2026-07-05T22:00:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sat 4 Jul 06:00–10:54 UTC (14:00–18:54 MYT); delta run on Sat 4 Jul (US market closed Independence Day)",
+      "last_run_window": "Sat 4 Jul 11:00–Sun 5 Jul 22:00 UTC (19:00 MYT Sat 4–06:00 MYT Mon 6); delta run on weekend (US market closed Independence Day)",
       "stories": [
-        { "id": "karp-token-pricing-critique-openai-anthropic", "headline": "CEO Karp criticizes OpenAI and Anthropic token pricing models; 'Something has gone completely wrong' with enterprise value", "score": 4, "direction": "bullish" },
+        { "id": "army-ngc2-foundry-cloud-layer", "headline": "U.S. Army selects Palantir Foundry as core cloud data layer for NGC2 modernization; moves program from prototyping to deployment phase", "score": 6, "direction": "bullish" },
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
         { "id": "da-davidson-upgrade-buy-175", "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165→$175, raises EPS estimates above consensus", "score": 6, "direction": "bullish" },
         { "id": "trump-financial-disclosure-pltr-stake", "headline": "Trump financial disclosure shows $1M+ PLTR stake, ~$260k added in Q1 2026", "score": 5, "direction": "bullish" },
-        { "id": "surf-air-mobility-partnership-expansion", "headline": "Palantir expands Surf Air Mobility partnership (SurfOS); holds 7.4% SRFM equity stake", "score": 4, "direction": "bullish" }
+        { "id": "surf-air-mobility-partnership-expansion", "headline": "Palantir expands Surf Air Mobility partnership (SurfOS); holds 7.4% SRFM equity stake", "score": 4, "direction": "bullish" },
+        { "id": "karp-token-pricing-critique-openai-anthropic", "headline": "CEO Karp criticizes OpenAI and Anthropic token pricing models; 'Something has gone completely wrong' with enterprise value", "score": 4, "direction": "bullish" }
       ]
     },
     "TSLA": {
-      "last_run_window": "Sat 4 Jul 06:00–10:54 UTC (14:00–18:54 MYT); delta run on Sat 4 Jul (US market closed Independence Day)",
+      "last_run_window": "Sat 4 Jul 11:00–Sun 5 Jul 22:00 UTC (19:00 MYT Sat 4–06:00 MYT Mon 6); delta run on weekend (US market closed Independence Day)",
       "stories": [
-        { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" }
+        { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
+        { "id": "robotaxi-miami-expansion-jul-4", "headline": "Tesla expands Robotaxi service to Miami; autonomous service now live in multiple U.S. cities", "score": 3, "direction": "bullish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Sat 4 Jul 06:00–10:54 UTC (14:00–18:54 MYT); delta run on Sat 4 Jul (US market closed Independence Day)",
+      "last_run_window": "Sat 4 Jul 11:00–Sun 5 Jul 22:00 UTC (19:00 MYT Sat 4–06:00 MYT Mon 6); delta run on weekend (US market closed Independence Day)",
       "stories": [
         { "id": "citigroup-buy-initiation-36-pt", "headline": "Citigroup initiates coverage on Figma with Buy rating; $36 price target (82% upside from $19.7)", "score": 7, "direction": "bullish" },
         { "id": "russell-index-inclusion-jul-2", "headline": "Russell Index inclusion effective July 2; mechanical buying drives 8.85% single-day gain", "score": 6, "direction": "bullish" }
