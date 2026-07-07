@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-06T01:10:00Z",
+  "last_run_utc": "2026-07-07T01:08:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sun 5 Jul 22:00–Mon 6 Jul 01:10 UTC (06:00–07:10 MYT Mon 6); delta run post-holiday (minimal activity; US market closed through weekend)",
+      "last_run_window": "Mon 6 Jul 01:10 – Tue 7 Jul 01:08 UTC (Mon 09:10 – Tue 09:08 MYT); Monday full US session + early Tuesday pre-market",
       "stories": [
         { "id": "army-ngc2-foundry-cloud-layer", "headline": "U.S. Army selects Palantir Foundry as core cloud data layer for NGC2 modernization; moves program from prototyping to deployment phase", "score": 6, "direction": "bullish" },
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
@@ -13,14 +13,14 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sun 5 Jul 22:00–Mon 6 Jul 01:10 UTC (06:00–07:10 MYT Mon 6); delta run post-holiday (minimal activity; US market closed through weekend)",
+      "last_run_window": "Mon 6 Jul 01:10 – Tue 7 Jul 01:08 UTC (Mon 09:10 – Tue 09:08 MYT); Monday full US session + early Tuesday pre-market",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
         { "id": "robotaxi-miami-expansion-jul-4", "headline": "Tesla expands Robotaxi service to Miami; autonomous service now live in multiple U.S. cities", "score": 3, "direction": "bullish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Sun 5 Jul 22:00–Mon 6 Jul 01:10 UTC (06:00–07:10 MYT Mon 6); delta run post-holiday (minimal activity; US market closed through weekend)",
+      "last_run_window": "Mon 6 Jul 01:10 – Tue 7 Jul 01:08 UTC (Mon 09:10 – Tue 09:08 MYT); Monday full US session + early Tuesday pre-market",
       "stories": [
         { "id": "citigroup-buy-initiation-36-pt", "headline": "Citigroup initiates coverage on Figma with Buy rating; $36 price target (82% upside from $19.7)", "score": 7, "direction": "bullish" },
         { "id": "russell-index-inclusion-jul-2", "headline": "Russell Index inclusion effective July 2; mechanical buying drives 8.85% single-day gain", "score": 6, "direction": "bullish" }
