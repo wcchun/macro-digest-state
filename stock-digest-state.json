@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-07T01:08:00Z",
+  "last_run_utc": "2026-07-08T04:00:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 6 Jul 01:10 – Tue 7 Jul 01:08 UTC (Mon 09:10 – Tue 09:08 MYT); Monday full US session + early Tuesday pre-market",
+      "last_run_window": "Tue 7 Jul 09:08 – Wed 8 Jul 12:00 MYT (delta run); Tuesday full US session + Wednesday intraday",
       "stories": [
         { "id": "army-ngc2-foundry-cloud-layer", "headline": "U.S. Army selects Palantir Foundry as core cloud data layer for NGC2 modernization; moves program from prototyping to deployment phase", "score": 6, "direction": "bullish" },
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
@@ -13,15 +13,17 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 6 Jul 01:10 – Tue 7 Jul 01:08 UTC (Mon 09:10 – Tue 09:08 MYT); Monday full US session + early Tuesday pre-market",
+      "last_run_window": "Tue 7 Jul 09:08 – Wed 8 Jul 12:00 MYT (delta run); Tuesday full US session + Wednesday intraday",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
+        { "id": "rbc-pt-500-spacex-premium-jul-7", "headline": "RBC Capital lifts PT to $500 from $475, incorporates $25 premium for potential SpaceX combination upside", "score": 7, "direction": "bullish" },
         { "id": "robotaxi-miami-expansion-jul-4", "headline": "Tesla expands Robotaxi service to Miami; autonomous service now live in multiple U.S. cities", "score": 3, "direction": "bullish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 6 Jul 01:10 – Tue 7 Jul 01:08 UTC (Mon 09:10 – Tue 09:08 MYT); Monday full US session + early Tuesday pre-market",
+      "last_run_window": "Tue 7 Jul 09:08 – Wed 8 Jul 12:00 MYT (delta run); Tuesday full US session + Wednesday intraday",
       "stories": [
+        { "id": "bofa-buy-initiation-30-pt-jul-7", "headline": "BofA Securities initiates coverage with Buy, $30 PT; analyst re-entry post-85% drawdown", "score": 6, "direction": "bullish" },
         { "id": "citigroup-buy-initiation-36-pt", "headline": "Citigroup initiates coverage on Figma with Buy rating; $36 price target (82% upside from $19.7)", "score": 7, "direction": "bullish" },
         { "id": "russell-index-inclusion-jul-2", "headline": "Russell Index inclusion effective July 2; mechanical buying drives 8.85% single-day gain", "score": 6, "direction": "bullish" }
       ]
