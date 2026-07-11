@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-07-10T01:04:00Z",
-  "last_run_window": "Fri 10 Jul 2026 ~9:05 AM MYT / ~1:04 AM UTC (delta window: Micron $3B chip investment; China AI export curbs proposal; semis +2.5% rally Jul 9; Iran escalation ongoing; tariff deadlines Jul 15/24 tracking; next catalyst CPI Jun Jul 14, FOMC Jul 28–29)",
+  "last_run_utc": "2026-07-11T01:04:39Z",
+  "last_run_window": "Sat 11 Jul 2026 ~9:04 AM MYT / ~1:04 AM UTC (delta window: 1 new [SK Hynix Nasdaq IPO Jul 10]; all prior 4+ items unchanged; next catalysts CPI Jun Jul 14, FOMC Jul 28–29, Section 301 tariff Jul 15, Section 122 expiry Jul 24)",
   "stories": [
     { "id": "samsung-earnings-reset-demand-shock-jul-8", "headline": "Samsung Electronics Q2 2026 Earnings Miss Expectations Despite Record Revenue; Memory/Chip Guidance Signals Lower 2H 2026 Demand Growth; Triggers Global Semiconductor Sector Selloff (Nasdaq-100 –1.8%, Intel –9.7%, AMD –6.5%, ASML –7.3%)", "score": 8, "direction": "bearish" },
     { "id": "iran-escalation-oil-spike-chip-rotation-jul-8", "headline": "US Airstrikes on Iran; Oil Waiver Revoked; Oil Surges +2.6% Past $80; Safe-Haven Flows Strengthen Dollar; Chip Sector Rotation Triggered (Tech Rotation Out); Rate-Hike Expectations Rise to ~69% September Probability", "score": 8, "direction": "bearish" },
@@ -15,6 +15,7 @@
     { "id": "section-122-tariff-expiry-july-24-congress-limbo", "headline": "Section 122 Global Tariff (10%) Expires July 24; Congress Unlikely to Renew Before July 25 Recess; Creates August Tariff Uncertainty and Capex Limbo (Samsung Delays $10B US Fab Decision)", "score": 6, "direction": "neutral" },
     { "id": "nvidia-h200-yield-issues-advanced-node-limits", "headline": "NVIDIA H200 Yield Issues Emerging at Scale; Advanced Node Design Tool Limitations Approaching; Impacts Near-Term GPU Supply and Pricing Power", "score": 5, "direction": "bearish" },
     { "id": "us-state-dept-tsmc-n-1-onshoring-carrot-export-relief", "headline": "US State Department Signals Potential TSMC Export Rule Relaxation if Company Commits to US-Based N-1 (Leading-Edge) Fabrication by 2028; First Explicit Carrot in Negotiated Capacity Buildout", "score": 5, "direction": "bullish" },
-    { "id": "china-ai-export-controls-proposal-jul-7-8", "headline": "China Mulls AI Export Controls; Ministry of Commerce Holds Talks with Alibaba, ByteDance on Restricting Overseas Access to Advanced AI Models; Tiered System Proposed (Basic Open-Source Filing → Advanced Security Review → Frontier Models Barred)", "score": 4, "direction": "bullish" }
+    { "id": "china-ai-export-controls-proposal-jul-7-8", "headline": "China Mulls AI Export Controls; Ministry of Commerce Holds Talks with Alibaba, ByteDance on Restricting Overseas Access to Advanced AI Models; Tiered System Proposed (Basic Open-Source Filing → Advanced Security Review → Frontier Models Barred)", "score": 4, "direction": "bullish" },
+    { "id": "sk-hynix-nasdaq-ipo-jul-10-memory-demand-validation", "headline": "SK Hynix Begins Trading on Nasdaq July 10, 2026; Largest Foreign IPO to Date; Successful Debut Validates Memory Chip Demand Recovery Narrative and Eases Supply Constraints", "score": 5, "direction": "bullish" }
   ]
 }
