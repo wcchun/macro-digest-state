@@ -1,37 +1,38 @@
 {
-  "last_run_utc": "2026-07-11T05:00:00Z",
+  "last_run_utc": "2026-07-12T04:00:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 10 Jul 20:30 – Fri 11 Jul 13:00 MYT (delta run); no material new stories",
+      "last_run_window": "Fri 11 Jul 13:00 – Sat 12 Jul 04:00 MYT (delta run); no material new stories",
       "stories": [
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
-        { "id": "uk-nhs-contract-renewal-risk", "headline": "UK Parliament Science Committee recommends against renewal of £330M NHS contract expiring early 2027; creates material revenue risk", "score": 7, "direction": "bearish", "session": "NEW" },
+        { "id": "uk-nhs-contract-renewal-risk", "headline": "UK Parliament Science Committee recommends against renewal of £330M NHS contract expiring early 2027; creates material revenue risk", "score": 7, "direction": "bearish" },
         { "id": "army-ngc2-foundry-cloud-layer", "headline": "U.S. Army selects Palantir Foundry as core cloud data layer for NGC2 modernization; moves program from prototyping to deployment phase", "score": 6, "direction": "bullish" },
         { "id": "da-davidson-upgrade-buy-175", "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165→$175, raises EPS estimates above consensus", "score": 6, "direction": "bullish" },
-        { "id": "gil-luria-upgrade-buy-175-plus", "headline": "Analyst Gil Luria upgrades PLTR to Buy, raises PT from $115 to $175 (+52% upside) on AIP platform momentum and margin expansion", "score": 6, "direction": "bullish", "session": "NEW" },
+        { "id": "gil-luria-upgrade-buy-175-plus", "headline": "Analyst Gil Luria upgrades PLTR to Buy, raises PT from $115 to $175 (+52% upside) on AIP platform momentum and margin expansion", "score": 6, "direction": "bullish" },
         { "id": "trump-financial-disclosure-pltr-stake", "headline": "Trump financial disclosure shows $1M+ PLTR stake, ~$260k added in Q1 2026", "score": 5, "direction": "bullish" },
         { "id": "surf-air-mobility-partnership-expansion", "headline": "Palantir expands Surf Air Mobility partnership (SurfOS); holds 7.4% SRFM equity stake", "score": 4, "direction": "bullish" },
         { "id": "karp-token-pricing-critique-openai-anthropic", "headline": "CEO Karp criticizes OpenAI and Anthropic token pricing models; 'Something has gone completely wrong' with enterprise value", "score": 4, "direction": "bullish" }
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 10 Jul 20:30 – Fri 11 Jul 13:00 MYT (delta run); no material new stories",
+      "last_run_window": "Fri 11 Jul 13:00 – Sat 12 Jul 04:00 MYT (delta run); 1 new story",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
         { "id": "rbc-pt-500-spacex-premium-jul-7", "headline": "RBC Capital lifts PT to $500 from $475, incorporates $25 premium for potential SpaceX combination upside", "score": 7, "direction": "bullish" },
-        { "id": "nhtsa-safety-probe-closure", "headline": "National Highway Traffic Safety Administration closes investigation into 695,000 Model 3/Y vehicles; Tesla safety updates resolved concerns", "score": 6, "direction": "bullish", "session": "NEW" },
+        { "id": "nhtsa-safety-probe-closure", "headline": "National Highway Traffic Safety Administration closes investigation into 695,000 Model 3/Y vehicles; Tesla safety updates resolved concerns", "score": 6, "direction": "bullish" },
+        { "id": "model-y-l-launch-series-jul-11", "headline": "Tesla launches Model Y L (longer wheelbase) Launch Series for U.S. orders; $61,990 entry price, 6-seat config, includes 12-month free FSD subscription, Oct-Nov delivery window", "score": 4, "direction": "bullish" },
         { "id": "robotaxi-miami-expansion-jul-4", "headline": "Tesla deploys unsupervised Robotaxi in Miami with vision-only FSD; zero safety drivers from day one — first unsupervised rollout in new market without pilot phase", "score": 5, "direction": "bullish" },
-        { "id": "europe-growth-57pct-yoy", "headline": "Europe registered 118,068 Tesla vehicles (first 5 months 2026), up 57.2% YoY; validates geographic diversification and pricing power", "score": 5, "direction": "bullish", "session": "NEW" }
+        { "id": "europe-growth-57pct-yoy", "headline": "Europe registered 118,068 Tesla vehicles (first 5 months 2026), up 57.2% YoY; validates geographic diversification and pricing power", "score": 5, "direction": "bullish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 10 Jul 20:30 – Fri 11 Jul 13:00 MYT (delta run); no material new stories",
+      "last_run_window": "Fri 11 Jul 13:00 – Sat 12 Jul 04:00 MYT (delta run); no material new stories",
       "stories": [
-        { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish", "session": "NEW" },
+        { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "citigroup-buy-initiation-36-pt", "headline": "Citigroup initiates coverage on Figma with Buy rating; $36 price target (82% upside from $19.7)", "score": 7, "direction": "bullish" },
         { "id": "bofa-buy-initiation-30-pt-jul-7", "headline": "BofA Securities initiates coverage with Buy, $30 PT; analyst re-entry post-85% drawdown", "score": 6, "direction": "bullish" },
         { "id": "russell-index-inclusion-jul-2", "headline": "Russell Index inclusion effective July 2; mechanical buying drives 8.85% single-day gain", "score": 6, "direction": "bullish" },
-        { "id": "august-2026-lockup-expiration-risk", "headline": "August 2026 post-IPO lockup expiration looming; larger secondary supply wave expected; historically creates downside pressure", "score": 4, "direction": "bearish", "session": "NEW" }
+        { "id": "august-2026-lockup-expiration-risk", "headline": "August 2026 post-IPO lockup expiration looming; larger secondary supply wave expected; historically creates downside pressure", "score": 4, "direction": "bearish" }
       ]
     }
   }
