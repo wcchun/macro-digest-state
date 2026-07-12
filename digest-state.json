@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-07-11T01:04:39Z",
-  "last_run_window": "Sat 11 Jul 2026 ~9:04 AM MYT / ~1:04 AM UTC (delta window: 1 new [SK Hynix Nasdaq IPO Jul 10]; all prior 4+ items unchanged; next catalysts CPI Jun Jul 14, FOMC Jul 28–29, Section 301 tariff Jul 15, Section 122 expiry Jul 24)",
+  "last_run_utc": "2026-07-12T01:05:00Z",
+  "last_run_window": "Sun 12 Jul 2026 ~9:05 AM MYT / ~1:05 AM UTC (delta window: no material changes since Sat 11 Jul; all prior 4+ stories intact; next catalysts CPI Jun Jul 14, ASML earnings Jul 15, TSMC earnings Jul 16, FOMC Jul 28–29, Section 301 tariff Jul 15, Section 122 expiry Jul 24)",
   "stories": [
     { "id": "samsung-earnings-reset-demand-shock-jul-8", "headline": "Samsung Electronics Q2 2026 Earnings Miss Expectations Despite Record Revenue; Memory/Chip Guidance Signals Lower 2H 2026 Demand Growth; Triggers Global Semiconductor Sector Selloff (Nasdaq-100 –1.8%, Intel –9.7%, AMD –6.5%, ASML –7.3%)", "score": 8, "direction": "bearish" },
     { "id": "iran-escalation-oil-spike-chip-rotation-jul-8", "headline": "US Airstrikes on Iran; Oil Waiver Revoked; Oil Surges +2.6% Past $80; Safe-Haven Flows Strengthen Dollar; Chip Sector Rotation Triggered (Tech Rotation Out); Rate-Hike Expectations Rise to ~69% September Probability", "score": 8, "direction": "bearish" },
