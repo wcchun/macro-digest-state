@@ -1,33 +1,93 @@
 {
-  "run_at": "2026-07-10T22:01:20.132670+00:00",
+  "run_at": "2026-07-13T10:58:41.844480+00:00",
   "results": {
     "AAPL": {
       "as_of": "2026-07-10",
       "close": 315.32,
       "20MA": 298.1,
       "50MA": 297.73,
-      "bullish_crossover": true
+      "200MA": 272.1,
+      "pct_vs_20MA": 5.78,
+      "pct_vs_50MA": 5.91,
+      "pct_vs_200MA": 15.89,
+      "ma_state_bullish": true,
+      "last_cross": {
+        "direction": "golden",
+        "date": "2026-07-09",
+        "trading_days_ago": 1
+      },
+      "atr20": 8.3,
+      "atr20_pct": 2.63,
+      "adv20_shares": 64553610,
+      "volume_today": 34109200,
+      "volume_vs_adv20": 0.53,
+      "next_earnings_date": "2026-07-30"
     },
     "PLTR": {
       "as_of": "2026-07-10",
       "close": 126.79,
       "20MA": 124.92,
       "50MA": 133.25,
-      "bullish_crossover": false
+      "200MA": 156.8,
+      "pct_vs_20MA": 1.5,
+      "pct_vs_50MA": -4.85,
+      "pct_vs_200MA": -19.14,
+      "ma_state_bullish": false,
+      "last_cross": {
+        "direction": "death",
+        "date": "2026-04-21",
+        "trading_days_ago": 55
+      },
+      "atr20": 6.65,
+      "atr20_pct": 5.25,
+      "adv20_shares": 44660925,
+      "volume_today": 31097600,
+      "volume_vs_adv20": 0.7,
+      "next_earnings_date": "2026-08-03"
     },
     "TSLA": {
       "as_of": "2026-07-10",
       "close": 407.76,
       "20MA": 400.88,
       "50MA": 409.2,
-      "bullish_crossover": false
+      "200MA": 418.14,
+      "pct_vs_20MA": 1.72,
+      "pct_vs_50MA": -0.35,
+      "pct_vs_200MA": -2.48,
+      "ma_state_bullish": false,
+      "last_cross": {
+        "direction": "death",
+        "date": "2026-06-25",
+        "trading_days_ago": 10
+      },
+      "atr20": 18.63,
+      "atr20_pct": 4.57,
+      "adv20_shares": 46415260,
+      "volume_today": 33342700,
+      "volume_vs_adv20": 0.72,
+      "next_earnings_date": "2026-07-22"
     },
     "FIG": {
       "as_of": "2026-07-10",
       "close": 21.11,
       "20MA": 19.52,
       "50MA": 20.63,
-      "bullish_crossover": false
+      "200MA": 31.44,
+      "pct_vs_20MA": 8.15,
+      "pct_vs_50MA": 2.31,
+      "pct_vs_200MA": -32.86,
+      "ma_state_bullish": false,
+      "last_cross": {
+        "direction": "death",
+        "date": "2026-06-29",
+        "trading_days_ago": 8
+      },
+      "atr20": 1.51,
+      "atr20_pct": 7.17,
+      "adv20_shares": 21953445,
+      "volume_today": 17987200,
+      "volume_vs_adv20": 0.82,
+      "next_earnings_date": "2026-08-14"
     }
   }
 }
