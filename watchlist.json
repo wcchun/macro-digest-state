@@ -1,0 +1,9 @@
+{
+  "_comment": "Single source of truth for tickers. news=true → covered by the Stock News Digest routine; technicals=true → covered by the crossover/options GitHub Actions. Edit this file only by hand — routines and workflows read it, never write it.",
+  "tickers": {
+    "AAPL": { "news": false, "technicals": true },
+    "PLTR": { "news": true, "technicals": true },
+    "TSLA": { "news": true, "technicals": true },
+    "FIG": { "news": true, "technicals": true }
+  }
+}
