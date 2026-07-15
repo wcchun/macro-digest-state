@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-15T13:15:00Z",
+  "last_run_utc": "2026-07-15T20:00:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 14 Jul 04:00 – Wed 15 Jul 21:15 MYT (delta run); 1 new story on earnings date announcement",
+      "last_run_window": "Wed 15 Jul 04:00 – Thu 16 Jul 04:00 MYT (delta run); no material changes since Jul 15 21:15 MYT; monitoring earnings Aug 3",
       "stories": [
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
@@ -16,7 +16,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 14 Jul 04:00 – Wed 15 Jul 21:15 MYT (delta run); 4 new stories on FSD regulation, recalls, and Semi partnership",
+      "last_run_window": "Wed 15 Jul 04:00 – Thu 16 Jul 04:00 MYT (delta run); no material changes since Jul 15 21:15 MYT; monitoring earnings Jul 22 (critical)",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
         { "id": "rbc-pt-500-spacex-premium-jul-7", "headline": "RBC Capital lifts PT to $500 from $475, incorporates $25 premium for potential SpaceX combination upside", "score": 7, "direction": "bullish" },
@@ -31,7 +31,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 14 Jul 04:00 – Wed 15 Jul 21:15 MYT (delta run); 3 new stories on analyst downgrades, insider selling, and short squeeze",
+      "last_run_window": "Wed 15 Jul 04:00 – Thu 16 Jul 04:00 MYT (delta run); no material changes since Jul 15 21:15 MYT; monitoring earnings Aug 14 and August lockup",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "analyst-upgrades-short-squeeze-jul-14", "headline": "BofA/Citi/GS analyst upgrades (Buy ratings, $30-36 PT) trigger short squeeze; stock rallies 11.9% Jul 14 on short covering and institutional buying (Citizens Financial 162k+ shares)", "score": 7, "direction": "bullish" },
