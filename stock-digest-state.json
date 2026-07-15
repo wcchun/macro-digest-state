@@ -1,9 +1,10 @@
 {
-  "last_run_utc": "2026-07-14T05:45:00Z",
+  "last_run_utc": "2026-07-15T13:15:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 14 Jul 04:00 – 13:45 MYT (delta run); no material new stories",
+      "last_run_window": "Tue 14 Jul 04:00 – Wed 15 Jul 21:15 MYT (delta run); 1 new story on earnings date announcement",
       "stories": [
+        { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
         { "id": "uk-nhs-contract-renewal-risk", "headline": "UK Parliament Science Committee recommends against renewal of £330M NHS contract expiring early 2027; creates material revenue risk", "score": 7, "direction": "bearish" },
         { "id": "army-ngc2-foundry-cloud-layer", "headline": "U.S. Army selects Palantir Foundry as core cloud data layer for NGC2 modernization; moves program from prototyping to deployment phase", "score": 6, "direction": "bullish" },
@@ -15,23 +16,30 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 14 Jul 04:00 – 13:45 MYT (delta run); no material new stories",
+      "last_run_window": "Tue 14 Jul 04:00 – Wed 15 Jul 21:15 MYT (delta run); 4 new stories on FSD regulation, recalls, and Semi partnership",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
         { "id": "rbc-pt-500-spacex-premium-jul-7", "headline": "RBC Capital lifts PT to $500 from $475, incorporates $25 premium for potential SpaceX combination upside", "score": 7, "direction": "bullish" },
+        { "id": "nhtsa-fsd-camera-only-degraded-visibility-investigation", "headline": "NHTSA opens engineering analysis on camera-only FSD for failures to detect and warn driver in degraded visibility (glare, dust); investigation ongoing since March 2026", "score": 6, "direction": "bearish" },
         { "id": "nhtsa-safety-probe-closure", "headline": "National Highway Traffic Safety Administration closes investigation into 695,000 Model 3/Y vehicles; Tesla safety updates resolved concerns", "score": 6, "direction": "bullish" },
+        { "id": "model-y-recall-14575-certification-label", "headline": "Tesla recalls 14,575 units (2025-2026 Model Y) for missing federal certification label; automation tool failure during production; notices by Jul 17", "score": 4, "direction": "bearish" },
+        { "id": "model-3-y-s-x-rearview-camera-recall", "headline": "Tesla recalls 2017, 2021-2023 Model 3/Y/S/X for delayed rearview camera image when vehicle placed in reverse; notices mailed Jul 3, 2026", "score": 4, "direction": "bearish" },
         { "id": "model-y-l-launch-series-jul-11", "headline": "Tesla launches Model Y L (longer wheelbase) Launch Series for U.S. orders; $61,990 entry price, 6-seat config, includes 12-month free FSD subscription, Oct-Nov delivery window", "score": 4, "direction": "bullish" },
+        { "id": "paper-transport-tesla-semi-chicago-pilot-jul-13", "headline": "Wisconsin carrier Paper Transport announces formal Chicago metro pilot partnership with Tesla Semi Long Range; signals commercial operator confidence in production readiness", "score": 5, "direction": "bullish" },
         { "id": "robotaxi-miami-expansion-jul-4", "headline": "Tesla deploys unsupervised Robotaxi in Miami with vision-only FSD; zero safety drivers from day one — first unsupervised rollout in new market without pilot phase", "score": 5, "direction": "bullish" },
         { "id": "europe-growth-57pct-yoy", "headline": "Europe registered 118,068 Tesla vehicles (first 5 months 2026), up 57.2% YoY; validates geographic diversification and pricing power", "score": 5, "direction": "bullish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 14 Jul 04:00 – 13:45 MYT (delta run); no material new stories",
+      "last_run_window": "Tue 14 Jul 04:00 – Wed 15 Jul 21:15 MYT (delta run); 3 new stories on analyst downgrades, insider selling, and short squeeze",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
+        { "id": "analyst-upgrades-short-squeeze-jul-14", "headline": "BofA/Citi/GS analyst upgrades (Buy ratings, $30-36 PT) trigger short squeeze; stock rallies 11.9% Jul 14 on short covering and institutional buying (Citizens Financial 162k+ shares)", "score": 7, "direction": "bullish" },
         { "id": "citigroup-buy-initiation-36-pt", "headline": "Citigroup initiates coverage on Figma with Buy rating; $36 price target (82% upside from $19.7)", "score": 7, "direction": "bullish" },
         { "id": "bofa-buy-initiation-30-pt-jul-7", "headline": "BofA Securities initiates coverage with Buy, $30 PT; analyst re-entry post-85% drawdown", "score": 6, "direction": "bullish" },
+        { "id": "rbc-downgrade-sector-perform-22-pt-post-config", "headline": "RBC Capital downgrades to Sector Perform, $22 PT (from $28); cites Config attendance and slower-than-expected AI monetization adoption by paying customers", "score": 6, "direction": "bearish" },
         { "id": "russell-index-inclusion-jul-2", "headline": "Russell Index inclusion effective July 2; mechanical buying drives 8.85% single-day gain", "score": 6, "direction": "bullish" },
+        { "id": "insider-selling-form-144-jul-14", "headline": "Form 144 insider sales Jul 14; CRO Voskanian (8,629 shares Jul 6), CTO Rasmussen (8,641 tax withholding), CAO Tyler (669 via 10b5-1); pattern 72 sells vs 5 buys recent period", "score": 4, "direction": "bearish" },
         { "id": "august-2026-lockup-expiration-risk", "headline": "August 2026 post-IPO lockup expiration looming; larger secondary supply wave expected; historically creates downside pressure", "score": 4, "direction": "bearish" }
       ]
     }
