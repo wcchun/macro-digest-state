@@ -1,595 +1,595 @@
 {
-  "run_at": "2026-07-15T21:42:01.847378+00:00",
+  "run_at": "2026-07-16T21:47:56.048539+00:00",
   "results": {
     "AAPL": {
-      "as_of": "2026-07-15",
-      "spot": 327.5,
+      "as_of": "2026-07-16",
+      "spot": 333.26,
       "iv_term_structure": [
         {
-          "expiration": "2026-07-15",
-          "dte": 0,
-          "atm_iv": 0.044
-        },
-        {
           "expiration": "2026-07-17",
-          "dte": 2,
-          "atm_iv": 0.2478
+          "dte": 1,
+          "atm_iv": 0.2433
         },
         {
           "expiration": "2026-07-20",
-          "dte": 5,
-          "atm_iv": 0.2239
+          "dte": 4,
+          "atm_iv": 0.2324
         },
         {
           "expiration": "2026-07-22",
-          "dte": 7,
-          "atm_iv": 0.2482
+          "dte": 6,
+          "atm_iv": 0.2632
         },
         {
           "expiration": "2026-07-24",
-          "dte": 9,
-          "atm_iv": 0.252
+          "dte": 8,
+          "atm_iv": 0.2754
         },
         {
-          "expiration": "2026-07-31",
-          "dte": 16,
-          "atm_iv": 0.3146
+          "expiration": "2026-07-27",
+          "dte": 11,
+          "atm_iv": 0.2624
+        },
+        {
+          "expiration": "2026-07-29",
+          "dte": 13,
+          "atm_iv": 0.2795
         }
       ],
-      "iv30_interpolated": 0.3146,
-      "term_structure_ratio": 0.14,
-      "volume_put_call_ratio": 0.674,
-      "oi_put_call_ratio": 0.626,
-      "skew_25d_proxy_volpts": 0.93,
-      "skew_expiry_used": "2026-07-31",
-      "max_pain_nearest_expiry": 312.5,
-      "nearest_expiration": "2026-07-15",
+      "iv30_interpolated": 0.2795,
+      "term_structure_ratio": 0.87,
+      "volume_put_call_ratio": 0.699,
+      "oi_put_call_ratio": 0.717,
+      "skew_25d_proxy_volpts": 0.9,
+      "skew_expiry_used": "2026-07-29",
+      "max_pain_nearest_expiry": 295.0,
+      "nearest_expiration": "2026-07-17",
       "calls_top5_oi": [
         {
-          "strike": 320.0,
-          "lastPrice": 7.28,
-          "bid": 7.15,
-          "ask": 7.85,
-          "volume": 70408,
-          "openInterest": 10515,
-          "impliedVolatility": 0.3687
+          "strike": 310.0,
+          "lastPrice": 23.2,
+          "bid": 23.15,
+          "ask": 23.75,
+          "volume": 4728,
+          "openInterest": 46224,
+          "impliedVolatility": 0.5459
+        },
+        {
+          "strike": 280.0,
+          "lastPrice": 51.55,
+          "bid": 52.85,
+          "ask": 53.6,
+          "volume": 461,
+          "openInterest": 39227,
+          "impliedVolatility": 1.2578
+        },
+        {
+          "strike": 350.0,
+          "lastPrice": 0.02,
+          "bid": 0.01,
+          "ask": 0.02,
+          "volume": 9252,
+          "openInterest": 36531,
+          "impliedVolatility": 0.2774
         },
         {
           "strike": 325.0,
-          "lastPrice": 2.51,
-          "bid": 2.2,
-          "ask": 2.71,
-          "volume": 153038,
-          "openInterest": 8284,
-          "impliedVolatility": 0.147
+          "lastPrice": 8.6,
+          "bid": 8.4,
+          "ask": 8.95,
+          "volume": 11579,
+          "openInterest": 32836,
+          "impliedVolatility": 0.3394
         },
         {
-          "strike": 330.0,
-          "lastPrice": 0.01,
-          "bid": 0.0,
-          "ask": 0.01,
-          "volume": 181840,
-          "openInterest": 7007,
-          "impliedVolatility": 0.0723
-        },
-        {
-          "strike": 317.5,
-          "lastPrice": 10.26,
-          "bid": 9.0,
-          "ask": 11.0,
-          "volume": 16200,
-          "openInterest": 6955,
-          "impliedVolatility": 0.6318
-        },
-        {
-          "strike": 322.5,
-          "lastPrice": 4.9,
-          "bid": 4.65,
-          "ask": 5.3,
-          "volume": 91328,
-          "openInterest": 6873,
-          "impliedVolatility": 0.2637
+          "strike": 295.0,
+          "lastPrice": 38.03,
+          "bid": 37.25,
+          "ask": 38.9,
+          "volume": 330,
+          "openInterest": 31007,
+          "impliedVolatility": 1.0615
         }
       ],
       "puts_top5_oi": [
         {
-          "strike": 310.0,
-          "lastPrice": 0.01,
-          "bid": 0.0,
-          "ask": 0.01,
-          "volume": 4677,
-          "openInterest": 11500.0,
-          "impliedVolatility": 0.4063
+          "strike": 300.0,
+          "lastPrice": 0.02,
+          "bid": 0.01,
+          "ask": 0.02,
+          "volume": 1808.0,
+          "openInterest": 24246,
+          "impliedVolatility": 0.5313
         },
         {
-          "strike": 312.5,
+          "strike": 265.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 9045,
-          "openInterest": 5094.0,
-          "impliedVolatility": 0.3516
+          "volume": 67.0,
+          "openInterest": 19508,
+          "impliedVolatility": 0.9844
         },
         {
-          "strike": 305.0,
+          "strike": 290.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 917,
-          "openInterest": 5090.0,
-          "impliedVolatility": 0.5078
+          "volume": 235.0,
+          "openInterest": 18291,
+          "impliedVolatility": 0.625
+        },
+        {
+          "strike": 250.0,
+          "lastPrice": 0.01,
+          "bid": 0.0,
+          "ask": 0.01,
+          "volume": 26.0,
+          "openInterest": 17399,
+          "impliedVolatility": 1.2188
         },
         {
           "strike": 315.0,
-          "lastPrice": 0.03,
-          "bid": 0.0,
-          "ask": 0.01,
-          "volume": 29209,
-          "openInterest": 4017.0,
-          "impliedVolatility": 0.2969
-        },
-        {
-          "strike": 307.5,
-          "lastPrice": 0.01,
-          "bid": 0.0,
-          "ask": 0.01,
-          "volume": 1205,
-          "openInterest": 3001.0,
-          "impliedVolatility": 0.4531
+          "lastPrice": 0.07,
+          "bid": 0.06,
+          "ask": 0.08,
+          "volume": 20314.0,
+          "openInterest": 17189,
+          "impliedVolatility": 0.3828
         }
       ],
       "earnings_within_30d": {
         "flag": true,
         "date": "2026-07-30",
-        "days_away": 15
+        "days_away": 14
       },
       "iv_rank_to_date": {
-        "rank_pct": 100.0,
-        "sample_size": 4,
+        "rank_pct": 45.3,
+        "sample_size": 5,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
     "PLTR": {
-      "as_of": "2026-07-15",
-      "spot": 133.76,
+      "as_of": "2026-07-16",
+      "spot": 134.44,
       "iv_term_structure": [
         {
           "expiration": "2026-07-17",
-          "dte": 2,
-          "atm_iv": 0.4735
+          "dte": 1,
+          "atm_iv": 0.4036
         },
         {
           "expiration": "2026-07-24",
-          "dte": 9,
-          "atm_iv": 0.5049
+          "dte": 8,
+          "atm_iv": 0.4932
         },
         {
           "expiration": "2026-07-31",
-          "dte": 16,
-          "atm_iv": 0.5164
+          "dte": 15,
+          "atm_iv": 0.5129
         },
         {
           "expiration": "2026-08-07",
-          "dte": 23,
-          "atm_iv": 0.6826
+          "dte": 22,
+          "atm_iv": 0.687
         },
         {
           "expiration": "2026-08-14",
-          "dte": 30,
-          "atm_iv": 0.6401
+          "dte": 29,
+          "atm_iv": 0.6596
         },
         {
           "expiration": "2026-08-21",
-          "dte": 37,
-          "atm_iv": 0.6335
+          "dte": 36,
+          "atm_iv": 0.6321
         }
       ],
-      "iv30_interpolated": 0.6401,
-      "term_structure_ratio": 0.74,
-      "volume_put_call_ratio": 0.351,
-      "oi_put_call_ratio": 0.654,
-      "skew_25d_proxy_volpts": -1.97,
+      "iv30_interpolated": 0.6557,
+      "term_structure_ratio": 0.616,
+      "volume_put_call_ratio": 0.43,
+      "oi_put_call_ratio": 0.639,
+      "skew_25d_proxy_volpts": -0.31,
       "skew_expiry_used": "2026-08-14",
       "max_pain_nearest_expiry": 128.0,
       "nearest_expiration": "2026-07-17",
       "calls_top5_oi": [
         {
           "strike": 150.0,
-          "lastPrice": 0.03,
-          "bid": 0.02,
-          "ask": 0.03,
-          "volume": 8726.0,
-          "openInterest": 29060.0,
-          "impliedVolatility": 0.5469
+          "lastPrice": 0.01,
+          "bid": 0.0,
+          "ask": 0.01,
+          "volume": 2600.0,
+          "openInterest": 27170,
+          "impliedVolatility": 0.5313
         },
         {
           "strike": 140.0,
-          "lastPrice": 0.43,
-          "bid": 0.43,
-          "ask": 0.44,
-          "volume": 23902.0,
-          "openInterest": 26343.0,
-          "impliedVolatility": 0.4756
+          "lastPrice": 0.17,
+          "bid": 0.17,
+          "ask": 0.18,
+          "volume": 25712.0,
+          "openInterest": 26850,
+          "impliedVolatility": 0.4121
         },
         {
           "strike": 135.0,
-          "lastPrice": 1.69,
-          "bid": 1.7,
-          "ask": 1.74,
-          "volume": 23948.0,
-          "openInterest": 24589.0,
-          "impliedVolatility": 0.4746
+          "lastPrice": 1.34,
+          "bid": 1.31,
+          "ask": 1.35,
+          "volume": 27080.0,
+          "openInterest": 24676,
+          "impliedVolatility": 0.4058
         },
         {
           "strike": 200.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 32.0,
-          "openInterest": 24362.0,
-          "impliedVolatility": 1.4375
+          "volume": 12.0,
+          "openInterest": 24360,
+          "impliedVolatility": 1.6875
         },
         {
           "strike": 145.0,
-          "lastPrice": 0.1,
-          "bid": 0.09,
-          "ask": 0.1,
-          "volume": 9041.0,
-          "openInterest": 19728.0,
-          "impliedVolatility": 0.5
+          "lastPrice": 0.02,
+          "bid": 0.01,
+          "ask": 0.02,
+          "volume": 3307.0,
+          "openInterest": 17036,
+          "impliedVolatility": 0.4531
         }
       ],
       "puts_top5_oi": [
         {
           "strike": 120.0,
-          "lastPrice": 0.06,
-          "bid": 0.05,
-          "ask": 0.06,
-          "volume": 3389.0,
-          "openInterest": 20006.0,
-          "impliedVolatility": 0.5938
+          "lastPrice": 0.03,
+          "bid": 0.02,
+          "ask": 0.03,
+          "volume": 1957.0,
+          "openInterest": 19209,
+          "impliedVolatility": 0.6719
         },
         {
           "strike": 70.0,
           "lastPrice": 0.01,
           "bid": 0.0,
-          "ask": 0.04,
+          "ask": 0.01,
           "volume": 252.0,
-          "openInterest": 19023.0,
-          "impliedVolatility": 2.5938
+          "openInterest": 19023,
+          "impliedVolatility": 2.8125
         },
         {
           "strike": 100.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 143.0,
-          "openInterest": 16378.0,
-          "impliedVolatility": 1.0938
-        },
-        {
-          "strike": 125.0,
-          "lastPrice": 0.21,
-          "bid": 0.2,
-          "ask": 0.21,
-          "volume": 5039.0,
-          "openInterest": 14136.0,
-          "impliedVolatility": 0.5195
+          "volume": 99.0,
+          "openInterest": 16293,
+          "impliedVolatility": 1.3438
         },
         {
           "strike": 110.0,
-          "lastPrice": 0.02,
-          "bid": 0.01,
-          "ask": 0.02,
-          "volume": 196.0,
-          "openInterest": 13428.0,
-          "impliedVolatility": 0.8438
+          "lastPrice": 0.01,
+          "bid": 0.0,
+          "ask": 0.01,
+          "volume": 1474.0,
+          "openInterest": 13326,
+          "impliedVolatility": 0.9375
+        },
+        {
+          "strike": 125.0,
+          "lastPrice": 0.05,
+          "bid": 0.04,
+          "ask": 0.05,
+          "volume": 6931.0,
+          "openInterest": 13172,
+          "impliedVolatility": 0.5
         }
       ],
       "earnings_within_30d": {
         "flag": true,
         "date": "2026-08-03",
-        "days_away": 19
+        "days_away": 18
       },
       "iv_rank_to_date": {
-        "rank_pct": 64.4,
-        "sample_size": 4,
+        "rank_pct": 89.0,
+        "sample_size": 5,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
     "TSLA": {
-      "as_of": "2026-07-15",
-      "spot": 394.46,
+      "as_of": "2026-07-16",
+      "spot": 391.06,
       "iv_term_structure": [
         {
-          "expiration": "2026-07-15",
-          "dte": 0,
-          "atm_iv": 0.0629
-        },
-        {
           "expiration": "2026-07-17",
-          "dte": 2,
-          "atm_iv": 0.3867
+          "dte": 1,
+          "atm_iv": 0.3449
         },
         {
           "expiration": "2026-07-20",
-          "dte": 5,
-          "atm_iv": 0.354
+          "dte": 4,
+          "atm_iv": 0.3379
         },
         {
           "expiration": "2026-07-24",
-          "dte": 9,
-          "atm_iv": 0.5833
+          "dte": 8,
+          "atm_iv": 0.5962
+        },
+        {
+          "expiration": "2026-07-27",
+          "dte": 11,
+          "atm_iv": 0.5483
+        },
+        {
+          "expiration": "2026-07-29",
+          "dte": 13,
+          "atm_iv": 0.5388
         },
         {
           "expiration": "2026-07-31",
-          "dte": 16,
-          "atm_iv": 0.527
-        },
-        {
-          "expiration": "2026-08-07",
-          "dte": 23,
-          "atm_iv": 0.5006
+          "dte": 15,
+          "atm_iv": 0.5339
         }
       ],
-      "iv30_interpolated": 0.5006,
-      "term_structure_ratio": 0.126,
-      "volume_put_call_ratio": 0.624,
-      "oi_put_call_ratio": 0.756,
-      "skew_25d_proxy_volpts": -1.53,
-      "skew_expiry_used": "2026-08-07",
+      "iv30_interpolated": 0.5339,
+      "term_structure_ratio": 0.646,
+      "volume_put_call_ratio": 0.847,
+      "oi_put_call_ratio": 0.761,
+      "skew_25d_proxy_volpts": -1.72,
+      "skew_expiry_used": "2026-07-31",
       "max_pain_nearest_expiry": 397.5,
-      "nearest_expiration": "2026-07-15",
+      "nearest_expiration": "2026-07-17",
       "calls_top5_oi": [
         {
+          "strike": 430.0,
+          "lastPrice": 0.05,
+          "bid": 0.05,
+          "ask": 0.06,
+          "volume": 26560.0,
+          "openInterest": 33526,
+          "impliedVolatility": 0.5488
+        },
+        {
           "strike": 420.0,
-          "lastPrice": 0.01,
-          "bid": 0.0,
-          "ask": 0.01,
-          "volume": 20020,
-          "openInterest": 13631,
-          "impliedVolatility": 0.4453
+          "lastPrice": 0.09,
+          "bid": 0.09,
+          "ask": 0.1,
+          "volume": 22437.0,
+          "openInterest": 26529,
+          "impliedVolatility": 0.4668
         },
         {
-          "strike": 405.0,
+          "strike": 500.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 143519,
-          "openInterest": 11466,
-          "impliedVolatility": 0.2031
-        },
-        {
-          "strike": 410.0,
-          "lastPrice": 0.01,
-          "bid": 0.0,
-          "ask": 0.01,
-          "volume": 119968,
-          "openInterest": 10163,
-          "impliedVolatility": 0.2891
+          "volume": 685.0,
+          "openInterest": 26165,
+          "impliedVolatility": 1.0313
         },
         {
           "strike": 400.0,
-          "lastPrice": 0.01,
-          "bid": 0.0,
-          "ask": 0.01,
-          "volume": 276019,
-          "openInterest": 8708,
-          "impliedVolatility": 0.1172
+          "lastPrice": 1.13,
+          "bid": 1.12,
+          "ask": 1.15,
+          "volume": 117835.0,
+          "openInterest": 21764,
+          "impliedVolatility": 0.3584
         },
         {
-          "strike": 415.0,
-          "lastPrice": 0.01,
-          "bid": 0.0,
-          "ask": 0.01,
-          "volume": 24150,
-          "openInterest": 7011,
-          "impliedVolatility": 0.3672
+          "strike": 450.0,
+          "lastPrice": 0.03,
+          "bid": 0.02,
+          "ask": 0.03,
+          "volume": 3272.0,
+          "openInterest": 21645,
+          "impliedVolatility": 0.7109
         }
       ],
       "puts_top5_oi": [
         {
-          "strike": 335.0,
+          "strike": 250.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 364.0,
-          "openInterest": 5353.0,
-          "impliedVolatility": 1.0
+          "volume": 4355.0,
+          "openInterest": 37729,
+          "impliedVolatility": 1.8125
         },
         {
-          "strike": 390.0,
+          "strike": 170.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 121282.0,
-          "openInterest": 5109.0,
-          "impliedVolatility": 0.0977
+          "volume": 11.0,
+          "openInterest": 27361,
+          "impliedVolatility": 3.25
         },
         {
-          "strike": 397.5,
-          "lastPrice": 3.07,
-          "bid": 2.75,
-          "ask": 4.7,
-          "volume": 100045.0,
-          "openInterest": 4989.0,
-          "impliedVolatility": 0.3547
-        },
-        {
-          "strike": 395.0,
-          "lastPrice": 0.77,
-          "bid": 0.55,
-          "ask": 1.03,
-          "volume": 184002.0,
-          "openInterest": 4892.0,
-          "impliedVolatility": 0.0884
-        },
-        {
-          "strike": 377.5,
-          "lastPrice": 0.01,
+          "strike": 200.0,
+          "lastPrice": 0.02,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 2069.0,
-          "openInterest": 4709.0,
-          "impliedVolatility": 0.3242
+          "volume": 411.0,
+          "openInterest": 17427,
+          "impliedVolatility": 2.6875
+        },
+        {
+          "strike": 400.0,
+          "lastPrice": 9.95,
+          "bid": 9.85,
+          "ask": 10.1,
+          "volume": 30643.0,
+          "openInterest": 16940,
+          "impliedVolatility": 0.3596
+        },
+        {
+          "strike": 350.0,
+          "lastPrice": 0.03,
+          "bid": 0.02,
+          "ask": 0.04,
+          "volume": 1514.0,
+          "openInterest": 15670,
+          "impliedVolatility": 0.5938
         }
       ],
       "earnings_within_30d": {
         "flag": true,
         "date": "2026-07-22",
-        "days_away": 7
+        "days_away": 6
       },
       "iv_rank_to_date": {
-        "rank_pct": 85.7,
-        "sample_size": 4,
+        "rank_pct": 100.0,
+        "sample_size": 5,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
     "FIG": {
-      "as_of": "2026-07-15",
-      "spot": 23.5,
+      "as_of": "2026-07-16",
+      "spot": 23.41,
       "iv_term_structure": [
         {
           "expiration": "2026-07-17",
-          "dte": 2,
-          "atm_iv": 0.8623
+          "dte": 1,
+          "atm_iv": 0.8428
         },
         {
           "expiration": "2026-07-24",
-          "dte": 9,
-          "atm_iv": 0.9434
+          "dte": 8,
+          "atm_iv": 1.0322
         },
         {
           "expiration": "2026-07-31",
-          "dte": 16,
-          "atm_iv": 1.1045
+          "dte": 15,
+          "atm_iv": 0.9678
         },
         {
           "expiration": "2026-08-07",
-          "dte": 23,
-          "atm_iv": 1.0337
+          "dte": 22,
+          "atm_iv": 1.1338
         },
         {
           "expiration": "2026-08-14",
-          "dte": 30,
-          "atm_iv": 1.0557
+          "dte": 29,
+          "atm_iv": 1.0664
         },
         {
           "expiration": "2026-08-21",
-          "dte": 37,
-          "atm_iv": 1.0039
+          "dte": 36,
+          "atm_iv": 1.063
         }
       ],
-      "iv30_interpolated": 1.0557,
-      "term_structure_ratio": 0.817,
-      "volume_put_call_ratio": 0.189,
-      "oi_put_call_ratio": 0.309,
-      "skew_25d_proxy_volpts": -1.86,
+      "iv30_interpolated": 1.0659,
+      "term_structure_ratio": 0.791,
+      "volume_put_call_ratio": 0.102,
+      "oi_put_call_ratio": 0.326,
+      "skew_25d_proxy_volpts": -1.27,
       "skew_expiry_used": "2026-08-14",
-      "max_pain_nearest_expiry": 20.0,
+      "max_pain_nearest_expiry": 20.5,
       "nearest_expiration": "2026-07-17",
       "calls_top5_oi": [
         {
           "strike": 28.0,
-          "lastPrice": 0.04,
-          "bid": 0.03,
-          "ask": 0.04,
-          "volume": 24798,
-          "openInterest": 51271,
-          "impliedVolatility": 1.0703
+          "lastPrice": 0.02,
+          "bid": 0.01,
+          "ask": 0.02,
+          "volume": 17751,
+          "openInterest": 43234,
+          "impliedVolatility": 1.1563
         },
         {
           "strike": 25.0,
-          "lastPrice": 0.27,
-          "bid": 0.25,
-          "ask": 0.27,
-          "volume": 4849,
-          "openInterest": 13114,
-          "impliedVolatility": 0.9063
+          "lastPrice": 0.17,
+          "bid": 0.12,
+          "ask": 0.17,
+          "volume": 4263,
+          "openInterest": 13181,
+          "impliedVolatility": 0.918
         },
         {
           "strike": 30.0,
-          "lastPrice": 0.03,
+          "lastPrice": 0.01,
           "bid": 0.01,
-          "ask": 0.03,
-          "volume": 238,
-          "openInterest": 11903,
-          "impliedVolatility": 1.2813
+          "ask": 0.02,
+          "volume": 1088,
+          "openInterest": 11947,
+          "impliedVolatility": 1.5313
         },
         {
           "strike": 26.0,
-          "lastPrice": 0.1,
-          "bid": 0.1,
-          "ask": 0.15,
-          "volume": 1941,
-          "openInterest": 8800,
-          "impliedVolatility": 0.9492
+          "lastPrice": 0.08,
+          "bid": 0.06,
+          "ask": 0.16,
+          "volume": 1426,
+          "openInterest": 8781,
+          "impliedVolatility": 1.1484
         },
         {
           "strike": 40.0,
           "lastPrice": 0.01,
           "bid": 0.0,
           "ask": 0.01,
-          "volume": 1,
+          "volume": 100,
           "openInterest": 8172,
-          "impliedVolatility": 2.125
+          "impliedVolatility": 2.625
         }
       ],
       "puts_top5_oi": [
         {
           "strike": 17.5,
-          "lastPrice": 0.01,
-          "bid": 0.01,
-          "ask": 0.02,
-          "volume": 100,
-          "openInterest": 9541,
-          "impliedVolatility": 1.5
+          "lastPrice": 0.03,
+          "bid": 0.0,
+          "ask": 0.03,
+          "volume": 64.0,
+          "openInterest": 9590,
+          "impliedVolatility": 1.8125
         },
         {
           "strike": 20.0,
-          "lastPrice": 0.03,
-          "bid": 0.03,
-          "ask": 0.04,
-          "volume": 473,
-          "openInterest": 6349,
-          "impliedVolatility": 1.0313
+          "lastPrice": 0.04,
+          "bid": 0.01,
+          "ask": 0.16,
+          "volume": 3176.0,
+          "openInterest": 6365,
+          "impliedVolatility": 1.5
         },
         {
           "strike": 15.0,
-          "lastPrice": 0.03,
+          "lastPrice": 0.05,
           "bid": 0.0,
           "ask": 0.09,
-          "volume": 20,
+          "volume": 1.0,
           "openInterest": 3773,
-          "impliedVolatility": 2.5625
+          "impliedVolatility": 3.125
         },
         {
           "strike": 22.5,
-          "lastPrice": 0.31,
-          "bid": 0.28,
-          "ask": 0.35,
-          "volume": 158,
-          "openInterest": 3264,
-          "impliedVolatility": 0.8477
+          "lastPrice": 0.23,
+          "bid": 0.15,
+          "ask": 0.32,
+          "volume": 535.0,
+          "openInterest": 3347,
+          "impliedVolatility": 0.8555
         },
         {
           "strike": 25.0,
-          "lastPrice": 1.65,
-          "bid": 1.63,
-          "ask": 2.0,
-          "volume": 110,
-          "openInterest": 2844,
-          "impliedVolatility": 0.9883
+          "lastPrice": 1.89,
+          "bid": 1.4,
+          "ask": 2.2,
+          "volume": 24.0,
+          "openInterest": 2853,
+          "impliedVolatility": 1.0547
         }
       ],
       "earnings_within_30d": {
         "flag": true,
-        "date": "2026-08-14",
-        "days_away": 30
+        "date": "2026-08-05",
+        "days_away": 20
       },
       "iv_rank_to_date": {
         "rank_pct": 100.0,
-        "sample_size": 4,
+        "sample_size": 5,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     }
