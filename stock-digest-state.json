@@ -1,9 +1,10 @@
 {
-  "last_run_utc": "2026-07-16T04:00:00Z",
+  "last_run_utc": "2026-07-17T05:00:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 16 Jul 04:00 – Thu 16 Jul 12:00 MYT (delta run); no material changes; monitoring earnings Aug 3",
+      "last_run_window": "Thu 16 Jul 04:00 – Fri 17 Jul 05:00 MYT (delta run); 1 new story (SBA fraud expansion); earnings monitoring Aug 3",
       "stories": [
+        { "id": "sba-fraud-detection-expansion-jul-17", "headline": "U.S. Small Business Administration expands fraud-detection partnership with Palantir for nationwide compliance monitoring", "score": 6, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
         { "id": "uk-nhs-contract-renewal-risk", "headline": "UK Parliament Science Committee recommends against renewal of £330M NHS contract expiring early 2027; creates material revenue risk", "score": 7, "direction": "bearish" },
@@ -11,19 +12,24 @@
         { "id": "da-davidson-upgrade-buy-175", "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165→$175, raises EPS estimates above consensus", "score": 6, "direction": "bullish" },
         { "id": "gil-luria-upgrade-buy-175-plus", "headline": "Analyst Gil Luria upgrades PLTR to Buy, raises PT from $115 to $175 (+52% upside) on AIP platform momentum and margin expansion", "score": 6, "direction": "bullish" },
         { "id": "trump-financial-disclosure-pltr-stake", "headline": "Trump financial disclosure shows $1M+ PLTR stake, ~$260k added in Q1 2026", "score": 5, "direction": "bullish" },
+        { "id": "cto-sankar-insider-sale-24m-jul-7", "headline": "Chief Technology Officer Shyam Sankar sells 185,000 shares at ~$130 avg, realizing ~$24M (Jul 7); largest Sankar sale in 2026; follows May/Jun selling by Karp and Cohen", "score": 5, "direction": "bearish" },
         { "id": "surf-air-mobility-partnership-expansion", "headline": "Palantir expands Surf Air Mobility partnership (SurfOS); holds 7.4% SRFM equity stake", "score": 4, "direction": "bullish" },
         { "id": "karp-token-pricing-critique-openai-anthropic", "headline": "CEO Karp criticizes OpenAI and Anthropic token pricing models; 'Something has gone completely wrong' with enterprise value", "score": 4, "direction": "bullish" }
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 16 Jul 04:00 – Thu 16 Jul 12:00 MYT (delta run); no material changes; earnings Jul 22 (6 days)",
+      "last_run_window": "Thu 16 Jul 04:00 – Fri 17 Jul 05:00 MYT (delta run); 4 new stories (Giga expansions, analyst action, cert label recall); earnings catalyst Jul 22",
       "stories": [
+        { "id": "giga-berlin-expansion-20pct-7.5k-week-oct-2026", "headline": "Tesla Giga Berlin expansion: 20% production lift to 7.5k/week by October 2026; 1,000 new hires; validates EU demand surge (57–100% YoY first 5 months 2026)", "score": 7, "direction": "bullish" },
+        { "id": "giga-texas-terafab-north-ai-chip-facility", "headline": "Tesla announces Giga Texas Terafab North: 2M sq-ft AI chip manufacturing facility for inference compute; vertical integration into training-to-deployment stack", "score": 6, "direction": "bullish" },
+        { "id": "ubs-pt-upgrade-442-demand-recovery-jul-17", "headline": "UBS upgrades TSLA PT to $442 from baseline; incorporates near-term demand recovery and Starship/SpaceX optionality", "score": 7, "direction": "bullish" },
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
         { "id": "rbc-pt-500-spacex-premium-jul-7", "headline": "RBC Capital lifts PT to $500 from $475, incorporates $25 premium for potential SpaceX combination upside", "score": 7, "direction": "bullish" },
         { "id": "nhtsa-fsd-camera-only-degraded-visibility-investigation", "headline": "NHTSA opens engineering analysis on camera-only FSD for failures to detect and warn driver in degraded visibility (glare, dust); investigation ongoing since March 2026", "score": 6, "direction": "bearish" },
         { "id": "nhtsa-safety-probe-closure", "headline": "National Highway Traffic Safety Administration closes investigation into 695,000 Model 3/Y vehicles; Tesla safety updates resolved concerns", "score": 6, "direction": "bullish" },
-        { "id": "model-y-recall-14575-certification-label", "headline": "Tesla recalls 14,575 units (2025-2026 Model Y) for missing federal certification label; automation tool failure during production; notices by Jul 17", "score": 4, "direction": "bearish" },
-        { "id": "model-3-y-s-x-rearview-camera-recall", "headline": "Tesla recalls 2017, 2021-2023 Model 3/Y/S/X for delayed rearview camera image when vehicle placed in reverse; notices mailed Jul 3, 2026", "score": 4, "direction": "bearish" },
+        { "id": "model-y-cert-label-recall-14575-units-jul-17", "headline": "Tesla recalls 14,575 units (2025–2026 Model Y) for missing federal certification label; automation tool failure during production; notices by Jul 17", "score": 6, "direction": "bearish" },
+        { "id": "model-3-y-s-x-rearview-camera-recall", "headline": "Tesla recalls 2017, 2021-2023 Model 3/Y/S/X for delayed rearview camera image when vehicle placed in reverse; notices mailed Jul 3, 2026", "score": 5, "direction": "bearish" },
+        { "id": "wells-fargo-bearish-127-pt-eps-cut-jul-17", "headline": "Wells Fargo initiates bearish stance on TSLA: $127 PT (67% downside from $391); cuts EPS consensus -27% to $1.37 from $1.87", "score": 5, "direction": "bearish" },
         { "id": "model-y-l-launch-series-jul-11", "headline": "Tesla launches Model Y L (longer wheelbase) Launch Series for U.S. orders; $61,990 entry price, 6-seat config, includes 12-month free FSD subscription, Oct-Nov delivery window", "score": 4, "direction": "bullish" },
         { "id": "paper-transport-tesla-semi-chicago-pilot-jul-13", "headline": "Wisconsin carrier Paper Transport announces formal Chicago metro pilot partnership with Tesla Semi Long Range; signals commercial operator confidence in production readiness", "score": 5, "direction": "bullish" },
         { "id": "robotaxi-miami-expansion-jul-4", "headline": "Tesla deploys unsupervised Robotaxi in Miami with vision-only FSD; zero safety drivers from day one — first unsupervised rollout in new market without pilot phase", "score": 5, "direction": "bullish" },
@@ -31,7 +37,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 16 Jul 04:00 – Thu 16 Jul 12:00 MYT (delta run); no material changes; monitoring earnings Aug 14 and August lockup",
+      "last_run_window": "Thu 16 Jul 04:00 – Fri 17 Jul 05:00 MYT (delta run); no material changes; monitoring earnings Aug 5 and August 31 lockup",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "analyst-upgrades-short-squeeze-jul-14", "headline": "BofA/Citi/GS analyst upgrades (Buy ratings, $30-36 PT) trigger short squeeze; stock rallies 11.9% Jul 14 on short covering and institutional buying (Citizens Financial 162k+ shares)", "score": 7, "direction": "bullish" },
