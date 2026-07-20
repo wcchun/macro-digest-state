@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-21T21:00:00Z",
+  "last_run_utc": "2026-07-22T01:00:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sun 20 Jul 05:00 MYT – Tue 22 Jul 05:00 MYT (delta run); 3 new stories; multiple contract/partnership announcements",
+      "last_run_window": "Tue 22 Jul 05:00 MYT – Tue 22 Jul 09:00 MYT (delta run); no material changes",
       "stories": [
         { "id": "sba-fraud-detection-expansion-jul-17", "headline": "U.S. Small Business Administration expands fraud-detection partnership with Palantir for nationwide compliance monitoring", "score": 6, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
@@ -22,7 +22,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sun 20 Jul 05:00 MYT – Tue 22 Jul 05:00 MYT (delta run); 2 new stories; 2 score increases; earnings catalyst today",
+      "last_run_window": "Tue 22 Jul 05:00 MYT – Tue 22 Jul 09:00 MYT (delta run); Q2 earnings released as scheduled; no new stories",
       "stories": [
         { "id": "giga-berlin-expansion-20pct-7.5k-week-oct-2026", "headline": "Tesla Giga Berlin expansion: 20% production lift to 7.5k/week by October 2026; 1,000 new hires; validates EU demand surge (57–100% YoY first 5 months 2026)", "score": 7, "direction": "bullish" },
         { "id": "giga-texas-terafab-north-ai-chip-facility", "headline": "Tesla announces Giga Texas Terafab North: 2M sq-ft AI chip manufacturing facility for inference compute; vertical integration into training-to-deployment stack", "score": 6, "direction": "bullish" },
@@ -44,7 +44,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sun 20 Jul 05:00 MYT – Tue 22 Jul 05:00 MYT (delta run); 1 new story; 1 major score increase (lockup 4→8)",
+      "last_run_window": "Tue 22 Jul 05:00 MYT – Tue 22 Jul 09:00 MYT (delta run); no material changes; lockup expiration Aug 31 confirmed",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "analyst-upgrades-short-squeeze-jul-14", "headline": "BofA/Citi/GS analyst upgrades (Buy ratings, $30-36 PT) trigger short squeeze; stock rallies 11.9% Jul 14 on short covering and institutional buying (Citizens Financial 162k+ shares)", "score": 7, "direction": "bullish" },
