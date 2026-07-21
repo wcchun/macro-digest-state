@@ -1,9 +1,10 @@
 {
-  "last_run_utc": "2026-07-22T01:00:00Z",
+  "last_run_utc": "2026-07-22T14:15:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 22 Jul 05:00 MYT – Tue 22 Jul 09:00 MYT (delta run); no material changes",
+      "last_run_window": "Tue 22 Jul 09:00 MYT – Tue 22 Jul 22:15 MYT (delta run); 1 new commercial partnership story",
       "stories": [
+        { "id": "pltr-zeta-global-foundry-migration-jul-22", "headline": "Palantir expands commercial footprint via Zeta Global Data Cloud migration to Foundry; validates enterprise AIP monetization path outside government", "score": 5, "direction": "bullish" },
         { "id": "sba-fraud-detection-expansion-jul-17", "headline": "U.S. Small Business Administration expands fraud-detection partnership with Palantir for nationwide compliance monitoring", "score": 6, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
         { "id": "nvidia-nemotron-sovereign-ai-partnership", "headline": "Palantir launches engine to deploy Nvidia Nemotron models in sovereign/gov't environments", "score": 7, "direction": "bullish" },
@@ -22,8 +23,9 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 22 Jul 05:00 MYT – Tue 22 Jul 09:00 MYT (delta run); Q2 earnings released as scheduled; no new stories",
+      "last_run_window": "Tue 22 Jul 09:00 MYT – Tue 22 Jul 22:15 MYT (delta run); 1 new autonomy milestone; earnings released Jul 22",
       "stories": [
+        { "id": "tsla-fsd-v14-lite-wide-release-jul-20", "headline": "Tesla hints at FSD v14 Lite (2026.20.6.10) going wide release with noticeable improvements and UI changes; latest autonomy milestone", "score": 7, "direction": "bullish" },
         { "id": "giga-berlin-expansion-20pct-7.5k-week-oct-2026", "headline": "Tesla Giga Berlin expansion: 20% production lift to 7.5k/week by October 2026; 1,000 new hires; validates EU demand surge (57–100% YoY first 5 months 2026)", "score": 7, "direction": "bullish" },
         { "id": "giga-texas-terafab-north-ai-chip-facility", "headline": "Tesla announces Giga Texas Terafab North: 2M sq-ft AI chip manufacturing facility for inference compute; vertical integration into training-to-deployment stack", "score": 6, "direction": "bullish" },
         { "id": "ubs-pt-upgrade-442-demand-recovery-jul-17", "headline": "UBS upgrades TSLA PT to $442 from baseline; incorporates near-term demand recovery and Starship/SpaceX optionality", "score": 7, "direction": "bullish" },
@@ -44,8 +46,9 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 22 Jul 05:00 MYT – Tue 22 Jul 09:00 MYT (delta run); no material changes; lockup expiration Aug 31 confirmed",
+      "last_run_window": "Tue 22 Jul 09:00 MYT – Tue 22 Jul 22:15 MYT (delta run); 1 new AI productivity feature; no material changes",
       "stories": [
+        { "id": "fig-concurrent-ai-image-gen-jul-22", "headline": "Figma launches concurrent AI image generation feature; users generate multiple edits simultaneously via toolbar while continuing design work", "score": 4, "direction": "bullish" },
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "analyst-upgrades-short-squeeze-jul-14", "headline": "BofA/Citi/GS analyst upgrades (Buy ratings, $30-36 PT) trigger short squeeze; stock rallies 11.9% Jul 14 on short covering and institutional buying (Citizens Financial 162k+ shares)", "score": 7, "direction": "bullish" },
         { "id": "citigroup-buy-initiation-36-pt", "headline": "Citigroup initiates coverage on Figma with Buy rating; $36 price target (82% upside from $19.7)", "score": 7, "direction": "bullish" },
