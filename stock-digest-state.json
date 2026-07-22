@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-23T03:30:00Z",
+  "last_run_utc": "2026-07-24T03:30:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 21 Jul 12:00 – Wed 22 Jul 12:00 MYT (delta run); no material changes since last digest; earnings Aug 3",
+      "last_run_window": "Wed 22 Jul 12:00 – Thu 23 Jul 22:00 MYT (delta run); no material changes since last digest; earnings Aug 3",
       "stories": [
         { "id": "analyst-pt-163-30-jul-20", "headline": "Analyst Price Target $163.30 Reinforces Government Contract + AIP Monetization Thesis", "score": 5, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
@@ -18,7 +18,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 21 Jul 12:00 – Wed 22 Jul 12:00 MYT (delta run); earnings TODAY (Jul 22 AH) — record 480k deliveries beat vs. margin pressure and regulatory overhang; 2 new regulatory headwinds, 1 re-rated earnings",
+      "last_run_window": "Wed 22 Jul 12:00 – Thu 23 Jul 22:00 MYT (delta run); earnings Jul 22 released — 480k deliveries beat, margin scrutiny, robotaxi expansion, regulatory probes ongoing",
       "stories": [
         { "id": "earnings-consensus-preview-jul-22-re-rated", "headline": "Tesla Q2 2026 Earnings Preview: 480k Deliveries Beat Consensus by 74k (+25% YoY); Revenue ~$26.4B but Gross Margin & FCF Under Scrutiny Post-Discount Pressure", "score": 8, "direction": "bullish", "direction_detail": "bullish on units, bearish on margin/FCF" },
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
@@ -36,7 +36,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 21 Jul 12:00 – Wed 22 Jul 12:00 MYT (delta run); no material changes; August 2026 lockup imminent, earnings Aug 5",
+      "last_run_window": "Wed 22 Jul 12:00 – Thu 23 Jul 22:00 MYT (delta run); no material changes; August 31 lockup expiration, earnings Aug 5",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "analyst-upgrades-short-squeeze-jul-14", "headline": "BofA/Citi/GS analyst upgrades (Buy ratings, $30-36 PT) trigger short squeeze; stock rallies 11.9% Jul 14 on short covering and institutional buying (Citizens Financial 162k+ shares)", "score": 7, "direction": "bullish" },
