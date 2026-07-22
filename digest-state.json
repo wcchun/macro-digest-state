@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-07-22T14:00:00Z",
-  "last_run_window": "Wed 22 Jul 2026, afternoon / 22 Jul 14:00 UTC (delta window: 5 NEW stories since 20:00 UTC 21 Jul — Iran escalation day 10, Meta $115-135B AI capex confirmed, Treasury yields spike 4.63%, EU DMA forces Android/AI opening, Brazil tariff effective)",
+  "last_run_utc": "2026-07-22T21:00:00Z",
+  "last_run_window": "Wed 22 Jul 2026, evening after-hours / 22 Jul 21:00 UTC (delta window: 1 update since 14:00 UTC — Oil escalation to $94.83 on Iran Strait blockade persistence, Trump nuclear threats; major capex-durability stress test underway (Tesla/Alphabet earnings pending after close). No material shifts in macro view; open threads: escalation timeline, tariff-cliff resolution, AI capex ROI confirmation)",
   "stories": [
     { "id": "google-gemini-3p5-pro-delay-july-18", "headline": "Google Alphabet Postpones Gemini 3.5 Pro Release by Months; Model Shows Shortfalls in Coding Performance and Long-Horizon Reasoning vs Competitive Set; Alphabet Shares Fall 4%; Signals AI Model Race Tightening and ROI Questions on Infrastructure Capex Durability", "score": 6, "direction": "bearish" },
     { "id": "tsmc-wafer-price-hike-5-10pct-july-13", "headline": "TSMC and Samsung Raise Advanced-Node Wafer Prices 5–10% Effective July 2026: 5nm/7nm Nodes (74% of TSMC Foundry Revenue); Smartphone Chips +5%, CPUs +7%, HPC/AI Chips +10%; Reflects Pricing Power Amid AI Demand But Creates Input-Cost Pressure for Downstream Customers (NVDA, AMD, Apple, Qualcomm)", "score": 7, "direction": "neutral" },
