@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-24T08:45:00Z",
+  "last_run_utc": "2026-07-24T20:30:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 23 Jul 22:00 – Fri 24 Jul 08:45 MYT (delta run); no material changes; earnings Aug 3",
+      "last_run_window": "Fri 24 Jul 08:45 – Fri 24 Jul 20:30 MYT (delta run); no material changes; earnings Aug 3",
       "stories": [
         { "id": "analyst-pt-163-30-jul-20", "headline": "Analyst Price Target $163.30 Reinforces Government Contract + AIP Monetization Thesis", "score": 5, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
@@ -20,9 +20,10 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 23 Jul 22:00 – Fri 24 Jul 08:45 MYT (delta run); earnings reported Jul 22 (480K delivery beat, margin/FCF scrutiny); NHTSA escalated FSD probe Jul 22; regulatory path remains unclear",
+      "last_run_window": "Fri 24 Jul 08:45 – Fri 24 Jul 20:30 MYT (delta run); earnings reported Jul 22 (480K delivery beat, margin/FCF scrutiny); NHTSA escalated FSD probe + new robotaxi-first-responder safety analysis Jul 24; regulatory path intensifying",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes; largest ever Q2", "score": 8, "direction": "bullish" },
+        { "id": "nhtsa-robotaxi-first-responder-safety-formal-analysis-jul-24", "headline": "NHTSA opens formal engineering analysis on robotaxi interactions with first responders and emergency services; widens autonomous-vehicle safety scrutiny beyond camera-system FSD probe", "score": 7, "direction": "bearish", "new": true },
         { "id": "q2-earnings-revenue-beat-eps-miss-margin-fcf-pressure", "headline": "Q2 2026 earnings: $28.2B revenue beat $27.6B est.; non-GAAP EPS $0.33 misses $0.55 est.; Gross margin 16.8%; FCF turned negative (-$1.1B) on AI/Optimus infrastructure spending", "score": 7, "direction": "bearish", "new": true },
         { "id": "rbc-pt-500-spacex-premium-jul-7", "headline": "RBC Capital lifts PT to $500 from $475, incorporates $25 premium for potential SpaceX combination upside", "score": 7, "direction": "bullish" },
         { "id": "nhtsa-fsd-camera-only-degraded-visibility-investigation", "headline": "NHTSA opens engineering analysis on camera-only FSD for failures to detect and warn driver in degraded visibility (glare, dust); investigation ongoing since March 2026", "score": 6, "direction": "bearish" },
@@ -38,7 +39,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 23 Jul 22:00 – Fri 24 Jul 08:45 MYT (delta run); no material changes; lockup expiration Aug 31, earnings Aug 5",
+      "last_run_window": "Fri 24 Jul 08:45 – Fri 24 Jul 20:30 MYT (delta run); no material changes; golden cross confirmed Jul 22, lockup expiration Aug 31, earnings Aug 5",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "anthropic-claude-design-competitive-threat-apr-17", "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day", "score": 8, "direction": "bearish", "new": true },
