@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-24T03:30:00Z",
+  "last_run_utc": "2026-07-24T08:45:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 22 Jul 12:00 – Thu 23 Jul 22:00 MYT (delta run); no material changes since last digest; earnings Aug 3",
+      "last_run_window": "Thu 23 Jul 22:00 – Fri 24 Jul 08:45 MYT (delta run); no material changes; earnings Aug 3",
       "stories": [
         { "id": "analyst-pt-163-30-jul-20", "headline": "Analyst Price Target $163.30 Reinforces Government Contract + AIP Monetization Thesis", "score": 5, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
@@ -12,40 +12,43 @@
         { "id": "da-davidson-upgrade-buy-175", "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165→$175, raises EPS estimates above consensus", "score": 6, "direction": "bullish" },
         { "id": "gil-luria-upgrade-buy-175-plus", "headline": "Analyst Gil Luria upgrades PLTR to Buy, raises PT from $115 to $175 (+52% upside) on AIP platform momentum and margin expansion", "score": 6, "direction": "bullish" },
         { "id": "trump-financial-disclosure-pltr-stake", "headline": "Trump financial disclosure shows $1M+ PLTR stake, ~$260k added in Q1 2026", "score": 5, "direction": "bullish" },
-        { "id": "rackspace-ai-infrastructure-partnership-jul-22", "headline": "Rackspace expands AI infrastructure partnership with Palantir for enterprise AIP platform validation and managed services integration", "score": 5, "direction": "bullish", "new": true },
+        { "id": "rackspace-ai-infrastructure-partnership-jul-22", "headline": "Rackspace expands AI infrastructure partnership with Palantir for enterprise AIP platform validation and managed services integration", "score": 5, "direction": "bullish" },
+        { "id": "army-enterprise-agreement-consolidation-75-contracts", "headline": "U.S. Army awards Palantir new Enterprise Service Agreement consolidating 75 contracts (15 prime + 60 subcontracts) into single framework", "score": 6, "direction": "bullish", "new": true },
+        { "id": "shyam-sankar-cto-insider-sale-24m-jul-2", "headline": "Palantir CTO Shyam Sankar sells 185,000 shares at avg $130 (proceeds ~$24M); largest insider transaction of 2026 to date", "score": 5, "direction": "bearish" },
         { "id": "surf-air-mobility-partnership-expansion", "headline": "Palantir expands Surf Air Mobility partnership (SurfOS); holds 7.4% SRFM equity stake", "score": 4, "direction": "bullish" },
         { "id": "karp-token-pricing-critique-openai-anthropic", "headline": "CEO Karp criticizes OpenAI and Anthropic token pricing models; 'Something has gone completely wrong' with enterprise value", "score": 4, "direction": "bullish" }
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 22 Jul 12:00 – Thu 23 Jul 22:00 MYT (delta run); earnings Jul 22 released — 480k deliveries beat, margin scrutiny, robotaxi expansion, regulatory probes ongoing",
+      "last_run_window": "Thu 23 Jul 22:00 – Fri 24 Jul 08:45 MYT (delta run); earnings reported Jul 22 (480K delivery beat, margin/FCF scrutiny); NHTSA escalated FSD probe Jul 22; regulatory path remains unclear",
       "stories": [
-        { "id": "earnings-consensus-preview-jul-22-re-rated", "headline": "Tesla Q2 2026 Earnings Preview: 480k Deliveries Beat Consensus by 74k (+25% YoY); Revenue ~$26.4B but Gross Margin & FCF Under Scrutiny Post-Discount Pressure", "score": 8, "direction": "bullish", "direction_detail": "bullish on units, bearish on margin/FCF" },
-        { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes", "score": 7, "direction": "bullish" },
+        { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes; largest ever Q2", "score": 8, "direction": "bullish" },
+        { "id": "q2-earnings-revenue-beat-eps-miss-margin-fcf-pressure", "headline": "Q2 2026 earnings: $28.2B revenue beat $27.6B est.; non-GAAP EPS $0.33 misses $0.55 est.; Gross margin 16.8%; FCF turned negative (-$1.1B) on AI/Optimus infrastructure spending", "score": 7, "direction": "bearish", "new": true },
         { "id": "rbc-pt-500-spacex-premium-jul-7", "headline": "RBC Capital lifts PT to $500 from $475, incorporates $25 premium for potential SpaceX combination upside", "score": 7, "direction": "bullish" },
         { "id": "nhtsa-fsd-camera-only-degraded-visibility-investigation", "headline": "NHTSA opens engineering analysis on camera-only FSD for failures to detect and warn driver in degraded visibility (glare, dust); investigation ongoing since March 2026", "score": 6, "direction": "bearish" },
-        { "id": "nhtsa-headlight-recall-denial-19900-vehicles-jul-16", "headline": "NHTSA denies Tesla petition and mandates 19,900-vehicle recall (2017–2023 Model 3/Y) over headlight glare risk; regulatory escalation signals stricter oversight", "score": 6, "direction": "bearish", "new": true },
+        { "id": "nhtsa-headlight-recall-denial-19900-vehicles-jul-16", "headline": "NHTSA denies Tesla petition and mandates 19,900-vehicle recall (2017–2023 Model 3/Y) over headlight glare risk; regulatory escalation signals stricter oversight", "score": 6, "direction": "bearish" },
         { "id": "nhtsa-safety-probe-closure", "headline": "National Highway Traffic Safety Administration closes investigation into 695,000 Model 3/Y vehicles; Tesla safety updates resolved concerns", "score": 6, "direction": "bullish" },
-        { "id": "nhtsa-escalated-investigation-24-part-demand-jul-22", "headline": "NHTSA escalates FSD camera-only probe to formal Engineering Analysis; 24-part information demand due Aug 12; outcome by mid-August determines formal recall trigger", "score": 6, "direction": "bearish", "new": true },
+        { "id": "nhtsa-escalated-investigation-24-part-demand-jul-22", "headline": "NHTSA escalates FSD camera-only probe to formal Engineering Analysis; 24-part information demand due Aug 12; outcome by mid-August determines formal recall trigger", "score": 6, "direction": "bearish" },
+        { "id": "robotaxi-orlando-tampa-launch-jul-21", "headline": "Tesla launches Robotaxi in Orlando & Tampa on Jul 21, expanding Florida footprint to 3 metros in <3 weeks (Miami Jul 3, Orlando/Tampa Jul 21); full unsupervised rides from day one", "score": 5, "direction": "bullish", "new": true },
+        { "id": "model-y-l-launch-series-jul-11", "headline": "Tesla launches Model Y L (longer wheelbase) Launch Series for U.S. orders; $61,990 entry price, 6-seat config, includes 12-month free FSD subscription, Oct-Nov delivery window", "score": 4, "direction": "bullish" },
         { "id": "model-y-recall-14575-certification-label", "headline": "Tesla recalls 14,575 units (2025-2026 Model Y) for missing federal certification label; automation tool failure during production; notices by Jul 17", "score": 4, "direction": "bearish" },
         { "id": "model-3-y-s-x-rearview-camera-recall", "headline": "Tesla recalls 2017, 2021-2023 Model 3/Y/S/X for delayed rearview camera image when vehicle placed in reverse; notices mailed Jul 3, 2026", "score": 4, "direction": "bearish" },
-        { "id": "model-y-l-launch-series-jul-11", "headline": "Tesla launches Model Y L (longer wheelbase) Launch Series for U.S. orders; $61,990 entry price, 6-seat config, includes 12-month free FSD subscription, Oct-Nov delivery window", "score": 4, "direction": "bullish" },
         { "id": "paper-transport-tesla-semi-chicago-pilot-jul-13", "headline": "Wisconsin carrier Paper Transport announces formal Chicago metro pilot partnership with Tesla Semi Long Range; signals commercial operator confidence in production readiness", "score": 5, "direction": "bullish" },
-        { "id": "robotaxi-miami-expansion-jul-4", "headline": "Tesla deploys unsupervised Robotaxi in Miami with vision-only FSD; zero safety drivers from day one — first unsupervised rollout in new market without pilot phase", "score": 5, "direction": "bullish" },
         { "id": "europe-growth-57pct-yoy", "headline": "Europe registered 118,068 Tesla vehicles (first 5 months 2026), up 57.2% YoY; validates geographic diversification and pricing power", "score": 5, "direction": "bullish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 22 Jul 12:00 – Thu 23 Jul 22:00 MYT (delta run); no material changes; August 31 lockup expiration, earnings Aug 5",
+      "last_run_window": "Thu 23 Jul 22:00 – Fri 24 Jul 08:45 MYT (delta run); no material changes; lockup expiration Aug 31, earnings Aug 5",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
+        { "id": "anthropic-claude-design-competitive-threat-apr-17", "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day", "score": 8, "direction": "bearish", "new": true },
         { "id": "analyst-upgrades-short-squeeze-jul-14", "headline": "BofA/Citi/GS analyst upgrades (Buy ratings, $30-36 PT) trigger short squeeze; stock rallies 11.9% Jul 14 on short covering and institutional buying (Citizens Financial 162k+ shares)", "score": 7, "direction": "bullish" },
         { "id": "citigroup-buy-initiation-36-pt", "headline": "Citigroup initiates coverage on Figma with Buy rating; $36 price target (82% upside from $19.7)", "score": 7, "direction": "bullish" },
         { "id": "bofa-buy-initiation-30-pt-jul-7", "headline": "BofA Securities initiates coverage with Buy, $30 PT; analyst re-entry post-85% drawdown", "score": 6, "direction": "bullish" },
         { "id": "rbc-downgrade-sector-perform-22-pt-post-config", "headline": "RBC Capital downgrades to Sector Perform, $22 PT (from $28); cites Config attendance and slower-than-expected AI monetization adoption by paying customers", "score": 6, "direction": "bearish" },
         { "id": "russell-index-inclusion-jul-2", "headline": "Russell Index inclusion effective July 2; mechanical buying drives 8.85% single-day gain", "score": 6, "direction": "bullish" },
-        { "id": "insider-selling-form-144-jul-14", "headline": "Form 144 insider sales Jul 14; CRO Voskanian (8,629 shares Jul 6), CTO Rasmussen (8,641 tax withholding), CAO Tyler (669 via 10b5-1); pattern 72 sells vs 5 buys recent period", "score": 4, "direction": "bearish" },
-        { "id": "august-2026-lockup-expiration-risk", "headline": "August 2026 post-IPO lockup expiration looming; larger secondary supply wave expected; historically creates downside pressure", "score": 4, "direction": "bearish" }
+        { "id": "insider-selling-form-144-jul-14", "headline": "Form 144 insider sales Jul 6; CRO Voskanian (87,510 shares via 10b5-1), CFO Melwani (83,974 shares via 10b5-1); routine pre-planned sales", "score": 4, "direction": "bearish" },
+        { "id": "august-2026-lockup-expiration-risk", "headline": "August 2026 post-IPO lockup expiration (Aug 31) looming; 54.1% of Class A shares eligible (~$6–7B supply); VC holders have low-cost basis incentive to monetize", "score": 5, "direction": "bearish" }
       ]
     }
   }
