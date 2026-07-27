@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-28T14:30:00Z",
+  "last_run_utc": "2026-07-29T06:30:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 27 Jul 22:15 – Tue 28 Jul 14:30 MYT (delta run); no material changes since prior digest; earnings catalyst Aug 3",
+      "last_run_window": "Tue 28 Jul 14:30 – Wed 29 Jul 14:30 MYT (delta run); no material catalyst changes; earnings Aug 3 undiminished",
       "stories": [
         { "id": "analyst-pt-163-30-jul-20", "headline": "Analyst Price Target $163.30 Reinforces Government Contract + AIP Monetization Thesis", "score": 5, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
@@ -20,7 +20,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 27 Jul 22:15 – Tue 28 Jul 14:30 MYT (delta run); NHTSA FSD Aug 12 deadline holding; no new material catalyst since prior digest",
+      "last_run_window": "Tue 28 Jul 14:30 – Wed 29 Jul 14:30 MYT (delta run); Q2 earnings digested; NHTSA FSD Aug 12 deadline holding",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes; largest ever Q2", "score": 8, "direction": "bullish" },
         { "id": "nhtsa-robotaxi-first-responder-safety-formal-analysis-jul-24", "headline": "NHTSA opens formal engineering analysis on robotaxi interactions with first responders and emergency services; widens autonomous-vehicle safety scrutiny beyond camera-system FSD probe", "score": 7, "direction": "bearish" },
@@ -42,7 +42,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 27 Jul 22:15 – Tue 28 Jul 14:30 MYT (delta run); golden cross Jul 22 holding (2 days); earnings Aug 5, lockup Aug 31; no material new changes since prior digest",
+      "last_run_window": "Tue 28 Jul 14:30 – Wed 29 Jul 14:30 MYT (delta run); golden cross Jul 22 holding (3 days); earnings Aug 5, lockup Aug 31; no material new changes",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "anthropic-claude-design-competitive-threat-apr-17", "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day", "score": 8, "direction": "bearish" },
