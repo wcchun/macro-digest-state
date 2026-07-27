@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-07-28T07:30:00Z",
-  "last_run_window": "Mon 28 Jul 15:30 MYT (delta window: 7 hrs since 08:00; oil retreats $100.65→$90.95 but escalation rhetoric reignites; 1 update (Iran ↓ oil) + 1 new (tech vol spike); FOMC & meta/amazon earnings focal catalysts Jul 29-30)",
+  "last_run_utc": "2026-07-27T13:08:26Z",
+  "last_run_window": "Sun 27 Jul 21:08 MYT (holding delta: no material developments; FOMC decision 2PM ET Mon 29 Jul + Amazon/Meta earnings Mon/Tue 29-30 Jul catalysts imminent; Tech VXN 28 elevated; Iran/oil volatility contained $90.95–$100.65 range; 54 stories tracking)",
   "stories": [
     { "id": "tech-volatility-spike-23yr-high-jul-28", "headline": "Tech Sector Volatility Spike to 23-Year High: VXN 28 vs VIX 16; Nasdaq Swings 1.75× S&P 500; Options Market Repricing Tail Risk; SOX Down 18.2% July Despite TSMC/Samsung Supply Tailwinds; Hedging Intensity Signals Loss of Confidence in Capex Durability", "score": 8, "direction": "bearish" },
     { "id": "google-gemini-3p5-pro-delay-july-18", "headline": "Google Alphabet Postpones Gemini 3.5 Pro Release by Months; Model Shows Shortfalls in Coding Performance and Long-Horizon Reasoning vs Competitive Set; Alphabet Shares Fall 4%; Signals AI Model Race Tightening and ROI Questions on Infrastructure Capex Durability", "score": 6, "direction": "bearish" },
