@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-28T01:30:00Z",
+  "last_run_utc": "2026-07-28T14:30:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 28 Jul 09:30 MYT (delta run); no new stories; Government contract wins (Army NGC2 + 75-contract consolidation) and analyst upgrades (DA Davidson $175, Gil Luria +52%) sustain bull case into Aug 3 earnings",
+      "last_run_window": "Tue 28 Jul 22:30 MYT (delta run, 09:30→22:30); no material changes since morning digest; Government contract wins (Army NGC2 + 75-contract consolidation) and analyst upgrades (DA Davidson $175, Gil Luria +52%) sustain bull case into Aug 3 earnings",
       "stories": [
         { "id": "analyst-pt-163-30-jul-20", "headline": "Analyst Price Target $163.30 Reinforces Government Contract + AIP Monetization Thesis", "score": 5, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
@@ -20,7 +20,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 28 Jul 09:30 MYT (delta run); no new stories; NHTSA regulatory overhang dominates (FSD camera-probe EA escalation, first-responder robotaxi analysis); Aug 12 information deadline tracking; robotaxi Florida expansion continues",
+      "last_run_window": "Tue 28 Jul 22:30 MYT (delta run, 09:30→22:30); 1 analyst PT cut (Piper Sandler Jul 28); NHTSA regulatory overhang dominates (FSD camera-probe EA escalation, first-responder robotaxi analysis); Aug 12 information deadline tracking; robotaxi Florida expansion continues",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes; largest ever Q2", "score": 8, "direction": "bullish" },
         { "id": "nhtsa-robotaxi-first-responder-safety-formal-analysis-jul-24", "headline": "NHTSA opens formal engineering analysis on robotaxi interactions with first responders and emergency services; widens autonomous-vehicle safety scrutiny beyond camera-system FSD probe", "score": 7, "direction": "bearish" },
@@ -38,11 +38,12 @@
         { "id": "model-3-y-s-x-rearview-camera-recall", "headline": "Tesla recalls 2017, 2021-2023 Model 3/Y/S/X for delayed rearview camera image when vehicle placed in reverse; notices mailed Jul 3, 2026", "score": 4, "direction": "bearish" },
         { "id": "insider-buy-650k-jul-20", "headline": "Insider executive buy: $650,000 purchase on Jul 20, timed right before Q2 earnings announcement; contrasts with routine pre-scheduled 10b5-1 selling pattern", "score": 4, "direction": "neutral" },
         { "id": "paper-transport-tesla-semi-chicago-pilot-jul-13", "headline": "Wisconsin carrier Paper Transport announces formal Chicago metro pilot partnership with Tesla Semi Long Range; signals commercial operator confidence in production readiness", "score": 5, "direction": "bullish" },
-        { "id": "europe-growth-57pct-yoy", "headline": "Europe registered 118,068 Tesla vehicles (first 5 months 2026), up 57.2% YoY; validates geographic diversification and pricing power", "score": 5, "direction": "bullish" }
+        { "id": "europe-growth-57pct-yoy", "headline": "Europe registered 118,068 Tesla vehicles (first 5 months 2026), up 57.2% YoY; validates geographic diversification and pricing power", "score": 5, "direction": "bullish" },
+        { "id": "piper-sandler-pt-cut-500-450-jul-28", "headline": "Piper Sandler cuts Tesla price target from $500 to $450 on Jul 28; continues post-Q2 earnings analyst downgrade cycle", "score": 5, "direction": "bearish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 28 Jul 09:30 MYT (delta run); no new stories; Config 2026 product suite + analyst upgrades offset RBC downgrade skepticism + Anthropic Claude Design competitive threat; Aug 5 earnings + Aug 31 lockup expiration critical catalysts",
+      "last_run_window": "Tue 28 Jul 22:30 MYT (delta run, 09:30→22:30); no material changes since morning digest; stock +5.26% on Jul 28 without attached news; Config 2026 product suite + analyst upgrades offset RBC downgrade skepticism + Anthropic Claude Design competitive threat; Aug 5 earnings + Aug 31 lockup expiration critical catalysts",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "anthropic-claude-design-competitive-threat-apr-17", "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day", "score": 8, "direction": "bearish" },
