@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-07-29T11:09:17.870386+00:00",
+  "run_at": "2026-07-29T11:15:18.546767+00:00",
   "results": {
     "AAPL": {
       "as_of": "2026-07-27",
@@ -32,7 +32,10 @@
       "dividend_yield_pct": 0.32,
       "ex_dividend_date": "2026-05-11",
       "ex_dividend_is_future": false,
-      "sector": "Technology"
+      "sector": "Technology",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "PLTR": {
       "as_of": "2026-07-27",
@@ -65,7 +68,10 @@
       "dividend_yield_pct": 0.0,
       "ex_dividend_date": null,
       "ex_dividend_is_future": null,
-      "sector": "Technology"
+      "sector": "Technology",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "TSLA": {
       "as_of": "2026-07-27",
@@ -98,7 +104,10 @@
       "dividend_yield_pct": 0.0,
       "ex_dividend_date": null,
       "ex_dividend_is_future": null,
-      "sector": "Consumer Cyclical"
+      "sector": "Consumer Cyclical",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "FIG": {
       "as_of": "2026-07-27",
@@ -131,7 +140,10 @@
       "dividend_yield_pct": 0.0,
       "ex_dividend_date": null,
       "ex_dividend_is_future": null,
-      "sector": "Technology"
+      "sector": "Technology",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "IWM": {
       "as_of": "2026-07-27",
@@ -164,7 +176,10 @@
       "dividend_yield_pct": 0.69,
       "ex_dividend_date": null,
       "ex_dividend_is_future": null,
-      "sector": null
+      "sector": null,
+      "quote_type": "ETF",
+      "is_etf": true,
+      "total_assets": 82970353664.0
     },
     "XLF": {
       "as_of": "2026-07-27",
@@ -197,7 +212,10 @@
       "dividend_yield_pct": 1.02,
       "ex_dividend_date": null,
       "ex_dividend_is_future": null,
-      "sector": null
+      "sector": null,
+      "quote_type": "ETF",
+      "is_etf": true,
+      "total_assets": 51353821184.0
     },
     "XLE": {
       "as_of": "2026-07-27",
@@ -230,7 +248,10 @@
       "dividend_yield_pct": 3.7,
       "ex_dividend_date": null,
       "ex_dividend_is_future": null,
-      "sector": null
+      "sector": null,
+      "quote_type": "ETF",
+      "is_etf": true,
+      "total_assets": 35721338880.0
     },
     "SMH": {
       "as_of": "2026-07-27",
@@ -263,7 +284,10 @@
       "dividend_yield_pct": 0.0,
       "ex_dividend_date": null,
       "ex_dividend_is_future": null,
-      "sector": null
+      "sector": null,
+      "quote_type": "ETF",
+      "is_etf": true,
+      "total_assets": 77198270464.0
     },
     "INTC": {
       "as_of": "2026-07-27",
@@ -296,7 +320,10 @@
       "dividend_yield_pct": 0.0,
       "ex_dividend_date": "2024-08-07",
       "ex_dividend_is_future": false,
-      "sector": "Technology"
+      "sector": "Technology",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "MU": {
       "as_of": "2026-07-27",
@@ -329,7 +356,10 @@
       "dividend_yield_pct": 0.06,
       "ex_dividend_date": "2026-07-06",
       "ex_dividend_is_future": false,
-      "sector": "Technology"
+      "sector": "Technology",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "CSCO": {
       "as_of": "2026-07-27",
@@ -362,7 +392,10 @@
       "dividend_yield_pct": 1.47,
       "ex_dividend_date": "2026-07-06",
       "ex_dividend_is_future": false,
-      "sector": "Technology"
+      "sector": "Technology",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "AMD": {
       "as_of": "2026-07-27",
@@ -395,7 +428,10 @@
       "dividend_yield_pct": 0.0,
       "ex_dividend_date": "1995-04-27",
       "ex_dividend_is_future": false,
-      "sector": "Technology"
+      "sector": "Technology",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "BAC": {
       "as_of": "2026-07-27",
@@ -428,7 +464,10 @@
       "dividend_yield_pct": 2.06,
       "ex_dividend_date": "2026-09-04",
       "ex_dividend_is_future": true,
-      "sector": "Financial Services"
+      "sector": "Financial Services",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "WFC": {
       "as_of": "2026-07-27",
@@ -461,7 +500,10 @@
       "dividend_yield_pct": 2.29,
       "ex_dividend_date": "2026-08-07",
       "ex_dividend_is_future": true,
-      "sector": "Financial Services"
+      "sector": "Financial Services",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "SCHW": {
       "as_of": "2026-07-27",
@@ -494,7 +536,10 @@
       "dividend_yield_pct": 1.23,
       "ex_dividend_date": "2026-08-14",
       "ex_dividend_is_future": true,
-      "sector": "Financial Services"
+      "sector": "Financial Services",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "PFE": {
       "as_of": "2026-07-27",
@@ -527,7 +572,10 @@
       "dividend_yield_pct": 6.97,
       "ex_dividend_date": "2026-07-24",
       "ex_dividend_is_future": false,
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "MRK": {
       "as_of": "2026-07-27",
@@ -560,7 +608,10 @@
       "dividend_yield_pct": 2.6,
       "ex_dividend_date": "2026-06-15",
       "ex_dividend_is_future": false,
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "GILD": {
       "as_of": "2026-07-27",
@@ -593,7 +644,10 @@
       "dividend_yield_pct": 2.51,
       "ex_dividend_date": "2026-06-15",
       "ex_dividend_is_future": false,
-      "sector": "Healthcare"
+      "sector": "Healthcare",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "KO": {
       "as_of": "2026-07-27",
@@ -626,7 +680,10 @@
       "dividend_yield_pct": 2.52,
       "ex_dividend_date": "2026-09-15",
       "ex_dividend_is_future": true,
-      "sector": "Consumer Defensive"
+      "sector": "Consumer Defensive",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "SBUX": {
       "as_of": "2026-07-27",
@@ -659,7 +716,10 @@
       "dividend_yield_pct": 2.39,
       "ex_dividend_date": "2026-08-14",
       "ex_dividend_is_future": true,
-      "sector": "Consumer Cyclical"
+      "sector": "Consumer Cyclical",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "NKE": {
       "as_of": "2026-07-27",
@@ -692,7 +752,10 @@
       "dividend_yield_pct": 3.89,
       "ex_dividend_date": "2026-06-01",
       "ex_dividend_is_future": false,
-      "sector": "Consumer Cyclical"
+      "sector": "Consumer Cyclical",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "XOM": {
       "as_of": "2026-07-27",
@@ -725,7 +788,10 @@
       "dividend_yield_pct": 2.66,
       "ex_dividend_date": "2026-05-15",
       "ex_dividend_is_future": false,
-      "sector": "Energy"
+      "sector": "Energy",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "CVX": {
       "as_of": "2026-07-27",
@@ -758,7 +824,10 @@
       "dividend_yield_pct": 3.75,
       "ex_dividend_date": "2026-05-19",
       "ex_dividend_is_future": false,
-      "sector": "Energy"
+      "sector": "Energy",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "VZ": {
       "as_of": "2026-07-27",
@@ -791,7 +860,10 @@
       "dividend_yield_pct": 5.98,
       "ex_dividend_date": "2026-07-10",
       "ex_dividend_is_future": false,
-      "sector": "Communication Services"
+      "sector": "Communication Services",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "DIS": {
       "as_of": "2026-07-27",
@@ -824,7 +896,10 @@
       "dividend_yield_pct": 1.55,
       "ex_dividend_date": "2026-06-30",
       "ex_dividend_is_future": false,
-      "sector": "Communication Services"
+      "sector": "Communication Services",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     },
     "PYPL": {
       "as_of": "2026-07-27",
@@ -849,15 +924,18 @@
       "volume_vs_adv20": 0.77,
       "next_earnings_date": "2026-10-27",
       "market_cap": 50271838208.0,
-      "free_cash_flow": 4083500032.0,
-      "total_cash": 9342000128.0,
-      "total_debt": 11669999616.0,
-      "net_cash": -2327999488.0,
+      "free_cash_flow": 4618999808.0,
+      "total_cash": 11256000512.0,
+      "total_debt": 13400000512.0,
+      "net_cash": -2144000000.0,
       "balance_sheet_ok": true,
       "dividend_yield_pct": 1.0,
       "ex_dividend_date": "2026-06-04",
       "ex_dividend_is_future": false,
-      "sector": "Financial Services"
+      "sector": "Financial Services",
+      "quote_type": "EQUITY",
+      "is_etf": false,
+      "total_assets": null
     }
   }
 }
