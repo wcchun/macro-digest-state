@@ -334,8 +334,8 @@ mechanical, so surface them even on an otherwise quiet day:
 - Open CSP whose strike is at or above the last close (in the money)
     → "[TICKER]: CSP [strike] is ITM at [close] — assignment path open; check the roll
        trigger (rule 3) before 21 DTE."
-- Open CC where `next_ex_dividend_date` falls before `expiry` and the strike is below
-  the last close
+- Open CC where `ex_dividend_date` is in the future (`ex_dividend_is_future` true)
+  and falls before `expiry`, and the strike is below the last close
     → "[TICKER]: ITM covered call spans ex-div [date] — early-assignment risk (rule 3)."
 - Any open position where the close is ≥25% below `net_basis`
     → "[TICKER]: [n]% below net basis — break-the-wheel rule 6 requires a FUNDAMENTAL

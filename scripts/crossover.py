@@ -59,7 +59,7 @@ def next_earnings_date(tk):
     return None
 
 
-def fundamentals(tk):
+def fundamentals(tk, close, today):
     """Wheel hard gates 2 and 8, plus the CC leg's ex-dividend check.
 
     yfinance's .info is slow and occasionally incomplete; every field degrades
@@ -74,7 +74,8 @@ def fundamentals(tk):
         "net_cash": None,
         "balance_sheet_ok": None,   # gate 8: positive FCF OR net cash
         "dividend_yield_pct": None,
-        "next_ex_dividend_date": None,
+        "ex_dividend_date": None,
+        "ex_dividend_is_future": None,
         "sector": None,             # portfolio rule: max 40% per GICS sector
     }
     try:
@@ -102,19 +103,38 @@ def fundamentals(tk):
     if out["free_cash_flow"] is not None or out["net_cash"] is not None:
         out["balance_sheet_ok"] = bool(fcf_ok or cash_ok)
 
-    dy = num("dividendYield")
-    if dy is not None:
-        # yfinance reports this as a fraction on some tickers and a percent on others.
-        out["dividend_yield_pct"] = clean(dy * 100 if dy < 1 else dy)
+    # Derive the yield from the annual dividend rate and our own close: yfinance's
+    # dividendYield field is a fraction on some tickers and a percent on others,
+    # and guessing from magnitude turns a 0.32% payer into a 32% one.
+    rate = num("dividendRate")
+    if rate is not None and close:
+        out["dividend_yield_pct"] = clean(rate / close * 100)
+    else:
+        trailing = num("trailingAnnualDividendYield")  # always a true fraction
+        if trailing is not None:
+            out["dividend_yield_pct"] = clean(trailing * 100)
 
-    ex_div = info.get("exDividendDate")
-    if ex_div:
+    # info's exDividendDate is often the LAST ex-date, not the next one. The
+    # covered-call leg cares specifically about an ex-date falling before expiry,
+    # so record which side of today it sits on rather than implying it is upcoming.
+    ex_div = None
+    try:
+        cal = tk.calendar
+        cal_ex = cal.get("Ex-Dividend Date") if isinstance(cal, dict) else None
+        if cal_ex:
+            ex_div = str(cal_ex[0] if isinstance(cal_ex, (list, tuple)) else cal_ex)[:10]
+    except Exception:
+        pass
+    if ex_div is None and info.get("exDividendDate"):
         try:
-            out["next_ex_dividend_date"] = datetime.fromtimestamp(
-                float(ex_div), tz=timezone.utc
+            ex_div = datetime.fromtimestamp(
+                float(info["exDividendDate"]), tz=timezone.utc
             ).strftime("%Y-%m-%d")
         except (TypeError, ValueError, OSError):
-            pass
+            ex_div = None
+    if ex_div:
+        out["ex_dividend_date"] = ex_div
+        out["ex_dividend_is_future"] = ex_div >= today.strftime("%Y-%m-%d")
 
     out["sector"] = info.get("sector") or None
     return out
@@ -125,6 +145,14 @@ def analyse(symbol):
     df = tk.history(period="1y")
     if df.empty:
         return {"error": "no price data"}
+
+    # Yahoo intermittently returns a trailing row with volume but NaN OHLC (a
+    # partially-formed bar). Taking .iloc[-1] off that row nulls out price, every
+    # MA, ATR and HV while leaving volume looking fine — so drop unpriced rows
+    # before anything reads the tail.
+    df = df[df["Close"].notna()]
+    if df.empty:
+        return {"error": "no priced sessions in window"}
 
     df["MA20"] = df["Close"].rolling(20).mean()
     df["MA50"] = df["Close"].rolling(50).mean()
@@ -198,7 +226,7 @@ def analyse(symbol):
         "volume_vs_adv20": clean(volume / adv) if clean(adv) not in (None, 0) else None,
         "next_earnings_date": next_earnings_date(tk),
     }
-    result.update(fundamentals(tk))
+    result.update(fundamentals(tk, close, datetime.now(timezone.utc).date()))
     return result
 
 
