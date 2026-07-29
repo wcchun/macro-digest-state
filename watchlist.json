@@ -1,9 +1,39 @@
 {
-  "_comment": "Single source of truth for tickers. news=true → covered by the Stock News Digest routine; technicals=true → covered by the crossover/options GitHub Actions. Edit this file only by hand — routines and workflows read it, never write it.",
+  "_comment": "Single source of truth for tickers. news=true → covered by the Stock News Digest routine; technicals=true → full technical + IV term-structure snapshot; wheel=true → screened by the Wheel Strategy skill (gets crossover data plus a delta-targeted put block). Flags combine freely. Edit by hand only — routines and workflows read this file, never write it.",
+  "_wheel_note": "The wheel pool below is a CANDIDATE universe for screening, not an approved list. The hard gates in Investment Analysis/wheel_strategy_system_prompt.md decide eligibility each run; expect most to be REJECTED on any given day.",
   "tickers": {
-    "AAPL": { "news": false, "technicals": true },
-    "PLTR": { "news": true, "technicals": true },
-    "TSLA": { "news": true, "technicals": true },
-    "FIG": { "news": true, "technicals": true }
+    "AAPL": { "news": false, "technicals": true, "wheel": false },
+    "PLTR": { "news": true, "technicals": true, "wheel": false },
+    "TSLA": { "news": true, "technicals": true, "wheel": false },
+    "FIG": { "news": true, "technicals": true, "wheel": false },
+
+    "IWM": { "news": false, "technicals": false, "wheel": true },
+    "XLF": { "news": false, "technicals": false, "wheel": true },
+    "XLE": { "news": false, "technicals": false, "wheel": true },
+    "SMH": { "news": false, "technicals": false, "wheel": true },
+
+    "INTC": { "news": false, "technicals": false, "wheel": true },
+    "MU": { "news": false, "technicals": false, "wheel": true },
+    "CSCO": { "news": false, "technicals": false, "wheel": true },
+    "AMD": { "news": false, "technicals": false, "wheel": true },
+
+    "BAC": { "news": false, "technicals": false, "wheel": true },
+    "WFC": { "news": false, "technicals": false, "wheel": true },
+    "SCHW": { "news": false, "technicals": false, "wheel": true },
+
+    "PFE": { "news": false, "technicals": false, "wheel": true },
+    "MRK": { "news": false, "technicals": false, "wheel": true },
+    "GILD": { "news": false, "technicals": false, "wheel": true },
+
+    "KO": { "news": false, "technicals": false, "wheel": true },
+    "SBUX": { "news": false, "technicals": false, "wheel": true },
+    "NKE": { "news": false, "technicals": false, "wheel": true },
+
+    "XOM": { "news": false, "technicals": false, "wheel": true },
+    "CVX": { "news": false, "technicals": false, "wheel": true },
+
+    "VZ": { "news": false, "technicals": false, "wheel": true },
+    "DIS": { "news": false, "technicals": false, "wheel": true },
+    "PYPL": { "news": false, "technicals": false, "wheel": true }
   }
 }

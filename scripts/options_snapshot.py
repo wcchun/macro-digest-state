@@ -34,6 +34,11 @@ IV_HISTORY_FILE = REPO_ROOT / "iv-history.json"
 MAX_EXPIRIES = 6
 IV_HISTORY_CAP = 252  # one trading year
 
+# Wheel strategy (Investment Analysis/wheel_strategy_system_prompt.md)
+R_FREE = 0.045                       # risk-free rate for Black-Scholes delta
+WHEEL_DTE_MIN, WHEEL_DTE_MAX = 30, 45
+WHEEL_TARGET_DELTAS = [0.15, 0.20, 0.25, 0.30]  # Tier C through Tier A bands
+
 
 def clean(value, digits=4):
     if value is None:
@@ -48,8 +53,110 @@ def clean(value, digits=4):
 
 
 def load_watchlist():
+    """Returns {symbol: flags} for anything needing options data."""
     data = json.loads((REPO_ROOT / "watchlist.json").read_text())
-    return [sym for sym, flags in data["tickers"].items() if flags.get("technicals")]
+    return {
+        sym: flags for sym, flags in data["tickers"].items()
+        if flags.get("technicals") or flags.get("wheel")
+    }
+
+
+def norm_cdf(x):
+    return 0.5 * (1.0 + math.erf(x / math.sqrt(2.0)))
+
+
+def put_delta(spot, strike, dte, iv):
+    """Black-Scholes put delta (negative). Returns None on degenerate inputs.
+
+    Dividends are not modelled, so deltas on high-yield names run slightly
+    large in magnitude — adequate for strike selection, not for hedging.
+    """
+    if not all([spot, strike, iv]) or dte <= 0 or iv <= 0:
+        return None
+    t = dte / 365.0
+    try:
+        d1 = (math.log(spot / strike) + (R_FREE + iv * iv / 2.0) * t) / (iv * math.sqrt(t))
+    except (ValueError, ZeroDivisionError):
+        return None
+    return norm_cdf(d1) - 1.0
+
+
+def wheel_block(tk, chains, term_structure, spot, today):
+    """Cash-secured-put candidates at the wheel's target deltas.
+
+    Picks the expiry inside the framework's 30-45 DTE window (nearest to 37 if
+    several qualify, else the closest available, flagged), computes a BS delta
+    for every put with usable IV, and returns the strike closest to each target
+    delta with the quote detail hard gate 4 needs (OI >= 500, spread <= 8% of mid).
+    """
+    in_window = [p for p in term_structure if WHEEL_DTE_MIN <= p["dte"] <= WHEEL_DTE_MAX]
+    if in_window:
+        chosen = min(in_window, key=lambda p: abs(p["dte"] - 37))
+        in_target_window = True
+    else:
+        future = [p for p in term_structure if p["dte"] > 0]
+        if not future:
+            return {"error": "no future expirations"}
+        chosen = min(future, key=lambda p: min(abs(p["dte"] - WHEEL_DTE_MIN),
+                                               abs(p["dte"] - WHEEL_DTE_MAX)))
+        in_target_window = False
+
+    puts = chains[chosen["expiration"]].puts
+    puts = puts[(puts["impliedVolatility"] > 0.01) & (puts["strike"] < spot)]
+    if puts.empty:
+        return {"error": "no usable OTM puts on the chosen expiry"}
+
+    candidates = []
+    for _, row in puts.iterrows():
+        d = put_delta(spot, float(row["strike"]), chosen["dte"], float(row["impliedVolatility"]))
+        if d is None:
+            continue
+        bid = float(row["bid"]) if row["bid"] == row["bid"] else 0.0
+        ask = float(row["ask"]) if row["ask"] == row["ask"] else 0.0
+        mid = (bid + ask) / 2 if bid > 0 and ask > 0 else None
+        oi = int(row["openInterest"]) if row["openInterest"] == row["openInterest"] else 0
+        spread_pct = clean((ask - bid) / mid * 100, 2) if mid else None
+        annualised = None
+        if mid:
+            # (premium per share / strike) * (365 / DTE) — the x100s cancel.
+            annualised = clean(mid / float(row["strike"]) * (365.0 / chosen["dte"]) * 100, 2)
+        candidates.append({
+            "strike": clean(float(row["strike"]), 2),
+            "delta": clean(abs(d), 3),
+            "bid": clean(bid, 2),
+            "ask": clean(ask, 2),
+            "mid": clean(mid, 2) if mid else None,
+            "open_interest": oi,
+            "iv": clean(float(row["impliedVolatility"])),
+            "spread_pct_of_mid": spread_pct,
+            "collateral_usd": clean(float(row["strike"]) * 100, 2),
+            "annualised_yield_pct": annualised,
+            "gate4_liquidity_ok": bool(oi >= 500 and spread_pct is not None and spread_pct <= 8),
+        })
+
+    if not candidates:
+        return {"error": "delta computation failed for all strikes"}
+
+    by_delta = {}
+    for target in WHEEL_TARGET_DELTAS:
+        best = dict(min(candidates, key=lambda c: abs(c["delta"] - target)))
+        best["target_delta"] = target
+        best["delta_gap"] = clean(abs(best["delta"] - target), 3)
+        # Coarse strike ladders can leave the nearest strike well off target, and
+        # two targets can collapse onto one strike. Say so rather than implying
+        # a precise delta match.
+        best["delta_match_ok"] = best["delta_gap"] <= 0.03
+        by_delta[f"{target:.2f}"] = best
+
+    return {
+        "expiration": chosen["expiration"],
+        "dte": chosen["dte"],
+        "in_30_45_window": in_target_window,
+        "spot": clean(spot, 2),
+        "strikes_by_target_delta": by_delta,
+        "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before "
+                "comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment.",
+    }
 
 
 def iv_at_strike(chain_side, strike_target):
@@ -127,16 +234,34 @@ def earnings_within_30d(tk, today):
     return {"flag": False, "date": None, "days_away": None}
 
 
-def analyse(symbol, today):
+def analyse(symbol, today, flags):
     tk = yf.Ticker(symbol)
     hist = tk.history(period="5d")
     if hist.empty:
         return {"error": "no price data"}
     spot = float(hist["Close"].iloc[-1])
 
-    expirations = list(tk.options)[:MAX_EXPIRIES]
-    if not expirations:
+    all_expirations = list(tk.options)
+    if not all_expirations:
         return {"error": "no options data"}
+
+    expirations = all_expirations[:MAX_EXPIRIES]
+    if flags.get("wheel"):
+        # Weekly-optionable names can have all 6 nearest expiries inside 30 DTE,
+        # so the wheel's 30-45 DTE window would be missed entirely. Extend just
+        # far enough to cover it.
+        for exp in all_expirations[MAX_EXPIRIES:]:
+            if exp in expirations:
+                continue
+            covered = any(
+                WHEEL_DTE_MIN <= (datetime.strptime(e, "%Y-%m-%d").date() - today).days <= WHEEL_DTE_MAX
+                for e in expirations
+            )
+            if covered:
+                break
+            expirations.append(exp)
+            if (datetime.strptime(exp, "%Y-%m-%d").date() - today).days > WHEEL_DTE_MAX:
+                break
 
     term_structure = []
     total_call_vol = total_put_vol = total_call_oi = total_put_oi = 0.0
@@ -176,7 +301,7 @@ def analyse(symbol, today):
             skew = clean((put_iv - call_iv) * 100, 2)  # vol points
 
     nearest = chains[expirations[0]]
-    return {
+    result = {
         "as_of": hist.index[-1].strftime("%Y-%m-%d"),
         "spot": clean(spot, 2),
         "iv_term_structure": term_structure,
@@ -192,6 +317,9 @@ def analyse(symbol, today):
         "puts_top5_oi": top5_oi(nearest.puts),
         "earnings_within_30d": earnings_within_30d(tk, today),
     }
+    if flags.get("wheel"):
+        result["wheel"] = wheel_block(tk, chains, term_structure, spot, today)
+    return result
 
 
 def update_iv_history(results, today):
@@ -227,9 +355,9 @@ def update_iv_history(results, today):
 def main():
     today = datetime.now(timezone.utc).date()
     results = {}
-    for symbol in load_watchlist():
+    for symbol, flags in load_watchlist().items():
         try:
-            results[symbol] = analyse(symbol, today)
+            results[symbol] = analyse(symbol, today, flags)
         except Exception as exc:
             results[symbol] = {"error": str(exc)}
         print(f"{symbol}: ok" if "error" not in results[symbol] else f"{symbol}: {results[symbol]['error']}")

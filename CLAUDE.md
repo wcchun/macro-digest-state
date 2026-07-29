@@ -11,8 +11,10 @@ This repo is the shared state store and integration point for THREE layers:
    reads the Layer-1 JSONs read-only and ends with a STRATEGY TRIAGE section
    pointing at the Layer-3 playbooks.
 3. **Layer 3 — on-demand deep dives (skills):** `/options-sentiment`, `/straddle`,
-   `/iv-ramp`, `/volume` wrap the system prompts in `Investment Analysis/` and
-   persist their calibration logs in `Investment Analysis/calibration/`.
+   `/iv-ramp`, `/volume`, `/wheel` wrap the system prompts in `Investment Analysis/`
+   and persist their calibration logs in `Investment Analysis/calibration/`.
+   `/wheel` is the only stateful one — it tracks open positions in `wheel-positions.json`
+   across sessions, and the Stock News Digest reads that ledger for its WHEEL ALERTS.
 
 Claude Code reads this file automatically at the start of every run of either Routine.
 
@@ -25,6 +27,7 @@ Claude Code reads this file automatically at the start of every run of either Ro
 | `watchlist.json` | the user (by hand) | read-only |
 | `crossover-result.json` | `crossover.yml` workflow | read-only |
 | `options-result.json`, `iv-history.json` | `options.yml` workflow | read-only |
+| `wheel-positions.json` | the `/wheel` skill + the user | read-only (digest reads it for alerts) |
 | `Investment Analysis/calibration/*.md` | Layer-3 analysis skills (append) | read-only |
 | `Routines_instructions/*.md`, `Investment Analysis/*.md`, `scripts/*` | the user | read-only |
 | `CLAUDE.md` Refinement Logs | user + Routines (adding calibration rules) | — |
@@ -70,8 +73,10 @@ Examples of the kind of rule that belongs here:
   modified in the working tree, revert it before committing.
 - Neither Routine may write to the workflow-owned or user-owned files in the
   ownership matrix above (`watchlist.json`, `crossover-result.json`,
-  `options-result.json`, `iv-history.json`, `scripts/`, the instruction/prompt
-  markdown files). Read freely; never commit changes to them.
+  `options-result.json`, `iv-history.json`, `wheel-positions.json`, `scripts/`,
+  the instruction/prompt markdown files). Read freely; never commit changes to them.
+- Analysis skills and Routines never manufacture a trade or soften a gate to make one
+  fit. "No eligible setup" is a valid, frequent, and complete answer.
 
 ═══════════════════════════════════════════════════════════
 ## Stock Digest Refinement Log
