@@ -51,9 +51,10 @@ threshold overrides accumulate there instead of being lost in chat history.
 
 **The wheel is the one stateful strategy.** It is a position lifecycle (cash-secured put →
 assignment → covered call → called away → repeat), so open legs, net basis, premium collected
-and roll counts live in `wheel-positions.json`. Fill in `wheel_capital_usd` and the OPERATOR
-PROFILE placeholders in the prompt before the first run — tier strike ceilings, sizing, and
-every portfolio limit are computed from them. Closed cycles graduate to
+and roll counts live in `wheel-positions.json`. It needs no account size: exposure is bounded by
+fixed strike ceilings (Tier A $230 / B $140 / C $90 — at most $23,000 collateral per contract) and
+by slot counts (8 positions total, A ≤ 4, B ≤ 3, C ≤ 2, max 2 per sector, 2 slots kept free).
+Closed cycles graduate to
 `Investment Analysis/calibration/wheel_cycles.md` with a buy-and-hold benchmark.
 
 Tastytrade scripts need `TT_REFRESH_TOKEN` and `TT_CLIENT_SECRET` in the

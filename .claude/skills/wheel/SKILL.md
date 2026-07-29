@@ -12,25 +12,11 @@ Follow the full protocol in `Investment Analysis/wheel_strategy_system_prompt.md
 
 ## Before anything else
 
-Read `wheel-positions.json`. When `wheel_capital_usd` is set, compute and state the three tier strike ceilings in the session header and apply them throughout.
+Read `wheel-positions.json` and count the slots in use — total (max 8), per tier (A ≤ 4, B ≤ 3, C ≤ 2), and per GICS sector (max 2, using `sector` from `crossover-result.json`). State those counts in the session header before screening anything.
 
-**When it is null, still run — but degrade honestly.** Per the framework's own data-integrity rules, a missing input stops *that section*, not the analysis. Ask once for account size, max-deployed %, risk tolerance and commission, then proceed with what does not depend on them:
+**No account size is needed or stored.** Exposure is bounded by two fixed numbers instead: the per-tier strike ceilings (A $230 / B $140 / C $90, i.e. at most $23,000 collateral per contract) and the slot counts above. Every gate and every trade plan is therefore fully evaluable — never emit a "pending sizing" verdict, and never ask the user for their account balance.
 
-| Works without capital | Blocked without capital |
-|---|---|
-| Gates 1–4 and 6–10; the price-band half of gate 5 | The tier-ceiling half of gate 5 (`strike ≤ wheel capital × tier cap ÷ 100`) |
-| Tier assignment, delta bands, annualised-yield hurdles | Contract count and capital committed |
-| Strike and expiry selection, premium and yield maths, per-contract collateral (`strike × 100`) | Every "% of wheel capital" limit, the 40%-per-sector cap, the ≥30% reserve |
-| Net basis, the CC leg, exit rules 1–5 and 7 | Exit rule 6's allocation-cap trigger only |
-
-Rules for a no-capital run:
-- Write `DATA REQUIRED: wheel_capital_usd` in the SIZING block. Never invent a contract count, and never substitute a "typical" account size.
-- Mark verdicts **ELIGIBLE (pending sizing)**, never plain ELIGIBLE — gate 5 is only half-evaluated, so the verdict is genuinely incomplete.
-- Express the plan as a rule where a number would need capital: "0.25 delta put, 30–45 DTE, ≥18% annualised, max strike = wheel capital × 25% ÷ 100".
-- Replace the portfolio check with one line naming what could not be checked.
-- `/wheel manage` is barely affected — run it normally and flag only rule 6's allocation trigger as unevaluable.
-
-Sizing is the strategy's primary risk control, so nothing here is executable until the figure is supplied — say that plainly once, then stop repeating it.
+The slot counts are the only control on TOTAL exposure, since a strike ceiling caps a single contract and nothing else caps the sum. Treat a count breach as hard as any Phase 1 gate: if the tier or sector is full, the correct output is "no slot available for [TICKER] — [tier/sector] at capacity", even when every other gate passes. Assigned shares keep occupying their slot until the cycle closes.
 
 ## Data sourcing order
 

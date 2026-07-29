@@ -1,7 +1,7 @@
 {
   "_comment": "Open wheel positions. Written by the /wheel skill (and by hand); read by the skill and by the Stock News Digest routine for its wheel alerts. The wheel is a position LIFECYCLE, so this ledger is what makes exit rules and portfolio limits evaluable at all — without it every session starts blind.",
   "_schema": {
-    "wheel_capital_usd": "account size x max-deployed %. Every '% of wheel capital' limit is measured against this.",
+    "_limits": "No account size is stored or needed. Exposure is bounded by the strike ceilings (Tier A $230 / B $140 / C $90 = max $23,000 collateral per contract) and by slot counts: 8 positions total, A<=4, B<=3, C<=2, max 2 per GICS sector, at least 2 slots left free.",
     "positions[]": {
       "id": "slug, e.g. pltr-2026-08-csp",
       "ticker": "symbol",
@@ -25,6 +25,5 @@
       "notes": "free text"
     }
   },
-  "wheel_capital_usd": null,
   "positions": []
 }
