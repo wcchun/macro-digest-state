@@ -77,6 +77,9 @@ def fundamentals(tk, close, today):
         "ex_dividend_date": None,
         "ex_dividend_is_future": None,
         "sector": None,             # portfolio rule: max 40% per GICS sector
+        "quote_type": None,         # EQUITY / ETF / ...
+        "is_etf": None,
+        "total_assets": None,       # ETFs report AUM, not market cap
     }
     try:
         info = tk.info or {}
@@ -90,6 +93,14 @@ def fundamentals(tk, close, today):
             return None if math.isnan(v) or math.isinf(v) else v
         except (TypeError, ValueError):
             return None
+
+    # Funds have no marketCap. Wheel gate 2 admits "market cap >= 10B OR a
+    # broad-based ETF", so the snapshot must say which kind of instrument this
+    # is — otherwise a null market cap reads as a gate failure for every ETF.
+    qt = info.get("quoteType") or info.get("typeDisp")
+    out["quote_type"] = qt
+    out["is_etf"] = (str(qt).upper() == "ETF") if qt else None
+    out["total_assets"] = num("totalAssets")
 
     out["market_cap"] = num("marketCap")
     out["free_cash_flow"] = num("freeCashflow")
