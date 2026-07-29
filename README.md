@@ -8,11 +8,13 @@ which tickers each layer covers.
 
 | Workflow | Schedule | Script | Output |
 |----------|----------|--------|--------|
-| `MA Crossover` | 21:00 UTC weekdays | `scripts/crossover.py` | `crossover-result.json` — MAs (20/50/200), true golden/death-cross events, ATR20, ADV20, volume ratio, next earnings date |
-| `Options Chain` | 20:45 UTC weekdays | `scripts/options_snapshot.py` | `options-result.json` — ATM IV term structure, term-structure ratio, Volume/OI put-call ratios, skew proxy, max pain, top-5 OI strikes; also appends to `iv-history.json` to build an IV rank over time |
+| `MA Crossover` | 21:00 UTC weekdays | `scripts/crossover.py` | `crossover-result.json` — MAs (20/50/200), true golden/death-cross events, ATR20, HV20, ADV20, volume ratio, market cap, sector, FCF/net-cash flag, next earnings and ex-dividend dates |
+| `Options Chain` | 20:45 UTC weekdays | `scripts/options_snapshot.py` | `options-result.json` — ATM IV term structure, term-structure ratio, Volume/OI put-call ratios, skew proxy, max pain, top-5 OI strikes, plus a `wheel` block of delta-targeted put strikes; also appends to `iv-history.json` to build an IV rank over time |
 
-Both read the tickers flagged `"technicals": true` in `watchlist.json` and commit
-results to the branch they run on (main, once merged).
+Both read `watchlist.json`, which flags each ticker `news` / `technicals` / `wheel`
+(they combine freely). Technical data covers `technicals` **or** `wheel` tickers; the
+options `wheel` block is built only for `wheel` tickers. Results are committed to the
+branch the workflow runs on (main, once merged).
 
 ## Layer 2 — automated narrative (scheduled Claude Routines)
 
@@ -23,7 +25,9 @@ results to the branch they run on (main, once merged).
   `stock-digest-state.json`. Reads the Layer-1 JSONs (read-only) to add a
   TECHNICALS line per ticker and a closing **STRATEGY TRIAGE** that flags which
   Layer-3 playbook is worth running (earnings straddle, same-day IV ramp,
-  volume/breakout check, options-sentiment read).
+  volume/breakout check, options-sentiment read), plus **WHEEL ALERTS** driven by
+  `wheel-positions.json` — earnings landing inside an open CSP expiry, 21-DTE time
+  stops, ITM assignment paths, and ex-dividend early-assignment risk on covered calls.
 
 The `.md` files here are the source documents — paste changes into the Routine
 configs when you edit them.
@@ -40,9 +44,18 @@ the calibration log) or standalone in Claude Projects (paste-a-data-block).
 | `/straddle TICKER` | `long_straddle_analyst_system_prompt.md` + `long_straddle_reference.md` | `tastytrade_fetch.py` |
 | `/iv-ramp TICKER --phase` | `iv_ramp_harvest_system_prompt.md` | `iv_ramp_harvest.py` |
 | `/volume TICKER` | `volume_analyst_system_prompt.md` | — |
+| `/wheel [screen\|manage]` | `wheel_strategy_system_prompt.md` | — |
 
 Calibration logs live in `Investment Analysis/calibration/` — hit rates and
 threshold overrides accumulate there instead of being lost in chat history.
+
+**The wheel is the one stateful strategy.** It is a position lifecycle (cash-secured put →
+assignment → covered call → called away → repeat), so open legs, net basis, premium collected
+and roll counts live in `wheel-positions.json`. It needs no account size: exposure is bounded by
+fixed strike ceilings (Tier A $230 / B $140 / C $90 — at most $23,000 collateral per contract) and
+by slot counts (8 positions total, A ≤ 4, B ≤ 3, C ≤ 2, max 2 per sector, 2 slots kept free).
+Closed cycles graduate to
+`Investment Analysis/calibration/wheel_cycles.md` with a buy-and-hold benchmark.
 
 Tastytrade scripts need `TT_REFRESH_TOKEN` and `TT_CLIENT_SECRET` in the
 environment; without them the skills fall back to repo snapshots + web search.

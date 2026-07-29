@@ -36,8 +36,12 @@ def clean(value, digits=2):
 
 
 def load_watchlist():
+    """Technical data serves both the digest tickers and the wheel candidates."""
     data = json.loads((REPO_ROOT / "watchlist.json").read_text())
-    return [sym for sym, flags in data["tickers"].items() if flags.get("technicals")]
+    return [
+        sym for sym, flags in data["tickers"].items()
+        if flags.get("technicals") or flags.get("wheel")
+    ]
 
 
 def next_earnings_date(tk):
@@ -55,11 +59,111 @@ def next_earnings_date(tk):
     return None
 
 
+def fundamentals(tk, close, today):
+    """Wheel hard gates 2 and 8, plus the CC leg's ex-dividend check.
+
+    yfinance's .info is slow and occasionally incomplete; every field degrades
+    to None rather than failing the run. None means UNRESOLVED to the wheel
+    framework, never "passed".
+    """
+    out = {
+        "market_cap": None,
+        "free_cash_flow": None,
+        "total_cash": None,
+        "total_debt": None,
+        "net_cash": None,
+        "balance_sheet_ok": None,   # gate 8: positive FCF OR net cash
+        "dividend_yield_pct": None,
+        "ex_dividend_date": None,
+        "ex_dividend_is_future": None,
+        "sector": None,             # portfolio rule: max 40% per GICS sector
+        "quote_type": None,         # EQUITY / ETF / ...
+        "is_etf": None,
+        "total_assets": None,       # ETFs report AUM, not market cap
+    }
+    try:
+        info = tk.info or {}
+    except Exception:
+        return out
+
+    def num(key):
+        v = info.get(key)
+        try:
+            v = float(v)
+            return None if math.isnan(v) or math.isinf(v) else v
+        except (TypeError, ValueError):
+            return None
+
+    # Funds have no marketCap. Wheel gate 2 admits "market cap >= 10B OR a
+    # broad-based ETF", so the snapshot must say which kind of instrument this
+    # is — otherwise a null market cap reads as a gate failure for every ETF.
+    qt = info.get("quoteType") or info.get("typeDisp")
+    out["quote_type"] = qt
+    out["is_etf"] = (str(qt).upper() == "ETF") if qt else None
+    out["total_assets"] = num("totalAssets")
+
+    out["market_cap"] = num("marketCap")
+    out["free_cash_flow"] = num("freeCashflow")
+    out["total_cash"] = num("totalCash")
+    out["total_debt"] = num("totalDebt")
+    if out["total_cash"] is not None and out["total_debt"] is not None:
+        out["net_cash"] = out["total_cash"] - out["total_debt"]
+
+    fcf_ok = out["free_cash_flow"] is not None and out["free_cash_flow"] > 0
+    cash_ok = out["net_cash"] is not None and out["net_cash"] > 0
+    if out["free_cash_flow"] is not None or out["net_cash"] is not None:
+        out["balance_sheet_ok"] = bool(fcf_ok or cash_ok)
+
+    # Derive the yield from the annual dividend rate and our own close: yfinance's
+    # dividendYield field is a fraction on some tickers and a percent on others,
+    # and guessing from magnitude turns a 0.32% payer into a 32% one.
+    rate = num("dividendRate")
+    if rate is not None and close:
+        out["dividend_yield_pct"] = clean(rate / close * 100)
+    else:
+        trailing = num("trailingAnnualDividendYield")  # always a true fraction
+        if trailing is not None:
+            out["dividend_yield_pct"] = clean(trailing * 100)
+
+    # info's exDividendDate is often the LAST ex-date, not the next one. The
+    # covered-call leg cares specifically about an ex-date falling before expiry,
+    # so record which side of today it sits on rather than implying it is upcoming.
+    ex_div = None
+    try:
+        cal = tk.calendar
+        cal_ex = cal.get("Ex-Dividend Date") if isinstance(cal, dict) else None
+        if cal_ex:
+            ex_div = str(cal_ex[0] if isinstance(cal_ex, (list, tuple)) else cal_ex)[:10]
+    except Exception:
+        pass
+    if ex_div is None and info.get("exDividendDate"):
+        try:
+            ex_div = datetime.fromtimestamp(
+                float(info["exDividendDate"]), tz=timezone.utc
+            ).strftime("%Y-%m-%d")
+        except (TypeError, ValueError, OSError):
+            ex_div = None
+    if ex_div:
+        out["ex_dividend_date"] = ex_div
+        out["ex_dividend_is_future"] = ex_div >= today.strftime("%Y-%m-%d")
+
+    out["sector"] = info.get("sector") or None
+    return out
+
+
 def analyse(symbol):
     tk = yf.Ticker(symbol)
     df = tk.history(period="1y")
     if df.empty:
         return {"error": "no price data"}
+
+    # Yahoo intermittently returns a trailing row with volume but NaN OHLC (a
+    # partially-formed bar). Taking .iloc[-1] off that row nulls out price, every
+    # MA, ATR and HV while leaving volume looking fine — so drop unpriced rows
+    # before anything reads the tail.
+    df = df[df["Close"].notna()]
+    if df.empty:
+        return {"error": "no priced sessions in window"}
 
     df["MA20"] = df["Close"].rolling(20).mean()
     df["MA50"] = df["Close"].rolling(50).mean()
@@ -71,6 +175,11 @@ def analyse(symbol):
     tr = tr.combine((df["Low"] - prev_close).abs(), max)
     df["ATR20"] = tr.rolling(20).mean()
     df["ADV20"] = df["Volume"].rolling(20).mean()
+
+    # 20-day realised (historical) volatility, annualised — wheel gate 7 compares
+    # this against IV30 from options-result.json. Both must be annualised percents.
+    log_ret = (df["Close"] / df["Close"].shift(1)).apply(lambda x: math.log(x) if x > 0 else float("nan"))
+    hv20 = log_ret.rolling(20).std() * math.sqrt(252) * 100
 
     close = float(df["Close"].iloc[-1])
     ma20 = df["MA20"].iloc[-1]
@@ -105,7 +214,7 @@ def analyse(symbol):
             return None
         return clean((close / float(ma) - 1) * 100)
 
-    return {
+    result = {
         "as_of": df.index[-1].strftime("%Y-%m-%d"),
         "close": clean(close),
         "20MA": clean(ma20),
@@ -122,11 +231,14 @@ def analyse(symbol):
         },
         "atr20": clean(atr),
         "atr20_pct": clean(atr / close * 100) if clean(atr) is not None else None,
+        "hv20_pct": clean(hv20.iloc[-1]),
         "adv20_shares": int(adv) if clean(adv, 0) is not None else None,
         "volume_today": int(volume),
         "volume_vs_adv20": clean(volume / adv) if clean(adv) not in (None, 0) else None,
         "next_earnings_date": next_earnings_date(tk),
     }
+    result.update(fundamentals(tk, close, datetime.now(timezone.utc).date()))
+    return result
 
 
 def main():

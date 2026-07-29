@@ -1,0 +1,29 @@
+{
+  "_comment": "Open wheel positions. Written by the /wheel skill (and by hand); read by the skill and by the Stock News Digest routine for its wheel alerts. The wheel is a position LIFECYCLE, so this ledger is what makes exit rules and portfolio limits evaluable at all — without it every session starts blind.",
+  "_schema": {
+    "_limits": "No account size is stored or needed. Exposure is bounded by the strike ceilings (Tier A $230 / B $140 / C $90 = max $23,000 collateral per contract) and by slot counts: 8 positions total, A<=4, B<=3, C<=2, max 2 per GICS sector, at least 2 slots left free.",
+    "positions[]": {
+      "id": "slug, e.g. pltr-2026-08-csp",
+      "ticker": "symbol",
+      "tier": "A | B | C",
+      "leg": "csp | shares | cc — the CURRENT leg of the cycle",
+      "status": "open | closed",
+      "cycle_started": "YYYY-MM-DD — the date the first CSP of this cycle was sold",
+      "contracts": "integer, negative not used; shares = contracts x 100",
+      "strike": "current short strike (null while holding shares with no call written)",
+      "expiry": "YYYY-MM-DD of the current short leg (null if no short leg open)",
+      "credit_received": "per-share credit on the CURRENT short leg",
+      "assignment_strike": "price shares were assigned at (null before assignment)",
+      "premium_collected_total": "per-share sum of every credit this cycle, net of debits paid on rolls",
+      "dividends_received_total": "per-share dividends received this cycle",
+      "commissions_total_usd": "dollar total, all legs this cycle",
+      "net_basis": "assignment_strike - premium_collected_total - dividends_received_total + commissions per share. RECOMPUTE on every update; the CC strike floor depends on it.",
+      "rolls_this_leg": "integer, max 2 before accepting the outcome",
+      "collateral_usd": "strike x 100 x contracts while in the csp leg; shares at cost after assignment",
+      "thesis": "one line — why you are willing to own it",
+      "invalidation": "the specific event that voids the thesis and breaks the wheel",
+      "notes": "free text"
+    }
+  },
+  "positions": []
+}

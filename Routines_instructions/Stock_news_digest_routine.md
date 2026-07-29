@@ -323,6 +323,26 @@ deep-dive playbook (if any) is worth running today. Triage rules:
     → "[TICKER]: positioning anomaly — run /options-sentiment
        (options_sentiment_analyst_system_prompt.md)"
 
+WHEEL ALERTS — read `wheel-positions.json` (read-only) and check every OPEN position,
+whether or not that ticker is on the news watchlist. These are time-sensitive and
+mechanical, so surface them even on an otherwise quiet day:
+- `next_earnings_date` falls on or before an open CSP's `expiry`, tier B or C
+    → "[TICKER]: earnings [date] lands inside the [expiry] CSP — exit rule 7 says close
+       or roll past the print. Run /wheel manage."
+- Open short leg with `expiry` ≤ 21 calendar days away
+    → "[TICKER]: [n] DTE on the [strike] [csp/cc] — exit rule 2 (time stop) is live."
+- Open CSP whose strike is at or above the last close (in the money)
+    → "[TICKER]: CSP [strike] is ITM at [close] — assignment path open; check the roll
+       trigger (rule 3) before 21 DTE."
+- Open CC where `ex_dividend_date` is in the future (`ex_dividend_is_future` true)
+  and falls before `expiry`, and the strike is below the last close
+    → "[TICKER]: ITM covered call spans ex-div [date] — early-assignment risk (rule 3)."
+- Any open position where the close is ≥25% below `net_basis`
+    → "[TICKER]: [n]% below net basis — break-the-wheel rule 6 requires a FUNDAMENTAL
+       trigger, not price alone. Check today's news for one."
+If `wheel-positions.json` is missing or `positions` is empty, skip this block silently —
+do not announce that there are no wheel positions.
+
 Rules for this section:
 - One line per triggered rule, at most; a ticker can trigger several.
 - If nothing triggers, write exactly: "STRATEGY TRIAGE: no setups today." — no padding.
@@ -355,6 +375,8 @@ HARD RULES
 - Never write to watchlist.json, crossover-result.json, options-result.json,
   or iv-history.json — they belong to the user and the GitHub workflows. If
   they show as modified in your working tree, exclude them from your commit.
+- Never write to wheel-positions.json either — read it for the WHEEL ALERTS block
+  only. Position state is changed by the /wheel skill or by the user, never by a digest.
 - Technicals values in the TECHNICALS line and STRATEGY TRIAGE come from the
   repo JSONs only — never from memory or estimation.
 - Honour every rule in the Refinement Log of CLAUDE.md, plus any
