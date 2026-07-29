@@ -239,7 +239,15 @@ def analyse(symbol, today, flags):
     hist = tk.history(period="5d")
     if hist.empty:
         return {"error": "no price data"}
+    # Yahoo can return a trailing bar with volume but NaN OHLC. A NaN spot makes
+    # every strike comparison false and every "nearest strike" lookup arbitrary,
+    # which silently corrupts ATM IV, skew, max pain and the whole wheel block.
+    hist = hist[hist["Close"].notna()]
+    if hist.empty:
+        return {"error": "no priced sessions in window"}
     spot = float(hist["Close"].iloc[-1])
+    if not math.isfinite(spot) or spot <= 0:
+        return {"error": f"unusable spot price: {spot}"}
 
     all_expirations = list(tk.options)
     if not all_expirations:
