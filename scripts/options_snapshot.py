@@ -107,6 +107,7 @@ def wheel_block(tk, chains, term_structure, spot, today):
         return {"error": "no usable OTM puts on the chosen expiry"}
 
     candidates = []
+    unquoted = 0
     for _, row in puts.iterrows():
         d = put_delta(spot, float(row["strike"]), chosen["dte"], float(row["impliedVolatility"]))
         if d is None:
@@ -114,6 +115,12 @@ def wheel_block(tk, chains, term_structure, spot, today):
         bid = float(row["bid"]) if row["bid"] == row["bid"] else 0.0
         ask = float(row["ask"]) if row["ask"] == row["ask"] else 0.0
         mid = (bid + ask) / 2 if bid > 0 and ask > 0 else None
+        # A strike with no two-sided quote has no premium to sell and usually
+        # carries a stale IV, which produces a nonsense delta that can win the
+        # nearest-delta contest outright. Exclude it from selection entirely.
+        if mid is None:
+            unquoted += 1
+            continue
         oi = int(row["openInterest"]) if row["openInterest"] == row["openInterest"] else 0
         spread_pct = clean((ask - bid) / mid * 100, 2) if mid else None
         annualised = None
@@ -135,7 +142,12 @@ def wheel_block(tk, chains, term_structure, spot, today):
         })
 
     if not candidates:
-        return {"error": "delta computation failed for all strikes"}
+        return {
+            "error": f"no two-sided quotes on {chosen['expiration']} "
+                     f"({unquoted} strikes unquoted) — chain not live when fetched",
+            "expiration": chosen["expiration"],
+            "dte": chosen["dte"],
+        }
 
     by_delta = {}
     for target in WHEEL_TARGET_DELTAS:
@@ -154,6 +166,7 @@ def wheel_block(tk, chains, term_structure, spot, today):
         "in_30_45_window": in_target_window,
         "spot": clean(spot, 2),
         "strikes_by_target_delta": by_delta,
+        "unquoted_strikes_excluded": unquoted,
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before "
                 "comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment.",
     }
@@ -372,8 +385,23 @@ def main():
 
     update_iv_history(results, today)
 
+    # Option quotes are only meaningful during or just after regular trading
+    # hours (13:30-20:00 UTC). A pre-market run returns zero bids and stale IVs,
+    # so the snapshot says which it was rather than letting a reader assume.
+    now = datetime.now(timezone.utc)
+    minutes = now.hour * 60 + now.minute
+    during_rth = now.weekday() < 5 and 13 * 60 + 30 <= minutes <= 20 * 60
+    settled = now.weekday() < 5 and 20 * 60 < minutes <= 22 * 60
+
     output = {
-        "run_at": datetime.now(timezone.utc).isoformat(),
+        "run_at": now.isoformat(),
+        "quote_context": {
+            "during_us_rth": during_rth,
+            "post_close_settled": settled,
+            "note": None if (during_rth or settled) else
+                    "Fetched outside US trading hours — bids/asks may be zero or stale and "
+                    "IV-derived deltas unreliable. Treat quotes as indicative only.",
+        },
         "results": results,
     }
     OUTPUT_FILE.write_text(json.dumps(output, indent=2, allow_nan=False) + "\n")

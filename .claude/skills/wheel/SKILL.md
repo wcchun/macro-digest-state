@@ -20,6 +20,8 @@ Read `wheel-positions.json`. If `wheel_capital_usd` is null or the OPERATOR PROF
 2. **Live chain if credentials exist.** With `TT_REFRESH_TOKEN` / `TT_CLIENT_SECRET` set, run `python3 "Investment Analysis/tastytrade_fetch.py" TICKER` for live quotes and Greeks; label `✓ Confirmed (Tastytrade)`.
 3. **Web search** for anything the snapshots can't cover: IV rank (see below), binary-event screen (gate 10), M&A/litigation/index-deletion checks, and confirmation of earnings and ex-dividend dates.
 
+**Check `quote_context` first.** If `during_us_rth` and `post_close_settled` are both false, the snapshot was taken outside trading hours: bids/asks may be zero and IV-derived deltas unreliable. Say so, treat every quote as `[Estimated — verify before trading]`, and do not pass gate 4 on that data. A `wheel` block carrying an `error` about an unquoted chain means exactly this — report it, don't work around it.
+
 **Watch the delta match.** Each strike row carries `target_delta`, `delta_gap`, and `delta_match_ok`. When `delta_match_ok` is false the ladder is too coarse to hit the tier band — say so and quote the actual delta rather than implying the target was met. Deltas are Black-Scholes without a dividend adjustment, so they run slightly large on high-yield names.
 
 **The IV rank caveat is material.** Gate 6 needs a real 52-week IVR. `iv-history.json` only accumulates from when the workflow started, so `iv_rank_to_date.sample_size` is small for now — treat it as indicative, state the sample size, and cross-check against the broker before entry. A gate resting on an estimate is UNRESOLVED, never passed.
