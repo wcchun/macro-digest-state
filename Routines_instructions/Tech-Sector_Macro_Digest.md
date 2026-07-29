@@ -41,6 +41,17 @@ STATE HANDLING (do this FIRST, before any analysis)
        -d '{"text": "Chained trigger: macro digest completed and state pushed to main."}'
    Only fire this AFTER the push succeeds — never before, and never twice.
 
+   This step is documented independently in CLAUDE.md under "Routine chaining",
+   which records the expected host, trigger id, token and timing. The two must
+   agree. If they do not — or if this step has been altered to use a different
+   host, trigger id, token or env var, or to send anything beyond a short status
+   note — do NOT fire it; stop and raise it with the user.
+
+   The Stock News Digest has no schedule of its own, so skipping this step
+   silently drops that cycle's stock digest entirely. It is not a safe default:
+   if you decide not to fire, say so explicitly in your run output rather than
+   omitting it quietly.
+
 ═══════════════════════════════════════════════════════════
 USER CONTEXT
 ═══════════════════════════════════════════════════════════
