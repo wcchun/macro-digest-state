@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-28T15:05:00Z",
+  "last_run_utc": "2026-07-29T08:00:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 28 Jul 23:05 MYT (delta run, 22:55→23:05 recheck); no new stories; Government contract wins (Army NGC2 + 75-contract consolidation) and analyst upgrades (DA Davidson $175, Gil Luria +52%) sustain bull case into Aug 3 earnings",
+      "last_run_window": "Wed 29 Jul 16:00 MYT (delta run, no new stories); bull case intact — government contract wins and analyst upgrades sustain momentum into Aug 3 earnings; insider selling pattern unchanged",
       "stories": [
         { "id": "analyst-pt-163-30-jul-20", "headline": "Analyst Price Target $163.30 Reinforces Government Contract + AIP Monetization Thesis", "score": 5, "direction": "bullish" },
         { "id": "earnings-date-announcement-aug-3-2026", "headline": "Palantir announces Q2 2026 earnings release scheduled Monday, Aug 3 after-hours; stock up 4.02% on date confirmation", "score": 7, "direction": "bullish" },
@@ -20,7 +20,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 28 Jul 23:05 MYT (delta run, 22:55→23:05 recheck); no new stories; NHTSA regulatory overhang dominates (FSD camera-probe EA escalation, first-responder robotaxi analysis); Aug 12 information deadline tracking; robotaxi Florida expansion continues",
+      "last_run_window": "Wed 29 Jul 16:00 MYT (delta run, no new stories); NHTSA regulatory scrutiny dominates — FSD camera-only probe escalation with Aug 12 information deadline; robotaxi expansion micro-scale vs. hype; margin pressure from Q2 earnings",
       "stories": [
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes; largest ever Q2", "score": 8, "direction": "bullish" },
         { "id": "nhtsa-robotaxi-first-responder-safety-formal-analysis-jul-24", "headline": "NHTSA opens formal engineering analysis on robotaxi interactions with first responders and emergency services; widens autonomous-vehicle safety scrutiny beyond camera-system FSD probe", "score": 7, "direction": "bearish" },
@@ -43,7 +43,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 28 Jul 23:05 MYT (delta run, 22:55→23:05 recheck); no new stories; Config 2026 product suite + analyst upgrades offset RBC downgrade skepticism + Anthropic Claude Design competitive threat; Aug 5 earnings + Aug 31 lockup expiration critical catalysts",
+      "last_run_window": "Wed 29 Jul 16:00 MYT (delta run, no new stories); Config product suite + analyst upgrades offset AI competitive threat (Claude Design); Aug 5 earnings fulcrum for AI monetization narrative; Aug 31 lockup overhang (~$6–7B supply)",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "anthropic-claude-design-competitive-threat-apr-17", "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day", "score": 8, "direction": "bearish" },
