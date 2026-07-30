@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-29T15:35:00Z",
+  "last_run_utc": "2026-07-30T01:15:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 29 Jul 23:35 MYT (delta run): 2 new stories — France DGSI/ChapsVision contract loss and disputed Cleveland Research commercial-spend flag (6.1% selloff Jul 28, countered by Oppenheimer/Baird $200 PT reiterations); bull thread (Army NGC2, Nvidia Nemotron, upgrades) unchanged into Aug 3 earnings",
+      "last_run_window": "Thu 30 Jul 09:11 MYT (delta run): no new stories scoring 4+ in the ~9-10hr window since last run; Cleveland Research selloff, France/ChapsVision, NHS, NGC2, and Sankar insider-sale threads unchanged; Aug 3 earnings next catalyst",
       "stories": [
         { "id": "france-dgsi-chapsvision-contract-loss", "headline": "France's DGSI intelligence agency replaces Palantir with domestic rival ChapsVision on data-sovereignty grounds; Bloomberg (Jul 27) frames the switch against fraying Trump-era transatlantic tech ties", "score": 6, "direction": "bearish" },
         { "id": "cleveland-research-commercial-spend-flag-selloff-jul28", "headline": "Cleveland Research channel checks flag soft Q2 commercial bookings; PLTR falls 6.1% Jul 28 in a broader software repricing; Oppenheimer and Baird same-week reiterate Outperform/$200 PT disputing the read ahead of Aug 3 earnings", "score": 6, "direction": "bearish" },
@@ -22,8 +22,9 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 29 Jul 23:35 MYT (delta run): 1 new story — Fremont Model S/X line dismantled for Optimus conversion, capex >$25B/negative FCF reaffirmed; NHTSA FSD probe memo now cites 9 crashes (up from 4, same tracked thread); technicals weakened further (death cross, most-oversold-in-a-year) ahead of Aug 12 NHTSA deadline",
+      "last_run_window": "Thu 30 Jul 09:11 MYT (delta run): 1 new story — Musk's X response to Volvo dropping LiDAR (low-confidence camera-only narrative reinforcement); fresh 52-week low intraday (~$298, RSI ~27) extends the post-earnings decline (recap, not scored as new news); NHTSA FSD probe and Optimus threads unchanged",
       "stories": [
+        { "id": "musk-volvo-lidar-camera-only-vindication-jul29", "headline": "Volvo permanently drops LiDAR plans (Luminar supplier bankruptcy); Musk responds on X 'I did try to warn them,' framing it as vindication of Tesla's camera-only FSD approach", "score": 4, "direction": "bullish" },
         { "id": "fremont-model-s-x-teardown-optimus-conversion-capex-reaffirm", "headline": "Tesla completes 46-day teardown of the Fremont Model S/X line to begin Optimus production; first units go to internal 'Optimus Academy' R&D, not customers; 2026 capex guidance reaffirmed above $25B with full-year-negative FCF", "score": 6, "direction": "bearish" },
         { "id": "q2-2026-delivery-beat", "headline": "Q2 2026 deliveries beat: 480,126 vehicles vs 406k consensus; 25% YoY growth resumes; largest ever Q2", "score": 8, "direction": "bullish" },
         { "id": "nhtsa-robotaxi-first-responder-safety-formal-analysis-jul-24", "headline": "NHTSA opens formal engineering analysis on robotaxi interactions with first responders and emergency services; widens autonomous-vehicle safety scrutiny beyond camera-system FSD probe", "score": 7, "direction": "bearish" },
@@ -46,7 +47,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 29 Jul 23:35 MYT (delta run): no new stories scoring 4+; ARK Invest FIG flows churn both directions (low signal, contradictory reports); AI-competition and Aug 31 lockup threads unchanged; Aug 5 earnings date reconfirmed",
+      "last_run_window": "Thu 30 Jul 09:11 MYT (delta run): no new stories scoring 4+; routine CRO Voskanian 10b5-1 sale ($268K) noted but scores <=3; AI-competition and Aug 31 lockup threads unchanged; Aug 5 earnings next catalyst",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "anthropic-claude-design-competitive-threat-apr-17", "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day", "score": 8, "direction": "bearish" },
