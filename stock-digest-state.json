@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-07-30T13:17:32Z",
+  "last_run_utc": "2026-07-31T01:25:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 30 Jul 21:17 MYT (delta run): no new stories scoring 4+ in the ~12hr window since the 09:11 MYT check (Asia-session hours, ahead of tonight's US open); Cleveland Research selloff, France/ChapsVision, NHS, NGC2, and Sankar insider-sale threads unchanged; Aug 3 earnings next catalyst (5 days away)",
+      "last_run_window": "Fri 31 Jul 09:25 MYT (delta run): no new stories scoring 4+ since the Thu 30 Jul 21:17 MYT check; Citi's PT cut to $200 (Jul 23), the DIA/ASTRA solicitation withdrawal (Jul 24), and Sankar's 10b5-1 sale (Jul 2) all predate this window — Cleveland Research selloff, France/ChapsVision, NHS, NGC2, and Sankar insider-sale threads unchanged; Aug 3 AH earnings next catalyst (3 days away)",
       "stories": [
         { "id": "france-dgsi-chapsvision-contract-loss", "headline": "France's DGSI intelligence agency replaces Palantir with domestic rival ChapsVision on data-sovereignty grounds; Bloomberg (Jul 27) frames the switch against fraying Trump-era transatlantic tech ties", "score": 6, "direction": "bearish" },
         { "id": "cleveland-research-commercial-spend-flag-selloff-jul28", "headline": "Cleveland Research channel checks flag soft Q2 commercial bookings; PLTR falls 6.1% Jul 28 in a broader software repricing; Oppenheimer and Baird same-week reiterate Outperform/$200 PT disputing the read ahead of Aug 3 earnings", "score": 6, "direction": "bearish" },
@@ -22,7 +22,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 30 Jul 21:17 MYT (delta run): no new stories scoring 4+ in the ~12hr window since the 09:11 MYT check; 'worst week since 2022' (-18%) recap coverage of the already-scored post-earnings decline is commentary, not new news; NHTSA FSD/red-light probes, Optimus, and analyst PT-cut threads unchanged; next earnings pushed out to Oct 21 (no earnings-within-30d)",
+      "last_run_window": "Fri 31 Jul 09:25 MYT (delta run): 2 new since Thu 30 Jul 21:17 MYT — Tesla built its 10-millionth vehicle (halfway to the 20M-unit goal in Musk's $1T pay-package tranches) and Tesla-SpaceX merger speculation hit a record 74% on Kalshi after Musk's Jul 22 earnings-call 'growing overlap' comment; both fed Thursday's 3% rebound off $300 support that snapped a 6-session losing streak; NHTSA FSD/red-light probes, Optimus, and analyst PT-cut threads unchanged; next earnings Oct 21 (no earnings-within-30d)",
       "stories": [
         { "id": "musk-volvo-lidar-camera-only-vindication-jul29", "headline": "Volvo permanently drops LiDAR plans (Luminar supplier bankruptcy); Musk responds on X 'I did try to warn them,' framing it as vindication of Tesla's camera-only FSD approach", "score": 4, "direction": "bullish" },
         { "id": "fremont-model-s-x-teardown-optimus-conversion-capex-reaffirm", "headline": "Tesla completes 46-day teardown of the Fremont Model S/X line to begin Optimus production; first units go to internal 'Optimus Academy' R&D, not customers; 2026 capex guidance reaffirmed above $25B with full-year-negative FCF", "score": 6, "direction": "bearish" },
@@ -43,11 +43,13 @@
         { "id": "insider-buy-650k-jul-20", "headline": "Insider executive buy: $650,000 purchase on Jul 20, timed right before Q2 earnings announcement; contrasts with routine pre-scheduled 10b5-1 selling pattern", "score": 4, "direction": "neutral" },
         { "id": "paper-transport-tesla-semi-chicago-pilot-jul-13", "headline": "Wisconsin carrier Paper Transport announces formal Chicago metro pilot partnership with Tesla Semi Long Range; signals commercial operator confidence in production readiness", "score": 5, "direction": "bullish" },
         { "id": "europe-growth-57pct-yoy", "headline": "Europe registered 118,068 Tesla vehicles (first 5 months 2026), up 57.2% YoY; validates geographic diversification and pricing power", "score": 5, "direction": "bullish" },
-        { "id": "piper-sandler-pt-cut-500-450-jul-28", "headline": "Piper Sandler cuts Tesla price target from $500 to $450 on Jul 28; continues post-Q2 earnings analyst downgrade cycle", "score": 5, "direction": "bearish" }
+        { "id": "piper-sandler-pt-cut-500-450-jul-28", "headline": "Piper Sandler cuts Tesla price target from $500 to $450 on Jul 28; continues post-Q2 earnings analyst downgrade cycle", "score": 5, "direction": "bearish" },
+        { "id": "tesla-10-millionth-vehicle-musk-pay-package-jul30", "headline": "Tesla builds its 10-millionth vehicle (Jul 30, Fremont); marks halfway progress toward the 20M-vehicle goal in one of the four operational tranches of Musk's $1T pay package", "score": 5, "direction": "bullish" },
+        { "id": "tesla-spacex-merger-odds-74pct-kalshi-jul30", "headline": "Tesla-SpaceX merger speculation intensifies: Kalshi prediction-market odds hit a record 74% for a merger by May 2027, following Musk's Jul 22 earnings-call comment about 'growing overlap' (Terafab); no formal process confirmed by either company", "score": 4, "direction": "bullish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 30 Jul 21:17 MYT (delta run): no new stories scoring 4+ in the ~12hr window since the 09:11 MYT check; today's up-move is sector-wide AI-narrative sentiment with no new fact attached (recap, not scored); AI-competition and Aug 31 lockup threads unchanged; Aug 5 earnings next catalyst (7 days away)",
+      "last_run_window": "Fri 31 Jul 09:25 MYT (delta run): no new stories scoring 4+ since the Thu 30 Jul 21:17 MYT check; Anthropic/Claude Design thread, Aug 31 lockup, and mid-to-late-July analyst PT trims (Citi $36→$35, Piper Sandler $35→$30, Stifel $30→$25) all predate this window and are unchanged; Aug 5 earnings next catalyst (5 days away)",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "anthropic-claude-design-competitive-threat-apr-17", "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day", "score": 8, "direction": "bearish" },
