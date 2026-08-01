@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-01T01:22:00Z",
+  "last_run_utc": "2026-08-01T13:16:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sat 1 Aug 09:22 MYT (delta run): no new stories scoring 4+ since Fri 31 Jul 21:18 MYT; France/ChapsVision, Cleveland Research selloff, Citi's PT cut, DIA/ASTRA withdrawal, and Sankar's Jul 2 10b5-1 sale all remain unchanged; Aug 3 AH earnings next catalyst (2 days away)",
+      "last_run_window": "Sat 1 Aug 21:16 MYT (delta run): no new stories scoring 4+ since Sat 1 Aug 09:22 MYT (quiet Saturday, markets closed); France/ChapsVision, Cleveland Research selloff, Citi's PT cut, DIA/ASTRA withdrawal, and Sankar's Jul 2 10b5-1 sale all remain unchanged; Aug 3 AH earnings next catalyst (2 days away)",
       "stories": [
         { "id": "france-dgsi-chapsvision-contract-loss", "headline": "France's DGSI intelligence agency replaces Palantir with domestic rival ChapsVision on data-sovereignty grounds; Bloomberg (Jul 27) frames the switch against fraying Trump-era transatlantic tech ties", "score": 6, "direction": "bearish" },
         { "id": "cleveland-research-commercial-spend-flag-selloff-jul28", "headline": "Cleveland Research channel checks flag soft Q2 commercial bookings; PLTR falls 6.1% Jul 28 in a broader software repricing; Oppenheimer and Baird same-week reiterate Outperform/$200 PT disputing the read ahead of Aug 3 earnings", "score": 6, "direction": "bearish" },
@@ -22,7 +22,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sat 1 Aug 09:22 MYT (delta run): no new stories scoring 4+ since Fri 31 Jul 21:18 MYT; WSJ China-unit/SpaceX-merger report + Musk denial, DOT/NHTSA AV-deregulation package, NHTSA FSD probe (Aug 12 info-demand deadline), and analyst PT-cut threads all remain unchanged; next earnings Oct 21 (no earnings-within-30d)",
+      "last_run_window": "Sat 1 Aug 21:16 MYT (delta run): 1 new since Sat 1 Aug 09:22 MYT — NHTSA opened a fresh preliminary evaluation into ~1.2M vehicles over suspension/lateral-link detachment (Jul 31; backfilled here as a prior-cycle miss, not a same-window story); WSJ China-unit/SpaceX-merger report + Musk denial, DOT/NHTSA AV-deregulation package, NHTSA camera-only-FSD probe (Aug 12 info-demand deadline), and analyst PT-cut threads all remain unchanged; next earnings Oct 21 (no earnings-within-30d)",
       "stories": [
         { "id": "musk-volvo-lidar-camera-only-vindication-jul29", "headline": "Volvo permanently drops LiDAR plans (Luminar supplier bankruptcy); Musk responds on X 'I did try to warn them,' framing it as vindication of Tesla's camera-only FSD approach", "score": 4, "direction": "bullish" },
         { "id": "fremont-model-s-x-teardown-optimus-conversion-capex-reaffirm", "headline": "Tesla completes 46-day teardown of the Fremont Model S/X line to begin Optimus production; first units go to internal 'Optimus Academy' R&D, not customers; 2026 capex guidance reaffirmed above $25B with full-year-negative FCF", "score": 6, "direction": "bearish" },
@@ -47,11 +47,12 @@
         { "id": "tesla-10-millionth-vehicle-musk-pay-package-jul30", "headline": "Tesla builds its 10-millionth vehicle (Jul 30, Fremont); marks halfway progress toward the 20M-vehicle goal in one of the four operational tranches of Musk's $1T pay package", "score": 5, "direction": "bullish" },
         { "id": "tesla-spacex-merger-odds-74pct-kalshi-jul30", "headline": "Tesla-SpaceX merger speculation intensifies: Kalshi prediction-market odds hit a record 74% for a merger by May 2027, following Musk's Jul 22 earnings-call comment about 'growing overlap' (Terafab); no formal process confirmed by either company", "score": 4, "direction": "bullish" },
         { "id": "tesla-china-unit-sale-spacex-merger-denial-jul31", "headline": "WSJ reports Tesla executives were told to explore separating/selling the China business ahead of a possible Tesla-SpaceX merger (SpaceX's defense-contractor status seen as incompatible with Tesla's China manufacturing footprint); Musk denies on X: 'This has never even come up in a discussion ever. Absurdly fake news.'", "score": 6, "direction": "neutral" },
-        { "id": "dot-nhtsa-av-deregulation-zoox-exemption-jul31", "headline": "DOT/NHTSA announces AV-deregulation package: Zoox-specific temporary robotaxi exemption (2,500/yr) and a fast-tracked national AV performance standard to replace the current state patchwork; not Tesla-specific but a directional tailwind for robotaxi deployment broadly", "score": 4, "direction": "bullish" }
+        { "id": "dot-nhtsa-av-deregulation-zoox-exemption-jul31", "headline": "DOT/NHTSA announces AV-deregulation package: Zoox-specific temporary robotaxi exemption (2,500/yr) and a fast-tracked national AV performance standard to replace the current state patchwork; not Tesla-specific but a directional tailwind for robotaxi deployment broadly", "score": 4, "direction": "bullish" },
+        { "id": "nhtsa-suspension-lateral-link-probe-1-2m-vehicles-jul31", "headline": "NHTSA opens preliminary evaluation into ~1.2M Tesla vehicles (2018-2020 Model 3, 2021-2023 Model Y) over front lower lateral-link suspension detachment; 156 owner complaints, no confirmed crashes/injuries; could escalate to a recall", "score": 6, "direction": "bearish" }
       ]
     },
     "FIG": {
-      "last_run_window": "Sat 1 Aug 09:22 MYT (delta run): no new stories scoring 4+ since Fri 31 Jul 21:18 MYT; Anthropic/Claude Design thread, Aug 31 lockup, Figma Make properties-panel/annotations feature update (routine, sub-4), and mid-to-late-July analyst PT trims all remain unchanged; Aug 5 earnings next catalyst (4 days away)",
+      "last_run_window": "Sat 1 Aug 21:16 MYT (delta run): no new stories scoring 4+ since Sat 1 Aug 09:22 MYT (quiet Saturday, markets closed); Anthropic/Claude Design thread, Aug 31 lockup, Findell Capital activist pressure, and mid-to-late-July analyst PT trims all remain unchanged; Aug 5 earnings next catalyst (4 days away)",
       "stories": [
         { "id": "config-2026-ai-feature-suite", "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides", "score": 7, "direction": "bullish" },
         { "id": "anthropic-claude-design-competitive-threat-apr-17", "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day", "score": 8, "direction": "bearish" },
