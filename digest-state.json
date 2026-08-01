@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-07-31T13:09:00Z",
-  "last_run_window": "Fri 31 Jul 21:09 MYT (delta: 0 new / 4 updated since Fri 31 Jul 09:07 MYT — Apple's earnings reaction reverses (Services + Greater China miss overshadow the EPS/rev beat); Kospi's Asia rebound hits a RECORD 17.9% single-day gain (Samsung +27%, SK Hynix limit-up); Fed Sept rate-hike odds jump to ~82% (from ~53% a week ago); Iran conflict rhetoric hardens but oil retreats to $84 WTI / $89 Brent off its $100+ peak; 67 stories tracking)",
+  "last_run_utc": "2026-08-01T01:10:00Z",
+  "last_run_window": "Sat 1 Aug 09:10 MYT (delta: 3 new / 5 updated since Fri 31 Jul 21:09 MYT — Iran escalation deepens (Kuwait US-base drone strike, reported Hormuz tanker attacks, US weekend-strike plans per WSJ); Amazon's AWS blowout confirmed with a +11-15% single-day surge, largest in over a decade; Kospi's record 17.9% rally held through Friday's close (Samsung +28%, SK Hynix +30% limit-up); Apple reverses -7-9% on a below-consensus Sept-quarter guide; hawkish Fed regional presidents push 30yr yields to a fresh multidecade high (~5.28%); 70 stories tracking)",
   "stories": [
     {
       "id": "tech-volatility-spike-23yr-high-jul-28",
@@ -316,7 +316,7 @@
     },
     {
       "id": "iran-ceasefire-collapse-jordan-attack-jul-29",
-      "headline": "Iran-US Ceasefire Collapses: IRGC Fires Ballistic Missiles at US Base in Jordan in Overnight 'Surprise Assault'; Trump Vows US 'Will Hit Iran Hard'; Brent Crude Spikes +6.6% to $89.61, WTI +6.4% to $84.31; Reopens Oil-to-Inflation-to-Hawkish-Fed Transmission Channel Hours Before FOMC Decision; Reverses Prior De-Escalation Thread",
+      "headline": "Iran-US Conflict Re-Escalates: Ceasefire Collapse (IRGC Ballistic Missiles at US Base Jordan, Jul 29) Followed by Iran Drone Strike on US Ahmad Al-Jaber Airbase in Kuwait (Fri 31 Jul, retaliation for Jul 29-30 US strikes incl. Qeshm Island) and Reported Iran Attacks on Two Oil Tankers Transiting Strait of Hormuz Under US Military Escort (unconfirmed by US/UK maritime security); US Officials (WSJ/Bloomberg) Say Fresh US Strike Wave on Iranian Energy Sites Being Prepared 'As Soon As This Weekend'; Trump Vows to 'Hit Iran Hard'; Senate Rejects 2nd War-Powers Resolution 50-49 (Jul 30); Brent $90.12 / WTI $84.67 Fri Close (+~1% on tanker-attack reports, still down >5% for the week) (↑ escalation continues into weekend with US strikes reportedly imminent)",
       "score": 8,
       "direction": "bearish"
     },
@@ -358,8 +358,8 @@
     },
     {
       "id": "treasury-30yr-yield-multidecade-high-jul-30",
-      "headline": "30-Year Treasury Yield Pushes to Multidecade High Near 5.24% Thu 30 Jul Despite Softer Core PCE Print; 10-Year Ticks Up to 4.70%; Yields Rising on Hawkish-Fed/Fiscal and Iran-Escalation Risk Premium Rather Than Inflation Data, Signaling Discount-Rate Pressure Persists Independent of the Data Calendar",
-      "score": 6,
+      "headline": "30-Year Treasury Yield Extends to Fresh Multidecade High ~5.28% Fri 31 Jul (from ~5.24% Thu, ~5.21% Wed); 10-Year Rises to ~4.71-4.75%; Move Directly Tied to Regional Fed Presidents (Cleveland's Hammack, Dallas's Logan, Minneapolis's Kashkari) Publicly Reiterating the Case for an Immediate Hike Just Two Days After the Jul 29 Hold; Sitting Officials Openly Campaigning for Hikes Is an Unusual, Hawkish Signal Pressuring the Long-Duration Discount Rate (↑ hawkish Fed commentary drives yields to new highs)",
+      "score": 7,
       "direction": "bearish"
     },
     {
@@ -376,20 +376,20 @@
     },
     {
       "id": "amazon-q2-2026-earnings-blowout-aws-accel-capex-220b-jul-30",
-      "headline": "Amazon Q2 2026 Blowout: EPS $5.75 vs $1.82 Est., Revenue $201B vs $197B Est.; AWS +37% YoY to $42.2B (Fastest Growth Since Dec 2021); FY2026 Capex Guidance Raised to $220B (from $200B); Stock +9% After-Hours Thu 30 Jul",
+      "headline": "Amazon Q2 2026 Blowout Confirmed Through Friday's Full Session: EPS $5.75 vs $1.82 Est., Revenue $201B vs $197B Est.; AWS +37% YoY to $42.2B (Fastest Growth Since Dec 2021), AWS Backlog Hits $496B, AWS AI and Chip Businesses Each Individually Exceed $25B Annualized Revenue; FY2026 Capex Guidance Raised to $220B (from $200B), Explicitly Citing Higher Memory/Component Costs; Stock +11-15% Friday 31 Jul — Company's Largest Single-Day Gain in Over a Decade (↑ real-money move confirms and exceeds the initial after-hours pop, validating hyperscaler AI-demand durability)",
       "score": 9,
       "direction": "bullish"
     },
     {
       "id": "capex-durability-reversal-soxx-asia-rebound-kospi14pct-jul-31",
-      "headline": "Capex-Durability Reversal Extends: Kospi Posts RECORD 17.9% Single-Day Surge (largest in index history) as Samsung +27%, SK Hynix Hits 30% Daily Limit on Microsoft-Led AI-Trade Rally; SOXX/Chip ETFs +3-4% Premarket, AMD +13%; Nasdaq-100 Futures +1% (↑ record magnitude confirmed, continuation of Thu's reversal)",
+      "headline": "Capex-Durability Reversal Confirmed Through Friday's Close: Kospi Closes +17.9% to a Record 6,595-6,695 (largest single-day gain in index history, HELD through the full session, did not fade) as Samsung +28%, SK Hynix Hits 30% Daily Limit-Up on Microsoft/AWS-Led AI-Trade Rally; Nikkei +4.0% to 64,362; Whether the Broader US Semiconductor Complex (SOXX, individual chip names) Sustained a Matching Rally Through Friday's US Cash Session Is Unconfirmed/Conflicting in Reporting — Flagged as an Open Question (↑ Asia-session magnitude confirmed and held into the close)",
       "score": 8,
       "direction": "bullish"
     },
     {
       "id": "apple-q3-fy2026-earnings-beat-jul-30",
-      "headline": "Apple Q3 FY2026 Beats Headline Estimates ($109.42B rev vs $108.65B est, EPS $2.02 vs $1.89 est, iPhone rev +22% YoY) BUT Shares Reverse Lower on Services Miss and Greater China Revenue Miss ($18.8B vs $19.5B est); Cook's Final Call Before Sept 1 Executive-Chairman Transition to Ternus (↓ reversal — beat headline, miss underneath)",
-      "score": 6,
+      "headline": "Apple Q3 FY2026 Reversal Confirmed Friday: Stock Falls 7-9% to Close Below $300 Despite Headline Beat ($109.4B Rev +16% YoY vs ~$108.9-109B Est., EPS $2.02 vs $1.89 Est., iPhone Rev +22% YoY); Services and Greater China Both Missed ($18.82B China Rev vs ~$19.5B Est.); Sept-Quarter Guide of 9-11% Revenue Growth Falls Below ~12% Street Expectation, Management Cites Supply-Chain Constraints and Memory/Component Cost Inflation; Tim Cook's Final Earnings Call Before Sept 1 Executive-Chairman Transition to Ternus; Analyst Reaction Split — TD Cowen Raises PT $350→$400 (Buy), BofA Reaffirms $380 PT, vs Morgan Stanley Cuts $364→$360, Goldman Trims ~10%, Barclays Cuts $253→$245 (Underweight) (↑ guidance-driven margin/cost concern crystallizes beyond the initial headline-vs-underneath framing)",
+      "score": 7,
       "direction": "bearish"
     },
     {
@@ -401,6 +401,24 @@
     {
       "id": "jobless-claims-197k-resilient-jul-30",
       "headline": "Initial Jobless Claims 197K vs 200K Expected (+9K WoW), Continuing Claims 1.782M vs 1.795M Expected; Labor Market Resilience Holds Despite Prior Week's Multi-Decade Low Print",
+      "score": 4,
+      "direction": "neutral"
+    },
+    {
+      "id": "memory-cost-inflation-cross-cutting-jul-31",
+      "headline": "Memory-Cost Inflation Emerges as a Cross-Cutting Theme: Micron +6% Friday 31 Jul After Both Apple and Amazon CEOs Independently Flag Sharply Higher DRAM/Memory Costs on Their Earnings Calls, Tying Directly Into Apple's Guidance Miss and Amazon's Capex Raise to $220B; Signals DRAM/NAND Cost Pass-Through Squeezing Device-Maker and Hyperscaler Margins Simultaneously, Distinct From the Demand-Side AI-Capex Debate",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "eci-q2-2026-wage-beat-jul-31",
+      "headline": "Q2 2026 Employment Cost Index (Released Fri 31 Jul): Compensation Costs +0.9% QoQ Seasonally Adjusted (Beat +0.8% Expected), Matching Q1's +0.9%; Wages/Salaries +0.9%, Benefits +1.0%; YoY (NSA) Compensation +3.4%, Wages +3.2%, Benefits +3.8%; Hotter-Than-Expected Wage-Cost Print Reinforces Sticky-Inflation Narrative Underpinning Friday's Hawkish Fed Commentary and Yield Rise",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "umich-sentiment-chicago-pmi-beat-jul-31",
+      "headline": "Final July University of Michigan Consumer Sentiment Rises to 55.2 (from 54.4 Preliminary, ~12% Above June, Broad-Based Improvement Across Groups); Chicago PMI Beats at 57.6 (vs 55.0 Expected, vs June's 56.7); Secondary Data Signaling Consumer/Regional-Manufacturing Resilience, Mild Positive for Consumer-Facing/Ad-Driven Tech Revenue but Does Not Move the Dominant Rates/Earnings Narrative",
       "score": 4,
       "direction": "neutral"
     }
