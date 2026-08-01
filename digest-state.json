@@ -1,10 +1,10 @@
 {
-  "last_run_utc": "2026-08-01T01:10:00Z",
-  "last_run_window": "Sat 1 Aug 09:10 MYT (delta: 3 new / 5 updated since Fri 31 Jul 21:09 MYT — Iran escalation deepens (Kuwait US-base drone strike, reported Hormuz tanker attacks, US weekend-strike plans per WSJ); Amazon's AWS blowout confirmed with a +11-15% single-day surge, largest in over a decade; Kospi's record 17.9% rally held through Friday's close (Samsung +28%, SK Hynix +30% limit-up); Apple reverses -7-9% on a below-consensus Sept-quarter guide; hawkish Fed regional presidents push 30yr yields to a fresh multidecade high (~5.28%); 70 stories tracking)",
+  "last_run_utc": "2026-08-01T13:06:00Z",
+  "last_run_window": "Sat 1 Aug 21:06 MYT (delta: 1 incremental update since Sat 1 Aug 09:10 MYT \u2014 quiet Saturday daytime window, US markets closed, no scheduled macro data; Iran/Hormuz thread advances from rumor to confirmed tanker strike (Qatari LNG carrier hit per UKMTO) plus a fresh Kuwait drone wave and sharper Iranian chokepoint-closure rhetoric, but most substance was already flagged in the prior digest so scored as a low-importance update, not a fresh driver; 71 stories tracking)",
   "stories": [
     {
       "id": "tech-volatility-spike-23yr-high-jul-28",
-      "headline": "Tech Sector Volatility Spike to 23-Year High: VXN 28 vs VIX 16; Nasdaq Futures –1%, Asia Semis Freefall (Samsung –13.4%, SK Hynix –14.7% Tue 28 Jul); SOX Down 21% July YTD; Nasdaq Swings 1.75× S&P 500; Options Market Repricing Tail Risk; Hedging Intensity Signals Loss of Confidence in Capex Durability; Structural Capitulation on AI Durability Doubts",
+      "headline": "Tech Sector Volatility Spike to 23-Year High: VXN 28 vs VIX 16; Nasdaq Futures \u20131%, Asia Semis Freefall (Samsung \u201313.4%, SK Hynix \u201314.7% Tue 28 Jul); SOX Down 21% July YTD; Nasdaq Swings 1.75\u00d7 S&P 500; Options Market Repricing Tail Risk; Hedging Intensity Signals Loss of Confidence in Capex Durability; Structural Capitulation on AI Durability Doubts",
       "score": 8,
       "direction": "bearish"
     },
@@ -16,7 +16,7 @@
     },
     {
       "id": "tsmc-wafer-price-hike-5-10pct-july-13",
-      "headline": "TSMC and Samsung Raise Advanced-Node Wafer Prices 5–10% Effective July 2026: 5nm/7nm Nodes (74% of TSMC Foundry Revenue); Smartphone Chips +5%, CPUs +7%, HPC/AI Chips +10%; Reflects Pricing Power Amid AI Demand But Creates Input-Cost Pressure for Downstream Customers (NVDA, AMD, Apple, Qualcomm)",
+      "headline": "TSMC and Samsung Raise Advanced-Node Wafer Prices 5\u201310% Effective July 2026: 5nm/7nm Nodes (74% of TSMC Foundry Revenue); Smartphone Chips +5%, CPUs +7%, HPC/AI Chips +10%; Reflects Pricing Power Amid AI Demand But Creates Input-Cost Pressure for Downstream Customers (NVDA, AMD, Apple, Qualcomm)",
       "score": 7,
       "direction": "neutral"
     },
@@ -34,19 +34,19 @@
     },
     {
       "id": "asml-q2-earnings-july-15-guidance-uprevised",
-      "headline": "ASML Raises 2026 Full-Year Revenue Guidance to €43-45B (from €36-40B) with 54-56% Gross Margin (from 51-53%); Q2 Beat €9.3B Revenue (vs €8.8B consensus); CEO Fouquet: 'Demand Outpacing Supply'; EUV Shipments Target +25% YoY; Capex Durability Thesis Confirmed",
+      "headline": "ASML Raises 2026 Full-Year Revenue Guidance to \u20ac43-45B (from \u20ac36-40B) with 54-56% Gross Margin (from 51-53%); Q2 Beat \u20ac9.3B Revenue (vs \u20ac8.8B consensus); CEO Fouquet: 'Demand Outpacing Supply'; EUV Shipments Target +25% YoY; Capex Durability Thesis Confirmed",
       "score": 9,
       "direction": "bullish"
     },
     {
       "id": "samsung-earnings-reset-demand-shock-jul-8",
-      "headline": "Samsung Electronics Q2 2026 Earnings Miss Expectations Despite Record Revenue; Memory/Chip Guidance Signals Lower 2H 2026 Demand Growth; Triggers Global Semiconductor Sector Selloff (Nasdaq-100 –1.8%, Intel –9.7%, AMD –6.5%, ASML –7.3%)",
+      "headline": "Samsung Electronics Q2 2026 Earnings Miss Expectations Despite Record Revenue; Memory/Chip Guidance Signals Lower 2H 2026 Demand Growth; Triggers Global Semiconductor Sector Selloff (Nasdaq-100 \u20131.8%, Intel \u20139.7%, AMD \u20136.5%, ASML \u20137.3%)",
       "score": 8,
       "direction": "bearish"
     },
     {
       "id": "iran-escalation-strait-attacks-irgc-bases-jul-13-15",
-      "headline": "Iran Escalation Deepens: Day 10+ Conflict with Persistent Cost; Ceasefire Collapsed July 8; IRGC Strikes U.S. Bases Kuwait/Bahrain; Iran Attacks Strait Shipping; US Launches 13th Strike Wave on Iran (Jul 27–28); Blockade Reimposed Both Sides; Oil Retreats to $90.95 Brent (Jul 26, down from $100.65 Jul 23, -9.7%) on Risk Reassessment; Trump Retaliation Threat (Jul 27–28) Re-Opens Tail Risk; IEA: 'Largest Supply Disruption in History'; Hormuz Voyages Down 52% Week-on-Week; Yemen Houthis Enforce Saudi Port Blockade via Red Sea Ship Attacks; Escalation Risk Remains High; Stagflation Pressure on Tech Sector Mounts; Strait of Hormuz Supply-Chain Risk Elevated (↓ oil retreat Jul 26, but rhetoric reignites ↑ tail risk Jul 27–28)",
+      "headline": "Iran Escalation Deepens: Day 10+ Conflict with Persistent Cost; Ceasefire Collapsed July 8; IRGC Strikes U.S. Bases Kuwait/Bahrain; Iran Attacks Strait Shipping; US Launches 13th Strike Wave on Iran (Jul 27\u201328); Blockade Reimposed Both Sides; Oil Retreats to $90.95 Brent (Jul 26, down from $100.65 Jul 23, -9.7%) on Risk Reassessment; Trump Retaliation Threat (Jul 27\u201328) Re-Opens Tail Risk; IEA: 'Largest Supply Disruption in History'; Hormuz Voyages Down 52% Week-on-Week; Yemen Houthis Enforce Saudi Port Blockade via Red Sea Ship Attacks; Escalation Risk Remains High; Stagflation Pressure on Tech Sector Mounts; Strait of Hormuz Supply-Chain Risk Elevated (\u2193 oil retreat Jul 26, but rhetoric reignites \u2191 tail risk Jul 27\u201328)",
       "score": 9,
       "direction": "bearish"
     },
@@ -64,13 +64,13 @@
     },
     {
       "id": "fed-minutes-july-8-warsh-silent-dot-plot-nine-hawkish",
-      "headline": "Fed Minutes Release July 8, 2:00 PM ET: Nine of 18 Officials Project ≥1 Rate Hike in Remainder 2026; Fed Chair Warsh Omits Own Projection from June Dot Plot, Signals Data Dependency; CPI Beat July 14 Offsets Hawkish Surprise; Rate-Cut Pricing Accelerates Post-CPI",
+      "headline": "Fed Minutes Release July 8, 2:00 PM ET: Nine of 18 Officials Project \u22651 Rate Hike in Remainder 2026; Fed Chair Warsh Omits Own Projection from June Dot Plot, Signals Data Dependency; CPI Beat July 14 Offsets Hawkish Surprise; Rate-Cut Pricing Accelerates Post-CPI",
       "score": 7,
       "direction": "bearish"
     },
     {
       "id": "data-center-power-demand-1100-twh-offset-joulent-deal",
-      "headline": "US Data-Center Power Demand Tops 1,100 TWh Annually; Grid Interconnection Queue Delays Remain 24–36 Months; ESCALATION: ~50% of Planned 2026 Data Centers Canceled/Delayed Due to Power Constraints; PARTIAL RELIEF: National Grid Ventures Invests $1.75B for 35% Stake in Joulent; Chevron-Microsoft Project Kilby Adds 2.67 GW Dedicated Behind-Meter Capacity (2028); Grid Constraint Remains Binding Near-Term But Addressable",
+      "headline": "US Data-Center Power Demand Tops 1,100 TWh Annually; Grid Interconnection Queue Delays Remain 24\u201336 Months; ESCALATION: ~50% of Planned 2026 Data Centers Canceled/Delayed Due to Power Constraints; PARTIAL RELIEF: National Grid Ventures Invests $1.75B for 35% Stake in Joulent; Chevron-Microsoft Project Kilby Adds 2.67 GW Dedicated Behind-Meter Capacity (2028); Grid Constraint Remains Binding Near-Term But Addressable",
       "score": 8,
       "direction": "neutral"
     },
@@ -88,19 +88,19 @@
     },
     {
       "id": "goldman-sachs-semi-downgrade-capex-intensity",
-      "headline": "Goldman Sachs Downgrades Semiconductor Sector; Cuts SMH Price Target 5%, Cites 2027 Capex Intensity and 3–5% Earnings Revisions Down; Earnings Reset Now Reflected in Samsung/Global Chip Selloff",
+      "headline": "Goldman Sachs Downgrades Semiconductor Sector; Cuts SMH Price Target 5%, Cites 2027 Capex Intensity and 3\u20135% Earnings Revisions Down; Earnings Reset Now Reflected in Samsung/Global Chip Selloff",
       "score": 7,
       "direction": "bearish"
     },
     {
       "id": "tsmc-post-capex-guidance-secondary-selloff-jul-20",
-      "headline": "Semiconductor Market Reverses Post-TSMC Capex Guidance: PHLX Semiconductor Index (SOX) Down 10% for Week; Taiwan Semiconductor Equities Enter Correction Territory (Down 25% from June Peak); Market Reinterprets TSMC Capex Raise ($60–64B) as Oversupply Signal Rather Than Demand Validation; Concerns: AI Capex Efficiency Questions, Supply-Demand Imbalance, Demand Slowdown Risk (↑ valuation reset accelerates)",
+      "headline": "Semiconductor Market Reverses Post-TSMC Capex Guidance: PHLX Semiconductor Index (SOX) Down 10% for Week; Taiwan Semiconductor Equities Enter Correction Territory (Down 25% from June Peak); Market Reinterprets TSMC Capex Raise ($60\u201364B) as Oversupply Signal Rather Than Demand Validation; Concerns: AI Capex Efficiency Questions, Supply-Demand Imbalance, Demand Slowdown Risk (\u2191 valuation reset accelerates)",
       "score": 8,
       "direction": "bearish"
     },
     {
       "id": "tsmc-q2-earnings-july-16-ai-demand-validation",
-      "headline": "TSMC Q2 2026 Earnings CRUSH + GUIDANCE UPREVISION: Revenue $40.04B (+36% YoY), Gross Margin 67.7% (beat 65.5–67.5%); FY2026 Revenue Growth Raised to >40% (from >30%); Capex Increased to $60–64B (from $56B ceiling); Q3 Guidance $44.6–45.8B; AI Demand Acceleration Outpacing Prior Expectations; CoWoS Sold Out; Market Reinterprets Capex as Oversupply Risk Despite Strong Demand Signals; Shares Down 5% Post-Earnings; Capex Durability Thesis Clouded by Market Skepticism and Leverage Concerns (↑ doubt deepens); Semiconductor Deterioration Continues Tue 28 Jul with Asia Amplifying",
+      "headline": "TSMC Q2 2026 Earnings CRUSH + GUIDANCE UPREVISION: Revenue $40.04B (+36% YoY), Gross Margin 67.7% (beat 65.5\u201367.5%); FY2026 Revenue Growth Raised to >40% (from >30%); Capex Increased to $60\u201364B (from $56B ceiling); Q3 Guidance $44.6\u201345.8B; AI Demand Acceleration Outpacing Prior Expectations; CoWoS Sold Out; Market Reinterprets Capex as Oversupply Risk Despite Strong Demand Signals; Shares Down 5% Post-Earnings; Capex Durability Thesis Clouded by Market Skepticism and Leverage Concerns (\u2191 doubt deepens); Semiconductor Deterioration Continues Tue 28 Jul with Asia Amplifying",
       "score": 9,
       "direction": "bearish"
     },
@@ -124,13 +124,13 @@
     },
     {
       "id": "ai-capex-uprevised-750b-2026-1t-2027-power-constraint",
-      "headline": "AI Capital Spend Uprevised to $750B (2026) → $1T+ (2027); Power Grid Becomes Binding Constraint (Not GPU Supply); AWS Launches Graviton5 CPU Instances; Qualcomm-Meta AI Data-Center Partnership; GPU Market Projected $624.17B by 2034; Hyperscaler Demand 'Almost Unlimited'; Infrastructure Diversification Away from NVIDIA Pure-Play",
+      "headline": "AI Capital Spend Uprevised to $750B (2026) \u2192 $1T+ (2027); Power Grid Becomes Binding Constraint (Not GPU Supply); AWS Launches Graviton5 CPU Instances; Qualcomm-Meta AI Data-Center Partnership; GPU Market Projected $624.17B by 2034; Hyperscaler Demand 'Almost Unlimited'; Infrastructure Diversification Away from NVIDIA Pure-Play",
       "score": 6,
       "direction": "neutral"
     },
     {
       "id": "section-122-tariff-expiry-july-24-congress-limbo",
-      "headline": "Section 122 Global Tariff (10%) Expires July 24 12:01 AM EDT by Statute; Congress No Extension Legislation Pending—Tariff Limbo Resolved; Average US Tariff Rate Falls from 13.0% to 7.2%; Section 301 Replacement (10-12.5% on 46 Countries) to Follow Late July; Capital Equipment Input Costs Drop; Capex Acceleration Expected Pre-Section-301 Implementation; Near-Term Bullish for Semiconductor/AI Infrastructure Spend (↑ relief rally underway)",
+      "headline": "Section 122 Global Tariff (10%) Expires July 24 12:01 AM EDT by Statute; Congress No Extension Legislation Pending\u2014Tariff Limbo Resolved; Average US Tariff Rate Falls from 13.0% to 7.2%; Section 301 Replacement (10-12.5% on 46 Countries) to Follow Late July; Capital Equipment Input Costs Drop; Capex Acceleration Expected Pre-Section-301 Implementation; Near-Term Bullish for Semiconductor/AI Infrastructure Spend (\u2191 relief rally underway)",
       "score": 7,
       "direction": "bullish"
     },
@@ -142,7 +142,7 @@
     },
     {
       "id": "nvidia-h200-china-approvals-export-liberalization",
-      "headline": "NVIDIA Receives US Licenses to Ship Small Volumes of H200 to China; Alibaba, Tencent, ByteDance, JD.com Approved to Purchase; CONFIRMED: Sales Actually Executed; Policy Liberalization Eases Export Headwind; Signals US-China Tech Détente on AI Chips",
+      "headline": "NVIDIA Receives US Licenses to Ship Small Volumes of H200 to China; Alibaba, Tencent, ByteDance, JD.com Approved to Purchase; CONFIRMED: Sales Actually Executed; Policy Liberalization Eases Export Headwind; Signals US-China Tech D\u00e9tente on AI Chips",
       "score": 6,
       "direction": "bullish"
     },
@@ -160,7 +160,7 @@
     },
     {
       "id": "china-ai-export-controls-proposal-jul-7-8",
-      "headline": "China Mulls AI Export Controls; Ministry of Commerce Holds Talks with Alibaba, ByteDance on Restricting Overseas Access to Advanced AI Models; Tiered System Proposed (Basic Open-Source Filing → Advanced Security Review → Frontier Models Barred); Creates Asymmetric Advantage for US AI Ecosystem",
+      "headline": "China Mulls AI Export Controls; Ministry of Commerce Holds Talks with Alibaba, ByteDance on Restricting Overseas Access to Advanced AI Models; Tiered System Proposed (Basic Open-Source Filing \u2192 Advanced Security Review \u2192 Frontier Models Barred); Creates Asymmetric Advantage for US AI Ecosystem",
       "score": 4,
       "direction": "bullish"
     },
@@ -172,19 +172,19 @@
     },
     {
       "id": "netflix-earnings-miss-jul-17-growth-slowdown-signal",
-      "headline": "Netflix Q2 2026 Earnings MISS + Market Reaction: Revenue Guidance $50.7B–$51.7B FY2026 at 31.5% Op Margin; Advertising ~$3B in 2026; Subscriber/Revenue Growth Weaker Than Expected; Stock Declined 10% Post-Earnings; Reporting Change: Shifts 'What We Watched' from Quarterly to Annual Format (Engagement Opacity Concerns); Sentiment Reversal From Positive Guidance Narrative",
+      "headline": "Netflix Q2 2026 Earnings MISS + Market Reaction: Revenue Guidance $50.7B\u2013$51.7B FY2026 at 31.5% Op Margin; Advertising ~$3B in 2026; Subscriber/Revenue Growth Weaker Than Expected; Stock Declined 10% Post-Earnings; Reporting Change: Shifts 'What We Watched' from Quarterly to Annual Format (Engagement Opacity Concerns); Sentiment Reversal From Positive Guidance Narrative",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "analyst-downgrades-escalate-jul-19",
-      "headline": "Analyst Downgrades Escalate: KeyBanc Downgrades AAPL to Underweight ($250 PT); SFDC to Sector Weight; Baird Downgrades CoStar (SaaS) $48→$34 PT; Raymond James Downgrades Check Point; Multiple Valuations Compressed Post-Earnings",
+      "headline": "Analyst Downgrades Escalate: KeyBanc Downgrades AAPL to Underweight ($250 PT); SFDC to Sector Weight; Baird Downgrades CoStar (SaaS) $48\u2192$34 PT; Raymond James Downgrades Check Point; Multiple Valuations Compressed Post-Earnings",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "brazil-tariff-section-301-jul-15",
-      "headline": "Brazil 25% Section 301 Tariff Imposed Effective July 22, 2026; Joins 60-Country Forced-Labor Tariff Pipeline (10–12.5%); Semiconductor Input Costs Rise (Materials, Packaging, Rare Earths)",
+      "headline": "Brazil 25% Section 301 Tariff Imposed Effective July 22, 2026; Joins 60-Country Forced-Labor Tariff Pipeline (10\u201312.5%); Semiconductor Input Costs Rise (Materials, Packaging, Rare Earths)",
       "score": 6,
       "direction": "bearish"
     },
@@ -220,19 +220,19 @@
     },
     {
       "id": "ai-bubble-market-cap-36pct-s&p-jul-21",
-      "headline": "AI-Linked Equities Reach $27 Trillion Market Value, Representing 36% of S&P 500; Bubble Concentration Intensifies Amid Elevated Credit Costs and Leverage in AI Acquisition; Revaluation Risk if AI Capex ROI Disappoints or Demand Growth Slows (↑ leverage concern intensifies)",
+      "headline": "AI-Linked Equities Reach $27 Trillion Market Value, Representing 36% of S&P 500; Bubble Concentration Intensifies Amid Elevated Credit Costs and Leverage in AI Acquisition; Revaluation Risk if AI Capex ROI Disappoints or Demand Growth Slows (\u2191 leverage concern intensifies)",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "meta-q2-2026-earnings-eps-miss-fcf-collapse-jul-29",
-      "headline": "Meta Q2 2026 Earnings: Revenue $60.8B Beats (+28% YoY) BUT Adjusted EPS $6.18 Misses ($7.17 Expected); 2026 Capex Guidance Raised Again to $130–145B (from $125–145B); Free Cash Flow Collapses to $784M; Q3 Guidance $61–64B Light vs $63.15B Consensus; Stock Falls 9.64% After-Hours Wed 29 Jul to $529; Crystallizes AI-Capex-ROI Doubt Despite Sustained Spend Commitment",
+      "headline": "Meta Q2 2026 Earnings: Revenue $60.8B Beats (+28% YoY) BUT Adjusted EPS $6.18 Misses ($7.17 Expected); 2026 Capex Guidance Raised Again to $130\u2013145B (from $125\u2013145B); Free Cash Flow Collapses to $784M; Q3 Guidance $61\u201364B Light vs $63.15B Consensus; Stock Falls 9.64% After-Hours Wed 29 Jul to $529; Crystallizes AI-Capex-ROI Doubt Despite Sustained Spend Commitment",
       "score": 9,
       "direction": "bearish"
     },
     {
       "id": "treasury-yields-spike-4-71pct-jul-24",
-      "headline": "US 10-Year Treasury Yields Spike to 4.71% (Highest Since January 2025) on Iran Escalation + Geopolitical Tail-Risk; Brent Crude $100.65 (+7% on Jul 23) Drives Inflation Expectations; 10-Year Rises Four Consecutive Sessions; Equity Discount-Rate Pressure Mounts; Bearish for Long-Duration Tech Valuations (↑ geopolitical premium sustained until ceasefire holds)",
+      "headline": "US 10-Year Treasury Yields Spike to 4.71% (Highest Since January 2025) on Iran Escalation + Geopolitical Tail-Risk; Brent Crude $100.65 (+7% on Jul 23) Drives Inflation Expectations; 10-Year Rises Four Consecutive Sessions; Equity Discount-Rate Pressure Mounts; Bearish for Long-Duration Tech Valuations (\u2191 geopolitical premium sustained until ceasefire holds)",
       "score": 7,
       "direction": "bearish"
     },
@@ -256,31 +256,31 @@
     },
     {
       "id": "alphabet-q2-2026-earnings-cloud-surge-capex-july-22",
-      "headline": "Alphabet Q2 2026 Earnings Beat: Cloud Revenue +82% YoY Validates Hyperscaler AI Capex ROI; Full-Year CapEx Guidance Raised to $195–205B (from $180–190B); FCF Margin Collapses 21% → 9.2%; Q3 Cloud Margin Pressure Signaled; 2027 Capex Increase Guidance Confirmed; Market Reprices Risk from Capex-Durability Bullish to Capex-Drag-on-FCF Bearish; Stock Down 5% Post-Earnings (July 22 After-Hours) (↑ escalated bearish concern)",
+      "headline": "Alphabet Q2 2026 Earnings Beat: Cloud Revenue +82% YoY Validates Hyperscaler AI Capex ROI; Full-Year CapEx Guidance Raised to $195\u2013205B (from $180\u2013190B); FCF Margin Collapses 21% \u2192 9.2%; Q3 Cloud Margin Pressure Signaled; 2027 Capex Increase Guidance Confirmed; Market Reprices Risk from Capex-Durability Bullish to Capex-Drag-on-FCF Bearish; Stock Down 5% Post-Earnings (July 22 After-Hours) (\u2191 escalated bearish concern)",
       "score": 9,
       "direction": "bearish"
     },
     {
       "id": "tsmc-arizona-100b-capex-expansion-jul-23",
-      "headline": "TSMC Announces $100B Additional Investment for Arizona Fabrication Complex Expansion; CEO C.C. Wei: Demand Robust Through 2029–2030, AI Build-Out Durability Confirmed; Broadens US Foundry Ecosystem Diversification; Validates Multi-Year Capex Commitment; BUT Market Remains Skeptical (TSMC Shares -5% Post-Announcement); Signals Confidence in Hyperscaler Demand vs. Market's Compute-Surplus Concern",
+      "headline": "TSMC Announces $100B Additional Investment for Arizona Fabrication Complex Expansion; CEO C.C. Wei: Demand Robust Through 2029\u20132030, AI Build-Out Durability Confirmed; Broadens US Foundry Ecosystem Diversification; Validates Multi-Year Capex Commitment; BUT Market Remains Skeptical (TSMC Shares -5% Post-Announcement); Signals Confidence in Hyperscaler Demand vs. Market's Compute-Surplus Concern",
       "score": 7,
       "direction": "bullish"
     },
     {
       "id": "adp-hiring-slowdown-fourth-consecutive-week-jul-23",
-      "headline": "ADP Private Payroll Growth Slows Fourth Consecutive Week: +16.5K Jobs/Week (vs. Prior 4-Week Average of +19.3K); Labor Force Attrition Driving Unemployment Decline Rather Than Job Growth; Signals Enterprise Hiring Normalization Post-AI Recruitment Wave; Near-Term Capex Demand May Normalize Lower in Q3–Q4 2026",
+      "headline": "ADP Private Payroll Growth Slows Fourth Consecutive Week: +16.5K Jobs/Week (vs. Prior 4-Week Average of +19.3K); Labor Force Attrition Driving Unemployment Decline Rather Than Job Growth; Signals Enterprise Hiring Normalization Post-AI Recruitment Wave; Near-Term Capex Demand May Normalize Lower in Q3\u2013Q4 2026",
       "score": 5,
       "direction": "neutral"
     },
     {
       "id": "amazon-meta-earnings-scheduled-jul-29-30-2026",
-      "headline": "Amazon and Meta Platforms Earnings Scheduled: Meta Reports Thu 29 Jul 4:30 PM ET (~$60.2B Q2 Revenue Consensus); Amazon Reports Fri 30 Jul After-Bell (Q2 EPS ~$1.82); AI Infrastructure Capex Guidance Updates Expected; Wall Street Raising AWS Growth Estimates (28–32% YoY); Analysts Expect Amazon May Raise 2026 Capex Guidance to $210B (from ~$200B); Major Catalyst for Hyperscaler Capex Durability Narrative and Cloud Revenue Growth Signals",
+      "headline": "Amazon and Meta Platforms Earnings Scheduled: Meta Reports Thu 29 Jul 4:30 PM ET (~$60.2B Q2 Revenue Consensus); Amazon Reports Fri 30 Jul After-Bell (Q2 EPS ~$1.82); AI Infrastructure Capex Guidance Updates Expected; Wall Street Raising AWS Growth Estimates (28\u201332% YoY); Analysts Expect Amazon May Raise 2026 Capex Guidance to $210B (from ~$200B); Major Catalyst for Hyperscaler Capex Durability Narrative and Cloud Revenue Growth Signals",
       "score": 8,
       "direction": "neutral"
     },
     {
       "id": "fomc-hawkish-hold-dot-plot-jul-29",
-      "headline": "Fed Rate-Hike Odds for Sept 16 FOMC Surge to ~82% (CME FedWatch, from ~53% a week prior) as Oil-Driven Inflation Risk Reprices Post-Hawkish-Hold; DXY Choppy ~100.1 (↑ hawkish repricing intensifies)",
+      "headline": "Fed Rate-Hike Odds for Sept 16 FOMC Surge to ~82% (CME FedWatch, from ~53% a week prior) as Oil-Driven Inflation Risk Reprices Post-Hawkish-Hold; DXY Choppy ~100.1 (\u2191 hawkish repricing intensifies)",
       "score": 6,
       "direction": "bearish"
     },
@@ -292,7 +292,7 @@
     },
     {
       "id": "amazon-fcf-collapse-jul-30-earnings-preview",
-      "headline": "Amazon Q2 2026 Earnings Preview: Free Cash Flow Collapses to $1.2B TTM Despite $148.5B Operating Cash Flow; 99% Capex Consumption Rate; AWS Growth Acceleration 28%→32%+ Insufficient to Offset Capital Intensity; Hyperscaler Capex Sustainability Crisis Deepens",
+      "headline": "Amazon Q2 2026 Earnings Preview: Free Cash Flow Collapses to $1.2B TTM Despite $148.5B Operating Cash Flow; 99% Capex Consumption Rate; AWS Growth Acceleration 28%\u219232%+ Insufficient to Offset Capital Intensity; Hyperscaler Capex Sustainability Crisis Deepens",
       "score": 8,
       "direction": "bearish"
     },
@@ -316,7 +316,7 @@
     },
     {
       "id": "iran-ceasefire-collapse-jordan-attack-jul-29",
-      "headline": "Iran-US Conflict Re-Escalates: Ceasefire Collapse (IRGC Ballistic Missiles at US Base Jordan, Jul 29) Followed by Iran Drone Strike on US Ahmad Al-Jaber Airbase in Kuwait (Fri 31 Jul, retaliation for Jul 29-30 US strikes incl. Qeshm Island) and Reported Iran Attacks on Two Oil Tankers Transiting Strait of Hormuz Under US Military Escort (unconfirmed by US/UK maritime security); US Officials (WSJ/Bloomberg) Say Fresh US Strike Wave on Iranian Energy Sites Being Prepared 'As Soon As This Weekend'; Trump Vows to 'Hit Iran Hard'; Senate Rejects 2nd War-Powers Resolution 50-49 (Jul 30); Brent $90.12 / WTI $84.67 Fri Close (+~1% on tanker-attack reports, still down >5% for the week) (↑ escalation continues into weekend with US strikes reportedly imminent)",
+      "headline": "Iran-US Conflict Re-Escalates: Ceasefire Collapse (IRGC Ballistic Missiles at US Base Jordan, Jul 29) Followed by Iran Drone Strike on US Ahmad Al-Jaber Airbase in Kuwait (Fri 31 Jul, retaliation for Jul 29-30 US strikes incl. Qeshm Island) and Reported Iran Attacks on Two Oil Tankers Transiting Strait of Hormuz Under US Military Escort (unconfirmed by US/UK maritime security); US Officials (WSJ/Bloomberg) Say Fresh US Strike Wave on Iranian Energy Sites Being Prepared 'As Soon As This Weekend'; Trump Vows to 'Hit Iran Hard'; Senate Rejects 2nd War-Powers Resolution 50-49 (Jul 30); Brent $90.12 / WTI $84.67 Fri Close (+~1% on tanker-attack reports, still down >5% for the week) (\u2191 escalation continues into weekend with US strikes reportedly imminent)",
       "score": 8,
       "direction": "bearish"
     },
@@ -340,7 +340,7 @@
     },
     {
       "id": "us-iran-retaliation-strikes-jul-30",
-      "headline": "Iran Conflict Unresolved but Oil Retreats from Peak: Hardline Iranian Cleric Calls Ceasefire 'a Deception,' Kuwait Shoots Down Iranian-Launched Drones (no casualties); WTI Pulls Back to ~$84, Brent ~$89 (from $100+ Tue) as Trump Signals Preference to Avoid Further Escalation, Urges Iran to Deal (↓ oil retreat eases stagflation-inflation channel despite rhetoric hardening)",
+      "headline": "Iran Conflict Unresolved but Oil Retreats from Peak: Hardline Iranian Cleric Calls Ceasefire 'a Deception,' Kuwait Shoots Down Iranian-Launched Drones (no casualties); WTI Pulls Back to ~$84, Brent ~$89 (from $100+ Tue) as Trump Signals Preference to Avoid Further Escalation, Urges Iran to Deal (\u2193 oil retreat eases stagflation-inflation channel despite rhetoric hardening)",
       "score": 5,
       "direction": "bullish"
     },
@@ -352,13 +352,13 @@
     },
     {
       "id": "june-core-pce-below-forecast-jul-30",
-      "headline": "June Core PCE (Fed's Preferred Inflation Gauge) Rises +0.1% MoM vs +0.2% Expected and +0.3% Prior; Headline PCE -0.1% MoM In-Line; Disinflation Signal Lands One Day After Hawkish FOMC Surprise but Limited Follow-Through — 30yr Yield Still Pushed to Multidecade High Same Session, Suggesting Fiscal/Geopolitical Premium Dominating Over Inflation Data",
+      "headline": "June Core PCE (Fed's Preferred Inflation Gauge) Rises +0.1% MoM vs +0.2% Expected and +0.3% Prior; Headline PCE -0.1% MoM In-Line; Disinflation Signal Lands One Day After Hawkish FOMC Surprise but Limited Follow-Through \u2014 30yr Yield Still Pushed to Multidecade High Same Session, Suggesting Fiscal/Geopolitical Premium Dominating Over Inflation Data",
       "score": 6,
       "direction": "bullish"
     },
     {
       "id": "treasury-30yr-yield-multidecade-high-jul-30",
-      "headline": "30-Year Treasury Yield Extends to Fresh Multidecade High ~5.28% Fri 31 Jul (from ~5.24% Thu, ~5.21% Wed); 10-Year Rises to ~4.71-4.75%; Move Directly Tied to Regional Fed Presidents (Cleveland's Hammack, Dallas's Logan, Minneapolis's Kashkari) Publicly Reiterating the Case for an Immediate Hike Just Two Days After the Jul 29 Hold; Sitting Officials Openly Campaigning for Hikes Is an Unusual, Hawkish Signal Pressuring the Long-Duration Discount Rate (↑ hawkish Fed commentary drives yields to new highs)",
+      "headline": "30-Year Treasury Yield Extends to Fresh Multidecade High ~5.28% Fri 31 Jul (from ~5.24% Thu, ~5.21% Wed); 10-Year Rises to ~4.71-4.75%; Move Directly Tied to Regional Fed Presidents (Cleveland's Hammack, Dallas's Logan, Minneapolis's Kashkari) Publicly Reiterating the Case for an Immediate Hike Just Two Days After the Jul 29 Hold; Sitting Officials Openly Campaigning for Hikes Is an Unusual, Hawkish Signal Pressuring the Long-Duration Discount Rate (\u2191 hawkish Fed commentary drives yields to new highs)",
       "score": 7,
       "direction": "bearish"
     },
@@ -376,19 +376,19 @@
     },
     {
       "id": "amazon-q2-2026-earnings-blowout-aws-accel-capex-220b-jul-30",
-      "headline": "Amazon Q2 2026 Blowout Confirmed Through Friday's Full Session: EPS $5.75 vs $1.82 Est., Revenue $201B vs $197B Est.; AWS +37% YoY to $42.2B (Fastest Growth Since Dec 2021), AWS Backlog Hits $496B, AWS AI and Chip Businesses Each Individually Exceed $25B Annualized Revenue; FY2026 Capex Guidance Raised to $220B (from $200B), Explicitly Citing Higher Memory/Component Costs; Stock +11-15% Friday 31 Jul — Company's Largest Single-Day Gain in Over a Decade (↑ real-money move confirms and exceeds the initial after-hours pop, validating hyperscaler AI-demand durability)",
+      "headline": "Amazon Q2 2026 Blowout Confirmed Through Friday's Full Session: EPS $5.75 vs $1.82 Est., Revenue $201B vs $197B Est.; AWS +37% YoY to $42.2B (Fastest Growth Since Dec 2021), AWS Backlog Hits $496B, AWS AI and Chip Businesses Each Individually Exceed $25B Annualized Revenue; FY2026 Capex Guidance Raised to $220B (from $200B), Explicitly Citing Higher Memory/Component Costs; Stock +11-15% Friday 31 Jul \u2014 Company's Largest Single-Day Gain in Over a Decade (\u2191 real-money move confirms and exceeds the initial after-hours pop, validating hyperscaler AI-demand durability)",
       "score": 9,
       "direction": "bullish"
     },
     {
       "id": "capex-durability-reversal-soxx-asia-rebound-kospi14pct-jul-31",
-      "headline": "Capex-Durability Reversal Confirmed Through Friday's Close: Kospi Closes +17.9% to a Record 6,595-6,695 (largest single-day gain in index history, HELD through the full session, did not fade) as Samsung +28%, SK Hynix Hits 30% Daily Limit-Up on Microsoft/AWS-Led AI-Trade Rally; Nikkei +4.0% to 64,362; Whether the Broader US Semiconductor Complex (SOXX, individual chip names) Sustained a Matching Rally Through Friday's US Cash Session Is Unconfirmed/Conflicting in Reporting — Flagged as an Open Question (↑ Asia-session magnitude confirmed and held into the close)",
+      "headline": "Capex-Durability Reversal Confirmed Through Friday's Close: Kospi Closes +17.9% to a Record 6,595-6,695 (largest single-day gain in index history, HELD through the full session, did not fade) as Samsung +28%, SK Hynix Hits 30% Daily Limit-Up on Microsoft/AWS-Led AI-Trade Rally; Nikkei +4.0% to 64,362; Whether the Broader US Semiconductor Complex (SOXX, individual chip names) Sustained a Matching Rally Through Friday's US Cash Session Is Unconfirmed/Conflicting in Reporting \u2014 Flagged as an Open Question (\u2191 Asia-session magnitude confirmed and held into the close)",
       "score": 8,
       "direction": "bullish"
     },
     {
       "id": "apple-q3-fy2026-earnings-beat-jul-30",
-      "headline": "Apple Q3 FY2026 Reversal Confirmed Friday: Stock Falls 7-9% to Close Below $300 Despite Headline Beat ($109.4B Rev +16% YoY vs ~$108.9-109B Est., EPS $2.02 vs $1.89 Est., iPhone Rev +22% YoY); Services and Greater China Both Missed ($18.82B China Rev vs ~$19.5B Est.); Sept-Quarter Guide of 9-11% Revenue Growth Falls Below ~12% Street Expectation, Management Cites Supply-Chain Constraints and Memory/Component Cost Inflation; Tim Cook's Final Earnings Call Before Sept 1 Executive-Chairman Transition to Ternus; Analyst Reaction Split — TD Cowen Raises PT $350→$400 (Buy), BofA Reaffirms $380 PT, vs Morgan Stanley Cuts $364→$360, Goldman Trims ~10%, Barclays Cuts $253→$245 (Underweight) (↑ guidance-driven margin/cost concern crystallizes beyond the initial headline-vs-underneath framing)",
+      "headline": "Apple Q3 FY2026 Reversal Confirmed Friday: Stock Falls 7-9% to Close Below $300 Despite Headline Beat ($109.4B Rev +16% YoY vs ~$108.9-109B Est., EPS $2.02 vs $1.89 Est., iPhone Rev +22% YoY); Services and Greater China Both Missed ($18.82B China Rev vs ~$19.5B Est.); Sept-Quarter Guide of 9-11% Revenue Growth Falls Below ~12% Street Expectation, Management Cites Supply-Chain Constraints and Memory/Component Cost Inflation; Tim Cook's Final Earnings Call Before Sept 1 Executive-Chairman Transition to Ternus; Analyst Reaction Split \u2014 TD Cowen Raises PT $350\u2192$400 (Buy), BofA Reaffirms $380 PT, vs Morgan Stanley Cuts $364\u2192$360, Goldman Trims ~10%, Barclays Cuts $253\u2192$245 (Underweight) (\u2191 guidance-driven margin/cost concern crystallizes beyond the initial headline-vs-underneath framing)",
       "score": 7,
       "direction": "bearish"
     },
@@ -421,6 +421,12 @@
       "headline": "Final July University of Michigan Consumer Sentiment Rises to 55.2 (from 54.4 Preliminary, ~12% Above June, Broad-Based Improvement Across Groups); Chicago PMI Beats at 57.6 (vs 55.0 Expected, vs June's 56.7); Secondary Data Signaling Consumer/Regional-Manufacturing Resilience, Mild Positive for Consumer-Facing/Ad-Driven Tech Revenue but Does Not Move the Dominant Rates/Earnings Narrative",
       "score": 4,
       "direction": "neutral"
+    },
+    {
+      "id": "iran-hormuz-lng-tanker-strike-kuwait-drones-aug1",
+      "headline": "Iran/Hormuz Escalation Update: Qatari LNG Tanker (Gaslog Shanghai) Confirmed Struck Transiting Strait of Hormuz per UKMTO; Fresh Kuwait Drone Wave Intercepted (Government Facility, Bubiyan Island); Iran SNSC Threatens Closure of Additional Maritime Chokepoints Beyond Hormuz",
+      "score": 5,
+      "direction": "bearish"
     }
   ]
 }
