@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-08-02T01:05:00Z",
-  "last_run_window": "Sun 2 Aug 09:05 MYT (delta: 1 new since last digest (Sat 1 Aug 21:06 MYT) \u2014 quiet overnight weekend window, US markets closed, no scheduled macro data; Iran/Hormuz thread escalates from confirmed tanker strike + drone wave to a reported Trump order for a new multi-day strike wave on Iranian energy infrastructure 'as soon as this weekend' framed around forcing regime surrender, paired with multi-country US embassy evacuation advisories and a direct Saudi MBS-Trump call urging restraint; final strike approval not yet confirmed and oil has not re-rated on it, so scored as an escalation update rather than a fresh top-tier driver; all other 71 previously tracked stories unchanged; 72 stories tracking",
+  "last_run_utc": "2026-08-02T13:05:00Z",
+  "last_run_window": "Sun 2 Aug 21:05 MYT (delta: 1 major update since last digest (Sun 2 Aug 09:05 MYT) \u2014 Iran/Hormuz thread reverses sharply: Trump announced late Saturday (Truth Social, ~Sun early AM ET / Sun morning UTC) that he has cancelled the planned multi-day strike wave on Iranian energy infrastructure, citing 'the perimeters of a deal' agreed with Iran and other Middle East states, terms reported as full reopening of the Strait of Hormuz plus an end to Iran's nuclear program; Trump caveats US remains 'locked and loaded' if talks collapse again; this is the third ceasefire/de-escalation swing in this saga since June and the prior two both reversed within days, so scored as a meaningful but conditional de-escalation rather than resolution; no confirmed market reaction yet \u2014 US equities/oil closed all weekend, Asia cash markets not yet open as of this run; all other 71 previously tracked stories unchanged; 72 stories tracking",
   "stories": [
     {
       "id": "tech-volatility-spike-23yr-high-jul-28",
@@ -430,9 +430,9 @@
     },
     {
       "id": "iran-strikes-ordered-embassy-evacuation-saudi-mbs-aug1",
-      "headline": "Iran/Energy-Infrastructure Strike Thread Escalates: Trump Reportedly Orders New Multi-Day Iran Strike Wave 'As Soon As This Weekend' Aimed at Forcing Regime Surrender (WSJ, Sat 1 Aug), Final Approval Not Yet Confirmed; US Embassies Across UAE/Jordan/Iraq/Israel Issue Evacuation Advisories Sat 1 Aug; Saudi Crown Prince MBS Phones Trump Urging De-Escalation, Seeks Clarity on Plan (Axios); Brent Still ~$88 (Fri 31 Jul Close), No Confirmed Oil Reaction Yet to Latest Reports",
+      "headline": "Iran Strike Thread Reverses: Trump Cancels Planned Multi-Day Iran Energy-Infrastructure Strike Wave Late Sat 1 Aug (Truth Social), Citing 'Perimeters of a Deal' Agreed With Iran/Middle East States — Terms Reported as Full Hormuz Strait Reopening Plus End to Iran Nuclear Program; Follows Saudi MBS-Trump Restraint Call and Multi-Country Embassy Evacuation Advisories Earlier Sat 1 Aug; Trump Warns US Remains 'Locked and Loaded' if Deal Collapses; Third Ceasefire/De-Escalation Swing Since June, Prior Two Both Reversed Within Days — Confidence Capped Medium; No Confirmed Market Reaction Yet (Weekend, Markets Closed)",
       "score": 7,
-      "direction": "bearish"
+      "direction": "bullish"
     }
   ]
 }
