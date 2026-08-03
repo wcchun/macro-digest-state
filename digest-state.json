@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-08-03T01:08:00Z",
-  "last_run_window": "Mon 3 Aug 09:08 MYT (delta: 1 thin/mixed update since last digest (Sun 2 Aug 21:05 MYT) \u2014 Iran/Hormuz de-escalation gets its first market read as Monday Asia session opens: US equity futures modestly higher Sunday evening (Nasdaq ~+0.7-0.8%) on the 'perimeters of a deal' news, oil extends its decline, DXY ticks down ~0.2%, but Asia cash open reported mixed-to-lower rather than a clean risk-on confirmation \u2014 data for this window is thin/preliminary and partly unconfirmed; no Fed speakers, no CPI/PCE/PPI, no jobs data, no chip-policy actions, and no megacap earnings fell in this ~12hr window; all other 72 previously tracked stories unchanged; 73 stories tracking",
+  "last_run_utc": "2026-08-03T13:07:00Z",
+  "last_run_window": "Mon 3 Aug 09:08 MYT to Mon 3 Aug 21:07 MYT (Asia + Europe session, US pre-market only)",
   "stories": [
     {
       "id": "tech-volatility-spike-23yr-high-jul-28",
@@ -439,6 +439,18 @@
       "headline": "Iran De-Escalation Gets First Market Read Monday Asia Open: US Equity Futures Modestly Higher Sunday Evening (Nasdaq ~+0.7-0.8%, Dow ~+0.4%, S&P ~+0.5%) on 'Perimeters of a Deal' News, Oil Extends Decline, DXY -0.2%; But Asia Cash Open Mixed-to-Lower Rather Than Clean Risk-On Confirmation, Reporting Thin/Unconfirmed This Early in Session; Third De-Escalation Swing Since June Keeps Confidence Capped; Whether Friday's Kospi +17.9% AI-Trade Rally Held Through Monday Remains Unconfirmed",
       "score": 4,
       "direction": "neutral"
+    },
+    {
+      "id": "japan-us-joint-yen-intervention-confirmed-aug3",
+      "headline": "Japan and US Officially Confirm Coordinated Yen-Buying Intervention (First Joint Action Since 1998); MoF Spent ~$53B, Treasury Sold Euros; Yen Rebounds Off 40-Year Low, ~155.20/USD; Both Governments Signal Readiness to Intervene Again",
+      "score": 5,
+      "direction": "neutral"
+    },
+    {
+      "id": "asia-semiconductor-selloff-resumes-aug3",
+      "headline": "Asia AI/Semiconductor Selloff Resumes Monday: Kospi Opens -3.6% to -4.2% (Samsung/SK Hynix-Led), China STAR50 -3.7%, CSI Semiconductor Index -5.2%; Micron -3.95% in US Premarket; Same AI-Capex-Durability/China-Competition Doubts Reassert After Last Week's Partial Rebound",
+      "score": 6,
+      "direction": "bearish"
     }
   ]
 }
