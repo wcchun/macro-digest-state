@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-08-04T01:10:00Z",
-  "last_run_window": "Mon 3 Aug 21:07 MYT to Tue 4 Aug 09:10 MYT (US Monday cash session, after-hours, into Tue Asia pre-market)",
+  "last_run_utc": "2026-08-04T13:31:00Z",
+  "last_run_window": "Tue 4 Aug 09:10 MYT to Tue 4 Aug 21:31 MYT (Tue Asia trading session into Tue US pre-market, ahead of cash open)",
   "stories": [
     {
       "id": "tech-volatility-spike-23yr-high-jul-28",
@@ -469,6 +469,18 @@
       "headline": "July ISM Manufacturing PMI 55.6% (vs ~54% Consensus), Up 2.3pts From June's 53.3%, Highest Since May 2022; New Orders Index 56.7% (7th Straight Expansionary Month); Ambiguous Read — Supports Earnings/Growth Channel for Tech Revenue Exposure but Also Trims Odds of a Dovish Fed Lean, a Competing Bearish Rate-Discount Channel; Secondary to Monday's Dominant Iran/Oil Move",
       "score": 5,
       "direction": "neutral"
+    },
+    {
+      "id": "iran-deal-draft-bessent-tomorrow-aug4",
+      "headline": "Iran De-Escalation Thread Advances: Qatar Confirms Draft US-Iran Deal Language 'Has Been Drafted' and Is Circulating Between Parties, But No Direct US-Iran Talks Currently Scheduled; Treasury Secretary Bessent Says 'We May Have an Iran Deal Tomorrow to Open Hormuz'; Oil Extends Slide (WTI ~$79, Brent ~$83) on the Headlines; Fifth Reversal in the Same Weeks-Long Saga Since June Keeps Confidence Capped Medium",
+      "score": 6,
+      "direction": "bullish"
+    },
+    {
+      "id": "asia-chip-whipsaw-decouple-aug4",
+      "headline": "Kospi Whipsaws Tuesday: Opens +1% on Spillover From Monday's Record US Megacap Rally, Reverses to a ~0.9-1.7% Loss as Samsung and SK Hynix Each Fall ~3% Despite Broader US Futures Pointing Higher Pre-Market; Asia Chip Majors Fail to Confirm the AI-Capex-Durability Optimism That Drove Monday's Microsoft/Amazon-Led US Rally",
+      "score": 5,
+      "direction": "bearish"
     }
   ]
 }
