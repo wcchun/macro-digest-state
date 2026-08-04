@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-08-03T13:07:00Z",
-  "last_run_window": "Mon 3 Aug 09:08 MYT to Mon 3 Aug 21:07 MYT (Asia + Europe session, US pre-market only)",
+  "last_run_utc": "2026-08-04T01:10:00Z",
+  "last_run_window": "Mon 3 Aug 21:07 MYT to Tue 4 Aug 09:10 MYT (US Monday cash session, after-hours, into Tue Asia pre-market)",
   "stories": [
     {
       "id": "tech-volatility-spike-23yr-high-jul-28",
@@ -451,6 +451,24 @@
       "headline": "Asia AI/Semiconductor Selloff Resumes Monday: Kospi Opens -3.6% to -4.2% (Samsung/SK Hynix-Led), China STAR50 -3.7%, CSI Semiconductor Index -5.2%; Micron -3.95% in US Premarket; Same AI-Capex-Durability/China-Competition Doubts Reassert After Last Week's Partial Rebound",
       "score": 6,
       "direction": "bearish"
+    },
+    {
+      "id": "iran-deal-denial-oil-equity-rally-aug3",
+      "headline": "Iran De-Escalation Trade Fires on Realized Numbers Monday: Brent/WTI Plunge 5-7% (WTI to ~$78-79, Brent Low ~$81.55) on Trump's Weekend 'Deal Near' Framing; S&P 500 +1.48% to ~7,600.50, Dow +693pts (+1.32%) to Record 53,178.41, Nasdaq Composite +2.13% to ~25,913.9 — Best Megacap Day Since March (Amazon +4.6% Crosses $3T, Microsoft +4.9%, Meta +6%); 10yr Yield -5-6bp to ~4.69-4.70%; BUT Iran's Government Publicly Denies Any US Talks Are Underway, Directly Contradicting Trump, Who Calls Iranian Leadership 'Extremely Duplicitous' — Fourth Reversal in the Same Weeks-Long Saga Since June, Confidence Capped on Durability",
+      "score": 8,
+      "direction": "bullish"
+    },
+    {
+      "id": "asia-semis-selloff-confirmed-us-decouples-micron-aug3",
+      "headline": "Asia Semiconductor Pullback Confirmed With Harder Numbers, Does Not Transmit to US Chip Names Monday: Kospi Closes -5.12% to 6,257.41, Samsung -8.76%, SK Hynix -8.79% (Roughly Double Weekend's -3.6/-4.2% Index Estimate) as Profit-Taking After Friday's Record +17.9% Spike; US Session Decouples — Nvidia +2.9%, AMD +1.78% Ahead of Tuesday Post-Close Earnings (9% Implied Move Priced) — Riding the Broader Iran/Oil-Driven Risk-On Tape Instead; Micron the Exception, -4.0% to -4.9% on Memory Pricing/Demand Chatter and an Unconfirmed Single-Sourced Rumor of a Competing China (DeepSeek) AI Chip Effort",
+      "score": 6,
+      "direction": "neutral"
+    },
+    {
+      "id": "ism-manufacturing-pmi-beat-aug3",
+      "headline": "July ISM Manufacturing PMI 55.6% (vs ~54% Consensus), Up 2.3pts From June's 53.3%, Highest Since May 2022; New Orders Index 56.7% (7th Straight Expansionary Month); Ambiguous Read — Supports Earnings/Growth Channel for Tech Revenue Exposure but Also Trims Odds of a Dovish Fed Lean, a Competing Bearish Rate-Discount Channel; Secondary to Monday's Dominant Iran/Oil Move",
+      "score": 5,
+      "direction": "neutral"
     }
   ]
 }
