@@ -1,9 +1,33 @@
 {
-  "last_run_utc": "2026-08-04T01:20:00Z",
+  "last_run_utc": "2026-08-04T13:40:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 4 Aug 09:20 MYT (delta run): Q2 2026 earnings reported after-hours Mon 3 Aug (beat-and-raise across revenue, EPS, US commercial growth, and FY26/Q3 guidance; stock +10-12% AH) \u2014 resolves the earnings-pending thread from the last run; pre-earnings preview note (Oppenheimer) and the earnings-date-announcement item are now superseded and dropped; France/ChapsVision, Cleveland Research selloff, UK NHS renewal risk, Army NGC2/Enterprise Service Agreement, D.A. Davidson/Luria upgrades, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, and Sankar's Jul 2 10b5-1 sale all remain unchanged; next earnings ~Nov 2026",
+      "last_run_window": "Tue 4 Aug 21:40 MYT (delta run): 4 new since last digest (Tue 4 Aug 09:20 MYT) \u2014 Deutsche Bank upgrades to Buy (new thesis, not just PT), Citi/D.A. Davidson raise PTs to $245/$200 reacting to Monday's print, premarket confirms the AH pop holding near +16-17%; Goldman Sachs (Neutral $204) and Morgan Stanley (Equal-weight $205) reiterated, both sub-4 skip; no new contracts, litigation, or insider filings in-window; France/ChapsVision, Cleveland Research selloff, UK NHS renewal risk, Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, and Sankar's Jul 2 10b5-1 sale all remain unchanged; next earnings ~Nov 2026",
       "stories": [
+        {
+          "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
+          "headline": "Deutsche Bank (Brad Zelnick) upgrades PLTR to Buy from Hold post-print, arguing Palantir is 'operating several steps ahead of the rest of Software in converting AI demand into real customer value'",
+          "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "citi-pt-raise-245-post-earnings-aug4",
+          "headline": "Citi (Tyler Radke) raises PT to $245 from $200, reiterates Buy, citing record commercial performance and stronger contract metrics from the Q2 print",
+          "score": 5,
+          "direction": "bullish"
+        },
+        {
+          "id": "da-davidson-pt-raise-200-post-earnings-aug4",
+          "headline": "D.A. Davidson raises PT to $200 from $175, maintains Buy, on the back of the Q2 beat-and-raise",
+          "score": 4,
+          "direction": "bullish"
+        },
+        {
+          "id": "premarket-confirms-16pct-gain-aug4",
+          "headline": "Premarket trading confirms the after-hours pop is holding, stock quoted ~+16-17% (~$145-146) into Tuesday's open rather than fading",
+          "score": 4,
+          "direction": "bullish"
+        },
         {
           "id": "q2-2026-earnings-beat-raise-aug3",
           "headline": "Palantir Q2 2026 earnings: EPS $0.41 vs ~$0.33-0.35 est, revenue $1.935B (+93% YoY) vs ~$1.8B est; US commercial revenue +149% YoY (now >81% of total, +115% YoY); FY26 revenue guidance raised to $8.15-8.16B (from $7.65-7.66B), US commercial guidance raised to >134% growth; Q3 guidance $2.160-2.164B; stock +10-12% after-hours; Karp calls it an 'otherworldly' quarter, says growth pace holds for '18 months'",
@@ -97,8 +121,14 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 4 Aug 09:20 MYT (delta run): 1 new since last digest (Mon 3 Aug 21:16 MYT) \u2014 Stifel trims PT to $491 (Buy maintained) on post-Q2 margin/EBITDA concerns; NHTSA suspension/lateral-link probe, China-unit/SpaceX-merger report + Musk denial, DOT/NHTSA AV-deregulation package, and NHTSA camera-only-FSD probe (Aug 12 info-demand deadline) all remain unchanged; next earnings Oct 21 (no earnings-within-30d)",
+      "last_run_window": "Tue 4 Aug 21:40 MYT (delta run): 1 new since last digest (Tue 4 Aug 09:20 MYT) \u2014 Tesla China July wholesale sales hit 93,579 units (+37.85% YoY), the highest month of 2026 and 9th straight YoY-growth month; Stifel PT cut, NHTSA suspension/lateral-link probe, China-unit/SpaceX-merger report + Musk denial, DOT/NHTSA AV-deregulation package, and NHTSA camera-only-FSD probe (Aug 12 info-demand deadline) all remain unchanged; next earnings Oct 21 (no earnings-within-30d)",
       "stories": [
+        {
+          "id": "china-july-wholesale-record-93k-aug4",
+          "headline": "Tesla China July wholesale sales: 93,579 units, highest month of 2026, +37.85% YoY, 9th straight month of YoY growth \u2014 counters the soft-EV-demand/BYD-share-loss narrative for the Shanghai plant (>50% of global output)",
+          "score": 5,
+          "direction": "bullish"
+        },
         {
           "id": "stifel-pt-cut-508-491-buy-aug3",
           "headline": "Stifel Nicolaus (Gengaro) cuts Tesla PT to $491 from $508, maintains Buy; cites margin/EBITDA weakness from Q2 print, flags FSD adoption and Robotaxi execution as the two biggest risks to the bull case",
@@ -258,7 +288,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 4 Aug 09:20 MYT (delta run): no new stories scoring 4+ since Mon 3 Aug 21:16 MYT; Anthropic/Claude Design thread, Aug 31 lockup, Findell Capital activist pressure, and analyst PT trims all remain unchanged; Q2 earnings Wed Aug 5 after-hours next catalyst (1 day away)",
+      "last_run_window": "Tue 4 Aug 21:40 MYT (delta run): no new stories scoring 4+ since Tue 4 Aug 09:20 MYT; premarket dipped ~3.7% to ~$23.84 with no identified news catalyst (likely routine earnings-eve de-risking); Anthropic/Claude Design thread, Aug 31 lockup, Findell Capital activist pressure, and analyst PT trims all remain unchanged; no verified same-window options-positioning/implied-move data found — Q2 earnings Wed Aug 5 after-hours is the next catalyst (1 day away)",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
