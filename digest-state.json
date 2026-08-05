@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-08-04T01:10:00Z",
-  "last_run_window": "Mon 3 Aug 21:07 MYT to Tue 4 Aug 09:10 MYT (US Monday cash session, after-hours, into Tue Asia pre-market)",
+  "last_run_utc": "2026-08-05T01:08:32Z",
+  "last_run_window": "Tue 4 Aug 09:10 MYT to Wed 5 Aug 09:08 MYT (US Tuesday cash session, after-hours, into Wed Asia pre-market)",
   "stories": [
     {
       "id": "tech-volatility-spike-23yr-high-jul-28",
@@ -468,6 +468,42 @@
       "id": "ism-manufacturing-pmi-beat-aug3",
       "headline": "July ISM Manufacturing PMI 55.6% (vs ~54% Consensus), Up 2.3pts From June's 53.3%, Highest Since May 2022; New Orders Index 56.7% (7th Straight Expansionary Month); Ambiguous Read — Supports Earnings/Growth Channel for Tech Revenue Exposure but Also Trims Odds of a Dovish Fed Lean, a Competing Bearish Rate-Discount Channel; Secondary to Monday's Dominant Iran/Oil Move",
       "score": 5,
+      "direction": "neutral"
+    },
+    {
+      "id": "amd-q2-2026-earnings-beat-selloff-aug4",
+      "headline": "AMD Q2 2026 Earnings Beat: Revenue $11.5B (+50% YoY, Record) vs ~$11.3B Est.; Non-GAAP EPS $1.66 vs ~$1.60 Est.; Data Center Revenue $6.7B (+107% YoY, 58% of Total) on EPYC/Instinct GPU Demand; Stock Falls 8-9% After-Hours Tue 4 Aug Despite Beat as Stretched Valuation (+140% YTD) Meets Guidance Not Hot Enough for Priced-for-Perfection Expectations",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "iran-hormuz-bessent-deal-equity-records-aug4",
+      "headline": "Treasury Secretary Bessent Says Strait of Hormuz Reopening Deal Possible 'Today or Tomorrow'; Iran-Oman Negotiate Separate Long-Term Transit Framework (Split-Lane Control, Security Fees) to Replace Lapsing 60-Day Ceasefire Terms; US Equities Close at Fresh Records Tue 4 Aug: S&P 500 +1.79% to 7,736.52, Dow +907pts (+1.71%) to 54,085.88 (First Close Above 54,000), Nasdaq +2.59% to 26,584.99; Iran Continues Publicly Denying Direct US Talks (Fifth Reversal Pattern Since June) — Durability Confidence Capped",
+      "score": 8,
+      "direction": "bullish"
+    },
+    {
+      "id": "dram-nand-record-prices-memory-maker-rally-aug4",
+      "headline": "July DRAM/NAND Prices Hit Fresh Record Highs on AI Demand (DDR4 8Gb +14.3% MoM to $24; NAND 128Gb +4.3% to $30.1; Q3 Contract Prices Forecast +13-18%/+10-15% QoQ) Driving Micron (+6-10%) and Intel (+8%, Testing $100) Rally Tue 4 Aug; China's CXMT in Financing Talks for Second Beijing DRAM Fab to Nearly Double Capacity (~600K Wafers/Month), Weighing on Korean Memory-Maker Sentiment as Long-Term Competitive Threat",
+      "score": 6,
+      "direction": "bullish"
+    },
+    {
+      "id": "korea-chip-sector-rotation-kospi-aug4",
+      "headline": "KOSPI Eases ~1% to ~6,230 Tue 4 Aug as Samsung, SK Hynix Slide ~3% on Profit-Taking; Capital Rotates Into KOSDAQ (+5.11%, Third Straight Rally) Toward Biotech/Pharma/Battery Names; Magnitude Far Smaller Than Prior Week's Double-Digit Swings, Signaling Stabilization Rather Than Fresh Rout",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "fed-warsh-no-forward-guidance-goldman-warning-aug4",
+      "headline": "Goldman Sachs Warns Fed Chair Warsh's Deliberate Rollback of Forward Guidance ('No Fed Put' Regime Change) Could Amplify Market Misinformation and Instability; September Hike Odds Remain Elevated but Diverge Across Venues (CME FedWatch ~82% vs Kalshi ~54%)",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
+      "id": "jolts-june-2026-inline-aug4",
+      "headline": "June 2026 JOLTS: Job Openings 7.36-7.4M, Roughly In Line with 7.40M Consensus (Hiring Rate Rises to 3.4%, Layoff Rate Flat 1.1%); Confirms Gradual Labor-Market Cooling Without Signaling Fresh Acceleration",
+      "score": 4,
       "direction": "neutral"
     }
   ]
