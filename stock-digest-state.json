@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-04T13:40:00Z",
+  "last_run_utc": "2026-08-05T01:15:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 4 Aug 21:40 MYT (delta run): 4 new since last digest (Tue 4 Aug 09:20 MYT) \u2014 Deutsche Bank upgrades to Buy (new thesis, not just PT), Citi/D.A. Davidson raise PTs to $245/$200 reacting to Monday's print, premarket confirms the AH pop holding near +16-17%; Goldman Sachs (Neutral $204) and Morgan Stanley (Equal-weight $205) reiterated, both sub-4 skip; no new contracts, litigation, or insider filings in-window; France/ChapsVision, Cleveland Research selloff, UK NHS renewal risk, Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, and Sankar's Jul 2 10b5-1 sale all remain unchanged; next earnings ~Nov 2026",
+      "last_run_window": "Wed 5 Aug 09:15 MYT (delta run): 2 new since last digest (Tue 4 Aug 21:40 MYT) \u2014 Mercury Systems/Palantir defense-automation partnership (Aug 3, no contract value disclosed) and a second wave of post-earnings analyst PT catch-up (UBS $220, Truist $223, Cantor Fitzgerald $156, Mizuho ~$185, Jefferies $70\u2192$80 still well below market); DB upgrade, Citi/DA Davidson raises, Q2 beat-and-raise, France/ChapsVision loss, Cleveland Research selloff, UK NHS renewal risk, Army NGC2/Enterprise Agreement, Trump disclosure, Rackspace/Surf Air, Karp pricing critique, and Sankar's 10b5-1 sale all remain unchanged; next earnings Nov 2, 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -117,11 +117,23 @@
           "headline": "CEO Karp criticizes OpenAI and Anthropic token pricing models; 'Something has gone completely wrong' with enterprise value",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "mercury-systems-foundry-defense-automation-aug3",
+          "headline": "Mercury Systems partners with Palantir (Tradewind Prototype Agreement, US-government sponsored) to deploy Foundry for automating material planning and factory operations across Mercury's defense-manufacturing plants; no contract value disclosed",
+          "score": 5,
+          "direction": "bullish"
+        },
+        {
+          "id": "post-earnings-analyst-pt-catchup-round2-aug4",
+          "headline": "Second wave of post-earnings PT revisions: UBS to $220 (from $200), Truist initiates/reiterates Buy at $223, Cantor Fitzgerald to $156 (from $138), Mizuho to ~$185; Jefferies raises to just $80 (from $70), still well below market and the most skeptical print reaction",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 4 Aug 21:40 MYT (delta run): 1 new since last digest (Tue 4 Aug 09:20 MYT) \u2014 Tesla China July wholesale sales hit 93,579 units (+37.85% YoY), the highest month of 2026 and 9th straight YoY-growth month; Stifel PT cut, NHTSA suspension/lateral-link probe, China-unit/SpaceX-merger report + Musk denial, DOT/NHTSA AV-deregulation package, and NHTSA camera-only-FSD probe (Aug 12 info-demand deadline) all remain unchanged; next earnings Oct 21 (no earnings-within-30d)",
+      "last_run_window": "Wed 5 Aug 09:15 MYT (delta run): 1 new since last digest (Tue 4 Aug 21:40 MYT) \u2014 SpaceX's Q2 2026 earnings disclosed $295M of Tesla Megapack purchases this quarter (~$329M YTD), likely for xAI's Colossus II data centers; China July wholesale record, Stifel PT cut, NHTSA suspension/lateral-link probe, China-unit/SpaceX-merger report + Musk denial, DOT/NHTSA AV-deregulation package, and NHTSA camera-only-FSD probe (Aug 12 info-demand deadline) all remain unchanged; next earnings Oct 21 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -284,11 +296,17 @@
           "headline": "NHTSA opens preliminary evaluation into ~1.2M Tesla vehicles (2018-2020 Model 3, 2021-2023 Model Y) over front lower lateral-link suspension detachment; 156 owner complaints, no confirmed crashes/injuries; could escalate to a recall",
           "score": 6,
           "direction": "bearish"
+        },
+        {
+          "id": "spacex-megapack-295m-q2-disclosure-aug4",
+          "headline": "SpaceX's Q2 2026 earnings (reported Tue Aug 4) disclose $295M of Tesla Megapack purchases in the quarter (~$329M YTD), likely deployed at xAI's Colossus II data centers; a related-party transaction but a real, dollar-denominated data point on energy-storage demand from AI buildout",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 4 Aug 21:40 MYT (delta run): no new stories scoring 4+ since Tue 4 Aug 09:20 MYT; premarket dipped ~3.7% to ~$23.84 with no identified news catalyst (likely routine earnings-eve de-risking); Anthropic/Claude Design thread, Aug 31 lockup, Findell Capital activist pressure, and analyst PT trims all remain unchanged; no verified same-window options-positioning/implied-move data found — Q2 earnings Wed Aug 5 after-hours is the next catalyst (1 day away)",
+      "last_run_window": "Wed 5 Aug 09:15 MYT (delta run): no new stories scoring 4+ since Tue 4 Aug 21:40 MYT; options market now pricing a ~16-18.6% implied post-earnings move (IV30 ~104-112%, top decile of the past year) ahead of tonight's Q2 print (AMC, call 5pm ET / ~5am Thu MYT); Config AI suite, Claude Design competitive thread, Aug 31 lockup, Findell activist pressure, and analyst PT trims all remain unchanged",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
