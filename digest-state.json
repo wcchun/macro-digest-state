@@ -1,24 +1,36 @@
 {
-  "last_run_utc": "2026-08-05T13:33:56Z",
-  "last_run_window": "Wed 5 Aug 09:08 MYT to Wed 5 Aug 21:33 MYT (Asia/Europe session, ahead of Wed US cash open)",
+  "last_run_utc": "2026-08-06T01:12:44Z",
+  "last_run_window": "Wed 5 Aug 21:33 MYT to Thu 6 Aug 09:12 MYT (Wed US cash close/after-hours through Thu Asia pre-market)",
   "stories": [
     {
-      "id": "asia-chip-stocks-rally-reversal-aug5",
-      "headline": "Asia Semiconductor Stocks Stage Sharp Rally Reversal Wed 5 Aug: Kospi +3.8-4.5% to ~6,598 (Best Levels in Weeks), SK Hynix +6.7-8%, Samsung +3-4%, SoftBank +9%, Kioxia +7%; SK Hynix Also Lifted by Buyback/Shareholder-Return Speculation and Fresh Brokerage HBM Upgrades; Reverses Monday's Selloff",
+      "id": "iran-hormuz-deal-framework-agreed-aug6",
+      "headline": "Iran/Oman Reach Agreed Framework on Strait of Hormuz Shipping Route (Joint Statement 'in Final Review'); Rubio Says 'Progress, Not Finality'; Third/Final Day of Talks Expected Thursday; Sept Fed Hike Odds Fall ~67%→57% as Oil Eases",
       "score": 7,
       "direction": "bullish"
     },
     {
-      "id": "amd-selloff-extends-musk-spacex-nvidia-exclusive-aug5",
-      "headline": "AMD Extends Post-Earnings Slide to ~8% Further in Wed 5 Aug Premarket (Compounding Tue's ~9% After-Hours Drop) After Musk Says SpaceX Will Build Exclusively on Nvidia GPUs (Targeting ~10GW AI Compute by End-2027), Dropping AMD as an Instinct Customer; NVDA Gains on the News",
-      "score": 6,
+      "id": "asia-semis-kospi-giveback-aug6",
+      "headline": "Kospi Opens Thu 6 Aug -1.6% to ~6,492, Giving Back Part of Wed's Rally, as Samsung/SK Hynix Slip Tracking Wall Street's Wednesday Nasdaq -0.83% Close",
+      "score": 5,
       "direction": "bearish"
     },
     {
-      "id": "iran-hormuz-deal-hopes-rebuild-aug5",
-      "headline": "Iran/Strait of Hormuz Deal Hopes Rebuild Wed 5 Aug: Trump and Bessent Flag Possible Wed/Thu Announcement on a 60-Day Toll-Free Interim Reopening Framework (Inbound via Iranian Waters, Outbound via Omani Waters); Oil Choppy (Brent ~$79-80), 10yr Yield Eases to ~4.62%, DXY Soft Sub-100; BUT Gulf Official Puts Odds at Only 50/50 by Friday, Notes IRGC Excluded From Negotiating Delegation — Sixth De-Escalation Swing Since June, Confidence Capped",
-      "score": 6,
-      "direction": "bullish"
+      "id": "ism-services-pmi-jul-aug5",
+      "headline": "ISM Services PMI (July) Beats at 54.1 (Business Activity 59.1 vs 55.4 Prior, New Orders 57.2) but Employment Index Falls Back Into Contraction at 47.4",
+      "score": 4,
+      "direction": "neutral"
+    },
+    {
+      "id": "amd-selloff-close-confirmed-analyst-reax-aug5",
+      "headline": "AMD's Wednesday Selloff Closes ~-7 to -9% (Confirming Post-Musk/SpaceX-Nvidia-Exclusive Slide); Sell-Side Reaction Mixed — KeyBanc/Susquehanna Reaffirm Bullish/Raise PT, Two Downgrades Cut Targets",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
+      "id": "polysilicon-tariffs-price-floor-aug5",
+      "headline": "Trump Administration Preparing Tariffs and Minimum Import Prices on Polysilicon to Boost Domestic Solar/Chip-Material Production",
+      "score": 4,
+      "direction": "bearish"
     }
   ]
 }
