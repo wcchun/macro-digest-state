@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-05T13:39:00Z",
+  "last_run_utc": "2026-08-06T01:18:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 5 Aug 21:39 MYT (delta run): 2 new since last digest (Tue 4 Aug 21:40 MYT) \u2014 Northland/Mizuho/UBS join the post-earnings PT-raise wave (to $200/$215/$220); Wednesday pre-market gives back some of Tuesday's ~27% surge (-2.2% to ~$159) on valuation digestion (~43x 2026 sales) and a disclosed Q3 opex ramp; France/ChapsVision, Cleveland Research selloff, UK NHS renewal review (still targeting an early-2027 break-clause decision, no escalation this window), Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, and Sankar's Jul 2 10b5-1 sale all remain unchanged; next earnings ~Nov 2 2026",
+      "last_run_window": "Thu 6 Aug 09:18 MYT (delta run): nothing new scoring 4+ since last digest (Wed 5 Aug 21:39 MYT) \u2014 France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, Sankar's Jul 2 10b5-1 sale, and the post-earnings PT-raise wave all remain unchanged; golden cross confirmed on the Aug 5 close (0 trading days ago); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -133,7 +133,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 5 Aug 21:39 MYT (delta run): nothing new scoring 4+ since last digest (Tue 4 Aug 21:40 MYT) \u2014 the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Thu 6 Aug 09:18 MYT (delta run): nothing new scoring 4+ since last digest (Wed 5 Aug 21:39 MYT) \u2014 the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; note only (no score change) \u2014 Tesla-SpaceX merger prediction-market odds have drifted down to ~18% on Polymarket vs. the ~74% Kalshi read carried in the Jul 30 story, a continuation of the same thread rather than new information; next earnings Oct 21 2026 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -300,7 +300,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 5 Aug 21:39 MYT (delta run): nothing new scoring 4+ since last digest (Tue 4 Aug 21:40 MYT) — today's Q2 earnings (after the close) is the dominant near-term catalyst, with options implying a ~14.5-16% post-earnings move and calls leading puts ~7:2; the Anthropic/Claude Design competitive thread, the Aug 31 lockup, Findell Capital's activist pressure, and analyst PT trims all remain unchanged",
+      "last_run_window": "Thu 6 Aug 09:18 MYT (delta run): 2 new since last digest (Wed 5 Aug 21:39 MYT) — Q2 earnings (AMC Aug 5) beat on revenue/EPS/FCF and raised the FY26 revenue guide, but a cautious Q3 guide (implying deceleration to ~36% YoY from Q2's 48%) plus flat ~9% non-GAAP operating-margin guidance triggered a sharp post-earnings selloff, roughly in line with the pre-print implied move; CPO Yuhki Yamashita and CMO Sheila Vashee departures announced on the same call; the Anthropic/Claude Design competitive thread, the Aug 31 lockup, and Findell Capital's activist pressure remain unchanged",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -354,6 +354,18 @@
           "id": "august-2026-lockup-expiration-risk",
           "headline": "August 2026 post-IPO lockup expiration (Aug 31) looming; 54.1% of Class A shares eligible (~$6\u20137B supply); VC holders have low-cost basis incentive to monetize",
           "score": 5,
+          "direction": "bearish"
+        },
+        {
+          "id": "fig-q2-2026-earnings-cautious-q3-guide-selloff-aug5",
+          "headline": "Figma Q2 2026 (AMC Aug 5): revenue $370.1M (+48% YoY) vs ~$351-352M est; non-GAAP EPS $0.08 vs ~$0.04 est; FCF $53.2M vs ~$11.7M est; NDR 136%; gross margin +250bps to 85% on first full quarter of AI-credit monetization (>80% of $10k+ARR customers using AI credits weekly). FY26 revenue guide raised to $1.46-1.47B (vs ~$1.44B consensus), but Q3 guide of $373-375M implies deceleration to ~36% YoY (from 48%) and non-GAAP operating margin guidance held flat at ~9% despite the AI-compute spend; stock fell sharply after hours on the growth-deceleration/margin read despite the top-line beat-and-raise",
+          "score": 8,
+          "direction": "bearish"
+        },
+        {
+          "id": "fig-cpo-cmo-departures-earnings-call-aug5",
+          "headline": "CEO Dylan Field announces on the Q2 earnings call that CPO Yuhki Yamashita and CMO Sheila Vashee are departing",
+          "score": 6,
           "direction": "bearish"
         }
       ]
