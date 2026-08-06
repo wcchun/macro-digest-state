@@ -1,36 +1,18 @@
 {
-  "last_run_utc": "2026-08-06T01:12:44Z",
-  "last_run_window": "Wed 5 Aug 21:33 MYT to Thu 6 Aug 09:12 MYT (Wed US cash close/after-hours through Thu Asia pre-market)",
+  "last_run_utc": "2026-08-06T13:33:33Z",
+  "last_run_window": "Thu 6 Aug 09:12 MYT to Thu 6 Aug 21:33 MYT (Wed after-hours earnings through Thu NY pre-market/open)",
   "stories": [
     {
+      "id": "ai-earnings-guidance-scrutiny-applovin-sndk-wdc-aug6",
+      "headline": "AppLovin Craters 20%, SanDisk -8%, Western Digital -14% on Guidance Misses Despite Beats, as Market Punishes Anything Short of Blowout from AI-Adjacent Names (Widening Wed's AMD Selloff Into Adtech/Storage)",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
       "id": "iran-hormuz-deal-framework-agreed-aug6",
-      "headline": "Iran/Oman Reach Agreed Framework on Strait of Hormuz Shipping Route (Joint Statement 'in Final Review'); Rubio Says 'Progress, Not Finality'; Third/Final Day of Talks Expected Thursday; Sept Fed Hike Odds Fall ~67%→57% as Oil Eases",
-      "score": 7,
+      "headline": "Iran/Oman Hormuz Framework Advances to 'Agreed in Principle'; Oil Extends Losses (WTI ~$75, Brent ~$79), 10yr Yield Down to 4.61% (3rd Straight Session), Sept Hike Odds Ease Further to ~46%",
+      "score": 6,
       "direction": "bullish"
-    },
-    {
-      "id": "asia-semis-kospi-giveback-aug6",
-      "headline": "Kospi Opens Thu 6 Aug -1.6% to ~6,492, Giving Back Part of Wed's Rally, as Samsung/SK Hynix Slip Tracking Wall Street's Wednesday Nasdaq -0.83% Close",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "ism-services-pmi-jul-aug5",
-      "headline": "ISM Services PMI (July) Beats at 54.1 (Business Activity 59.1 vs 55.4 Prior, New Orders 57.2) but Employment Index Falls Back Into Contraction at 47.4",
-      "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "amd-selloff-close-confirmed-analyst-reax-aug5",
-      "headline": "AMD's Wednesday Selloff Closes ~-7 to -9% (Confirming Post-Musk/SpaceX-Nvidia-Exclusive Slide); Sell-Side Reaction Mixed — KeyBanc/Susquehanna Reaffirm Bullish/Raise PT, Two Downgrades Cut Targets",
-      "score": 4,
-      "direction": "bearish"
-    },
-    {
-      "id": "polysilicon-tariffs-price-floor-aug5",
-      "headline": "Trump Administration Preparing Tariffs and Minimum Import Prices on Polysilicon to Boost Domestic Solar/Chip-Material Production",
-      "score": 4,
-      "direction": "bearish"
     }
   ]
 }
