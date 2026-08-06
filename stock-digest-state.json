@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-06T01:18:00Z",
+  "last_run_utc": "2026-08-06T13:41:33Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 6 Aug 09:18 MYT (delta run): nothing new scoring 4+ since last digest (Wed 5 Aug 21:39 MYT) \u2014 France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, Sankar's Jul 2 10b5-1 sale, and the post-earnings PT-raise wave all remain unchanged; golden cross confirmed on the Aug 5 close (0 trading days ago); next earnings ~Nov 2 2026",
+      "last_run_window": "Thu 6 Aug 21:41 MYT (delta run): nothing new scoring 4+ since this morning's digest (Thu 6 Aug 09:18 MYT) \u2014 France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, Sankar's Jul 2 10b5-1 sale, and the post-earnings PT-raise wave all remain unchanged; golden cross confirmed on the Aug 5 close (0 trading days ago); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -133,7 +133,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 6 Aug 09:18 MYT (delta run): nothing new scoring 4+ since last digest (Wed 5 Aug 21:39 MYT) \u2014 the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; note only (no score change) \u2014 Tesla-SpaceX merger prediction-market odds have drifted down to ~18% on Polymarket vs. the ~74% Kalshi read carried in the Jul 30 story, a continuation of the same thread rather than new information; next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Thu 6 Aug 21:41 MYT (delta run): nothing new scoring 4+ since this morning's digest (Thu 6 Aug 09:18 MYT) \u2014 the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; next earnings Oct 21 2026 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -300,7 +300,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 6 Aug 09:18 MYT (delta run): 2 new since last digest (Wed 5 Aug 21:39 MYT) — Q2 earnings (AMC Aug 5) beat on revenue/EPS/FCF and raised the FY26 revenue guide, but a cautious Q3 guide (implying deceleration to ~36% YoY from Q2's 48%) plus flat ~9% non-GAAP operating-margin guidance triggered a sharp post-earnings selloff, roughly in line with the pre-print implied move; CPO Yuhki Yamashita and CMO Sheila Vashee departures announced on the same call; the Anthropic/Claude Design competitive thread, the Aug 31 lockup, and Findell Capital's activist pressure remain unchanged",
+      "last_run_window": "Thu 6 Aug 21:41 MYT (delta run): 1 new since this morning's digest (Thu 6 Aug 09:18 MYT) — premarket trading confirms the Q2 selloff with a new cost-structure detail (AI-infra spend compressing current-quarter margin, not just the Q3 guide); the Anthropic/Claude Design competitive thread, the Aug 31 lockup, Findell Capital's activist pressure, and the CPO/CMO departures (no successors named) remain unchanged",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -366,6 +366,12 @@
           "id": "fig-cpo-cmo-departures-earnings-call-aug5",
           "headline": "CEO Dylan Field announces on the Q2 earnings call that CPO Yuhki Yamashita and CMO Sheila Vashee are departing",
           "score": 6,
+          "direction": "bearish"
+        },
+        {
+          "id": "fig-premarket-cost-of-revenue-detail-aug6",
+          "headline": "Premarket trading Thu Aug 6 confirms the post-earnings selloff (-15.1% to ~$23.90) as cost-of-revenue detail emerges: cost of revenue +117% YoY, ~83% of the increase from AI infrastructure/hosting spend, cutting adjusted operating margin to ~10% from ~16% the prior quarter",
+          "score": 5,
           "direction": "bearish"
         }
       ]
