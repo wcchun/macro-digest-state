@@ -1,12 +1,18 @@
 {
-  "last_run_utc": "2026-08-07T01:10:24Z",
-  "last_run_window": "Thu 6 Aug 21:33 MYT to Fri 7 Aug 09:10 MYT (Thursday US full session through Thursday after-hours)",
+  "last_run_utc": "2026-08-07T13:55:01Z",
+  "last_run_window": "Fri 7 Aug 09:10 MYT to Fri 7 Aug 21:55 MYT (Friday pre-market through July NFP release and early US pre-market)",
   "stories": [
     {
-      "id": "iran-hormuz-draft-reversal-oil-yields-fed-odds-aug6",
-      "headline": "Iran Publishes Restrictive Draft Plan for Hormuz Transit, Reversing Wed's 'Agreed in Principle' Optimism; Oil Rebounds (Brent ~$82.49, WTI ~$77.29), 10yr Yield Rises, Sept Rate-Hike Pricing Firms Back Up Ahead of Friday NFP",
-      "score": 6,
-      "direction": "bearish"
+      "id": "nfp-july-shock-miss-fed-cut-odds-yields-dollar-aug7",
+      "headline": "July NFP Shocks with -23K vs +80K Est. (Prior Two Months Revised Down a Combined -103K); 10yr Yield -5bp to 4.63%, Dollar Falls, Sept Fed Hike Odds Collapse ~57%→44% as Hold/Cut Bets Surge, Nasdaq Futures/Early Trade Up",
+      "score": 8,
+      "direction": "bullish"
+    },
+    {
+      "id": "iran-oman-hormuz-talks-stall-fee-dispute-aug7",
+      "headline": "Iran-Oman Hormuz Reopening Talks Stall Over Transit Fees (Iran Wants 5-7% of Cargo Value vs Oman's Lower Counter, US Wants Zero); Iran Says Any Deal Won't Fully Reopen Strait; Oil Eases Modestly (Brent ~$81.9, WTI ~$77)",
+      "score": 4,
+      "direction": "neutral"
     },
     {
       "id": "software-saas-guidance-scrutiny-ddog-fig-hubs-aug6",
