@@ -1,18 +1,18 @@
 {
-  "last_run_utc": "2026-08-06T13:33:33Z",
-  "last_run_window": "Thu 6 Aug 09:12 MYT to Thu 6 Aug 21:33 MYT (Wed after-hours earnings through Thu NY pre-market/open)",
+  "last_run_utc": "2026-08-07T01:10:24Z",
+  "last_run_window": "Thu 6 Aug 21:33 MYT to Fri 7 Aug 09:10 MYT (Thursday US full session through Thursday after-hours)",
   "stories": [
     {
-      "id": "ai-earnings-guidance-scrutiny-applovin-sndk-wdc-aug6",
-      "headline": "AppLovin Craters 20%, SanDisk -8%, Western Digital -14% on Guidance Misses Despite Beats, as Market Punishes Anything Short of Blowout from AI-Adjacent Names (Widening Wed's AMD Selloff Into Adtech/Storage)",
+      "id": "iran-hormuz-draft-reversal-oil-yields-fed-odds-aug6",
+      "headline": "Iran Publishes Restrictive Draft Plan for Hormuz Transit, Reversing Wed's 'Agreed in Principle' Optimism; Oil Rebounds (Brent ~$82.49, WTI ~$77.29), 10yr Yield Rises, Sept Rate-Hike Pricing Firms Back Up Ahead of Friday NFP",
       "score": 6,
       "direction": "bearish"
     },
     {
-      "id": "iran-hormuz-deal-framework-agreed-aug6",
-      "headline": "Iran/Oman Hormuz Framework Advances to 'Agreed in Principle'; Oil Extends Losses (WTI ~$75, Brent ~$79), 10yr Yield Down to 4.61% (3rd Straight Session), Sept Hike Odds Ease Further to ~46%",
+      "id": "software-saas-guidance-scrutiny-ddog-fig-hubs-aug6",
+      "headline": "Software/SaaS Guidance Scrutiny Widens: Datadog -17% (Largest AI Customer Cutting Usage), Figma and HubSpot Both -15%+ on Q2 Beats but Soft Durability Signals, Extending Wed's AI-Adjacent Guidance Punishment Into Application-Layer Software",
       "score": 6,
-      "direction": "bullish"
+      "direction": "bearish"
     }
   ]
 }
