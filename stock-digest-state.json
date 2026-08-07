@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-07T01:18:40Z",
+  "last_run_utc": "2026-08-07T13:59:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 7 Aug 09:18 MYT (delta run): nothing new scoring 4+ since the last digest (Thu 6 Aug 21:41 MYT) \u2014 France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, Sankar's Jul 2 10b5-1 sale, the post-earnings PT-raise wave, and premarket profit-taking all remain unchanged; golden cross now 1 trading day old; next earnings ~Nov 2 2026",
+      "last_run_window": "Fri 7 Aug 21:59 MYT (delta run): nothing new scoring 4+ since the last digest (Fri 7 Aug 09:18 MYT) \u2014 France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Sankar's Jul 2 10b5-1 sale, the post-earnings PT-raise wave, and premarket profit-taking all remain unchanged; golden cross now 1 trading day old; next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -133,7 +133,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 7 Aug 09:18 MYT (delta run): 2 new since the last digest (Thu 6 Aug 21:41 MYT) \u2014 Tesla/SpaceX confirm the Terafab chip-plant site with a $16.8B first-phase figure; Reuters reports Tesla pressured EU regulators to keep FSD safety data sealed. The China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Fri 7 Aug 21:59 MYT (delta run): nothing new scoring 4+ since the last digest (Fri 7 Aug 09:18 MYT) \u2014 Terafab chip-plant site confirmation, Reuters FSD safety-data report, China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; death cross 29 trading days old; next earnings Oct 21 2026 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -312,7 +312,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 7 Aug 09:18 MYT (delta run): 1 new since the last digest (Thu 6 Aug 21:41 MYT) — RBC raises PT to $28 from $22 (Sector Perform maintained), reacting to the Q2 beat. The Anthropic/Claude Design competitive thread, the Aug 31 lockup, Findell Capital's activist pressure, and the CPO/CMO departures (no successors named) remain unchanged",
+      "last_run_window": "Fri 7 Aug 21:59 MYT (delta run): 1 new since the last digest (Fri 7 Aug 09:18 MYT) — the Extended Lock-Up's remaining ~77.7M Class A shares fully released for trading TODAY (Aug 7), not Aug 31: the earnings-trigger clause fired on the 2nd trading day after the Aug 5 Q2 report. The Anthropic/Claude Design competitive thread, Findell Capital's activist pressure, and the CPO/CMO departures (no successors named) remain unchanged",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -391,6 +391,12 @@
           "headline": "RBC Capital raises FIG price target to $28 from $22, maintains Sector Perform, reacting to the Q2 beat-and-raise",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "fig-extended-lockup-accelerated-release-aug7",
+          "headline": "Figma's Extended Lock-Up fully releases today (Aug 7), not Aug 31: the earnings-trigger clause (2nd trading day after the Company announces Q2 earnings) fired following the Aug 5 report, pulling the ~77.7M remaining Class A shares (~$1.9B at current price, ~20% of shares out) into sellable status three-plus weeks earlier than the previously tracked date",
+          "score": 7,
+          "direction": "bearish"
         }
       ]
     }
