@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-06T13:41:33Z",
+  "last_run_utc": "2026-08-07T01:18:40Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 6 Aug 21:41 MYT (delta run): nothing new scoring 4+ since this morning's digest (Thu 6 Aug 09:18 MYT) \u2014 France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, Sankar's Jul 2 10b5-1 sale, and the post-earnings PT-raise wave all remain unchanged; golden cross confirmed on the Aug 5 close (0 trading days ago); next earnings ~Nov 2 2026",
+      "last_run_window": "Fri 7 Aug 09:18 MYT (delta run): nothing new scoring 4+ since the last digest (Thu 6 Aug 21:41 MYT) \u2014 France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Trump disclosure, Rackspace/Surf Air partnerships, Karp Anthropic/OpenAI pricing critique, Sankar's Jul 2 10b5-1 sale, the post-earnings PT-raise wave, and premarket profit-taking all remain unchanged; golden cross now 1 trading day old; next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -133,7 +133,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 6 Aug 21:41 MYT (delta run): nothing new scoring 4+ since this morning's digest (Thu 6 Aug 09:18 MYT) \u2014 the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Fri 7 Aug 09:18 MYT (delta run): 2 new since the last digest (Thu 6 Aug 21:41 MYT) \u2014 Tesla/SpaceX confirm the Terafab chip-plant site with a $16.8B first-phase figure; Reuters reports Tesla pressured EU regulators to keep FSD safety data sealed. The China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; next earnings Oct 21 2026 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -296,11 +296,23 @@
           "headline": "NHTSA opens preliminary evaluation into ~1.2M Tesla vehicles (2018-2020 Model 3, 2021-2023 Model Y) over front lower lateral-link suspension detachment; 156 owner complaints, no confirmed crashes/injuries; could escalate to a recall",
           "score": 6,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-terafab-chip-plant-site-confirmed-aug6",
+          "headline": "Tesla and SpaceX confirm Grimes County, TX as the site for their joint 'Terafab' chip plant: $16.8B first-phase investment, 100M+ sq ft planned footprint, 3,000+ jobs; chips earmarked for Optimus, Cybercab, and SpaceX space-based data centers",
+          "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "tsla-reuters-fsd-safety-data-eu-regulators-aug6",
+          "headline": "Reuters investigation: Tesla pressured Dutch regulator RDW since late 2024 to keep FSD safety-review documentation sealed, citing 'commercial secrets'; builds on prior Reuters reporting that Tesla's self-published FSD stats were 'highly exaggerated'",
+          "score": 6,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 6 Aug 21:41 MYT (delta run): 1 new since this morning's digest (Thu 6 Aug 09:18 MYT) — premarket trading confirms the Q2 selloff with a new cost-structure detail (AI-infra spend compressing current-quarter margin, not just the Q3 guide); the Anthropic/Claude Design competitive thread, the Aug 31 lockup, Findell Capital's activist pressure, and the CPO/CMO departures (no successors named) remain unchanged",
+      "last_run_window": "Fri 7 Aug 09:18 MYT (delta run): 1 new since the last digest (Thu 6 Aug 21:41 MYT) — RBC raises PT to $28 from $22 (Sector Perform maintained), reacting to the Q2 beat. The Anthropic/Claude Design competitive thread, the Aug 31 lockup, Findell Capital's activist pressure, and the CPO/CMO departures (no successors named) remain unchanged",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -373,6 +385,12 @@
           "headline": "Premarket trading Thu Aug 6 confirms the post-earnings selloff (-15.1% to ~$23.90) as cost-of-revenue detail emerges: cost of revenue +117% YoY, ~83% of the increase from AI infrastructure/hosting spend, cutting adjusted operating margin to ~10% from ~16% the prior quarter",
           "score": 5,
           "direction": "bearish"
+        },
+        {
+          "id": "fig-rbc-pt-raise-28-sector-perform-aug6",
+          "headline": "RBC Capital raises FIG price target to $28 from $22, maintains Sector Perform, reacting to the Q2 beat-and-raise",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     }
