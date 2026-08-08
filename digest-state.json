@@ -1,18 +1,12 @@
 {
-  "last_run_utc": "2026-08-07T01:10:24Z",
-  "last_run_window": "Thu 6 Aug 21:33 MYT to Fri 7 Aug 09:10 MYT (Thursday US full session through Thursday after-hours)",
+  "last_run_utc": "2026-08-08T01:09:40Z",
+  "last_run_window": "Fri 7 Aug 09:10 MYT to Sat 8 Aug 09:09 MYT (Friday US pre-market through Friday after-hours / Saturday early MYT)",
   "stories": [
     {
-      "id": "iran-hormuz-draft-reversal-oil-yields-fed-odds-aug6",
-      "headline": "Iran Publishes Restrictive Draft Plan for Hormuz Transit, Reversing Wed's 'Agreed in Principle' Optimism; Oil Rebounds (Brent ~$82.49, WTI ~$77.29), 10yr Yield Rises, Sept Rate-Hike Pricing Firms Back Up Ahead of Friday NFP",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "software-saas-guidance-scrutiny-ddog-fig-hubs-aug6",
-      "headline": "Software/SaaS Guidance Scrutiny Widens: Datadog -17% (Largest AI Customer Cutting Usage), Figma and HubSpot Both -15%+ on Q2 Beats but Soft Durability Signals, Extending Wed's AI-Adjacent Guidance Punishment Into Application-Layer Software",
-      "score": 6,
-      "direction": "bearish"
+      "id": "july-nfp-shock-miss-fed-odds-collapse-chip-rally-aug7",
+      "headline": "July Nonfarm Payrolls Unexpectedly Fall 23K (vs. +80K Est.) With 103K in Downward May/June Revisions; Unemployment Rate Eases to 4.1%. September Fed Hike Odds Roughly Halve (~57%→~42-44%), 10yr Yield Drops to ~4.65%, DXY Falls; Nasdaq Composite +1.3%, S&P 500 Closes at Record 7,757.64, Chipmakers Lead Broad Risk-On Rally",
+      "score": 8,
+      "direction": "bullish"
     }
   ]
 }
