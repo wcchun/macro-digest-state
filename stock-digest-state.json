@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-07T13:59:00Z",
+  "last_run_utc": "2026-08-08T01:16:59Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 7 Aug 21:59 MYT (delta run): nothing new scoring 4+ since the last digest (Fri 7 Aug 09:18 MYT) \u2014 France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Sankar's Jul 2 10b5-1 sale, the post-earnings PT-raise wave, and premarket profit-taking all remain unchanged; golden cross now 1 trading day old; next earnings ~Nov 2 2026",
+      "last_run_window": "Sat 8 Aug 09:16 MYT (delta run): 1 new since last digest (Fri 7 Aug 21:59 MYT) \u2014 BofA raises to a Street-high $255 PT, stock +10.3% on 1.66x ADV20 volume; France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, Sankar's Jul 2 10b5-1 sale, and the rest of the post-earnings PT-raise wave remain unchanged; golden cross now 2 trading days old; next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -129,11 +129,17 @@
           "headline": "PLTR trades ~2.2% lower pre-market Wednesday to ~$159 as investors take profits after Tuesday's ~27% post-earnings surge; digestion of the ~43x 2026-sales multiple and management's disclosed Q3 operating-expense ramp cited as drivers",
           "score": 4,
           "direction": "bearish"
+        },
+        {
+          "id": "bofa-street-high-pt-255-aug7",
+          "headline": "BofA Securities (Mariana Perez Mora) raises PLTR PT to a Street-high $255 from $215, reiterates Buy, citing a durable AI-adoption moat (boot camps, forward-deployed engineering, ROI-first implementation); stock closes +10.32% at $172.01 on 76.2M shares (~1.66x ADV20)",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 7 Aug 21:59 MYT (delta run): nothing new scoring 4+ since the last digest (Fri 7 Aug 09:18 MYT) \u2014 Terafab chip-plant site confirmation, Reuters FSD safety-data report, China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; death cross 29 trading days old; next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Sat 8 Aug 09:16 MYT (delta run): 1 new since last digest (Fri 7 Aug 21:59 MYT) \u2014 incremental Terafab build-out detail (10-phase project, >1TW AI compute capacity, 25%/75% Optimus/SpaceX split, $10M payment to Grimes County); Reuters FSD safety-data report, China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; death cross 30 trading days old; next earnings Oct 21 2026 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -308,11 +314,17 @@
           "headline": "Reuters investigation: Tesla pressured Dutch regulator RDW since late 2024 to keep FSD safety-review documentation sealed, citing 'commercial secrets'; builds on prior Reuters reporting that Tesla's self-published FSD stats were 'highly exaggerated'",
           "score": 6,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-terafab-buildout-detail-10-phase-aug6-7",
+          "headline": "Additional Terafab detail emerges: 10-phase project, >100M sq ft full footprint, targeted >1TW AI compute capacity annually split ~25% Optimus / 75% SpaceX; SpaceX paid Grimes County, TX $10M to satisfy a tax-abatement deadline; county commissioners told the project is a 'done deal'",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 7 Aug 21:59 MYT (delta run): 1 new since the last digest (Fri 7 Aug 09:18 MYT) — the Extended Lock-Up's remaining ~77.7M Class A shares fully released for trading TODAY (Aug 7), not Aug 31: the earnings-trigger clause fired on the 2nd trading day after the Aug 5 Q2 report. The Anthropic/Claude Design competitive thread, Findell Capital's activist pressure, and the CPO/CMO departures (no successors named) remain unchanged",
+      "last_run_window": "Sat 8 Aug 09:16 MYT (delta run): 2 new since last digest (Fri 7 Aug 21:59 MYT) — the Extended Lock-Up release is now quantified ($1.86B / 17.1% of Class A / 38.9% of float newly eligible, no confirmed large sales yet), and Wells Fargo ($36) / Morgan Stanley ($33) join RBC in trimming PT post-earnings. The Anthropic/Claude Design competitive thread, Findell Capital's activist pressure, and the CPO/CMO departures (no successors named) remain unchanged",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -396,6 +408,18 @@
           "id": "fig-extended-lockup-accelerated-release-aug7",
           "headline": "Figma's Extended Lock-Up fully releases today (Aug 7), not Aug 31: the earnings-trigger clause (2nd trading day after the Company announces Q2 earnings) fired following the Aug 5 report, pulling the ~77.7M remaining Class A shares (~$1.9B at current price, ~20% of shares out) into sellable status three-plus weeks earlier than the previously tracked date",
           "score": 7,
+          "direction": "bearish"
+        },
+        {
+          "id": "fig-extended-lockup-quantified-1-86b-aug7",
+          "headline": "Extended Lock-Up release quantified: 77.7M Class A shares became eligible at Friday's open, valued ~$1.86B (17.1% of Class A shares, 38.9% of stated public float); no confirmed large-scale insider sales reported yet, market watching for absorption",
+          "score": 5,
+          "direction": "bearish"
+        },
+        {
+          "id": "fig-wells-fargo-morgan-stanley-pt-cuts-aug6",
+          "headline": "Wells Fargo cuts FIG PT to $36 from $38 (Overweight maintained); Morgan Stanley cuts to $33 from $38 (Equal Weight maintained) — same post-earnings wave as RBC's move to $28",
+          "score": 4,
           "direction": "bearish"
         }
       ]
