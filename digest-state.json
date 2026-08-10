@@ -1,12 +1,18 @@
 {
-  "last_run_utc": "2026-08-10T01:09:43Z",
-  "last_run_window": "Sun 9 Aug 21:12 MYT to Mon 10 Aug 09:09 MYT (weekend/overnight, no US cash session in window)",
+  "last_run_utc": "2026-08-10T13:57:05Z",
+  "last_run_window": "Mon 10 Aug 09:09 MYT to Mon 10 Aug 21:57 MYT (pre-market into early intraday US session)",
   "stories": [
     {
-      "id": "july-nfp-shock-miss-fed-odds-collapse-chip-rally-aug7",
-      "headline": "July Nonfarm Payrolls Unexpectedly Fall 23K (vs. +80K Est.) With 103K in Downward May/June Revisions; Unemployment Rate Eases to 4.1%. September Fed Hike Odds Roughly Halve (~57%→~42-44%), 10yr Yield Drops to ~4.65%, DXY Falls; Nasdaq Composite +1.3%, S&P 500 Closes at Record 7,757.64, Chipmakers Lead Broad Risk-On Rally",
-      "score": 8,
+      "id": "tsmc-july-revenue-record-45pct-aug10",
+      "headline": "TSMC July Revenue Surges 44.7% YoY to Record NT$467.58B (~$14.5B), Tops Its Own 2026 Guidance; Raises Full-Year Outlook to >40% Growth on AI Chip Demand",
+      "score": 6,
       "direction": "bullish"
+    },
+    {
+      "id": "hormuz-reopening-stalls-houthi-strike-aramco-aug10",
+      "headline": "Strait of Hormuz Reopening Talks Stall as Iran Reiterates Six Conditions Incl. Ending US 'Aggression'; Houthis Strike Saudi Aramco's Jazan Refinery; Brent +1% to ~$84.39, WTI +0.75% to ~$78.77, Reversing Last Week's 7%+ Drop",
+      "score": 5,
+      "direction": "bearish"
     }
   ]
 }
