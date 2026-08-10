@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-09T13:14:14Z",
+  "last_run_utc": "2026-08-10T01:14:22Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sun 9 Aug 21:14 MYT (delta run): nothing new since last digest (Sun 9 Aug 09:09 MYT) \u2014 quiet ~12hr Sunday-daytime window, no US session, no fresh wires or filings; BofA's Street-high $255 PT, the post-earnings PT-raise wave, France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, and Sankar's Jul 2 10b5-1 sale all remain unchanged; SNP/SAP-transformation partnership (Jul 8) surfaced in search but is stale (>1 month old, sub-4 significance), not scored; golden cross 2 trading days old (per latest close data); next earnings ~Nov 2 2026",
+      "last_run_window": "Mon 10 Aug 09:14 MYT (delta run): nothing new since last digest (Sun 9 Aug 21:14 MYT) \u2014 window still sits inside the weekend US-market closure (next session opens Mon 9:30pm MYT), no fresh wires; BofA's Street-high $255 PT, the post-earnings PT-raise wave, France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, and Sankar's Jul 2 10b5-1 sale all remain unchanged; Sankar's Aug 6 Intent-to-Sell (35k shares, ~$5.5M, routine 10b5-1 pattern) surfaced in search but is sub-4 significance, not scored; golden cross 2 trading days old (per latest close data); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -139,7 +139,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sun 9 Aug 21:14 MYT (delta run): nothing new since last digest (Sun 9 Aug 09:09 MYT) \u2014 quiet ~12hr Sunday-daytime window, no US session, no fresh wires or filings; Terafab build-out detail, the Reuters FSD safety-data report, the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; recap of Musk's ~20% voting stake (option exercise from Jun 16) and China's Jan 2027 hidden-door-handle ban both resurfaced in search but are stale/already-known, not scored; death cross 30 trading days old (per latest close data); next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Mon 10 Aug 09:14 MYT (delta run): nothing new since last digest (Sun 9 Aug 21:14 MYT) \u2014 window still sits inside the weekend US-market closure (next session opens Mon 9:30pm MYT), no fresh wires; Terafab build-out detail, the Reuters FSD safety-data report, the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; death cross 30 trading days old (per latest close data); next earnings Oct 21 2026 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -324,7 +324,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sun 9 Aug 21:14 MYT (delta run): nothing new since last digest (Sun 9 Aug 09:09 MYT) — quiet ~12hr Sunday-daytime window, no US session, no fresh wires or filings; the Extended Lock-Up release ($1.86B / 17.1% of Class A / 38.9% of float eligible, no confirmed large sales yet), Wells Fargo/Morgan Stanley/RBC PT actions, the Anthropic/Claude Design competitive thread, Findell Capital's activist pressure (governance/product-portfolio/SBC critique), and the CPO/CMO departures (no successors named) all remain unchanged; GPT-5.6-in-Figma-Make integration (Jul 7) resurfaced in search but is stale/already-known, not scored; golden cross 12 trading days old (per latest close data); next earnings ~Nov 4 2026",
+      "last_run_window": "Mon 10 Aug 09:14 MYT (delta run): 1 new since last digest (Sun 9 Aug 21:14 MYT) — Citi raised its PT to $37 from $35 (Buy maintained), joining the post-earnings analyst-action wave; the Extended Lock-Up release ($1.86B / 17.1% of Class A / 38.9% of float eligible, no confirmed large sales yet), Wells Fargo/Morgan Stanley/RBC PT actions, the Anthropic/Claude Design competitive thread, Findell Capital's activist pressure (governance/product-portfolio/SBC critique), and the CPO/CMO departures (no successors named) all remain unchanged; golden cross 12 trading days old (per latest close data); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -421,6 +421,12 @@
           "headline": "Wells Fargo cuts FIG PT to $36 from $38 (Overweight maintained); Morgan Stanley cuts to $33 from $38 (Equal Weight maintained) — same post-earnings wave as RBC's move to $28",
           "score": 4,
           "direction": "bearish"
+        },
+        {
+          "id": "fig-citi-pt-raise-37-aug7",
+          "headline": "Citi raises FIG price target to $37 from $35, maintains Buy, following the Q2 beat-and-raise — joins the post-earnings analyst-action wave alongside Wells Fargo/Morgan Stanley cuts and RBC's raise",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     }
