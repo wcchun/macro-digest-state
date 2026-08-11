@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-10T14:01:14Z",
+  "last_run_utc": "2026-08-11T01:14:59Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 10 Aug 22:01 MYT (delta run): nothing new since last digest (Mon 10 Aug 09:14 MYT) \u2014 window covers Monday Asia/Europe daytime into the US cash open, no US session inside it; BofA's Street-high $255 PT, the post-earnings PT-raise wave, France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, and Sankar's Jul/Aug 10b5-1 sales all remain unchanged; golden cross 2 trading days old (per latest close data, as_of Fri 7 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Tue 11 Aug 09:14 MYT (delta run): nothing new since last digest (Mon 10 Aug 22:01 MYT) \u2014 window covers Monday's full US cash session and after-hours; Monday's ~+4% move was continued post-earnings momentum/short-covering off the Aug 3-4 beat-and-raise, no new catalyst; BofA's Street-high $255 PT, the post-earnings PT-raise wave, France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, and Sankar's Jul/Aug 10b5-1 sales all remain unchanged; golden cross 3 trading days old (per latest close data, as_of Mon 10 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -139,7 +139,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 10 Aug 22:01 MYT (delta run): nothing new since last digest (Mon 10 Aug 09:14 MYT) \u2014 window covers Monday Asia/Europe daytime into the US cash open, no US session inside it; Terafab build-out detail, the Reuters FSD safety-data report, the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding), the DOT/NHTSA AV-deregulation package, the Stifel/Piper Sandler/Jefferies PT cuts, and routine UK monthly registration softness (known recurring Europe-demand thread, no new figure attached) all remain unchanged; death cross 30 trading days old (per latest close data, as_of Fri 7 Aug); next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Tue 11 Aug 09:14 MYT (delta run): nothing new since last digest (Mon 10 Aug 22:01 MYT) \u2014 window covers Monday's full US cash session and after-hours; stock closed +0.70% at $330.88 on light volume (0.63x ADV20), no identified catalyst; a recycled Musk 'Optimus will be epic' X-post (weekend) scored <4 as known-pattern narrative with no new fact; Terafab build-out detail, the Reuters FSD safety-data report, the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the NHTSA camera-only-FSD probe (Aug 12 info-demand deadline still outstanding, imminent), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler/Jefferies PT cuts all remain unchanged; death cross 31 trading days old (per latest close data, as_of Mon 10 Aug); next earnings Oct 21 2026 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -324,7 +324,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 10 Aug 22:01 MYT (delta run): nothing new since last digest (Mon 10 Aug 09:14 MYT) — window covers Monday Asia/Europe daytime into the US cash open, no US session inside it; the Citi PT raise to $37, the Extended Lock-Up release ($1.86B / 17.1% of Class A / 38.9% of float eligible, no confirmed large sales yet), Wells Fargo/Morgan Stanley/RBC PT actions, the Anthropic/Claude Design competitive thread, Findell Capital's activist pressure (governance/product-portfolio/SBC critique), and the CPO/CMO departures (no successors named) all remain unchanged; golden cross 12 trading days old (per latest close data, as_of Fri 7 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Tue 11 Aug 09:14 MYT (delta run): nothing new since last digest (Mon 10 Aug 22:01 MYT) — window covers Monday's full US cash session and after-hours; no Form 4 filings yet from the ~77.7M newly-unlocked shares, no new analyst actions, no Findell follow-up, no CPO/CMO successor news; the Citi PT raise to $37, the Extended Lock-Up release ($1.86B / 17.1% of Class A / 38.9% of float eligible, no confirmed large sales yet), Wells Fargo/Morgan Stanley/RBC PT actions, the Anthropic/Claude Design competitive thread, Findell Capital's activist pressure (governance/product-portfolio/SBC critique), and the CPO/CMO departures (no successors named) all remain unchanged; golden cross 13 trading days old (per latest close data, as_of Mon 10 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
