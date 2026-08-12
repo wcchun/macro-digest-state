@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-11T14:06:00Z",
+  "last_run_utc": "2026-08-12T13:44:51Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 11 Aug 22:01 MYT (delta run): nothing new since last digest (Tue 11 Aug 09:14 MYT) \u2014 window covers Tuesday's Asia/Europe day session, pre-US-open; quiet pre-open stretch, no new catalyst; BofA's Street-high $255 PT, the post-earnings PT-raise wave, France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, and Sankar's insider sale all remain unchanged; golden cross 3 trading days old (per latest close data, as_of Mon 10 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Wed 12 Aug 21:45 MYT (delta run): 1 new since last digest (Tue 11 Aug 22:06 MYT) \u2014 window covers Tuesday's US cash session through Wednesday day session; Pentagon draft memo surfaces authorizing up to $243.9M no-bid DoD purchase (unconfirmed/draft, score 6); Phillip Securities PT raise to $215 and premarket valuation-pullback commentary scored <4 (skipped); Sankar's Aug 6 10b5-1 sale filed as Form 4 Aug 11 \u2014 same routine transaction, not new; France/ChapsVision, UK NHS review, Cleveland Research thread all unchanged (no follow-up found); golden cross 4 trading days old (per latest close data, as_of Tue 11 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -135,11 +135,17 @@
           "headline": "BofA Securities (Mariana Perez Mora) raises PLTR PT to a Street-high $255 from $215, reiterates Buy, citing a durable AI-adoption moat (boot camps, forward-deployed engineering, ROI-first implementation); stock closes +10.32% at $172.01 on 76.2M shares (~1.66x ADV20)",
           "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "pentagon-nobid-contract-244m-draft-aug11",
+          "headline": "The Register: draft Aug 4-dated memo from Deputy SecDef Feinberg directs DoD to purchase up to $243.9M in AI-enabled data-analytics services from Palantir without competitive bidding through Mar 31 2027; unclear if finalized",
+          "score": 6,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 11 Aug 22:01 MYT (delta run): nothing new since last digest (Tue 11 Aug 09:14 MYT) \u2014 window covers Tuesday's Asia/Europe day session, pre-US-open; no identified catalyst; the NHTSA camera-only-FSD probe's 24-part info-demand deadline (Aug 12) remains outstanding and imminent, no pre-deadline filing/response found yet; Terafab build-out detail, the Reuters FSD safety-data report, the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; death cross 31 trading days old (per latest close data, as_of Mon 10 Aug); next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Wed 12 Aug 21:45 MYT (delta run): nothing new since last digest (Tue 11 Aug 22:06 MYT) \u2014 window covers Tuesday's US cash session through Wednesday day session; NHTSA's Aug 12 24-part information-demand deadline on the camera-only-FSD engineering analysis falls today \u2014 no confirmed filing, extension request, or outcome found yet, flagged as pending/unresolved for next run; Terafab detail, Jefferies PT cut, Tesla-SpaceX merger speculation, and litigation items surfacing in searches all predate the window (recycled coverage); all previously tracked threads (NHTSA lateral-link probe, robotaxi first-responder probe, Reuters RDW report, China wholesale strength) remain unchanged; death cross 32 trading days old (per latest close data, as_of Tue 11 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -324,7 +330,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 11 Aug 22:01 MYT (delta run): nothing new since last digest (Tue 11 Aug 09:14 MYT) — window covers Tuesday's Asia/Europe day session, pre-US-open; no Form 4 filings yet from the ~77.7M newly-unlocked shares, no new analyst actions, no Findell follow-up, CPO successor still unnamed; the Citi PT raise to $37, the Extended Lock-Up release ($1.86B / 17.1% of Class A / 38.9% of float eligible, no confirmed large sales yet), Wells Fargo/Morgan Stanley/RBC PT actions, the Anthropic/Claude Design competitive thread, and Findell Capital's activist pressure (governance/product-portfolio/SBC critique) all remain unchanged; golden cross 13 trading days old (per latest close data, as_of Mon 10 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Wed 12 Aug 21:45 MYT (delta run): 1 new since last digest (Tue 11 Aug 22:06 MYT) \u2014 window covers Tuesday's US cash session through Wednesday day session; Form 4 (filed Aug 11) discloses Greylock XIV funds' pro-rata in-kind distribution of ~14.6M newly-unlocked Class A shares to LPs (fund-to-LP transfer, not open-market sale, score 5); no confirmed open-market cash selling yet from the Aug 7 unlock pool; CPO successor still unnamed; Findell Capital no new letter (last dated May 28); analyst PT actions, Config AI suite, and Claude Design thread all unchanged; golden cross 13 trading days old (per latest close data, as_of Tue 11 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -418,15 +424,21 @@
         },
         {
           "id": "fig-wells-fargo-morgan-stanley-pt-cuts-aug6",
-          "headline": "Wells Fargo cuts FIG PT to $36 from $38 (Overweight maintained); Morgan Stanley cuts to $33 from $38 (Equal Weight maintained) — same post-earnings wave as RBC's move to $28",
+          "headline": "Wells Fargo cuts FIG PT to $36 from $38 (Overweight maintained); Morgan Stanley cuts to $33 from $38 (Equal Weight maintained) \u2014 same post-earnings wave as RBC's move to $28",
           "score": 4,
           "direction": "bearish"
         },
         {
           "id": "fig-citi-pt-raise-37-aug7",
-          "headline": "Citi raises FIG price target to $37 from $35, maintains Buy, following the Q2 beat-and-raise — joins the post-earnings analyst-action wave alongside Wells Fargo/Morgan Stanley cuts and RBC's raise",
+          "headline": "Citi raises FIG price target to $37 from $35, maintains Buy, following the Q2 beat-and-raise \u2014 joins the post-earnings analyst-action wave alongside Wells Fargo/Morgan Stanley cuts and RBC's raise",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "greylock-inkind-distribution-unlock-aug11",
+          "headline": "Form 4 (filed Aug 11) discloses Greylock XIV LP/XIV-A/XIV Principals executed a pro-rata in-kind distribution of ~14.6M Class A shares (from the Aug 7 unlock pool) to fund LPs, incl. director John O. Lilly III receiving 412,993 shares; fund-to-LP transfer, not an open-market sale",
+          "score": 5,
+          "direction": "bearish"
         }
       ]
     }
