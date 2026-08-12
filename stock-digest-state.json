@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-11T14:06:00Z",
+  "last_run_utc": "2026-08-12T01:11:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 11 Aug 22:01 MYT (delta run): nothing new since last digest (Tue 11 Aug 09:14 MYT) \u2014 window covers Tuesday's Asia/Europe day session, pre-US-open; quiet pre-open stretch, no new catalyst; BofA's Street-high $255 PT, the post-earnings PT-raise wave, France/ChapsVision, Cleveland Research selloff, UK NHS renewal review, Army NGC2/Enterprise Service Agreement, and Sankar's insider sale all remain unchanged; golden cross 3 trading days old (per latest close data, as_of Mon 10 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Wed 12 Aug 09:11 MYT (delta run): 2 new since last digest (Tue 11 Aug 22:01 MYT) \u2014 window covers Tuesday's US close through pre-open Wednesday Asia; Michael Burry re-enters bearish PLTR puts (Aug 11), Sankar sells a second August 10b5-1 tranche (~$5.4M, Aug 6); golden cross now 4 trading days old (per latest close data, as_of Tue 11 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -135,11 +135,23 @@
           "headline": "BofA Securities (Mariana Perez Mora) raises PLTR PT to a Street-high $255 from $215, reiterates Buy, citing a durable AI-adoption moat (boot camps, forward-deployed engineering, ROI-first implementation); stock closes +10.32% at $172.01 on 76.2M shares (~1.66x ADV20)",
           "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "burry-reenters-put-trade-march2027-aug11",
+          "headline": "Michael Burry re-enters a bearish PLTR options bet, buying March 2027 puts (low-to-mid $100s strikes) as IV cooled to multi-month lows; cites ~69x sales multiple, ~$5B in staff stock comp issued over the past year, and non-cancellable off-balance-sheet infra commitments more than tripling this year; maintains PLTR is intrinsically worth 'under $1' long-run",
+          "score": 5,
+          "direction": "bearish"
+        },
+        {
+          "id": "sankar-cto-sale-54m-aug6",
+          "headline": "CTO Shyam Sankar sells another 35,000 shares (~$5.4M) on Aug 6 at $153.40-157.44, per the pre-existing Mar 11 2026 10b5-1 plan \u2014 a second August tranche distinct from the Jul 2 sale, consistent with the known heavy pre-scheduled selling pattern",
+          "score": 3,
+          "direction": "bearish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 11 Aug 22:01 MYT (delta run): nothing new since last digest (Tue 11 Aug 09:14 MYT) \u2014 window covers Tuesday's Asia/Europe day session, pre-US-open; no identified catalyst; the NHTSA camera-only-FSD probe's 24-part info-demand deadline (Aug 12) remains outstanding and imminent, no pre-deadline filing/response found yet; Terafab build-out detail, the Reuters FSD safety-data report, the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; death cross 31 trading days old (per latest close data, as_of Mon 10 Aug); next earnings Oct 21 2026 (no earnings-within-30d)",
+      "last_run_window": "Wed 12 Aug 09:11 MYT (delta run): 1 update since last digest (Tue 11 Aug 22:01 MYT) \u2014 window covers Tuesday's US close through pre-open Wednesday Asia; the Jul 16 headlight-glare recall thread gets a formal NHTSA filing (Campaign 26V507, 20,349 vehicles); the NHTSA camera-only-FSD probe's 24-part info-demand deadline is TODAY (Aug 12), no outcome yet; Terafab build-out detail, the Reuters FSD safety-data report, the China-unit/SpaceX-merger report and Musk's denial, the NHTSA lateral-link probe (~1.2M vehicles), the DOT/NHTSA AV-deregulation package, and the Stifel/Piper Sandler PT cuts all remain unchanged; death cross 32 trading days old (per latest close data, as_of Tue 11 Aug); next earnings Oct 21 2026 (no earnings-within-30d)",
       "stories": [
         {
           "id": "china-july-wholesale-record-93k-aug4",
@@ -320,11 +332,17 @@
           "headline": "Additional Terafab detail emerges: 10-phase project, >100M sq ft full footprint, targeted >1TW AI compute capacity annually split ~25% Optimus / 75% SpaceX; SpaceX paid Grimes County, TX $10M to satisfy a tax-abatement deadline; county commissioners told the project is a 'done deal'",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "nhtsa-headlight-recall-formal-filing-20349-aug4",
+          "headline": "NHTSA formalizes the headlight-glare recall as Campaign 26V507 (filed Aug 4, surfacing in press Aug 11): 20,349 vehicles (18,735 Model Y 2020-2023, 1,614 Model 3 2017-2023) for low beams exceeding max permitted intensity; remedy still undetermined, notification letters scheduled Sep 15 — firms up the count and filing on the Jul 16 recall-mandate thread",
+          "score": 3,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 11 Aug 22:01 MYT (delta run): nothing new since last digest (Tue 11 Aug 09:14 MYT) — window covers Tuesday's Asia/Europe day session, pre-US-open; no Form 4 filings yet from the ~77.7M newly-unlocked shares, no new analyst actions, no Findell follow-up, CPO successor still unnamed; the Citi PT raise to $37, the Extended Lock-Up release ($1.86B / 17.1% of Class A / 38.9% of float eligible, no confirmed large sales yet), Wells Fargo/Morgan Stanley/RBC PT actions, the Anthropic/Claude Design competitive thread, and Findell Capital's activist pressure (governance/product-portfolio/SBC critique) all remain unchanged; golden cross 13 trading days old (per latest close data, as_of Mon 10 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Wed 12 Aug 09:11 MYT (delta run): nothing new since last digest (Tue 11 Aug 22:01 MYT) — window covers Tuesday's US close through pre-open Wednesday Asia; quiet overnight stretch, no new catalyst; no Form 4 filings yet from the ~77.7M newly-unlocked shares, no new analyst actions, no Findell follow-up, CPO successor still unnamed; the Citi PT raise to $37, the Extended Lock-Up release ($1.86B / 17.1% of Class A / 38.9% of float eligible, no confirmed large sales yet), Wells Fargo/Morgan Stanley/RBC PT actions, the Anthropic/Claude Design competitive thread, and Findell Capital's activist pressure (governance/product-portfolio/SBC critique) all remain unchanged; golden cross 14 trading days old (per latest close data, as_of Tue 11 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
