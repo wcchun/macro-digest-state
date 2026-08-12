@@ -1,30 +1,24 @@
 {
-  "last_run_utc": "2026-08-11T14:00:00Z",
-  "last_run_window": "Tue 11 Aug 09:10 MYT to Tue 11 Aug 22:00 MYT (Tuesday Asia/Europe day session into US pre-market)",
+  "last_run_utc": "2026-08-12T01:10:00Z",
+  "last_run_window": "Tue 11 Aug 22:00 MYT to Wed 12 Aug 09:10 MYT (Tuesday US session close, after-hours, into pre-CPI Wednesday morning Asia)",
   "stories": [
     {
+      "id": "coreweave-q2-beat-anthropic-meta-deals-backlog-aug11",
+      "headline": "CoreWeave (CRWV) Q2 Beats on Top/Bottom Line (Rev $2.58B, +112% YoY; Adj. EPS -$1.03 vs -$1.20 Est.), Raises FY26 Revenue Guide, Discloses New Anthropic and Meta Compute Deals, Backlog Hits $104B; Shares +14% After-Hours",
+      "score": 5,
+      "direction": "bullish"
+    },
+    {
       "id": "iran-oman-hormuz-final-stages-no-sanctions-relief-oil-yields-aug9-10",
-      "headline": "Hormuz Reopening Hopes Fade as Trump Demands Iran Pay Reparations for US/Israeli Casualties, Iran Reciprocates With War-Damage Compensation Demand; Oil Extends Gains to 4th Session (Brent ~$88, WTI ~$82), 10yr Yield Ticks to ~4.73% Ahead of Wed's July CPI",
+      "headline": "Hormuz Reopening Still Stalled on Trump Reparations Demand vs Iran Sanctions-Relief Ask; EIA Raises 2026 Brent Forecast to $87 (From $82) as Ships Keep Doing Ship-to-Ship Transfers Outside the Strait; Brent ~$88, WTI ~$82, 10yr Flat ~4.73%, DXY Flat ~99.8 Ahead of Wed CPI",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "nvidia-500b-ai-financing-platform-circular-financing-selloff-aug10",
-      "headline": "Nvidia Unveils $500B AI-Financing Platform With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR; Stock Drops ~3-5% (~$130B) on Circular-Financing Concern Alongside OpenAI Ohio Backstop/Chip-Financing Talks; AMD, Micron, SK Hynix Sell Off in Sympathy, NVDA 5yr CDS Spread Widens Most on Record",
-      "score": 7,
-      "direction": "bearish"
-    },
-    {
-      "id": "tsmc-july-revenue-44pct-yoy-beat-guide-aug10",
-      "headline": "TSMC July Revenue +44.7% YoY (~$14.5B), Running Ahead of 40%+ FY Growth Guide on Durable AI/Advanced-Node Chip Demand From Nvidia, Google",
+      "headline": "Nvidia AI-Financing/Circular-Financing Concern Eases Into Tuesday Close — NVDA Recovers Most of Monday's Drop to Finish Just Below Flat; Broader Big Tech Still Drags Nasdaq -0.6% on the Session Alongside Hormuz Risk-Off (S&P -0.32%, Dow -0.34% on Industrial Strength)",
       "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "intel-15b-stock-offering-first-since-1971-ipo-aug10",
-      "headline": "Intel Launches First Common Stock Offering Since 1971 IPO — $15B Proposed Raise (+$2.25B Underwriter Option) to Fund AI-Driven Capex; Shares Fall on Dilution Concern",
-      "score": 4,
-      "direction": "neutral"
+      "direction": "bearish"
     }
   ]
 }
