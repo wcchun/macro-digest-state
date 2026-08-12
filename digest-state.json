@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-08-12T01:10:00Z",
-  "last_run_window": "Tue 11 Aug 22:00 MYT to Wed 12 Aug 09:10 MYT (Tuesday US session close, after-hours, into pre-CPI Wednesday morning Asia)",
+  "last_run_utc": "2026-08-12T13:35:00Z",
+  "last_run_window": "Wed 12 Aug 09:10 MYT to Wed 12 Aug 21:35 MYT (Wednesday pre-market, July CPI release, into US cash open)",
   "stories": [
     {
       "id": "coreweave-q2-beat-anthropic-meta-deals-backlog-aug11",
@@ -10,15 +10,21 @@
     },
     {
       "id": "iran-oman-hormuz-final-stages-no-sanctions-relief-oil-yields-aug9-10",
-      "headline": "Hormuz Reopening Still Stalled on Trump Reparations Demand vs Iran Sanctions-Relief Ask; EIA Raises 2026 Brent Forecast to $87 (From $82) as Ships Keep Doing Ship-to-Ship Transfers Outside the Strait; Brent ~$88, WTI ~$82, 10yr Flat ~4.73%, DXY Flat ~99.8 Ahead of Wed CPI",
+      "headline": "Hormuz Reopening Still Stalled — Iran Now Floating a ~5-7% Cargo 'Toll' (~$20B/yr) Via GCC Payments in Lieu of a Formal Sanctions-Relief Deal; Reparations Demand vs Trump Still Unresolved; Brent ~$88, WTI ~$82, 10yr ~4.68%, DXY ~99.8",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "nvidia-500b-ai-financing-platform-circular-financing-selloff-aug10",
-      "headline": "Nvidia AI-Financing/Circular-Financing Concern Eases Into Tuesday Close — NVDA Recovers Most of Monday's Drop to Finish Just Below Flat; Broader Big Tech Still Drags Nasdaq -0.6% on the Session Alongside Hormuz Risk-Off (S&P -0.32%, Dow -0.34% on Industrial Strength)",
+      "headline": "Nvidia Formalizes $500B AI-Infrastructure Financing Platform With Six Institutions (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) via Project-SPV Bonds for GPUs/Data Centers/Power; Also ~$3B Stake in Power-Infra Developer Lancium; Shares +1% Pre-Market",
+      "score": 6,
+      "direction": "bullish"
+    },
+    {
+      "id": "july-cpi-inline-cooling-3.4pct-headline-2.5pct-core-aug12",
+      "headline": "July CPI In Line With Consensus — Headline +0.1% m/m / 3.4% y/y (down from 3.5% in June), Core +0.2% m/m / 2.5% y/y; Futures Tick Up, 10yr Eases ~2bp to 4.68%, Easing Near-Term Hawkish-Surprise Risk Ahead of Sept FOMC After Three July Dissents Favored a Hike",
       "score": 5,
-      "direction": "bearish"
+      "direction": "bullish"
     }
   ]
 }
