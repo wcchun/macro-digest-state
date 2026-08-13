@@ -1,11 +1,17 @@
 {
-  "last_run_utc": "2026-08-13T01:10:00Z",
-  "last_run_window": "Wed 12 Aug 21:35 MYT to Thu 13 Aug 09:10 MYT (Wednesday US cash close into Thursday pre-market, July PPI release)",
+  "last_run_utc": "2026-08-13T13:40:00Z",
+  "last_run_window": "Thu 13 Aug 09:10 MYT to Thu 13 Aug 21:40 MYT (pre-US-open Asia/Europe session; Cisco and Cerebras earnings reactions)",
   "stories": [
     {
-      "id": "july-ppi-hot-miss-services-led-aug13",
-      "headline": "July PPI Comes In Hot at +0.9% m/m (vs +0.2% Est., Dow Jones) — Biggest Wholesale-Inflation Jump Since June 2022, Services-Led (+1.1%, Largest Since March 2022); Dow -0.4%, S&P -0.3%, Nasdaq -0.25% at Open, One Day After In-Line CPI",
-      "score": 7,
+      "id": "cisco-q4fy26-beat-margin-compression-selloff-aug13",
+      "headline": "Cisco (CSCO) Beats Q4/FY26 Revenue (+18% YoY to $17.3B) and Guides FY27 Well Above Consensus, but Shares Fall ~6% Premarket on AI-Mix-Driven Gross Margin Compression (66.3% vs 68.4% YoY; Q1 Guide 65-66%)",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "cerebras-q2-loss-miss-despite-record-revenue-aug12-13",
+      "headline": "Cerebras Systems (CBRS) Posts Record Q2 Revenue (+74% YoY) but Wider-Than-Expected Adjusted Loss (-$2.98 vs -$0.17 Est.); Shares -15-17% Despite Raised FY26 Guidance",
+      "score": 4,
       "direction": "bearish"
     },
     {
@@ -13,18 +19,6 @@
       "headline": "Energy Dept Claims Hormuz Flows 'Back to Normal,' but Ship-Tracking (MarineTraffic) Shows Only 8-15 Transits/Day vs ~130 Pre-War; Iran Still Ties Reopening to Sanctions Relief/Reparations; Oil Climbs a 6th Straight Day on Skepticism",
       "score": 5,
       "direction": "bearish"
-    },
-    {
-      "id": "meta-capex-roi-skepticism-selloff-aug12",
-      "headline": "Meta Shares -3.4% to ~$578 on EU Privacy Complaint (Ray-Ban Smart-Glasses Data), US Youth-Safety Lawsuits, and Renewed Skepticism Over Raised $125-145B FY26 Capex Guide",
-      "score": 4,
-      "direction": "bearish"
-    },
-    {
-      "id": "nebius-q2-beat-power-target-raise-aug12",
-      "headline": "Nebius Q2 Revenue +454% YoY to $582.3M (Beat), Raises Contracted Power Target to 5GW, Reaffirms FY26 Guidance on AI-Cloud Demand",
-      "score": 4,
-      "direction": "bullish"
     }
   ]
 }
