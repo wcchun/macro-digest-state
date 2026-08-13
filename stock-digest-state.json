@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-13T01:16:13Z",
+  "last_run_utc": "2026-08-13T13:40:27Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 13 Aug 09:16 MYT (delta run): nothing new since last digest (Wed 12 Aug 21:44 MYT) \u2014 window covers Wednesday's US afternoon session through Thursday morning; Pentagon $243.9M no-bid DoD memo (draft, Aug 11) remains unconfirmed/unfinalized; stock fell ~3.2-3.3% Wed on valuation digestion/profit-taking (no new fact, not scored); RBC $50 PT, Benchmark Hold $150 PT, Jefferies Underperform $80 PT, Cathie Wood/ARK trims and Burry puts refresh all predate window (recycled); golden cross 5 trading days old (per latest close data, as_of Wed 12 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Thu 13 Aug 21:40 MYT (delta run): nothing new since last digest (Thu 13 Aug 09:16 MYT) \u2014 window covers Thursday's Asia-session/US pre-market; Pentagon $243.9M no-bid DoD memo (draft, Aug 11) still unconfirmed/unfinalized, no update found; golden cross 5 trading days old (per latest close data, as_of Wed 12 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -145,8 +145,14 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 13 Aug 09:16 MYT (delta run): nothing material new since last digest (Wed 12 Aug 21:44 MYT) \u2014 NHTSA's Aug 12 24-part information-demand deadline on the camera-only-FSD engineering analysis (EA26002) passed with no confirmed outcome found yet (response filed / extension / escalation) \u2014 still unresolved, carried to next run; Tesla filed permits for a 124-stall V4 Supercharger site in San Francisco (Aug 12, operational/non-material, skipped); death cross 33 trading days old (per latest close data, as_of Wed 12 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Thu 13 Aug 21:40 MYT (delta run): 1 item surfaced this run \u2014 Project Crystal Sun $10.1B TX solar factory filing (belated catch-up: filed Aug 11, coverage cascaded Aug 11-12, fell inside the prior run's stated window but was missed then); NHTSA's Aug 12 24-part EA26002 deadline passed with no confirmed outcome found yet (response filed / extension / escalation) \u2014 still unresolved, carried to next run; death cross 33 trading days old (per latest close data, as_of Wed 12 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
+        {
+          "id": "project-crystal-sun-solar-factory-tx-aug11-12",
+          "headline": "Tesla files $10.1B 'Project Crystal Sun' solar-cell factory tax-incentive application in Fort Bend County, TX (filed Aug 11); ingot-to-module facility, ~9,712 permanent jobs, construction 2026-2028, commercial production targeted Q1 2029; company says it is still evaluating a competing out-of-state site so the commitment is non-binding; VC Chamath Palihapitiya's Aug 12 'all in on nuclear/solar' post amplified retail attention",
+          "score": 6,
+          "direction": "bullish"
+        },
         {
           "id": "china-july-wholesale-record-93k-aug4",
           "headline": "Tesla China July wholesale sales: 93,579 units, highest month of 2026, +37.85% YoY, 9th straight month of YoY growth \u2014 counters the soft-EV-demand/BYD-share-loss narrative for the Shanghai plant (>50% of global output)",
@@ -330,7 +336,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 13 Aug 09:16 MYT (delta run): nothing new since last digest (Wed 12 Aug 21:44 MYT) \u2014 no confirmed open-market selling from the Aug 7 unlock pool yet (only the Aug 11 Greylock in-kind LP distribution on file); no CPO successor named (Crisan absorbing product scope per Aug 5 call); no new Findell Capital letter (last dated May 28); no new AI-competitor shipped-feature news; golden cross 15 trading days old (per latest close data, as_of Wed 12 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Thu 13 Aug 21:40 MYT (delta run): nothing new since last digest (Thu 13 Aug 09:16 MYT) \u2014 no confirmed open-market selling from the Aug 7 unlock pool yet (only the Aug 11 Greylock in-kind LP distribution on file); no CPO successor named; no new Findell Capital letter (last dated May 28); no new AI-competitor shipped-feature news; golden cross 15 trading days old (per latest close data, as_of Wed 12 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
