@@ -1,28 +1,22 @@
 {
-  "last_run_utc": "2026-08-14T01:15:00Z",
-  "last_run_window": "Thu 13 Aug 21:40 MYT to Fri 14 Aug 09:15 MYT (Thursday US session through Friday Asia pre-market)",
+  "last_run_utc": "2026-08-14T17:19:19Z",
+  "last_run_window": "Fri 14 Aug 09:15 MYT to Sat 15 Aug 01:20 MYT (Friday Asia/Europe session through Friday US pre-market and midday trade)",
   "stories": [
     {
-      "id": "semiconductor-memory-sector-rally-sox-bull-market-aug13",
-      "headline": "Philadelphia Semiconductor Index (SOX) Enters Technical Bull Market as AI-Memory Supercycle Broadens; Micron Reclaims $1 Trillion Market Cap, SanDisk/WDC/SK Hynix +3-5%+, CoreWeave/IREN +8-10%",
+      "id": "retail-sales-umich-sentiment-plunge-aug14",
+      "headline": "July Retail Sales Fall 0.6% m/m (Weakest Since May 2025) as August University of Michigan Consumer Sentiment Craters 8% to 51, Ending Two-Month Rise; Year-Ahead Inflation Expectations Tick Up to 4.3%",
       "score": 6,
-      "direction": "bullish"
+      "direction": "bearish"
     },
     {
-      "id": "ppi-fed-speakers-yields-tech-record-aug13",
-      "headline": "Soft Headline July PPI (0.0% m/m, 4.7% y/y) Eases Fed Hike Odds to ~40% Despite Hot Core (+0.4% m/m) and Hawkish Hammack/Barkin Remarks; Yields and Dollar Slip, S&P 500 Closes at Fresh Record",
+      "id": "amat-q3-beat-raise-ai-capex-aug14",
+      "headline": "Applied Materials Posts Record $9.12B Q3 Revenue (+25% y/y) and Raises Q4 Guidance to ~$10.25B on AI Datacenter Semicap Demand; Stock Slips Despite Beat-and-Raise",
       "score": 5,
       "direction": "bullish"
     },
     {
-      "id": "amd-475b-bond-offering-ai-capex-aug13",
-      "headline": "AMD Prices $4.75B Debt Offering, Its Largest Ever, to Fund AI Data-Center Expansion; Shares +1.8%",
-      "score": 4,
-      "direction": "bullish"
-    },
-    {
-      "id": "meta-multistate-ag-youth-safety-trial-jury-selection-aug12-13",
-      "headline": "Multistate AG Trial Alleging Meta Designed Addictive Features to Harm Teens Begins Jury Selection; Meta Lost Bid to Delay",
+      "id": "iran-blockade-indefinite-oil-aug14",
+      "headline": "US Says Naval Blockade of Iran Could Continue 'Indefinitely' as Ceasefire Talks Stall; Brent +1.8% to $88.64, WTI +2% to $82.89, Oil on Track for ~3-4% Weekly Gain",
       "score": 4,
       "direction": "bearish"
     }
