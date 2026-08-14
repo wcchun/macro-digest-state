@@ -1,23 +1,29 @@
 {
-  "last_run_utc": "2026-08-13T13:40:00Z",
-  "last_run_window": "Thu 13 Aug 09:10 MYT to Thu 13 Aug 21:40 MYT (pre-US-open Asia/Europe session; Cisco and Cerebras earnings reactions)",
+  "last_run_utc": "2026-08-14T01:15:00Z",
+  "last_run_window": "Thu 13 Aug 21:40 MYT to Fri 14 Aug 09:15 MYT (Thursday US session through Friday Asia pre-market)",
   "stories": [
     {
-      "id": "cisco-q4fy26-beat-margin-compression-selloff-aug13",
-      "headline": "Cisco (CSCO) Beats Q4/FY26 Revenue (+18% YoY to $17.3B) and Guides FY27 Well Above Consensus, but Shares Fall ~6% Premarket on AI-Mix-Driven Gross Margin Compression (66.3% vs 68.4% YoY; Q1 Guide 65-66%)",
-      "score": 5,
-      "direction": "bearish"
+      "id": "semiconductor-memory-sector-rally-sox-bull-market-aug13",
+      "headline": "Philadelphia Semiconductor Index (SOX) Enters Technical Bull Market as AI-Memory Supercycle Broadens; Micron Reclaims $1 Trillion Market Cap, SanDisk/WDC/SK Hynix +3-5%+, CoreWeave/IREN +8-10%",
+      "score": 6,
+      "direction": "bullish"
     },
     {
-      "id": "cerebras-q2-loss-miss-despite-record-revenue-aug12-13",
-      "headline": "Cerebras Systems (CBRS) Posts Record Q2 Revenue (+74% YoY) but Wider-Than-Expected Adjusted Loss (-$2.98 vs -$0.17 Est.); Shares -15-17% Despite Raised FY26 Guidance",
+      "id": "ppi-fed-speakers-yields-tech-record-aug13",
+      "headline": "Soft Headline July PPI (0.0% m/m, 4.7% y/y) Eases Fed Hike Odds to ~40% Despite Hot Core (+0.4% m/m) and Hawkish Hammack/Barkin Remarks; Yields and Dollar Slip, S&P 500 Closes at Fresh Record",
+      "score": 5,
+      "direction": "bullish"
+    },
+    {
+      "id": "amd-475b-bond-offering-ai-capex-aug13",
+      "headline": "AMD Prices $4.75B Debt Offering, Its Largest Ever, to Fund AI Data-Center Expansion; Shares +1.8%",
       "score": 4,
-      "direction": "bearish"
+      "direction": "bullish"
     },
     {
-      "id": "iran-oman-hormuz-final-stages-no-sanctions-relief-oil-yields-aug9-10",
-      "headline": "Energy Dept Claims Hormuz Flows 'Back to Normal,' but Ship-Tracking (MarineTraffic) Shows Only 8-15 Transits/Day vs ~130 Pre-War; Iran Still Ties Reopening to Sanctions Relief/Reparations; Oil Climbs a 6th Straight Day on Skepticism",
-      "score": 5,
+      "id": "meta-multistate-ag-youth-safety-trial-jury-selection-aug12-13",
+      "headline": "Multistate AG Trial Alleging Meta Designed Addictive Features to Harm Teens Begins Jury Selection; Meta Lost Bid to Delay",
+      "score": 4,
       "direction": "bearish"
     }
   ]
