@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-13T13:40:27Z",
+  "last_run_utc": "2026-08-14T01:23:35Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 13 Aug 21:40 MYT (delta run): nothing new since last digest (Thu 13 Aug 09:16 MYT) \u2014 window covers Thursday's Asia-session/US pre-market; Pentagon $243.9M no-bid DoD memo (draft, Aug 11) still unconfirmed/unfinalized, no update found; golden cross 5 trading days old (per latest close data, as_of Wed 12 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Fri 14 Aug 09:23 MYT (delta run): 1 item this cycle \u2014 DefenseScoop/Federal News Network follow-up reporting ties the $243.9M no-bid memo to the Pentagon's BOND program but still names no specific contract vehicle or legal authority; memo remains unfinalized/unconfirmed as an actual award. France DGSI and UK NHS threads: no new developments. Golden cross 6 trading days old (per latest close data, as_of Thu 13 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -141,11 +141,17 @@
           "headline": "The Register: draft Aug 4-dated memo from Deputy SecDef Feinberg directs DoD to purchase up to $243.9M in AI-enabled data-analytics services from Palantir without competitive bidding through Mar 31 2027; unclear if finalized",
           "score": 6,
           "direction": "bullish"
+        },
+        {
+          "id": "pentagon-bond-program-detail-aug13",
+          "headline": "DefenseScoop/Federal News Network follow-up reporting: Feinberg's 'Funding Palantir' no-bid memo is tied to the Pentagon's nascent BOND program (embedding private-sector execs in DoD procurement), but coverage notes the memo names no specific contract vehicle or legal justification for skipping competition",
+          "score": 5,
+          "direction": "neutral"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 13 Aug 21:40 MYT (delta run): 1 item surfaced this run \u2014 Project Crystal Sun $10.1B TX solar factory filing (belated catch-up: filed Aug 11, coverage cascaded Aug 11-12, fell inside the prior run's stated window but was missed then); NHTSA's Aug 12 24-part EA26002 deadline passed with no confirmed outcome found yet (response filed / extension / escalation) \u2014 still unresolved, carried to next run; death cross 33 trading days old (per latest close data, as_of Wed 12 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Fri 14 Aug 09:23 MYT (delta run): 3 items this cycle \u2014 Michael Burry (Scion) covered his TSLA short (part of a broader risk-rotation, not TSLA-specific conviction); secondary-sourced reports of a Nevada AV regulatory filing/approval boosting shares (exact scope \u2014 full commercial AVNC permit vs partial/procedural \u2014 UNCONFIRMED, flagged for next-run verification via NTA docket 26-05015); Tesla ended its ~3-year Swedish IF Metall labor strike via full union buyout. NHTSA Aug 12 24-part EA26002 deadline outcome STILL unresolved/unconfirmed \u2014 carried to next run. Suspension lateral-link probe (1.2M vehicles): no change. Death cross 34 trading days old (per latest close data, as_of Thu 13 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -332,11 +338,29 @@
           "headline": "Additional Terafab detail emerges: 10-phase project, >100M sq ft full footprint, targeted >1TW AI compute capacity annually split ~25% Optimus / 75% SpaceX; SpaceX paid Grimes County, TX $10M to satisfy a tax-abatement deadline; county commissioners told the project is a 'done deal'",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "burry-covers-tsla-short-aug13",
+          "headline": "Michael Burry (Scion Asset Management) covers his TSLA short (opened Jun 30 at $416.22); same reporting batch shows him adding to Micron shorts and rolling into a larger QQQ put position \u2014 a broad risk-rotation, not a TSLA-specific thesis reversal",
+          "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "nevada-av-regulatory-filing-aug13",
+          "headline": "Secondary-sourced reports (TipRanks, CoinCentral) of a Nevada Transportation Authority robotaxi-related filing/approval contributing to Thursday's rally; exact scope unconfirmed \u2014 could be the pending 5,000-vehicle commercial AVNC permit (Docket 26-05015) or a narrower procedural filing; primary docket unverified",
+          "score": 5,
+          "direction": "bullish"
+        },
+        {
+          "id": "sweden-if-metall-strike-ends-buyout-aug13",
+          "headline": "Tesla ends its ~1,021-day Swedish IF Metall strike by buying out every remaining striking union member rather than signing a collective agreement; union calls it unprecedented in the Swedish labor market; industrial action formally ends Aug 19",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 13 Aug 21:40 MYT (delta run): nothing new since last digest (Thu 13 Aug 09:16 MYT) \u2014 no confirmed open-market selling from the Aug 7 unlock pool yet (only the Aug 11 Greylock in-kind LP distribution on file); no CPO successor named; no new Findell Capital letter (last dated May 28); no new AI-competitor shipped-feature news; golden cross 15 trading days old (per latest close data, as_of Wed 12 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Fri 14 Aug 09:23 MYT (delta run): nothing scored 4+ this cycle. Correction to prior tracking: CPO/CMO successors were actually named on the Aug 5 earnings call itself (Loredana Crisan expanding to lead product, Nairi Hourdajian moving to CMO) \u2014 not unresolved as previously logged. No confirmed open-market selling from the Aug 7 Extended Lock-Up pool since Aug 11 (only routine/in-kind VC-fund transfers on file, incl. an Aug 10 Index Ventures small sale and an Aug 11 Index Ventures in-kind LP distribution, same pattern as Greylock's). No new Findell Capital letter (last dated May 28). No new AI-competitor shipped-feature news, including nothing new from Anthropic Claude Design. No source has yet reconciled the Aug 31 standard-lockup figure against the Aug 7 Extended Lock-Up release. Golden cross 16 trading days old (per latest close data, as_of Thu 13 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
