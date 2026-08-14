@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-14T01:23:35Z",
+  "last_run_utc": "2026-08-14T17:24:12Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 14 Aug 09:23 MYT (delta run): 1 item this cycle \u2014 DefenseScoop/Federal News Network follow-up reporting ties the $243.9M no-bid memo to the Pentagon's BOND program but still names no specific contract vehicle or legal authority; memo remains unfinalized/unconfirmed as an actual award. France DGSI and UK NHS threads: no new developments. Golden cross 6 trading days old (per latest close data, as_of Thu 13 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Sat 15 Aug 01:24 MYT (delta run): nothing scored 4+ this cycle \u2014 quiet US session, no new stock-specific developments. Pentagon $243.9M no-bid memo and UK NHS renewal threads: no new developments. Golden cross 6 trading days old (per latest close data, as_of Thu 13 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 14 Aug 09:23 MYT (delta run): 3 items this cycle \u2014 Michael Burry (Scion) covered his TSLA short (part of a broader risk-rotation, not TSLA-specific conviction); secondary-sourced reports of a Nevada AV regulatory filing/approval boosting shares (exact scope \u2014 full commercial AVNC permit vs partial/procedural \u2014 UNCONFIRMED, flagged for next-run verification via NTA docket 26-05015); Tesla ended its ~3-year Swedish IF Metall labor strike via full union buyout. NHTSA Aug 12 24-part EA26002 deadline outcome STILL unresolved/unconfirmed \u2014 carried to next run. Suspension lateral-link probe (1.2M vehicles): no change. Death cross 34 trading days old (per latest close data, as_of Thu 13 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Sat 15 Aug 01:24 MYT (delta run): 1 item this cycle \u2014 Nevada AVNC robotaxi permit thread (previously unconfirmed) now resolved: interim order caps Tesla at just 10 fully autonomous vehicles geofenced to the Las Vegas Strip corridor, far below the 5,000-vehicle request. NHTSA Aug 12 EA26002 information-demand deadline outcome STILL unresolved/unconfirmed \u2014 carried to next run. China-sale/SpaceX-merger and suspension lateral-link probe threads: no new developments. Death cross 34 trading days old (per latest close data, as_of Thu 13 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -356,11 +356,17 @@
           "headline": "Tesla ends its ~1,021-day Swedish IF Metall strike by buying out every remaining striking union member rather than signing a collective agreement; union calls it unprecedented in the Swedish labor market; industrial action formally ends Aug 19",
           "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "nevada-robotaxi-permit-resolved-10-vehicle-cap-aug14",
+          "headline": "Nevada Transportation Authority interim order confirms Tesla Robotaxi LLC's AVNC Permit (Docket 26-05015): capped at just 10 fully autonomous vehicles, geofenced to the Las Vegas Strip corridor, roads \u226445mph only \u2014 a fraction of the 5,000-vehicle request that drove Thursday's rally on unconfirmed reports; any fleet/area expansion requires separate NTA approval",
+          "score": 5,
+          "direction": "neutral"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 14 Aug 09:23 MYT (delta run): nothing scored 4+ this cycle. Correction to prior tracking: CPO/CMO successors were actually named on the Aug 5 earnings call itself (Loredana Crisan expanding to lead product, Nairi Hourdajian moving to CMO) \u2014 not unresolved as previously logged. No confirmed open-market selling from the Aug 7 Extended Lock-Up pool since Aug 11 (only routine/in-kind VC-fund transfers on file, incl. an Aug 10 Index Ventures small sale and an Aug 11 Index Ventures in-kind LP distribution, same pattern as Greylock's). No new Findell Capital letter (last dated May 28). No new AI-competitor shipped-feature news, including nothing new from Anthropic Claude Design. No source has yet reconciled the Aug 31 standard-lockup figure against the Aug 7 Extended Lock-Up release. Golden cross 16 trading days old (per latest close data, as_of Thu 13 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Sat 15 Aug 01:24 MYT (delta run): nothing scored 4+ this cycle \u2014 quiet US session, no new stock-specific developments. Lockup, Findell, and AI-competitor threads: no change. No source has yet reconciled the Aug 31 standard-lockup figure against the Aug 7 Extended Lock-Up release. Golden cross 16 trading days old (per latest close data, as_of Thu 13 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
