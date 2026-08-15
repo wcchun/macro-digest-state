@@ -1,23 +1,11 @@
 {
-  "last_run_utc": "2026-08-15T01:11:15Z",
-  "last_run_window": "Sat 15 Aug 01:20 MYT to Sat 15 Aug 09:11 MYT (tail of Friday US afternoon session through close and early after-hours)",
+  "last_run_utc": "2026-08-15T13:12:24Z",
+  "last_run_window": "Sat 15 Aug 09:11 MYT to Sat 15 Aug 21:12 MYT (weekend, US markets closed)",
   "stories": [
     {
-      "id": "retail-sales-umich-sentiment-plunge-aug14",
-      "headline": "July Retail Sales Fall 0.6% m/m (Weakest Since May 2025) as August University of Michigan Consumer Sentiment Craters 8% to 51, Ending Two-Month Rise; Year-Ahead Inflation Expectations Tick Up to 4.3%",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "amat-q3-beat-raise-ai-capex-aug14",
-      "headline": "Applied Materials Posts Record $9.12B Q3 Revenue (+25% y/y) and Raises Q4 Guidance to ~$10.25B on AI Datacenter Semicap Demand; Stock Slips Despite Beat-and-Raise",
-      "score": 5,
-      "direction": "bullish"
-    },
-    {
       "id": "iran-blockade-indefinite-oil-aug14",
-      "headline": "US Says Naval Blockade of Iran Could Continue 'Indefinitely' as Ceasefire Talks Stall; Brent +1.8% to $88.64, WTI +2% to $82.89, Oil on Track for ~3-4% Weekly Gain",
-      "score": 4,
+      "headline": "Hormuz Ship Attacks Mount as US Vows New Economic Measures to \"Cripple\" Iran's Economy; Talks Remain Stalled",
+      "score": 5,
       "direction": "bearish"
     }
   ]
