@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-15T13:16:35Z",
+  "last_run_utc": "2026-08-16T01:35:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sat 15 Aug 21:15 MYT (delta run): nothing scored 4+ this cycle \u2014 quiet Saturday evening, no new stock-specific developments since the 09:17 MYT run. Pentagon $243.9M no-bid memo status unchanged (still unclear if finalized); UK NHS renewal thread: no new developments. Golden cross 7 trading days old (per latest close data, as_of Fri 14 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Sun 16 Aug 09:35 MYT (delta run): nothing scored 4+ this cycle \u2014 quiet weekend, no new stock-specific developments since the Sat 15 Aug 21:15 MYT run. Pentagon $243.9M no-bid memo status unchanged (still unclear if finalized); UK NHS renewal thread: no new developments. Golden cross 7 trading days old (per latest close data, as_of Fri 14 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sat 15 Aug 21:15 MYT (delta run): nothing scored 4+ this cycle \u2014 quiet Saturday evening, no new stock-specific developments since the 09:17 MYT run. Roadster/SpaceX-thruster reveal still teased as 'coming soon' with no confirmed date (design chief comments only, not new fact). NHTSA Aug 12 EA26002 24-part information-demand deadline outcome STILL unresolved/unconfirmed \u2014 carried to next run. Suspension lateral-link probe, China-sale/SpaceX-merger threads: no new developments. Death cross 35 trading days old (per latest close data, as_of Fri 14 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Sun 16 Aug 09:35 MYT (delta run): nothing scored 4+ this cycle \u2014 quiet weekend, no new stock-specific developments since the Sat 15 Aug 21:15 MYT run. Roadster/SpaceX-thruster reveal still teased (The Information, Aug 14: no-driver remote demo planned at SpaceX McGregor, TX 'as soon as this month', no confirmed date). NHTSA Aug 12 EA26002 24-part information-demand deadline outcome STILL unresolved/unconfirmed \u2014 carried to next run. Suspension lateral-link probe, China-sale/SpaceX-merger threads: no new developments. Death cross 35 trading days old (per latest close data, as_of Fri 14 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -372,7 +372,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sat 15 Aug 21:15 MYT (delta run): nothing scored 4+ this cycle \u2014 quiet Saturday evening, no new stock-specific developments since the 09:17 MYT run. Findell and AI-competitor threads: no change. Lockup open thread remains RESOLVED (Aug 31 date was the outside date of the same Extended Lock-Up agreement, superseded by the Aug 7 earnings-trigger release). Golden cross 17 trading days old (per latest close data, as_of Fri 14 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Sun 16 Aug 09:35 MYT (delta run): nothing scored 4+ this cycle \u2014 quiet weekend, no new stock-specific developments since the Sat 15 Aug 21:15 MYT run. Findell and AI-competitor threads: no change. Lockup open thread remains RESOLVED (Aug 31 date was the outside date of the same Extended Lock-Up agreement, superseded by the Aug 7 earnings-trigger release). Golden cross 17 trading days old (per latest close data, as_of Fri 14 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
