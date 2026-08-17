@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-17T01:15:27Z",
+  "last_run_utc": "2026-08-17T13:58:09Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 17 Aug 09:15 MYT (delta run): nothing scored 4+ since the Sun 16 Aug 21:24 MYT run \u2014 quiet overnight window (only routine Monday premarket softness, ~-0.7%, not a scoreable catalyst). Pentagon $243.9M no-bid memo status unchanged (still draft/unfinalized as of latest coverage, no new movement). UK NHS \u00a3330M FDP contract: DHSC review status unchanged, no new development. Golden cross 7 trading days old (per latest close data, as_of Fri 14 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Mon 17 Aug 21:54 MYT (delta run): nothing scored 4+ since the Mon 17 Aug 09:15 MYT run \u2014 quiet Asia/early-Europe window ahead of tonight's US open. Pentagon $243.9M no-bid memo status unchanged (no contract vehicle named as of Aug 13 DefenseScoop follow-up, no newer update found). UK NHS \u00a3330M FDP contract: review status unchanged, no new development. Golden cross 7 trading days old (per latest close data, as_of Fri 14 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 17 Aug 09:15 MYT (delta run): nothing scored 4+ since the Sun 16 Aug 21:24 MYT run \u2014 quiet overnight window (only recycled Musk 25%-voting-control commentary and a Waymo-exec camera-only opinion piece surfaced, both \u22643, no new facts). Roadster/SpaceX-thruster reveal still teased 'as early as this month', no confirmed date yet. NHTSA EA26002 24-part information-demand deadline (was Aug 12) remains unresolved \u2014 5 days on, still no public reporting on Tesla's submission or NHTSA's response; carried forward as an open gap. Suspension lateral-link probe, China-sale/SpaceX-merger threads: no new developments. Death cross 35 trading days old (per latest close data, as_of Fri 14 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Mon 17 Aug 21:54 MYT (delta run): nothing scored 4+ since the Mon 17 Aug 09:15 MYT run \u2014 quiet Asia/early-Europe window (a recirculated Feb-2026 \"mixed analyst sentiment / 5 collisions\" piece and recycled $1T pay-package vote commentary surfaced, both stale, no new facts). Roadster/SpaceX-thruster reveal still teased 'as early as this month' at McGregor, TX per The Information sourcing, no confirmed date yet. NHTSA EA26002 24-part information-demand deadline (was Aug 12) remains unresolved \u2014 5 days on, still no public reporting on Tesla's submission or NHTSA's response; carried forward as an open gap. Nevada robotaxi permit, suspension lateral-link probe: no new developments. Death cross 35 trading days old (per latest close data, as_of Fri 14 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -372,7 +372,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 17 Aug 09:15 MYT (delta run): nothing scored 4+ since the Sun 16 Aug 21:24 MYT run \u2014 quiet overnight window. No confirmed open-market selling yet from the Aug 7 Extended Lock-Up release or the Aug 11 Greylock/Index in-kind distributions (only a de minimis 12,475-share Form 144 sale found, from an unrelated small holder). Findell activist thread remains dormant \u2014 no new letter or board response since the May 28 letter. CPO/CMO succession already resolved via internal promotions (Crisan expands to product, Hourdajian to CMO), no external search reported. Golden cross 17 trading days old (per latest close data, as_of Fri 14 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Mon 17 Aug 21:54 MYT (delta run): nothing scored 4+ since the Mon 17 Aug 09:15 MYT run \u2014 quiet Asia/early-Europe window. No confirmed open-market selling yet from the Aug 7 Extended Lock-Up release or the Aug 11 Greylock/Index in-kind distributions (only a de minimis 12,475-share Form 144 sale found, from an unrelated small holder). Findell activist thread remains dormant \u2014 no new letter or board response since the May 28 letter. CPO/CMO succession already resolved via internal promotions (Crisan expands to product, Hourdajian to CMO), no external search reported. Golden cross 17 trading days old (per latest close data, as_of Fri 14 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
