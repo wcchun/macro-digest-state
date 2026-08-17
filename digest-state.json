@@ -1,12 +1,30 @@
 {
-  "last_run_utc": "2026-08-17T01:08:51Z",
-  "last_run_window": "Sun 16 Aug 21:20 MYT to Mon 17 Aug 09:08 MYT (quiet overnight window, ahead of Monday US cash open)",
+  "last_run_utc": "2026-08-17T13:53:16Z",
+  "last_run_window": "Mon 17 Aug 09:08 MYT to Mon 17 Aug 21:53 MYT (US pre-market into cash-session open)",
   "stories": [
     {
       "id": "iran-blockade-indefinite-oil-aug14",
-      "headline": "Hormuz Ship Attacks Mount as US Vows New Economic Measures to \"Cripple\" Iran's Economy; Talks Remain Stalled",
-      "score": 5,
+      "headline": "60-Day US-Iran Ceasefire MOU Expires With No Deal as Trump Threatens to \"Bomb\" Oman; Strait of Hormuz Traffic Collapses to 3 Ships/Day, US SPR Falls Below 300M Barrels",
+      "score": 6,
       "direction": "bearish"
+    },
+    {
+      "id": "fed-hike-odds-fall-goldman-aug17",
+      "headline": "Goldman Sachs Calls September Fed Hike \"Very Unlikely\"; CME-Implied Hike Odds Fall to ~30-32%; Dollar Index Slides to Multi-Month Low",
+      "score": 5,
+      "direction": "bullish"
+    },
+    {
+      "id": "anthropic-ipo-revenue-leak-aug17",
+      "headline": "Reuters Exclusive: Leaked Anthropic IPO Forecast ($190-200B 2028 Revenue) Cited as Catalyst Lifting Nasdaq Futures",
+      "score": 5,
+      "direction": "bullish"
+    },
+    {
+      "id": "apple-china-memory-chip-lutnick-aug17",
+      "headline": "Commerce Secretary Lutnick Reiterates Opposition to Apple Sourcing Memory Chips from Chinese Suppliers; US Memory/Storage Stocks Rally Premarket",
+      "score": 4,
+      "direction": "bullish"
     }
   ]
 }
