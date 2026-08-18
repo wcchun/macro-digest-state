@@ -1,24 +1,18 @@
 {
-  "last_run_utc": "2026-08-18T01:06:13Z",
-  "last_run_window": "Mon 17 Aug 09:08 MYT to Tue 18 Aug 09:06 MYT (full Monday US session)",
+  "last_run_utc": "2026-08-18T13:27:30Z",
+  "last_run_window": "Tue 18 Aug 09:06 MYT to Tue 18 Aug 21:27 MYT (Tuesday US pre-market)",
   "stories": [
     {
       "id": "iran-blockade-indefinite-oil-aug14",
-      "headline": "Iran Truce Deadline Lapses Without Extension; Fighting Flares Anew in Lebanon, Hormuz Standoff Unresolved",
-      "score": 6,
+      "headline": "Trump Threatens to Bomb Oman Over Hormuz Talks; Congress Moves Toward War-Powers Pushback as Oil Tops $88, Nasdaq Futures Slide ~1.3%",
+      "score": 7,
       "direction": "bearish"
     },
     {
-      "id": "30yr-yield-19yr-high-aug17",
-      "headline": "30-Year Treasury Yield Hits 5.31%, Highest Since 2007, on Deficit and Bond-Supply Angst",
-      "score": 6,
+      "id": "netlist-micron-ddr5-patent-suit-aug18",
+      "headline": "Netlist Patent Suit Against Micron Escalates to Federal Court; Micron Slides ~5% Pre-Market, AI-Server Makers Supermicro/Dell Drag Lower",
+      "score": 5,
       "direction": "bearish"
-    },
-    {
-      "id": "empire-state-mfg-surge-aug17",
-      "headline": "Empire State Manufacturing Index Surges to 20.6, Crushing Estimates, 4-Year High",
-      "score": 4,
-      "direction": "neutral"
     }
   ]
 }
