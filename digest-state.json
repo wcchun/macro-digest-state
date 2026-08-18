@@ -1,12 +1,24 @@
 {
-  "last_run_utc": "2026-08-17T01:08:51Z",
-  "last_run_window": "Sun 16 Aug 21:20 MYT to Mon 17 Aug 09:08 MYT (quiet overnight window, ahead of Monday US cash open)",
+  "last_run_utc": "2026-08-18T01:06:13Z",
+  "last_run_window": "Mon 17 Aug 09:08 MYT to Tue 18 Aug 09:06 MYT (full Monday US session)",
   "stories": [
     {
       "id": "iran-blockade-indefinite-oil-aug14",
-      "headline": "Hormuz Ship Attacks Mount as US Vows New Economic Measures to \"Cripple\" Iran's Economy; Talks Remain Stalled",
-      "score": 5,
+      "headline": "Iran Truce Deadline Lapses Without Extension; Fighting Flares Anew in Lebanon, Hormuz Standoff Unresolved",
+      "score": 6,
       "direction": "bearish"
+    },
+    {
+      "id": "30yr-yield-19yr-high-aug17",
+      "headline": "30-Year Treasury Yield Hits 5.31%, Highest Since 2007, on Deficit and Bond-Supply Angst",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "empire-state-mfg-surge-aug17",
+      "headline": "Empire State Manufacturing Index Surges to 20.6, Crushing Estimates, 4-Year High",
+      "score": 4,
+      "direction": "neutral"
     }
   ]
 }
