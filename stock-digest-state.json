@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-18T13:35:23Z",
+  "last_run_utc": "2026-08-19T01:15:01Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 18 Aug 21:35 MYT (delta run): nothing scored 4+ since the Mon 17 Aug 21:54 MYT run \u2014 quiet window, only recap/opinion pieces (multiple-compression, overbought-RSI commentary). Pentagon $243.9M no-bid memo status unchanged (no contract vehicle named as of Aug 13, no newer update found). UK NHS \u00a3330M FDP contract: review status unchanged. France DGSI/ChapsVision: no follow-up. Golden cross 8 trading days old (per latest close data, as_of Mon 17 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Wed 19 Aug 09:15 MYT (delta run): nothing scored 4+ since the Tue 18 Aug 21:35 MYT run \u2014 quiet ~11.5hr window, no in-window items surfaced at all. Pentagon $243.9M no-bid memo status unchanged (still unclear if finalized, no newer update found). UK NHS \u00a3330M contract review status unchanged. Golden cross 9 trading days old (per latest close data, as_of Tue 18 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 18 Aug 21:35 MYT (delta run): 2 new since the Mon 17 Aug 21:54 MYT run \u2014 Cybercab public-launch prep in Austin (6, bullish), FSD v14.3.6 highway-exit regression (4, bearish). Roadster/SpaceX-thruster reveal thread updated (routine scaled back to driverless liftoff, still no confirmed date). Nevada robotaxi 10-vehicle permit cap got wider media recirculation but is NOT new (same Jul 27 grant already scored Aug 14). NHTSA EA26002 24-part information-demand deadline (was Aug 12) remains unresolved \u2014 6 days on, still no public reporting on Tesla's submission or NHTSA's response. Suspension lateral-link probe: no new developments. Death cross 36 trading days old (per latest close data, as_of Mon 17 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Wed 19 Aug 09:15 MYT (delta run): 1 new since the Tue 18 Aug 21:35 MYT run \u2014 Robotaxi bollards incident in Austin (5, bearish), contradicts management's \"zero notable incidents\" claim. NHTSA EA26002 (camera-only degraded-visibility) and PE26006 (suspension lateral-link, 1.2M vehicles): no new developments. Cybercab Austin launch: promo contest running through 8/23, winners announced 8/25, implying launch event lands on/after Aug 25. Death cross 37 trading days old (per latest close data, as_of Tue 18 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -386,11 +386,17 @@
           "headline": "FSD v14.3.6 regression: vehicle attempts an already-passed highway exit at 68mph on Quebec's Autoroute 55, driver intervenes; feeds standing NHTSA degraded-visibility/detection probe (EA26002) narrative",
           "score": 4,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-robotaxi-bollards-incident-aug18",
+          "headline": "Driverless Robotaxi in Austin rams through traffic bollards after hesitating instead of reversing; video surfaces on r/SelfDrivingCars, contradicts VP of AI Ashok Elluswamy's Q2 earnings-call claim of 'zero notable incidents' across 380k+ unsupervised robotaxi miles",
+          "score": 5,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 18 Aug 21:35 MYT (delta run): nothing scored 4+ since the Mon 17 Aug 21:54 MYT run \u2014 quiet window. Only in-window item was a trivial ~$127K Form 144 filing from a pre-existing Rasmussen family-trust estate-planning program (unrelated to the Aug 7 lockup cohort), scored 2. Still no confirmed open-market selling from the Aug 7 Extended Lock-Up release. Findell activist thread remains dormant since the May 28 letter. CPO/CMO succession resolved via internal promotion, dropped from open threads. Golden cross 18 trading days old (per latest close data, as_of Mon 17 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Wed 19 Aug 09:15 MYT (delta run): nothing scored 4+ since the Tue 18 Aug 21:35 MYT run \u2014 quiet ~11.5hr window, no in-window items surfaced at all. Still no confirmed open-market selling from the Aug 7 Extended Lock-Up release. Findell activist thread remains dormant since the May 28 letter. Golden cross 19 trading days old (per latest close data, as_of Tue 18 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
