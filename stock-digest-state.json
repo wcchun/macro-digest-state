@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-19T01:15:01Z",
+  "last_run_utc": "2026-08-19T13:35:35Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 19 Aug 09:15 MYT (delta run): nothing scored 4+ since the Tue 18 Aug 21:35 MYT run \u2014 quiet ~11.5hr window, no in-window items surfaced at all. Pentagon $243.9M no-bid memo status unchanged (still unclear if finalized, no newer update found). UK NHS \u00a3330M contract review status unchanged. Golden cross 9 trading days old (per latest close data, as_of Tue 18 Aug); next earnings ~Nov 2 2026",
+      "last_run_window": "Wed 19 Aug 21:35 MYT (delta run): nothing scored 4+ since the Wed 19 Aug 09:15 MYT run \u2014 quiet ~12.3hr window, no in-window items surfaced at all. Pentagon $243.9M no-bid memo status unchanged (still unclear if finalized). UK NHS \u00a3330M contract review status unchanged. Golden cross 9 trading days old (per latest close data, as_of Tue 18 Aug); next earnings ~Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 19 Aug 09:15 MYT (delta run): 1 new since the Tue 18 Aug 21:35 MYT run \u2014 Robotaxi bollards incident in Austin (5, bearish), contradicts management's \"zero notable incidents\" claim. NHTSA EA26002 (camera-only degraded-visibility) and PE26006 (suspension lateral-link, 1.2M vehicles): no new developments. Cybercab Austin launch: promo contest running through 8/23, winners announced 8/25, implying launch event lands on/after Aug 25. Death cross 37 trading days old (per latest close data, as_of Tue 18 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Wed 19 Aug 21:35 MYT (delta run): nothing scored 4+ since the Wed 19 Aug 09:15 MYT run \u2014 quiet ~12.3hr window. Sub-threshold only: Tesla filed a permit for a Phase-2 Robotaxi wireless-charging hub in Austin (80 chargers, score 3) \u2014 incremental build-out, no launch-date signal. NHTSA EA26002/PE26006: no new developments. Cybercab Austin launch: promo contest through 8/23, winners announced 8/25, implying launch on/after Aug 25. Death cross 37 trading days old (per latest close data, as_of Tue 18 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -396,7 +396,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 19 Aug 09:15 MYT (delta run): nothing scored 4+ since the Tue 18 Aug 21:35 MYT run \u2014 quiet ~11.5hr window, no in-window items surfaced at all. Still no confirmed open-market selling from the Aug 7 Extended Lock-Up release. Findell activist thread remains dormant since the May 28 letter. Golden cross 19 trading days old (per latest close data, as_of Tue 18 Aug); next earnings ~Nov 4 2026",
+      "last_run_window": "Wed 19 Aug 21:35 MYT (delta run): nothing scored 4+ since the Wed 19 Aug 09:15 MYT run \u2014 quiet ~12.3hr window, no in-window items surfaced at all. Still no confirmed open-market selling reported from the lockup release (prior runs tracked an accelerated Aug 7 release date via the earnings-trigger clause; SEC filing language separately shows a standard Aug 31 Extended Lock-Up date \u2014 flagging both, watching for actual sell-flow data). Findell activist thread remains dormant since the May 28 letter. Golden cross 19 trading days old (per latest close data, as_of Tue 18 Aug); next earnings ~Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
