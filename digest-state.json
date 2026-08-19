@@ -1,22 +1,28 @@
 {
-  "last_run_utc": "2026-08-19T01:08:35Z",
-  "last_run_window": "Tue 18 Aug 21:27 MYT to Wed 19 Aug 09:08 MYT (Tuesday 18 Aug US regular session + after-hours)",
+  "last_run_utc": "2026-08-19T13:27:00Z",
+  "last_run_window": "Wed 19 Aug 09:08 MYT to Wed 19 Aug 21:27 MYT (pre-market build-up ahead of Wed 19 Aug US session)",
   "stories": [
     {
       "id": "iran-blockade-indefinite-oil-aug14",
-      "headline": "Hormuz Blockade Realized: Nasdaq Closes -1.3% as Oil Climbs to 2-Week High and Trump Reiterates Oman Bombing Threat; 30Y Yield Hits Fresh 19-Year High",
-      "score": 7,
+      "headline": "Hormuz MOU Expires Unrenewed as Brent Extends to 4th Day, Tops $91; Trump Declines to Extend Interim Deal",
+      "score": 6,
       "direction": "bearish"
     },
     {
       "id": "ai-capex-bond-issuance-30yr-yield-aug18",
-      "headline": "Surging AI-Infrastructure Bond Issuance Cited Among Drivers as 30-Year Treasury Yield Hits Highest Level in ~19 Years",
+      "headline": "Treasury Doubles Long-End Buyback Support to $4B/Operation; 30Y Yield Eases 9bp to 5.20% Off 19-Year High",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "netlist-micron-ddr5-patent-suit-aug18",
-      "headline": "Micron Extends Slide as Netlist ITC/Court Filings Weigh; Memory Sector-Wide Selloff Drags SK Hynix, Sandisk, Western Digital 4-7%",
+      "headline": "Memory/Storage Selloff Spreads Into Wednesday Premarket: Marvell -6%, SanDisk -5%, Nvidia -2% as Rate Reset Hits AI-Hardware Multiples",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "oracle-credit-downgrade-aicapex-debt-aug19",
+      "headline": "Oracle Slides Premarket as Debt-Funded AI Data-Center Buildout (BBB- Rating, ~$260B Lease Obligations) Draws Renewed Scrutiny",
       "score": 5,
       "direction": "bearish"
     }
