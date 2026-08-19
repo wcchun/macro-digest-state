@@ -1,16 +1,22 @@
 {
-  "last_run_utc": "2026-08-18T13:27:30Z",
-  "last_run_window": "Tue 18 Aug 09:06 MYT to Tue 18 Aug 21:27 MYT (Tuesday US pre-market)",
+  "last_run_utc": "2026-08-19T01:08:35Z",
+  "last_run_window": "Tue 18 Aug 21:27 MYT to Wed 19 Aug 09:08 MYT (Tuesday 18 Aug US regular session + after-hours)",
   "stories": [
     {
       "id": "iran-blockade-indefinite-oil-aug14",
-      "headline": "Trump Threatens to Bomb Oman Over Hormuz Talks; Congress Moves Toward War-Powers Pushback as Oil Tops $88, Nasdaq Futures Slide ~1.3%",
+      "headline": "Hormuz Blockade Realized: Nasdaq Closes -1.3% as Oil Climbs to 2-Week High and Trump Reiterates Oman Bombing Threat; 30Y Yield Hits Fresh 19-Year High",
       "score": 7,
       "direction": "bearish"
     },
     {
+      "id": "ai-capex-bond-issuance-30yr-yield-aug18",
+      "headline": "Surging AI-Infrastructure Bond Issuance Cited Among Drivers as 30-Year Treasury Yield Hits Highest Level in ~19 Years",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
       "id": "netlist-micron-ddr5-patent-suit-aug18",
-      "headline": "Netlist Patent Suit Against Micron Escalates to Federal Court; Micron Slides ~5% Pre-Market, AI-Server Makers Supermicro/Dell Drag Lower",
+      "headline": "Micron Extends Slide as Netlist ITC/Court Filings Weigh; Memory Sector-Wide Selloff Drags SK Hynix, Sandisk, Western Digital 4-7%",
       "score": 5,
       "direction": "bearish"
     }
