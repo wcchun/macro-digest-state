@@ -1,28 +1,28 @@
 {
-  "last_run_utc": "2026-08-19T13:27:00Z",
-  "last_run_window": "Wed 19 Aug 09:08 MYT to Wed 19 Aug 21:27 MYT (pre-market build-up ahead of Wed 19 Aug US session)",
+  "last_run_utc": "2026-08-20T01:08:21Z",
+  "last_run_window": "Wed 19 Aug 21:27 MYT to Thu 20 Aug 09:08 MYT (Wednesday full US session through Thursday premarket)",
   "stories": [
     {
-      "id": "iran-blockade-indefinite-oil-aug14",
-      "headline": "Hormuz MOU Expires Unrenewed as Brent Extends to 4th Day, Tops $91; Trump Declines to Extend Interim Deal",
+      "id": "long-end-yield-credit-supply-whipsaw-aug20",
+      "headline": "Long-End Treasury Yields Whipsaw: Wednesday's Buyback-Driven Relief Rally Reverses Thursday Premarket on Credit-Supply Fears",
       "score": 6,
       "direction": "bearish"
     },
     {
-      "id": "ai-capex-bond-issuance-30yr-yield-aug18",
-      "headline": "Treasury Doubles Long-End Buyback Support to $4B/Operation; 30Y Yield Eases 9bp to 5.20% Off 19-Year High",
+      "id": "memory-sector-buyback-rebound-aug19",
+      "headline": "Memory Sector Snaps Back: SK Hynix +6% on $29B Buyback, SanDisk +5%, Micron +3%, Before Fading With Broader Tech Thursday",
       "score": 6,
+      "direction": "bullish"
+    },
+    {
+      "id": "fomc-july-minutes-three-dissents-aug19",
+      "headline": "FOMC July Minutes Show 3 Dissents Wanted a Hike; 'Many Participants' Saw Tightening Case if Inflation Persisted",
+      "score": 5,
       "direction": "bearish"
     },
     {
-      "id": "netlist-micron-ddr5-patent-suit-aug18",
-      "headline": "Memory/Storage Selloff Spreads Into Wednesday Premarket: Marvell -6%, SanDisk -5%, Nvidia -2% as Rate Reset Hits AI-Hardware Multiples",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "oracle-credit-downgrade-aicapex-debt-aug19",
-      "headline": "Oracle Slides Premarket as Debt-Funded AI Data-Center Buildout (BBB- Rating, ~$260B Lease Obligations) Draws Renewed Scrutiny",
+      "id": "hormuz-standoff-persists-aug19",
+      "headline": "Hormuz Standoff Persists: Hawkish US-Iran Rhetoric Keeps Oil Elevated, Feeds Thursday's Rate-Driven Tech Selloff",
       "score": 5,
       "direction": "bearish"
     }
