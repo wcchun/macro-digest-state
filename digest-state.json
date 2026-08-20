@@ -1,30 +1,24 @@
 {
-  "last_run_utc": "2026-08-20T01:08:21Z",
-  "last_run_window": "Wed 19 Aug 21:27 MYT to Thu 20 Aug 09:08 MYT (Wednesday full US session through Thursday premarket)",
+  "last_run_utc": "2026-08-20T13:26:00Z",
+  "last_run_window": "Thu 20 Aug 09:08 MYT to Thu 20 Aug 21:26 MYT (Thursday premarket through cash-open)",
   "stories": [
     {
       "id": "long-end-yield-credit-supply-whipsaw-aug20",
-      "headline": "Long-End Treasury Yields Whipsaw: Wednesday's Buyback-Driven Relief Rally Reverses Thursday Premarket on Credit-Supply Fears",
+      "headline": "Long-End Yields Resume Climb Thursday Morning, Erasing Most of Wednesday's Treasury Buyback Relief (30yr +5.7bp to 5.251%, 10yr +5.1bp to 4.704%)",
       "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "memory-sector-buyback-rebound-aug19",
-      "headline": "Memory Sector Snaps Back: SK Hynix +6% on $29B Buyback, SanDisk +5%, Micron +3%, Before Fading With Broader Tech Thursday",
-      "score": 6,
-      "direction": "bullish"
-    },
-    {
-      "id": "fomc-july-minutes-three-dissents-aug19",
-      "headline": "FOMC July Minutes Show 3 Dissents Wanted a Hike; 'Many Participants' Saw Tightening Case if Inflation Persisted",
-      "score": 5,
       "direction": "bearish"
     },
     {
       "id": "hormuz-standoff-persists-aug19",
-      "headline": "Hormuz Standoff Persists: Hawkish US-Iran Rhetoric Keeps Oil Elevated, Feeds Thursday's Rate-Driven Tech Selloff",
-      "score": 5,
+      "headline": "Trump Threatens \"Economic D-Day\": Sweeping New Sanctions and Naval Blockade to Choke Iran's Oil Exports",
+      "score": 6,
       "direction": "bearish"
+    },
+    {
+      "id": "crypto-legislation-surge-aug20",
+      "headline": "Bitcoin/Crypto Surge on Trump Push for Crypto-Friendly Legislation Lifts Coinbase +7%, Strategy +10%, Circle +7.5%",
+      "score": 4,
+      "direction": "bullish"
     }
   ]
 }
