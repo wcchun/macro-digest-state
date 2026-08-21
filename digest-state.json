@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-08-21T01:06:56Z",
-  "last_run_window": "Thu 20 Aug 21:26 MYT to Fri 21 Aug 09:06 MYT (Thursday US cash session through Friday pre-market)",
+  "last_run_utc": "2026-08-21T13:28:17Z",
+  "last_run_window": "Fri 21 Aug 09:06 MYT to Fri 21 Aug 21:28 MYT (Friday daytime Asia/Europe session through pre-US-open)",
   "stories": [
     {
       "id": "long-end-yield-fiscal-supply-aug21",
-      "headline": "30yr Treasury Hits Fresh 19-Year High (~5.26-5.33%) as CBO Lifts Deficit Forecast to $2.1T and AI-Driven Corporate Debt Issuance Adds to Supply Glut",
-      "score": 7,
+      "headline": "Bessent's Doubled Long-Bond Buyback Rally Fully Reverses; 30yr Back Near Cycle Highs (~5.25-5.31%) as Deficit/Supply Overhang Outlasts the Intervention",
+      "score": 6,
       "direction": "bearish"
     },
     {
@@ -15,9 +15,9 @@
       "direction": "bearish"
     },
     {
-      "id": "jobless-claims-206k-no-cut-urgency-aug20",
-      "headline": "Initial Jobless Claims Fall to 206k, Reinforcing Fed's 'No Urgency to Cut' Narrative Already Priced Into This Week's Yield Surge",
-      "score": 4,
+      "id": "trump-iran-economic-warfare-aug21",
+      "headline": "Trump Declares 'Economic Warfare' on Iran; Oil Pops ~2% to ~$94/bbl, Bessent to Detail Plan 'Next Week'",
+      "score": 5,
       "direction": "bearish"
     }
   ]
