@@ -1,24 +1,24 @@
 {
-  "last_run_utc": "2026-08-20T13:26:00Z",
-  "last_run_window": "Thu 20 Aug 09:08 MYT to Thu 20 Aug 21:26 MYT (Thursday premarket through cash-open)",
+  "last_run_utc": "2026-08-21T01:06:56Z",
+  "last_run_window": "Thu 20 Aug 21:26 MYT to Fri 21 Aug 09:06 MYT (Thursday US cash session through Friday pre-market)",
   "stories": [
     {
-      "id": "long-end-yield-credit-supply-whipsaw-aug20",
-      "headline": "Long-End Yields Resume Climb Thursday Morning, Erasing Most of Wednesday's Treasury Buyback Relief (30yr +5.7bp to 5.251%, 10yr +5.1bp to 4.704%)",
-      "score": 6,
+      "id": "long-end-yield-fiscal-supply-aug21",
+      "headline": "30yr Treasury Hits Fresh 19-Year High (~5.26-5.33%) as CBO Lifts Deficit Forecast to $2.1T and AI-Driven Corporate Debt Issuance Adds to Supply Glut",
+      "score": 7,
       "direction": "bearish"
     },
     {
-      "id": "hormuz-standoff-persists-aug19",
-      "headline": "Trump Threatens \"Economic D-Day\": Sweeping New Sanctions and Naval Blockade to Choke Iran's Oil Exports",
-      "score": 6,
+      "id": "openai-anthropic-capex-roi-overhang-aug21",
+      "headline": "OpenAI's Stale Q2 Growth Miss vs Anthropic ($6.7B rev/$12.3B op-loss vs Anthropic's $11.6B/small profit) Cited Anew as Hyperscaler AI-Capex ROI Overhang Pressures Friday Futures",
+      "score": 5,
       "direction": "bearish"
     },
     {
-      "id": "crypto-legislation-surge-aug20",
-      "headline": "Bitcoin/Crypto Surge on Trump Push for Crypto-Friendly Legislation Lifts Coinbase +7%, Strategy +10%, Circle +7.5%",
+      "id": "jobless-claims-206k-no-cut-urgency-aug20",
+      "headline": "Initial Jobless Claims Fall to 206k, Reinforcing Fed's 'No Urgency to Cut' Narrative Already Priced Into This Week's Yield Surge",
       "score": 4,
-      "direction": "bullish"
+      "direction": "bearish"
     }
   ]
 }
