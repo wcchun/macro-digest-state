@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-21T13:35:55Z",
+  "last_run_utc": "2026-08-22T01:15:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 21 Aug 21:35 MYT (delta run): nothing scored 4+ since the Fri 21 Aug 09:11 MYT run \u2014 quiet ~12.4hr window (Friday Asia/Europe day session into US pre-open). Pentagon $243.9M no-bid memo status unchanged (still draft, unclear if finalized). UK NHS \u00a3330M contract review status unchanged. Insider 10b5-1 selling/gifting pattern continues \u2014 no deviation. Golden cross 11 trading days old (per latest close data, as_of Thu 20 Aug); next earnings Nov 2 2026",
+      "last_run_window": "Sat 22 Aug 09:15 MYT (delta run): nothing scored 4+ since the Fri 21 Aug 21:35 MYT run \u2014 quiet ~11.6hr window (Friday US session through early Saturday MYT). Karp sell-to-cover (~$62-70M, Aug 20-21, RSU-vesting tax withholding) fits the known pre-scheduled pattern, no deviation. UBS ($220) and Truist ($223) PT raises predate this window. Pentagon $243.9M no-bid memo status unchanged. Golden cross 12 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 21 Aug 21:35 MYT (delta run): 1 new since the Fri 21 Aug 09:11 MYT run \u2014 Nevada Transportation Authority approved Tesla for up to 5,000 robotaxis (up from the 10-vehicle Strip-only cap), extended to all of Clark County (Thu Aug 20 decision, first captured this run). NHTSA EA26002/PE26006/suspension PE (~1.2M vehicles): no new developments this window. Cybercab Austin launch: still no confirmed public date; promo contest through 8/23, winners announced 8/25, implying launch on/after Aug 25. Death cross 39 trading days old (per latest close data, as_of Thu 20 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Sat 22 Aug 09:15 MYT (delta run): 2 new since the Fri 21 Aug 21:35 MYT run \u2014 China recall of ~5.7M combined vehicles (2.96M door-handle visibility, 2.74M driver-monitoring camera, part of an 11-automaker industry-wide crackdown, Aug 21); Tesla confirms European Semi launch-detail reveal at IAA Transportation Hannover Sept 15-20 2026. Nevada 5,000-robotaxi Clark County permit (Aug 20) status unchanged since last run. NHTSA EA26002/PE26006/suspension PE (~1.2M vehicles): no new developments this window. Cybercab Austin launch: still no confirmed public date. Death cross 40 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -410,11 +410,23 @@
           "headline": "Nevada Transportation Authority unanimously approves permits for Tesla (up to 5,000 vehicles), Uber (1,000, via Motional/Zoox), and Waymo (1,000) to run commercial robotaxi service across all of Clark County \u2014 reversing the Jul 27/Aug 14 order that had capped Tesla at 10 vehicles geofenced to the Strip; Tesla's Cybercab lead Eric Early calls 5,000 'always... a ceiling,' says the company would be satisfied reaching ~2,500 within a year; local taxi/livery operators opposed the permits as moving too fast",
           "score": 7,
           "direction": "bullish"
+        },
+        {
+          "id": "tsla-china-recall-door-handle-driver-monitoring-aug21",
+          "headline": "Tesla recalls ~5.7M combined vehicles in China (2.96M for emergency door-handle visibility/accessibility post-collision \u2014 remedied via warning labels plus an OTA update that auto-lowers windows after a crash; 2.74M for driver-monitoring \u2014 adds cabin-camera eye-tracking to the assisted-driving system) as part of an 11-automaker, ~4M+ vehicle industry-wide regulatory crackdown; China will also ban concealed door handles from 2027, a design Tesla popularized \u2014 no physical part replacement required, but sets a design-standard precedent",
+          "score": 6,
+          "direction": "bearish"
+        },
+        {
+          "id": "tsla-semi-iaa-hannover-europe-launch-confirmed-aug21",
+          "headline": "Tesla confirms it will reveal European Semi launch details (local pricing, Megacharger rollout plans, delivery timeline) at IAA Transportation Hannover, Sept 15-20 2026 (press day Sept 14) \u2014 first concrete step toward commercializing the Semi in Europe; no range, pricing, or on-sale date disclosed yet",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 21 Aug 21:35 MYT (delta run): nothing scored 4+ since the Fri 21 Aug 09:11 MYT run \u2014 quiet ~12.4hr window. Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Findell activist thread remains dormant since the May 28 letter. Golden cross 21 trading days old (per latest close data, as_of Thu 20 Aug); next earnings Nov 4 2026",
+      "last_run_window": "Sat 22 Aug 09:15 MYT (delta run): nothing scored 4+ since the Fri 21 Aug 21:35 MYT run \u2014 quiet ~11.6hr window. BofA PT raise to $33 (Aug 19) predates this window. Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Findell activist thread remains dormant since the May 28 letter. Golden cross 22 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
