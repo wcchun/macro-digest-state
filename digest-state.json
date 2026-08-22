@@ -1,24 +1,48 @@
 {
-  "last_run_utc": "2026-08-21T13:28:17Z",
-  "last_run_window": "Fri 21 Aug 09:06 MYT to Fri 21 Aug 21:28 MYT (Friday daytime Asia/Europe session through pre-US-open)",
+  "last_run_utc": "2026-08-22T01:09:26Z",
+  "last_run_window": "Fri 21 Aug 21:28 MYT to Sat 22 Aug 09:09 MYT (Friday evening through Saturday morning MYT)",
   "stories": [
     {
-      "id": "long-end-yield-fiscal-supply-aug21",
-      "headline": "Bessent's Doubled Long-Bond Buyback Rally Fully Reverses; 30yr Back Near Cycle Highs (~5.25-5.31%) as Deficit/Supply Overhang Outlasts the Intervention",
+      "id": "anthropic-2t-ipo-target-aug22",
+      "headline": "Anthropic Investors Reportedly Targeting ~$2 Trillion IPO Valuation (Surpassing SpaceX's $1.77T Record); Filing Possible by End of August",
+      "score": 7,
+      "direction": "bullish"
+    },
+    {
+      "id": "broadcom-60b-ai-debt-financing-aug22",
+      "headline": "Broadcom in Talks to Raise $60B+ in Debt via Blackstone/Apollo SPV to Finance AI Chip Buildout Supplying Anthropic",
       "score": 6,
       "direction": "bearish"
     },
     {
-      "id": "openai-anthropic-capex-roi-overhang-aug21",
-      "headline": "OpenAI's Stale Q2 Growth Miss vs Anthropic ($6.7B rev/$12.3B op-loss vs Anthropic's $11.6B/small profit) Cited Anew as Hyperscaler AI-Capex ROI Overhang Pressures Friday Futures",
+      "id": "long-end-yield-fiscal-supply-aug21",
+      "headline": "Dollar Slides to 2026 Low (DXY 98.66, -2.4% MTD) as Investors Rotate to Gold/Bitcoin Over Treasuries Despite Bessent Buyback; National Debt Tops $40T",
       "score": 5,
       "direction": "bearish"
     },
     {
       "id": "trump-iran-economic-warfare-aug21",
-      "headline": "Trump Declares 'Economic Warfare' on Iran; Oil Pops ~2% to ~$94/bbl, Bessent to Detail Plan 'Next Week'",
+      "headline": "Iran's Pezeshkian Signals War-Ending Talks 'From Strength' as Vance/Trump Prep Monday Sanctions Escalation; Oil Holds Near $94 on Second Weekly Gain",
       "score": 5,
       "direction": "bearish"
+    },
+    {
+      "id": "meta-capex-margin-legal-overhang-aug22",
+      "headline": "Meta Extends Weekly Decline as AI-Capex Margin Compression (31% vs 43% Op Margin) Meets New 29-State Youth-Safety Trial",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "nvidia-poolside-license-aug22",
+      "headline": "Nvidia Commits $7B ($6B License + $1B Investment) to AI Startup Poolside",
+      "score": 5,
+      "direction": "bullish"
+    },
+    {
+      "id": "nvidia-rebellions-talks-aug22",
+      "headline": "Nvidia in Early Talks to Invest In or Acquire Korean AI-Chip Startup Rebellions",
+      "score": 4,
+      "direction": "bullish"
     }
   ]
 }
