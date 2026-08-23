@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-22T13:11:00Z",
+  "last_run_utc": "2026-08-23T01:10:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sat 22 Aug 21:11 MYT (delta run): nothing scored 4+ since the Sat 22 Aug 09:15 MYT run \u2014 quiet ~12hr window (Friday evening through Saturday morning ET, no US cash session). Director Alexander Moore's ~15,000-share 10b5-1 sale (Aug 17) and Shyam Sankar's Aug 6 sale predate this window, fit the known pre-scheduled pattern. A recirculated '$1.3B Maven Smart System' contract story traces to a May 2025 DoD contract increase, not new Aug 2026 news \u2014 excluded. Pentagon $243.9M no-bid memo status unchanged. Golden cross 12 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 2 2026",
+      "last_run_window": "Sun 23 Aug 09:10 MYT (delta run): nothing scored 4+ since the Sat 22 Aug 21:11 MYT run \u2014 quiet ~12hr window (Saturday evening through Sunday morning MYT, no US cash session). Undated Wolfe Research/Jefferies rating-action chatter surfaced in searches but could not be confirmed as falling within this window \u2014 excluded pending confirmation on a future run. Karp's Aug 20 10b5-1 filing (~402,000 shares, ~$70.3M) predates this window and fits the known pre-scheduled pattern. Golden cross 12 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sat 22 Aug 21:11 MYT (delta run): nothing scored 4+ since the Sat 22 Aug 09:15 MYT run \u2014 quiet ~12hr window. China recall and Hannover Semi-launch confirmation both predate this window (Aug 21). Cybercab Austin sweepstakes continues (rides Aug 17-23, winners Aug 25) \u2014 not a new fact, still no confirmed public launch date. NHTSA EA26002/PE26006/suspension PE (~1.2M vehicles): no new developments this window. Death cross 40 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Sun 23 Aug 09:10 MYT (delta run): nothing scored 4+ since the Sat 22 Aug 21:11 MYT run \u2014 quiet ~12hr window. Tesla's Solar Roof discontinuation and the Einride Semi order both predate this window (~Aug 18-21) and were not carried into the prior run's tracked list \u2014 now outside the coverage window, excluded. NHTSA probes (EA26002, PE26006, suspension PE) unchanged. Death cross 40 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -383,7 +383,7 @@
         },
         {
           "id": "tesla-cybercab-public-launch-prep-austin-aug17",
-          "headline": "The Information: Tesla preps public Cybercab (no-wheel/no-pedal) launch in Austin 'as soon as this month' — starts with employee rides on public roads before rolling into paid robotaxi service",
+          "headline": "The Information: Tesla preps public Cybercab (no-wheel/no-pedal) launch in Austin 'as soon as this month' \u2014 starts with employee rides on public roads before rolling into paid robotaxi service",
           "score": 6,
           "direction": "bullish"
         },
@@ -426,7 +426,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sat 22 Aug 21:11 MYT (delta run): nothing scored 4+ since the Sat 22 Aug 09:15 MYT run \u2014 quiet ~12hr window. Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.39, OI P/C 0.45) flagged for /options-sentiment triage this run. Golden cross 22 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 4 2026",
+      "last_run_window": "Sun 23 Aug 09:10 MYT (delta run): nothing scored 4+ since the Sat 22 Aug 21:11 MYT run \u2014 quiet ~12hr window. Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Recap coverage references a further ~Aug 31 lockup/VC-eligibility date, distinct from the Aug 7 release \u2014 tracked as a new open thread, not a dated news item this window. Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.39, OI P/C 0.45, both below the 0.45-1.00 band) flagged again for /options-sentiment triage. Golden cross 22 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
