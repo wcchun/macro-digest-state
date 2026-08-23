@@ -1,7 +1,13 @@
 {
-  "last_run_utc": "2026-08-23T01:10:00Z",
-  "last_run_window": "Sat 22 Aug 21:07 MYT to Sun 23 Aug 09:10 MYT (Saturday night into Sunday morning MYT, no US cash session)",
+  "last_run_utc": "2026-08-23T13:10:00Z",
+  "last_run_window": "Sun 23 Aug 09:10 MYT to Sun 23 Aug 21:10 MYT (Sunday daytime, pre-US-open, no cash session)",
   "stories": [
+    {
+      "id": "nvidia-ai-server-price-hike-aug22",
+      "headline": "Nvidia Tells Largest Customers AI Server Prices Rising 15%+ on Soaring Memory-Chip Costs, Effective Early Next Year",
+      "score": 6,
+      "direction": "bearish"
+    },
     {
       "id": "anthropic-2t-ipo-target-aug22",
       "headline": "Anthropic Investors Reportedly Targeting ~$2 Trillion IPO Valuation (Surpassing SpaceX's $1.77T Record); Filing Possible by End of August",
