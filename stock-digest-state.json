@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-23T13:11:00Z",
+  "last_run_utc": "2026-08-24T01:15:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sun 23 Aug 21:10 MYT (delta run): nothing scored 4+ since the Sun 23 Aug 09:10 MYT run \u2014 quiet ~12hr window (Sunday, no US cash session). Director Alexander Moore's Aug 17 multi-tranche sale surfaced in searches but predates both this window and the prior run \u2014 not a new item. Karp's Aug 20 10b5-1 filing (~402,000 shares, ~$70.3M) remains the most recent confirmed insider activity, fits the known pre-scheduled pattern. Golden cross 12 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 2 2026",
+      "last_run_window": "Mon 24 Aug 09:10 MYT (delta run): nothing scored 4+ since the Sun 23 Aug 21:10 MYT run \u2014 quiet ~12hr window (Sunday night into Monday pre-open, no US cash session yet). Cathie Wood/ARK continued trimming PLTR into strength (part of the known ongoing post-earnings profit-taking pattern, ~$21M since Aug 3) \u2014 not a new pattern deviation. A San Antonio contractor's fraud/breach-of-contract suit (Guardian Premier Solutions) surfaced in searches but was filed Mar 3 2026 \u2014 stale, not new. Golden cross 12 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sun 23 Aug 21:10 MYT (delta run): nothing scored 4+ since the Sun 23 Aug 09:10 MYT run \u2014 quiet ~12hr window (Sunday, no US cash session; #TeslaTakedown protest activity in CA is not stock-moving). NHTSA probes (EA26002, PE26006, suspension PE) unchanged. Death cross 40 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Mon 24 Aug 09:10 MYT (delta run): 1 item surfaced since the Sun 23 Aug 21:10 MYT run \u2014 Solar Roof discontinuation (trade-press reporting dated Aug 20-21, missed by prior runs, added late; scored on materiality only). NHTSA FSD probe (EA26002) reporting this week characterizes it as having moved into an engineering-analysis/recall-track phase covering ~3.2M vehicles \u2014 consistent with the already-tracked Jul 22 escalation, not a new development in itself; watching for a formal recall determination. Suspension lateral-link PE and a separate unintended-acceleration recall petition (unrelated docket) were rejected/no defect found \u2014 not stock-negative, narrow petition. Death cross 40 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -422,11 +422,17 @@
           "headline": "Tesla confirms it will reveal European Semi launch details (local pricing, Megacharger rollout plans, delivery timeline) at IAA Transportation Hannover, Sept 15-20 2026 (press day Sept 14) \u2014 first concrete step toward commercializing the Semi in Europe; no range, pricing, or on-sale date disclosed yet",
           "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "tsla-solar-roof-discontinued-aug20",
+          "headline": "Trade press (Electrek, TeslaNorth, Benzinga et al.) reports Tesla has quietly discontinued its Solar Roof tile product (~10 years after launch), telling certified installers the tiles are no longer orderable and pulling the product from its website; company shifts Energy focus entirely to traditional solar panels (incl. new 420W panels from Giga New York); no official Tesla statement, cited as not financially viable. Solar Roof volumes have been immaterial for years \u2014 Energy segment revenue is overwhelmingly Megapack/Powerwall \u2014 so direct P&L impact is negligible, but it reinforces a narrative of Tesla product bets not scaling",
+          "score": 4,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Sun 23 Aug 21:10 MYT (delta run): nothing scored 4+ since the Sun 23 Aug 09:10 MYT run \u2014 quiet ~12hr window (Sunday, no US cash session). Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Extended Lock-Up Agreement's Aug 31 date is the next scheduled unlock/VC-eligibility milestone \u2014 tracked as open thread. Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.393, OI P/C 0.447, both below the 0.45-1.00 band) flagged again for /options-sentiment triage. Golden cross 22 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 4 2026",
+      "last_run_window": "Mon 24 Aug 09:10 MYT (delta run): nothing scored 4+ since the Sun 23 Aug 21:10 MYT run \u2014 quiet ~12hr window (Sunday night into Monday pre-open, no US cash session yet). Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Extended Lock-Up Agreement's Aug 31 date is the next scheduled unlock/VC-eligibility milestone \u2014 tracked as open thread. Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.393, OI P/C 0.447, both below the 0.45-1.00 band) flagged again for /options-sentiment triage. Golden cross 22 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
