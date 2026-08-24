@@ -1,7 +1,25 @@
 {
-  "last_run_utc": "2026-08-24T01:10:00Z",
-  "last_run_window": "Sun 23 Aug 21:10 MYT to Mon 24 Aug 09:10 MYT (Sunday night into Monday pre-open, no US cash session)",
+  "last_run_utc": "2026-08-24T13:36:00Z",
+  "last_run_window": "Mon 24 Aug 09:10 MYT to Mon 24 Aug 21:36 MYT (Monday day session, into US pre-market/cash open)",
   "stories": [
+    {
+      "id": "trump-iran-economic-warfare-aug21",
+      "headline": "Bessent Unveils 'Economic D-Day' Sanctions Against Iran as Tehran Threatens Strait of Hormuz Ship Seizures",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "us-canada-tariff-collapse-aug22",
+      "headline": "US-Canada Trade Talks Collapse; 50% Tariffs Take Effect on ~$28B of Canadian Goods, Retaliation Set for Sept 8",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "alibaba-ai-share-placement-dilution-aug24",
+      "headline": "Alibaba Sinks 8.5% (Steepest Drop Since Early 2025) After $10.2B Dilutive Hong Kong Share Placement to Fund AI Buildout",
+      "score": 5,
+      "direction": "bearish"
+    },
     {
       "id": "nvidia-ai-server-price-hike-aug22",
       "headline": "Nvidia Tells Largest Customers AI Server Prices Rising 15%+ on Soaring Memory-Chip Costs, Effective Early Next Year",
@@ -23,12 +41,6 @@
     {
       "id": "long-end-yield-fiscal-supply-aug21",
       "headline": "Dollar Slides to 2026 Low (DXY 98.66, -2.4% MTD) as Investors Rotate to Gold/Bitcoin Over Treasuries Despite Bessent Buyback; National Debt Tops $40T",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "trump-iran-economic-warfare-aug21",
-      "headline": "Iran's Pezeshkian Signals War-Ending Talks 'From Strength' as Vance/Trump Prep Monday Sanctions Escalation; Oil Holds Near $94 on Second Weekly Gain",
       "score": 5,
       "direction": "bearish"
     },
