@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-24T01:15:00Z",
+  "last_run_utc": "2026-08-24T13:42:27Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 24 Aug 09:10 MYT (delta run): nothing scored 4+ since the Sun 23 Aug 21:10 MYT run \u2014 quiet ~12hr window (Sunday night into Monday pre-open, no US cash session yet). Cathie Wood/ARK continued trimming PLTR into strength (part of the known ongoing post-earnings profit-taking pattern, ~$21M since Aug 3) \u2014 not a new pattern deviation. A San Antonio contractor's fraud/breach-of-contract suit (Guardian Premier Solutions) surfaced in searches but was filed Mar 3 2026 \u2014 stale, not new. Golden cross 12 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 2 2026",
+      "last_run_window": "Mon 24 Aug 21:42 MYT (delta run): nothing scored 4+ since the Mon 24 Aug 09:10 MYT run \u2014 quiet pre-market/early-cash-open window; Monday's intraday chop reads as profit-taking after last week's 38% rally, no new fact attached. NHS \u00a3330M contract review, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition timeline remain unresolved threads, no dated update found. Golden cross 12 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 24 Aug 09:10 MYT (delta run): 1 item surfaced since the Sun 23 Aug 21:10 MYT run \u2014 Solar Roof discontinuation (trade-press reporting dated Aug 20-21, missed by prior runs, added late; scored on materiality only). NHTSA FSD probe (EA26002) reporting this week characterizes it as having moved into an engineering-analysis/recall-track phase covering ~3.2M vehicles \u2014 consistent with the already-tracked Jul 22 escalation, not a new development in itself; watching for a formal recall determination. Suspension lateral-link PE and a separate unintended-acceleration recall petition (unrelated docket) were rejected/no defect found \u2014 not stock-negative, narrow petition. Death cross 40 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Mon 24 Aug 21:42 MYT (delta run): nothing scored 4+ since the Mon 24 Aug 09:10 MYT run \u2014 no incremental stock-specific catalyst; Cybercab Austin launch event firmed to a confirmed Sept 3 date (RSVP by Aug 30) but that detail broke pre-window (Aug 22), not scored as new this run. NHTSA EA26002 Aug 12 information-request deadline outcome still unconfirmed. Death cross 40 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Oct 21 2026 (no earnings within 30d)",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -432,7 +432,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 24 Aug 09:10 MYT (delta run): nothing scored 4+ since the Sun 23 Aug 21:10 MYT run \u2014 quiet ~12hr window (Sunday night into Monday pre-open, no US cash session yet). Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Extended Lock-Up Agreement's Aug 31 date is the next scheduled unlock/VC-eligibility milestone \u2014 tracked as open thread. Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.393, OI P/C 0.447, both below the 0.45-1.00 band) flagged again for /options-sentiment triage. Golden cross 22 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 4 2026",
+      "last_run_window": "Mon 24 Aug 21:42 MYT (delta run): nothing scored 4+ since the Mon 24 Aug 09:10 MYT run \u2014 quiet window, light volume (0.45x ADV20). Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Extended Lock-Up Agreement's Aug 31 date remains referenced (~54.1% of Class A) but unconfirmed/un-updated this run \u2014 tracked as open thread. Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.393, OI P/C 0.447, both below the 0.45-1.00 band) flagged again for /options-sentiment triage. Golden cross 22 trading days old (per latest close data, as_of Fri 21 Aug); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
