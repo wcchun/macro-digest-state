@@ -1,10 +1,16 @@
 {
-  "last_run_utc": "2026-08-24T13:36:00Z",
-  "last_run_window": "Mon 24 Aug 09:10 MYT to Mon 24 Aug 21:36 MYT (Monday day session, into US pre-market/cash open)",
+  "last_run_utc": "2026-08-25T01:05:00Z",
+  "last_run_window": "Mon 24 Aug 21:36 MYT to Tue 25 Aug 09:05 MYT (Monday US cash session into Tuesday pre-market)",
   "stories": [
     {
+      "id": "samsung-capital-return-memory-selloff-aug24",
+      "headline": "Samsung's Underwhelming 2026 Capital-Return Plan Sends Global Memory-Chip Stocks Lower (Samsung -9%; Micron, SanDisk, Western Digital, SK Hynix Down 3-11%)",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
       "id": "trump-iran-economic-warfare-aug21",
-      "headline": "Bessent Unveils 'Economic D-Day' Sanctions Against Iran as Tehran Threatens Strait of Hormuz Ship Seizures",
+      "headline": "Iran Sanctions Campaign Formalized as 'Operation Economic Outcast' — 60 Entities/Vessels Sanctioned, Major Financial Institution Sanction Threatened This Week",
       "score": 6,
       "direction": "bearish"
     },
