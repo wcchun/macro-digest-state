@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-25T01:16:29Z",
+  "last_run_utc": "2026-08-25T13:40:27Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 25 Aug 09:16 MYT (delta run): nothing scored 4+ since the Mon 24 Aug 21:42 MYT run \u2014 quiet Monday-close-into-Tuesday-premarket window (~11.5h), no earnings or scheduled catalyst in it. NHS \u00a3330M contract review, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition timeline remain unresolved threads, no dated update found. Golden cross 13 trading days old (as_of Mon 24 Aug close $175.89); next earnings Nov 2 2026",
+      "last_run_window": "Tue 25 Aug 21:40 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 09:16 MYT run \u2014 quiet ~12.4h Asia-daytime window sitting entirely between the US close and the next US pre-market, no earnings or scheduled catalyst in it. Checked and confirmed CEO Karp's ~$86M share sale (492,348 shares, Aug 20) was a routine 10b5-1 tax-withholding tranche on RSU vesting \u2014 pre-window and consistent with the known heavy-pre-scheduled-selling pattern, not scored. NHS \u00a3330M contract review, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition remain unresolved threads, no dated update found. Golden cross 13 trading days old (as_of Mon 24 Aug close $175.89); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 25 Aug 09:16 MYT (delta run): nothing scored 4+ since the Mon 24 Aug 21:42 MYT run \u2014 three sub-threshold items only (AI-chip engineer departure to DensityAI, Musk comment on Canada auto tariffs, Cybercab-invite logistics), all scored 2-3. China door-handle/driver-monitoring recall recirculating in press (France24/RTE, Aug 24 datelines) is the same ~5.7M-vehicle SAMR action already scored 6/bearish on Aug 21 \u2014 not re-scored. NHTSA EA26002 outcome still unconfirmed. Death cross 41 trading days old (as_of Mon 24 Aug close $348.95); next earnings Oct 21 2026 (no earnings within 30d)",
+      "last_run_window": "Tue 25 Aug 21:40 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 09:16 MYT run \u2014 quiet Asia-daytime window, no US session in it. Trump's proposed Canada auto-tariff increase (to 50% from Jan 2027) and Musk's 'most made in America' pushback are market/sector-wide (other automakers moved the same way), not a stock-specific delta for TSLA \u2014 stays sub-threshold, consistent with the known tariff-headline pattern. NHTSA EA26002 (FSD degraded-visibility engineering analysis) still open, no ruling or new filing this window. Death cross 41 trading days old (as_of Mon 24 Aug close $348.95); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -432,7 +432,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 25 Aug 09:16 MYT (delta run): nothing scored 4+ since the Mon 24 Aug 21:42 MYT run \u2014 quiet window, light volume (0.38x ADV20). Still no confirmed open-market selling reported from the Aug 7 lockup release (~77.7M shares, ~17-20% of float). Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.446, below the 0.45-1.00 band; OI P/C 0.561, back within band) flagged again for /options-sentiment triage. Golden cross 23 trading days old (as_of Mon 24 Aug close $27.44); next earnings Nov 4 2026",
+      "last_run_window": "Tue 25 Aug 21:40 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 09:16 MYT run \u2014 quiet window, light volume (0.38x ADV20 as of Mon 24 Aug close). Still no confirmed open-market selling reported from the Aug 7 lockup release. Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.446, still just below the 0.45-1.00 band; OI P/C 0.561, within band) flagged again for /options-sentiment triage. Golden cross 23 trading days old (as_of Mon 24 Aug close $27.44); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
