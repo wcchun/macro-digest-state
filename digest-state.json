@@ -1,72 +1,18 @@
 {
-  "last_run_utc": "2026-08-25T01:05:00Z",
-  "last_run_window": "Mon 24 Aug 21:36 MYT to Tue 25 Aug 09:05 MYT (Monday US cash session into Tuesday pre-market)",
+  "last_run_utc": "2026-08-25T13:34:00Z",
+  "last_run_window": "Tue 25 Aug 09:05 MYT to Tue 25 Aug 21:34 MYT (Tuesday Asia/Europe session, pre-US-open)",
   "stories": [
     {
       "id": "samsung-capital-return-memory-selloff-aug24",
-      "headline": "Samsung's Underwhelming 2026 Capital-Return Plan Sends Global Memory-Chip Stocks Lower (Samsung -9%; Micron, SanDisk, Western Digital, SK Hynix Down 3-11%)",
-      "score": 6,
+      "headline": "Asian Tech/Memory Names Extend Monday's Samsung-Led Selloff (Nikkei -2.5%, Kospi -1.5%) as Risk-Off Tone Builds Into Nvidia Earnings",
+      "score": 5,
       "direction": "bearish"
     },
     {
       "id": "trump-iran-economic-warfare-aug21",
-      "headline": "Iran Sanctions Campaign Formalized as 'Operation Economic Outcast' — 60 Entities/Vessels Sanctioned, Major Financial Institution Sanction Threatened This Week",
+      "headline": "Bessent Sets Deadline Ultimatum ('Economic D-Day') for Countries Trading With Iran to Cut Ties or Face Unilateral Sanctions",
       "score": 6,
       "direction": "bearish"
-    },
-    {
-      "id": "us-canada-tariff-collapse-aug22",
-      "headline": "US-Canada Trade Talks Collapse; 50% Tariffs Take Effect on ~$28B of Canadian Goods, Retaliation Set for Sept 8",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "alibaba-ai-share-placement-dilution-aug24",
-      "headline": "Alibaba Sinks 8.5% (Steepest Drop Since Early 2025) After $10.2B Dilutive Hong Kong Share Placement to Fund AI Buildout",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "nvidia-ai-server-price-hike-aug22",
-      "headline": "Nvidia Tells Largest Customers AI Server Prices Rising 15%+ on Soaring Memory-Chip Costs, Effective Early Next Year",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "anthropic-2t-ipo-target-aug22",
-      "headline": "Anthropic Investors Reportedly Targeting ~$2 Trillion IPO Valuation (Surpassing SpaceX's $1.77T Record); Filing Possible by End of August",
-      "score": 7,
-      "direction": "bullish"
-    },
-    {
-      "id": "broadcom-60b-ai-debt-financing-aug22",
-      "headline": "Broadcom in Talks to Raise $60B+ in Debt via Blackstone/Apollo SPV to Finance AI Chip Buildout Supplying Anthropic",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "long-end-yield-fiscal-supply-aug21",
-      "headline": "Dollar Slides to 2026 Low (DXY 98.66, -2.4% MTD) as Investors Rotate to Gold/Bitcoin Over Treasuries Despite Bessent Buyback; National Debt Tops $40T",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "meta-capex-margin-legal-overhang-aug22",
-      "headline": "Meta Extends Weekly Decline as AI-Capex Margin Compression (31% vs 43% Op Margin) Meets New 29-State Youth-Safety Trial",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "nvidia-poolside-license-aug22",
-      "headline": "Nvidia Commits $7B ($6B License + $1B Investment) to AI Startup Poolside",
-      "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "nvidia-rebellions-talks-aug22",
-      "headline": "Nvidia in Early Talks to Invest In or Acquire Korean AI-Chip Startup Rebellions",
-      "score": 4,
-      "direction": "bullish"
     }
   ]
 }
