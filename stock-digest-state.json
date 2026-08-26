@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-26T01:11:00Z",
+  "last_run_utc": "2026-08-26T13:46:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 26 Aug 09:11 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 21:40 MYT run — quiet ~11.5h Asia-daytime window sitting entirely between the US close and the next US pre-market. Checked and confirmed: Truist reiterated Buy/$223 PT (no new information, sentiment-channel reiteration, sub-threshold); Motley Fool/CryptoBriefing 'is the stock still a buy' pieces recirculating the FAA SMART/FMDS $875M contract loss to Air Space Intelligence — that loss is a stale June 22 2026 event, already fully aged out before this ticker's tracked window, recap commentary only, sub-threshold. NHS £330M contract review, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition remain unresolved threads, no dated update found. Golden cross 14 trading days old (as_of Tue 25 Aug close $172.73); next earnings Nov 2 2026",
+      "last_run_window": "Wed 26 Aug 21:46 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 09:11 MYT run — quiet ~12.5h Asia-daytime window running into just the first ~15 minutes of tonight's US pre-market/open, so effectively no US cash-session news yet. Checked: Truist Buy reiteration (dated Aug 24, before window, sub-threshold sentiment reiteration); general 'rallied 40%+ this month' recap coverage citing the Aug 3 earnings pop and Mercury Systems tie-up — both already scored in state, no new facts. NHS £330M contract review, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition remain unresolved threads, no dated update found. Golden cross 14 trading days old (as_of Tue 25 Aug close $172.73); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 26 Aug 09:11 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 21:40 MYT run — quiet Asia-daytime window, no US cash session in it. Checked: Nevada Semi factory inauguration date (Sept 24, dated Aug 24, before window) is a scheduling announcement for an already-known plant, sub-threshold; Stifel PT raise to $508 from $483 is a routine PT bump with no new thesis, sub-threshold and consistent with the near-daily-PT-change pattern. NHTSA suspension probe (~1.2M vehicles) and EA26002 degraded-visibility FSD probe both still open, no ruling or new filing this window. Death cross 42 trading days old (as_of Tue 25 Aug close $350.25); next earnings Oct 21 2026",
+      "last_run_window": "Wed 26 Aug 21:46 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 09:11 MYT run — quiet ~12.5h Asia-daytime window running into just the first ~15 minutes of tonight's US pre-market/open. Checked: recap coverage of the Aug 21 Nevada 5,000-vehicle robotaxi permit (already scored in state, stock closed +5.14% that day) and China's 11-automaker/~5.7M-vehicle door-handle and driver-monitoring recall (already scored in state, Aug 21) continuing to circulate — no new facts. NHTSA suspension probe (~1.2M vehicles, lateral-link) and EA26002 degraded-visibility FSD probe (now covering ~3.2M vehicles per its March upgrade) both still open, no ruling or new filing this window. Death cross 42 trading days old (as_of Tue 25 Aug close $350.25); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -426,7 +426,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 26 Aug 09:11 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 21:40 MYT run — quiet window, no US cash session in it. Checked: BofA PT raise to $33 from $30 dated Aug 19, before the tracked window, PT-only with no new thesis, sub-threshold. Still no confirmed open-market selling reported from the Aug 7 lockup release. Findell activist thread remains dormant since the May 28 letter. Options positioning worsened — Vol P/C now 0.235 (was 0.446), moved further outside the 0.45-1.00 band; OI P/C 0.56, within band — flagged again for /options-sentiment triage. Golden cross 24 trading days old (as_of Tue 25 Aug close $27.27); next earnings Nov 4 2026",
+      "last_run_window": "Wed 26 Aug 21:46 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 09:11 MYT run — quiet ~12.5h Asia-daytime window running into just the first ~15 minutes of tonight's US pre-market/open. Checked: a Form 4 filing dated Aug 25 (before window) and recirculated coverage of the May 28 Findell letter (its $40 standalone PT / $50 buyout-floor framing) — both already known/before window, sub-threshold. No confirmed large-scale open-market selling reported from the Aug 7 lockup release. Options positioning still worsened vs baseline — Vol P/C 0.235, outside the 0.45-1.00 band; OI P/C 0.56, within band — flagged again for /options-sentiment triage. Golden cross 24 trading days old (as_of Tue 25 Aug close $27.27); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
