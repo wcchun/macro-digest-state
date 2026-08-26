@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-25T13:40:27Z",
+  "last_run_utc": "2026-08-26T01:11:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 25 Aug 21:40 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 09:16 MYT run \u2014 quiet ~12.4h Asia-daytime window sitting entirely between the US close and the next US pre-market, no earnings or scheduled catalyst in it. Checked and confirmed CEO Karp's ~$86M share sale (492,348 shares, Aug 20) was a routine 10b5-1 tax-withholding tranche on RSU vesting \u2014 pre-window and consistent with the known heavy-pre-scheduled-selling pattern, not scored. NHS \u00a3330M contract review, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition remain unresolved threads, no dated update found. Golden cross 13 trading days old (as_of Mon 24 Aug close $175.89); next earnings Nov 2 2026",
+      "last_run_window": "Wed 26 Aug 09:11 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 21:40 MYT run — quiet ~11.5h Asia-daytime window sitting entirely between the US close and the next US pre-market. Checked and confirmed: Truist reiterated Buy/$223 PT (no new information, sentiment-channel reiteration, sub-threshold); Motley Fool/CryptoBriefing 'is the stock still a buy' pieces recirculating the FAA SMART/FMDS $875M contract loss to Air Space Intelligence — that loss is a stale June 22 2026 event, already fully aged out before this ticker's tracked window, recap commentary only, sub-threshold. NHS £330M contract review, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition remain unresolved threads, no dated update found. Golden cross 14 trading days old (as_of Tue 25 Aug close $172.73); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -60,7 +60,7 @@
         },
         {
           "id": "uk-nhs-contract-renewal-risk",
-          "headline": "UK Parliament Science Committee recommends against renewal of \u00a3330M NHS contract expiring early 2027; creates material revenue risk",
+          "headline": "UK Parliament Science Committee recommends against renewal of £330M NHS contract expiring early 2027; creates material revenue risk",
           "score": 7,
           "direction": "bearish"
         },
@@ -72,7 +72,7 @@
         },
         {
           "id": "da-davidson-upgrade-buy-175",
-          "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165\u2192$175, raises EPS estimates above consensus",
+          "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165→$175, raises EPS estimates above consensus",
           "score": 6,
           "direction": "bullish"
         },
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 25 Aug 21:40 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 09:16 MYT run \u2014 quiet Asia-daytime window, no US session in it. Trump's proposed Canada auto-tariff increase (to 50% from Jan 2027) and Musk's 'most made in America' pushback are market/sector-wide (other automakers moved the same way), not a stock-specific delta for TSLA \u2014 stays sub-threshold, consistent with the known tariff-headline pattern. NHTSA EA26002 (FSD degraded-visibility engineering analysis) still open, no ruling or new filing this window. Death cross 41 trading days old (as_of Mon 24 Aug close $348.95); next earnings Oct 21 2026",
+      "last_run_window": "Wed 26 Aug 09:11 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 21:40 MYT run — quiet Asia-daytime window, no US cash session in it. Checked: Nevada Semi factory inauguration date (Sept 24, dated Aug 24, before window) is a scheduling announcement for an already-known plant, sub-threshold; Stifel PT raise to $508 from $483 is a routine PT bump with no new thesis, sub-threshold and consistent with the near-daily-PT-change pattern. NHTSA suspension probe (~1.2M vehicles) and EA26002 degraded-visibility FSD probe both still open, no ruling or new filing this window. Death cross 42 trading days old (as_of Tue 25 Aug close $350.25); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -161,7 +161,7 @@
         },
         {
           "id": "china-july-wholesale-record-93k-aug4",
-          "headline": "Tesla China July wholesale sales: 93,579 units, highest month of 2026, +37.85% YoY, 9th straight month of YoY growth \u2014 counters the soft-EV-demand/BYD-share-loss narrative for the Shanghai plant (>50% of global output)",
+          "headline": "Tesla China July wholesale sales: 93,579 units, highest month of 2026, +37.85% YoY, 9th straight month of YoY growth — counters the soft-EV-demand/BYD-share-loss narrative for the Shanghai plant (>50% of global output)",
           "score": 5,
           "direction": "bullish"
         },
@@ -209,7 +209,7 @@
         },
         {
           "id": "analyst-pt-cuts-jul-23-24-post-earnings",
-          "headline": "Multiple analysts cut price targets post-Q2 earnings: Goldman Sachs PT $315\u2192$285 (-8%), consensus shifts from Buy (47) to Hold (26); stock fell 7.5%, rallied to $420",
+          "headline": "Multiple analysts cut price targets post-Q2 earnings: Goldman Sachs PT $315→$285 (-8%), consensus shifts from Buy (47) to Hold (26); stock fell 7.5%, rallied to $420",
           "score": 6,
           "direction": "bearish"
         },
@@ -227,7 +227,7 @@
         },
         {
           "id": "nhtsa-headlight-recall-denial-19900-vehicles-jul-16",
-          "headline": "NHTSA denies Tesla petition and mandates 19,900-vehicle recall (2017\u20132023 Model 3/Y) over headlight glare risk; regulatory escalation signals stricter oversight",
+          "headline": "NHTSA denies Tesla petition and mandates 19,900-vehicle recall (2017–2023 Model 3/Y) over headlight glare risk; regulatory escalation signals stricter oversight",
           "score": 6,
           "direction": "bearish"
         },
@@ -341,13 +341,13 @@
         },
         {
           "id": "burry-covers-tsla-short-aug13",
-          "headline": "Michael Burry (Scion Asset Management) covers his TSLA short (opened Jun 30 at $416.22); same reporting batch shows him adding to Micron shorts and rolling into a larger QQQ put position \u2014 a broad risk-rotation, not a TSLA-specific thesis reversal",
+          "headline": "Michael Burry (Scion Asset Management) covers his TSLA short (opened Jun 30 at $416.22); same reporting batch shows him adding to Micron shorts and rolling into a larger QQQ put position — a broad risk-rotation, not a TSLA-specific thesis reversal",
           "score": 6,
           "direction": "bullish"
         },
         {
           "id": "nevada-av-regulatory-filing-aug13",
-          "headline": "Secondary-sourced reports (TipRanks, CoinCentral) of a Nevada Transportation Authority robotaxi-related filing/approval contributing to Thursday's rally; exact scope unconfirmed \u2014 could be the pending 5,000-vehicle commercial AVNC permit (Docket 26-05015) or a narrower procedural filing; primary docket unverified",
+          "headline": "Secondary-sourced reports (TipRanks, CoinCentral) of a Nevada Transportation Authority robotaxi-related filing/approval contributing to Thursday's rally; exact scope unconfirmed — could be the pending 5,000-vehicle commercial AVNC permit (Docket 26-05015) or a narrower procedural filing; primary docket unverified",
           "score": 5,
           "direction": "bullish"
         },
@@ -359,19 +359,13 @@
         },
         {
           "id": "nevada-robotaxi-permit-resolved-10-vehicle-cap-aug14",
-          "headline": "Nevada Transportation Authority interim order confirms Tesla Robotaxi LLC's AVNC Permit (Docket 26-05015): capped at just 10 fully autonomous vehicles, geofenced to the Las Vegas Strip corridor, roads \u226445mph only \u2014 a fraction of the 5,000-vehicle request that drove Thursday's rally on unconfirmed reports; any fleet/area expansion requires separate NTA approval",
+          "headline": "Nevada Transportation Authority interim order confirms Tesla Robotaxi LLC's AVNC Permit (Docket 26-05015): capped at just 10 fully autonomous vehicles, geofenced to the Las Vegas Strip corridor, roads ≤45mph only — a fraction of the 5,000-vehicle request that drove Thursday's rally on unconfirmed reports; any fleet/area expansion requires separate NTA approval",
           "score": 5,
           "direction": "neutral"
         },
         {
           "id": "tsla-cybercab-wireless-charging-hub-permit",
-          "headline": "Austin permit filings show Tesla leased a facility on St. Elmo Road, planning 80 wireless chargers for the Cybercab fleet \u2014 first physical-infrastructure evidence behind the 'launch as soon as this month' reporting",
-          "score": 5,
-          "direction": "bullish"
-        },
-        {
-          "id": "tsla-einride-500-semi-order",
-          "headline": "Einride orders 500 Tesla Semi trucks (Long Range/Standard Range mix) for CA/TX/NJ/IL/GA deployment starting September \u2014 largest confirmed Semi order to date, ~$130-145M implied hardware value, third-party financed",
+          "headline": "Austin permit filings show Tesla leased a facility on St. Elmo Road, planning 80 wireless chargers for the Cybercab fleet — first physical-infrastructure evidence behind the 'launch as soon as this month' reporting",
           "score": 5,
           "direction": "bullish"
         },
@@ -383,7 +377,7 @@
         },
         {
           "id": "tesla-cybercab-public-launch-prep-austin-aug17",
-          "headline": "The Information: Tesla preps public Cybercab (no-wheel/no-pedal) launch in Austin 'as soon as this month' \u2014 starts with employee rides on public roads before rolling into paid robotaxi service",
+          "headline": "The Information: Tesla preps public Cybercab (no-wheel/no-pedal) launch in Austin 'as soon as this month' — starts with employee rides on public roads before rolling into paid robotaxi service",
           "score": 6,
           "direction": "bullish"
         },
@@ -407,42 +401,42 @@
         },
         {
           "id": "nevada-5000-robotaxi-permit-clark-county-aug20",
-          "headline": "Nevada Transportation Authority unanimously approves permits for Tesla (up to 5,000 vehicles), Uber (1,000, via Motional/Zoox), and Waymo (1,000) to run commercial robotaxi service across all of Clark County \u2014 reversing the Jul 27/Aug 14 order that had capped Tesla at 10 vehicles geofenced to the Strip; Tesla's Cybercab lead Eric Early calls 5,000 'always... a ceiling,' says the company would be satisfied reaching ~2,500 within a year; local taxi/livery operators opposed the permits as moving too fast",
+          "headline": "Nevada Transportation Authority unanimously approves permits for Tesla (up to 5,000 vehicles), Uber (1,000, via Motional/Zoox), and Waymo (1,000) to run commercial robotaxi service across all of Clark County — reversing the Jul 27/Aug 14 order that had capped Tesla at 10 vehicles geofenced to the Strip; Tesla's Cybercab lead Eric Early calls 5,000 'always... a ceiling,' says the company would be satisfied reaching ~2,500 within a year; local taxi/livery operators opposed the permits as moving too fast",
           "score": 7,
           "direction": "bullish"
         },
         {
           "id": "tsla-china-recall-door-handle-driver-monitoring-aug21",
-          "headline": "Tesla recalls ~5.7M combined vehicles in China (2.96M for emergency door-handle visibility/accessibility post-collision \u2014 remedied via warning labels plus an OTA update that auto-lowers windows after a crash; 2.74M for driver-monitoring \u2014 adds cabin-camera eye-tracking to the assisted-driving system) as part of an 11-automaker, ~4M+ vehicle industry-wide regulatory crackdown; China will also ban concealed door handles from 2027, a design Tesla popularized \u2014 no physical part replacement required, but sets a design-standard precedent",
+          "headline": "Tesla recalls ~5.7M combined vehicles in China (2.96M for emergency door-handle visibility/accessibility post-collision — remedied via warning labels plus an OTA update that auto-lowers windows after a crash; 2.74M for driver-monitoring — adds cabin-camera eye-tracking to the assisted-driving system) as part of an 11-automaker, ~4M+ vehicle industry-wide regulatory crackdown; China will also ban concealed door handles from 2027, a design Tesla popularized — no physical part replacement required, but sets a design-standard precedent",
           "score": 6,
           "direction": "bearish"
         },
         {
           "id": "tsla-semi-iaa-hannover-europe-launch-confirmed-aug21",
-          "headline": "Tesla confirms it will reveal European Semi launch details (local pricing, Megacharger rollout plans, delivery timeline) at IAA Transportation Hannover, Sept 15-20 2026 (press day Sept 14) \u2014 first concrete step toward commercializing the Semi in Europe; no range, pricing, or on-sale date disclosed yet",
+          "headline": "Tesla confirms it will reveal European Semi launch details (local pricing, Megacharger rollout plans, delivery timeline) at IAA Transportation Hannover, Sept 15-20 2026 (press day Sept 14) — first concrete step toward commercializing the Semi in Europe; no range, pricing, or on-sale date disclosed yet",
           "score": 5,
           "direction": "bullish"
         },
         {
           "id": "tsla-solar-roof-discontinued-aug20",
-          "headline": "Trade press (Electrek, TeslaNorth, Benzinga et al.) reports Tesla has quietly discontinued its Solar Roof tile product (~10 years after launch), telling certified installers the tiles are no longer orderable and pulling the product from its website; company shifts Energy focus entirely to traditional solar panels (incl. new 420W panels from Giga New York); no official Tesla statement, cited as not financially viable. Solar Roof volumes have been immaterial for years \u2014 Energy segment revenue is overwhelmingly Megapack/Powerwall \u2014 so direct P&L impact is negligible, but it reinforces a narrative of Tesla product bets not scaling",
+          "headline": "Trade press (Electrek, TeslaNorth, Benzinga et al.) reports Tesla has quietly discontinued its Solar Roof tile product (~10 years after launch), telling certified installers the tiles are no longer orderable and pulling the product from its website; company shifts Energy focus entirely to traditional solar panels (incl. new 420W panels from Giga New York); no official Tesla statement, cited as not financially viable. Solar Roof volumes have been immaterial for years — Energy segment revenue is overwhelmingly Megapack/Powerwall — so direct P&L impact is negligible, but it reinforces a narrative of Tesla product bets not scaling",
           "score": 4,
           "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 25 Aug 21:40 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 09:16 MYT run \u2014 quiet window, light volume (0.38x ADV20 as of Mon 24 Aug close). Still no confirmed open-market selling reported from the Aug 7 lockup release. Findell activist thread remains dormant since the May 28 letter. Options positioning (Vol P/C 0.446, still just below the 0.45-1.00 band; OI P/C 0.561, within band) flagged again for /options-sentiment triage. Golden cross 23 trading days old (as_of Mon 24 Aug close $27.44); next earnings Nov 4 2026",
+      "last_run_window": "Wed 26 Aug 09:11 MYT (delta run): nothing scored 4+ since the Tue 25 Aug 21:40 MYT run — quiet window, no US cash session in it. Checked: BofA PT raise to $33 from $30 dated Aug 19, before the tracked window, PT-only with no new thesis, sub-threshold. Still no confirmed open-market selling reported from the Aug 7 lockup release. Findell activist thread remains dormant since the May 28 letter. Options positioning worsened — Vol P/C now 0.235 (was 0.446), moved further outside the 0.45-1.00 band; OI P/C 0.56, within band — flagged again for /options-sentiment triage. Golden cross 24 trading days old (as_of Tue 25 Aug close $27.27); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
-          "headline": "Figma Config 2026: launches major AI feature suite \u2014 motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides",
+          "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides",
           "score": 7,
           "direction": "bullish"
         },
         {
           "id": "anthropic-claude-design-competitive-threat-apr-17",
-          "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5\u20137%; Mike Krieger (FIG CPO) resigned board same day",
+          "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day",
           "score": 8,
           "direction": "bearish"
         },
@@ -484,7 +478,7 @@
         },
         {
           "id": "august-2026-lockup-expiration-risk",
-          "headline": "August 2026 post-IPO lockup expiration (Aug 31) looming; 54.1% of Class A shares eligible (~$6\u20137B supply); VC holders have low-cost basis incentive to monetize",
+          "headline": "August 2026 post-IPO lockup expiration (Aug 31) looming; 54.1% of Class A shares eligible (~$6–7B supply); VC holders have low-cost basis incentive to monetize",
           "score": 5,
           "direction": "bearish"
         },
@@ -526,13 +520,13 @@
         },
         {
           "id": "fig-wells-fargo-morgan-stanley-pt-cuts-aug6",
-          "headline": "Wells Fargo cuts FIG PT to $36 from $38 (Overweight maintained); Morgan Stanley cuts to $33 from $38 (Equal Weight maintained) \u2014 same post-earnings wave as RBC's move to $28",
+          "headline": "Wells Fargo cuts FIG PT to $36 from $38 (Overweight maintained); Morgan Stanley cuts to $33 from $38 (Equal Weight maintained) — same post-earnings wave as RBC's move to $28",
           "score": 4,
           "direction": "bearish"
         },
         {
           "id": "fig-citi-pt-raise-37-aug7",
-          "headline": "Citi raises FIG price target to $37 from $35, maintains Buy, following the Q2 beat-and-raise \u2014 joins the post-earnings analyst-action wave alongside Wells Fargo/Morgan Stanley cuts and RBC's raise",
+          "headline": "Citi raises FIG price target to $37 from $35, maintains Buy, following the Q2 beat-and-raise — joins the post-earnings analyst-action wave alongside Wells Fargo/Morgan Stanley cuts and RBC's raise",
           "score": 4,
           "direction": "bullish"
         },
@@ -541,6 +535,12 @@
           "headline": "Form 4 (filed Aug 11) discloses Greylock XIV LP/XIV-A/XIV Principals executed a pro-rata in-kind distribution of ~14.6M Class A shares (from the Aug 7 unlock pool) to fund LPs, incl. director John O. Lilly III receiving 412,993 shares; fund-to-LP transfer, not an open-market sale",
           "score": 5,
           "direction": "bearish"
+        },
+        {
+          "id": "fig-bofa-pt-raise-33-aug19",
+          "headline": "BofA Securities raises FIG price target to $33 from $30, maintains Buy, following continued post-earnings monitoring",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     }
