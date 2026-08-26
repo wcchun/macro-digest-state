@@ -1,17 +1,17 @@
 {
-  "last_run_utc": "2026-08-25T13:34:00Z",
-  "last_run_window": "Tue 25 Aug 09:05 MYT to Tue 25 Aug 21:34 MYT (Tuesday Asia/Europe session, pre-US-open)",
+  "last_run_utc": "2026-08-26T01:08:00Z",
+  "last_run_window": "Tue 25 Aug 21:34 MYT to Wed 26 Aug 09:08 MYT (Tuesday US cash session, pre-PCE, pre-Nvidia-earnings)",
   "stories": [
     {
-      "id": "samsung-capital-return-memory-selloff-aug24",
-      "headline": "Asian Tech/Memory Names Extend Monday's Samsung-Led Selloff (Nikkei -2.5%, Kospi -1.5%) as Risk-Off Tone Builds Into Nvidia Earnings",
-      "score": 5,
-      "direction": "bearish"
+      "id": "chip-rebound-pre-nvda-pce-aug25",
+      "headline": "Chipmakers Rebound From Monday's Samsung-Led Selloff (SOX +1.76%, SMCI +9.4%, NVDA +2.8%) as 10yr Yield Falls 7bp on Treasury Buyback Speculation, Ahead of Nvidia Earnings and July PCE",
+      "score": 6,
+      "direction": "bullish"
     },
     {
-      "id": "trump-iran-economic-warfare-aug21",
-      "headline": "Bessent Sets Deadline Ultimatum ('Economic D-Day') for Countries Trading With Iran to Cut Ties or Face Unilateral Sanctions",
-      "score": 6,
+      "id": "canada-retaliatory-tariffs-aug25",
+      "headline": "Canada Announces Retaliatory Tariffs (Up to 50%) on Hundreds of US Goods, Trade Talks Suspended",
+      "score": 4,
       "direction": "bearish"
     }
   ]
