@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-27T00:40:00Z",
+  "last_run_utc": "2026-08-27T13:35:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 27 Aug 08:40 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 21:46 MYT run — quiet ~10.75h window. Checked: NHS £330M contract renewal, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition (no dated updates on any); routine Form-4 insider tax-withholding sales (~$86M, consistent with known pre-scheduled pattern); rally recap/opinion pieces and a stale (mid-June) Wolfe Research rating recycled in this week's coverage. Options term-structure ratio 1.26 with no earnings inside 30d — flagged for /options-sentiment triage. Golden cross 15 trading days old (as_of Wed 26 Aug close $177.50); next earnings Nov 2 2026",
+      "last_run_window": "Thu 27 Aug 21:34 MYT (delta run): nothing scored 4+ since the Thu 27 Aug 08:40 MYT run — quiet ~13h window (Wed 26 Aug 8:40PM ET–Thu 27 Aug 9:35AM ET, pre-open). Checked: UK NHS £330M contract renewal, Pentagon no-bid $243.9M memo finalization, France DGSI/ChapsVision transition, insider Form-4 filings — no new dated developments on any. Options term-structure ratio 1.255 with no earnings inside 30d — flagged for /options-sentiment triage. Golden cross 15 trading days old (as_of Wed 26 Aug close $177.50); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 27 Aug 08:40 MYT (delta run): 1 new since the Wed 26 Aug 21:46 MYT run — a Chinese social-media rumor that Tesla emptied its Shanghai FSD/data-center team, denied same-day by Tesla/Tesla China (Wed 26 Aug intraday), scored 5/bearish/medium-confidence. Checked and no update found: NHTSA suspension/lateral-link probe (~1.2M vehicles), NHTSA EA26002 degraded-visibility FSD probe (~3.2M vehicles), Nevada 5,000-vehicle robotaxi permit rollout, Cybercab Austin launch prep, Terafab construction, China recall follow-up — all open threads unchanged. Cybertruck price hike (Tue 25 Aug) and other recap items pre-date window, sub-threshold. Death cross 43 trading days old (as_of Wed 26 Aug close $345.82); next earnings Oct 21 2026",
+      "last_run_window": "Thu 27 Aug 21:34 MYT (delta run): nothing scored 4+ since the Thu 27 Aug 08:40 MYT run — quiet ~13h window (Wed 26 Aug 8:40PM ET–Thu 27 Aug 9:35AM ET, pre-open). Checked: NHTSA suspension/lateral-link probe, NHTSA EA26002 degraded-visibility FSD probe, Nevada robotaxi ramp, Cybercab Austin launch prep, Terafab construction, China Shanghai FSD rumor (denied Aug 26) — all open threads unchanged, no new filings/Form-4/analyst actions. Death cross 43 trading days old (as_of Wed 26 Aug close $345.82); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -432,7 +432,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 27 Aug 08:40 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 21:46 MYT run. Checked: Aug 31 lockup approach (no share-flow data yet, ~4 days out), Greylock distribution follow-up, Findell letter follow-up, CPO/CMO replacement search — all open threads unchanged, no new dated facts. Options positioning has normalized: Vol P/C now 0.77 (was 0.235, now back within the 0.45-1.00 band), OI P/C 0.49 (within band); term-structure ratio 1.18 with no earnings inside 30d — flagged for /options-sentiment triage. Golden cross 25 trading days old (as_of Wed 26 Aug close $27.03); next earnings Nov 4 2026",
+      "last_run_window": "Thu 27 Aug 21:34 MYT (delta run): nothing scored 4+ since the Thu 27 Aug 08:40 MYT run — quiet ~13h window (Wed 26 Aug 8:40PM ET–Thu 27 Aug 9:35AM ET, pre-open). Checked: Aug 31 lockup mechanics (confirmed the Extended Lock-Up tranche already released early Aug 7, no separate Aug 31 event), CPO replacement search (no hire named yet), Findell letter follow-up, Greylock distribution follow-up — all open threads unchanged, no new dated facts. Options positioning: Vol P/C 0.773, OI P/C 0.491 (both within band); term-structure ratio 1.18 with no earnings inside 30d — flagged for /options-sentiment triage. Golden cross 25 trading days old (as_of Wed 26 Aug close $27.03); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
