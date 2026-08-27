@@ -1,22 +1,28 @@
 {
-  "last_run_utc": "2026-08-26T13:50:00Z",
-  "last_run_window": "Wed 26 Aug 09:08 MYT to Wed 26 Aug 21:50 MYT (Asia/Europe session + US premarket, July PCE and Q2 GDP release, pre-Nvidia-earnings)",
+  "last_run_utc": "2026-08-27T01:10:00Z",
+  "last_run_window": "Wed 26 Aug 21:50 MYT to Thu 27 Aug 09:10 MYT (US Wed cash session, Wed after-hours mega-cap earnings, Thu Asia morning)",
   "stories": [
     {
-      "id": "july-pce-q2-gdp-aug26",
-      "headline": "July PCE Rises to 3.7% YoY (Hot vs 3.6% Forecast, 65th Straight Month Above Target) as Core PCE Holds at 3.3%; Q2 GDP Unrevised at 1.5%",
+      "id": "nvda-q2fy27-beat-raise-aws-aug27",
+      "headline": "Nvidia Q2 FY27 Blows Past Estimates ($2.22 EPS, $96.2B Revenue +106% YoY), Guides Above Consensus ($108B vs $104.2B); AWS Commits to 2M GPUs + New Vera CPU",
+      "score": 9,
+      "direction": "bullish"
+    },
+    {
+      "id": "salesforce-q2fy27-beat-raise-aug27",
+      "headline": "Salesforce Beats EPS by 80% ($5.90), Raises FY Revenue Guidance to $46.1-46.4B, Expands Anthropic Partnership",
       "score": 6,
-      "direction": "bearish"
+      "direction": "bullish"
     },
     {
-      "id": "software-selloff-intuit-zoom-aug26",
-      "headline": "Enterprise Software Slides Premarket (IGV -1%+, ServiceNow/Workday/Salesforce -2%, Zoom -7%) on Intuit Results and Soft Zoom Q3 Guidance",
-      "score": 4,
-      "direction": "bearish"
+      "id": "crowdstrike-q2fy27-beat-raise-aug27",
+      "headline": "CrowdStrike Revenue Up 25.8% YoY to $1.47B, Raises Full-Year Guidance, ARR Growth Reaccelerates to 25.4%",
+      "score": 5,
+      "direction": "bullish"
     },
     {
-      "id": "iran-oman-hormuz-oil-decline-aug26",
-      "headline": "Oil Extends Decline as Iran and Oman Discuss Interim Framework to Resume Strait of Hormuz Shipping",
+      "id": "iran-oman-hormuz-framework-aug27",
+      "headline": "Iran-Oman Hormuz Framework Gains Detail (Joint Corridor, Military-Ship Exclusion); Oil Falls a 3rd Straight Session (Brent -3%, WTI -2.8%)",
       "score": 4,
       "direction": "bullish"
     }
