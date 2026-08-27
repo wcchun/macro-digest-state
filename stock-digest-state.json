@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-26T13:46:00Z",
+  "last_run_utc": "2026-08-27T00:40:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 26 Aug 21:46 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 09:11 MYT run — quiet ~12.5h Asia-daytime window running into just the first ~15 minutes of tonight's US pre-market/open, so effectively no US cash-session news yet. Checked: Truist Buy reiteration (dated Aug 24, before window, sub-threshold sentiment reiteration); general 'rallied 40%+ this month' recap coverage citing the Aug 3 earnings pop and Mercury Systems tie-up — both already scored in state, no new facts. NHS £330M contract review, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition remain unresolved threads, no dated update found. Golden cross 14 trading days old (as_of Tue 25 Aug close $172.73); next earnings Nov 2 2026",
+      "last_run_window": "Thu 27 Aug 08:40 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 21:46 MYT run — quiet ~10.75h window. Checked: NHS £330M contract renewal, Pentagon no-bid $243.9M memo finalization, and France DGSI/ChapsVision transition (no dated updates on any); routine Form-4 insider tax-withholding sales (~$86M, consistent with known pre-scheduled pattern); rally recap/opinion pieces and a stale (mid-June) Wolfe Research rating recycled in this week's coverage. Options term-structure ratio 1.26 with no earnings inside 30d — flagged for /options-sentiment triage. Golden cross 15 trading days old (as_of Wed 26 Aug close $177.50); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 26 Aug 21:46 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 09:11 MYT run — quiet ~12.5h Asia-daytime window running into just the first ~15 minutes of tonight's US pre-market/open. Checked: recap coverage of the Aug 21 Nevada 5,000-vehicle robotaxi permit (already scored in state, stock closed +5.14% that day) and China's 11-automaker/~5.7M-vehicle door-handle and driver-monitoring recall (already scored in state, Aug 21) continuing to circulate — no new facts. NHTSA suspension probe (~1.2M vehicles, lateral-link) and EA26002 degraded-visibility FSD probe (now covering ~3.2M vehicles per its March upgrade) both still open, no ruling or new filing this window. Death cross 42 trading days old (as_of Tue 25 Aug close $350.25); next earnings Oct 21 2026",
+      "last_run_window": "Thu 27 Aug 08:40 MYT (delta run): 1 new since the Wed 26 Aug 21:46 MYT run — a Chinese social-media rumor that Tesla emptied its Shanghai FSD/data-center team, denied same-day by Tesla/Tesla China (Wed 26 Aug intraday), scored 5/bearish/medium-confidence. Checked and no update found: NHTSA suspension/lateral-link probe (~1.2M vehicles), NHTSA EA26002 degraded-visibility FSD probe (~3.2M vehicles), Nevada 5,000-vehicle robotaxi permit rollout, Cybercab Austin launch prep, Terafab construction, China recall follow-up — all open threads unchanged. Cybertruck price hike (Tue 25 Aug) and other recap items pre-date window, sub-threshold. Death cross 43 trading days old (as_of Wed 26 Aug close $345.82); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -422,11 +422,17 @@
           "headline": "Trade press (Electrek, TeslaNorth, Benzinga et al.) reports Tesla has quietly discontinued its Solar Roof tile product (~10 years after launch), telling certified installers the tiles are no longer orderable and pulling the product from its website; company shifts Energy focus entirely to traditional solar panels (incl. new 420W panels from Giga New York); no official Tesla statement, cited as not financially viable. Solar Roof volumes have been immaterial for years — Energy segment revenue is overwhelmingly Megapack/Powerwall — so direct P&L impact is negligible, but it reinforces a narrative of Tesla product bets not scaling",
           "score": 4,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-china-fsd-pullout-rumor-denial-aug26",
+          "headline": "Chinese social-media rumor claims Tesla emptied its Shanghai FSD/data-center team (read as a setback to China FSD monetization); Tesla/Tesla China deny same-day to local press (data center 'operating normally,' hiring accelerating); stock dips ~1% intraday before mostly recovering",
+          "score": 5,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 26 Aug 21:46 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 09:11 MYT run — quiet ~12.5h Asia-daytime window running into just the first ~15 minutes of tonight's US pre-market/open. Checked: a Form 4 filing dated Aug 25 (before window) and recirculated coverage of the May 28 Findell letter (its $40 standalone PT / $50 buyout-floor framing) — both already known/before window, sub-threshold. No confirmed large-scale open-market selling reported from the Aug 7 lockup release. Options positioning still worsened vs baseline — Vol P/C 0.235, outside the 0.45-1.00 band; OI P/C 0.56, within band — flagged again for /options-sentiment triage. Golden cross 24 trading days old (as_of Tue 25 Aug close $27.27); next earnings Nov 4 2026",
+      "last_run_window": "Thu 27 Aug 08:40 MYT (delta run): nothing scored 4+ since the Wed 26 Aug 21:46 MYT run. Checked: Aug 31 lockup approach (no share-flow data yet, ~4 days out), Greylock distribution follow-up, Findell letter follow-up, CPO/CMO replacement search — all open threads unchanged, no new dated facts. Options positioning has normalized: Vol P/C now 0.77 (was 0.235, now back within the 0.45-1.00 band), OI P/C 0.49 (within band); term-structure ratio 1.18 with no earnings inside 30d — flagged for /options-sentiment triage. Golden cross 25 trading days old (as_of Wed 26 Aug close $27.03); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
