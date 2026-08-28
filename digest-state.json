@@ -1,29 +1,29 @@
 {
-  "last_run_utc": "2026-08-27T13:32:43Z",
-  "last_run_window": "Thu 27 Aug 09:10 MYT to 21:32 MYT (Thu Asia/Europe session, pre-US-cash-open)",
+  "last_run_utc": "2026-08-28T01:11:41Z",
+  "last_run_window": "Thu 27 Aug 21:32 MYT to Fri 28 Aug 09:11 MYT (Thu US cash session through Fri Asia pre-market)",
   "stories": [
     {
-      "id": "nvda-q2fy27-beat-raise-aws-aug27",
-      "headline": "Nvidia Q2 FY27 Blows Past Estimates ($2.22 EPS, $96.2B Revenue +106% YoY), Guides Above Consensus ($108B vs $104.2B); AWS Commits to 2M GPUs + New Vera CPU",
-      "score": 9,
-      "direction": "bullish"
-    },
-    {
-      "id": "salesforce-q2fy27-beat-raise-aug27",
-      "headline": "Salesforce Beats EPS by 80% ($5.90), Raises FY Revenue Guidance to $46.1-46.4B, Expands Anthropic Partnership",
+      "id": "jackson-hole-hawkish-chorus-aug27",
+      "headline": "Jackson Hole Opens With Hawkish Fed Chorus (KC's Schmid, Cleveland's Hammack, Chicago's Goolsbee) Ahead of Chair Warsh's Friday Keynote Debut",
       "score": 6,
-      "direction": "bullish"
+      "direction": "bearish"
     },
     {
-      "id": "crowdstrike-q2fy27-beat-raise-aug27",
-      "headline": "CrowdStrike Revenue Up 25.8% YoY to $1.47B, Raises Full-Year Guidance, ARR Growth Reaccelerates to 25.4%",
+      "id": "chip-tariff-derivative-products-aug27",
+      "headline": "Lutnick Signals Broader Section 232 Tariffs on Chips + Derivative Products (Servers, Laptops); Micron -7%, Amazon Capex-Cost Concerns Resurface",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "software-cyber-earnings-rally-broadens-aug27",
+      "headline": "Software/Cybersecurity Earnings Reaction Broadens Past Salesforce/CrowdStrike: Okta +28%, Palo Alto +13%, Software ETF +6.5%",
       "score": 5,
       "direction": "bullish"
     },
     {
-      "id": "iran-oman-hormuz-framework-aug27",
-      "headline": "Iran-Oman Hormuz Framework Gains Detail (Joint Corridor, Military-Ship Exclusion); Oil Falls a 3rd Straight Session (Brent -3%, WTI -2.8%)",
-      "score": 4,
+      "id": "nvda-q2fy27-beat-raise-aws-aug27",
+      "headline": "NVDA Thesis Confirmed in Regular Session: Stock Closes +7-9%, Nasdaq +1.4-1.6%, Broad Semis Follow-Through (Marvell, Broadcom, SK Hynix, Intel)",
+      "score": 3,
       "direction": "bullish"
     }
   ]
