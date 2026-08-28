@@ -1,30 +1,18 @@
 {
-  "last_run_utc": "2026-08-28T01:11:41Z",
-  "last_run_window": "Thu 27 Aug 21:32 MYT to Fri 28 Aug 09:11 MYT (Thu US cash session through Fri Asia pre-market)",
+  "last_run_utc": "2026-08-28T13:37:09Z",
+  "last_run_window": "Fri 28 Aug 09:11 MYT to Fri 28 Aug 21:37 MYT (Asia session through Friday US pre-market, ahead of the 10:00pm MYT Jackson Hole open)",
   "stories": [
     {
       "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Jackson Hole Opens With Hawkish Fed Chorus (KC's Schmid, Cleveland's Hammack, Chicago's Goolsbee) Ahead of Chair Warsh's Friday Keynote Debut",
+      "headline": "Jackson Hole Hawkish Chorus Carries Into Warsh's 10am ET Keynote Debut, Now Coinciding With the BLS Preliminary NFP Benchmark Revision",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "chip-tariff-derivative-products-aug27",
-      "headline": "Lutnick Signals Broader Section 232 Tariffs on Chips + Derivative Products (Servers, Laptops); Micron -7%, Amazon Capex-Cost Concerns Resurface",
+      "headline": "Section 232 Chip/Derivative-Product Tariff Negotiation Still Unresolved; No Escalation Since Lutnick's Broader-Scope Signal",
       "score": 6,
       "direction": "bearish"
-    },
-    {
-      "id": "software-cyber-earnings-rally-broadens-aug27",
-      "headline": "Software/Cybersecurity Earnings Reaction Broadens Past Salesforce/CrowdStrike: Okta +28%, Palo Alto +13%, Software ETF +6.5%",
-      "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "nvda-q2fy27-beat-raise-aws-aug27",
-      "headline": "NVDA Thesis Confirmed in Regular Session: Stock Closes +7-9%, Nasdaq +1.4-1.6%, Broad Semis Follow-Through (Marvell, Broadcom, SK Hynix, Intel)",
-      "score": 3,
-      "direction": "bullish"
     }
   ]
 }
