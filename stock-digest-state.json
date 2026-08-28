@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-28T01:16:00Z",
+  "last_run_utc": "2026-08-28T13:40:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 28 Aug 09:16 MYT (delta run): nothing scored 4+ since the Thu 27 Aug 21:34 MYT run — full Thu 27 Aug US regular session covered (Thu 9:35AM ET–9:13PM ET). Thursday's +4.7% rally to ~$186 is continuation of already-scored Maven Pentagon program-of-record (Tue) and William Blair $1B ARR note (Wed), not new information. Checked: UK NHS contract, Pentagon no-bid $243.9M memo, France DGSI transition, insider Form-4 filings — no new dated developments on any. Options term-structure ratio 1.255 with no earnings inside 30d — still flagged for /options-sentiment triage. Golden cross 15 trading days old (as_of Wed 26 Aug close $177.50); next earnings Nov 2 2026",
+      "last_run_window": "Fri 28 Aug 21:40 MYT (delta run): nothing scored 4+ since the Fri 28 Aug 09:16 MYT run — quiet ~12.5h Asia-session/pre-market window, ahead of Friday's US open. Checked: Karp's Aug 20 10b5-1 sale (~$86M, routine pre-scheduled tranche, ≤3, already excluded), Thiel steady-sell-down commentary (recycled, no new dated transaction), short-squeeze-setup commentary (price-action recap, not new information), UK NHS contract, Pentagon no-bid memo, France DGSI — no new dated developments on any. Options term-structure ratio 3.006 (up from 1.255) with no earnings inside 30d and OI P/C near-zero (0.001) — flagged for /options-sentiment triage, though near-dated IV term structure looks noisy/thin-quote driven. Golden cross 16 trading days old (as_of Thu 27 Aug close $185.93); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 28 Aug 09:16 MYT (delta run): 1 new since last digest — FSD railroad-crossing near-miss video, new (4, bearish), feeds standing NHTSA EA26002 degraded-visibility probe thread. Cybercab Austin public launch date confirmed for Sept 3 (Electrek, predates this window) and robotaxi 24h/6am-10pm hail-window expansion (Wed, predates window) — both thread updates only, not re-scored. Checked: NHTSA suspension/lateral-link probe, Nevada robotaxi ramp, Terafab construction, China Shanghai FSD rumor (still denied, no follow-up) — unchanged, no new Form-4/analyst actions. Death cross 43 trading days old (as_of Wed 26 Aug close $345.82); next earnings Oct 21 2026",
+      "last_run_window": "Fri 28 Aug 21:40 MYT (delta run): nothing scored 4+ since the Fri 28 Aug 09:16 MYT run — quiet ~12.5h Asia-session/pre-market window, ahead of Friday's US open. Checked: NHTSA suspension/lateral-link probe, Nevada robotaxi permit follow-through, Cybercab Sept 3 Austin launch prep, China Shanghai FSD-team rumor/denial, Musk 'Optimus = 80% of value' line (recycled Sept 2025 quote resurfacing, not new) — no new dated developments on any. Death cross 44 trading days old (as_of Thu 27 Aug close $354.81); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -438,7 +438,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 28 Aug 09:16 MYT (delta run): 1 new since last digest — sector-wide 'AI-threat-to-tailwind' re-rating for design software, new (6, bullish); FIG +13.28% Thu (~$27.03->~$30.27), Atlassian +8%, group outpaces QQQ's ~+1%, no discrete new company fact behind the move. Checked: Aug 31 lockup mechanics (confirmed Extended Lock-Up already released Aug 7, no separate Aug 31 event), CPO replacement search (no hire named yet), Findell letter follow-up, Greylock distribution follow-up, RBC $28 PT — all unchanged, no new dated facts. Options positioning as of Wed 26 Aug close (pre-rally, treat as stale): Vol P/C 0.773, OI P/C 0.491 (both within band); term-structure ratio 1.18 with no earnings inside 30d — still flagged for /options-sentiment triage. Golden cross 25 trading days old (as_of Wed 26 Aug close $27.03); next earnings Nov 4 2026",
+      "last_run_window": "Fri 28 Aug 21:40 MYT (delta run): 1 new since last digest — Figma Weave tools now callable via the Figma MCP server directly from third-party AI agents (ChatGPT, Claude, Cursor), new (4, bullish); free during beta, usage-based pricing to follow. Checked: Aug 31 lockup mechanics (confirmed Extended Lock-Up already released Aug 7, no separate Aug 31 event), CPO replacement search (no hire named yet), Findell activist letter follow-up, Greylock distribution follow-up — all unchanged, no new dated facts. Options: Vol P/C 0.37 (below the 0.45-1.00 band) with OI P/C 0.50 (in band); term-structure ratio 1.682 with no earnings inside 30d — still flagged for /options-sentiment triage. Golden cross 26 trading days old (as_of Thu 27 Aug close $30.62); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -558,6 +558,12 @@
           "id": "fig-ai-threat-to-tailwind-sector-rerate-aug27",
           "headline": "Design-software sector-wide re-rating: investors flip AI from perceived existential threat to monetization tailwind for design/collaboration platforms; FIG +13.28% Thu (~$27.03->~$30.27), Atlassian +8%, group outpaces QQQ's ~+1% — no discrete new company fact behind the move",
           "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "figma-weave-mcp-third-party-agents-aug28",
+          "headline": "Figma launches Weave-tools-via-MCP: ChatGPT, Claude, Cursor and other MCP-compatible agents can now discover and run Figma Weave tools directly from chat, without leaving the client; free during beta, usage-based pricing planned later",
+          "score": 4,
           "direction": "bullish"
         }
       ]
