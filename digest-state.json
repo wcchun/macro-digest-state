@@ -1,17 +1,11 @@
 {
-  "last_run_utc": "2026-08-28T13:37:09Z",
-  "last_run_window": "Fri 28 Aug 09:11 MYT to Fri 28 Aug 21:37 MYT (Asia session through Friday US pre-market, ahead of the 10:00pm MYT Jackson Hole open)",
+  "last_run_utc": "2026-08-29T01:07:17Z",
+  "last_run_window": "Fri 28 Aug 21:37 MYT to Sat 29 Aug 09:07 MYT (full Friday US cash session through Jackson Hole keynote, into Saturday morning MYT)",
   "stories": [
     {
       "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Jackson Hole Hawkish Chorus Carries Into Warsh's 10am ET Keynote Debut, Now Coinciding With the BLS Preliminary NFP Benchmark Revision",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "chip-tariff-derivative-products-aug27",
-      "headline": "Section 232 Chip/Derivative-Product Tariff Negotiation Still Unresolved; No Escalation Since Lutnick's Broader-Scope Signal",
-      "score": 6,
+      "headline": "Fed Chair Warsh's Jackson Hole Keynote Confirms Hawkish Tilt — Sept Hike Odds Nearly Double to 57.5%, Overshadowing a Weak NFP Benchmark Revision",
+      "score": 7,
       "direction": "bearish"
     }
   ]
