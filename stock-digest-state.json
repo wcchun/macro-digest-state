@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-28T13:40:00Z",
+  "last_run_utc": "2026-08-29T01:10:56Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 28 Aug 21:40 MYT (delta run): nothing scored 4+ since the Fri 28 Aug 09:16 MYT run — quiet ~12.5h Asia-session/pre-market window, ahead of Friday's US open. Checked: Karp's Aug 20 10b5-1 sale (~$86M, routine pre-scheduled tranche, ≤3, already excluded), Thiel steady-sell-down commentary (recycled, no new dated transaction), short-squeeze-setup commentary (price-action recap, not new information), UK NHS contract, Pentagon no-bid memo, France DGSI — no new dated developments on any. Options term-structure ratio 3.006 (up from 1.255) with no earnings inside 30d and OI P/C near-zero (0.001) — flagged for /options-sentiment triage, though near-dated IV term structure looks noisy/thin-quote driven. Golden cross 16 trading days old (as_of Thu 27 Aug close $185.93); next earnings Nov 2 2026",
+      "last_run_window": "Sat 29 Aug 09:10 MYT (delta run): nothing scored 4+ since the Fri 28 Aug 21:40 MYT run — quiet ~11.5h window covering the tail of Friday's US session through Friday's close, no weekend news yet. Checked: William Blair Maven $1B ARR reiteration (Aug 26, stale), UBS/Truist PT raises (post-earnings, already known), Forbes/24-7-Wall-St recap pieces (opinion, ≤3), squeezereport.com short-squeeze writeup (mechanical, not fundamental), Karp/Buckley Aug 20 10b5-1 sales (routine, already excluded), France DGSI, UK NHS, Pentagon no-bid memo (still unfinalized) — no new dated developments on any. Options term-structure ratio 3.006 with no earnings inside 30d and OI P/C near-zero (0.001) — still flagged for /options-sentiment triage, though near-dated IV term structure looks noisy/thin-quote driven (options snapshot fetched outside US trading hours). Golden cross 16 trading days old (as_of Thu 27 Aug close $185.93); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
@@ -151,7 +151,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 28 Aug 21:40 MYT (delta run): nothing scored 4+ since the Fri 28 Aug 09:16 MYT run — quiet ~12.5h Asia-session/pre-market window, ahead of Friday's US open. Checked: NHTSA suspension/lateral-link probe, Nevada robotaxi permit follow-through, Cybercab Sept 3 Austin launch prep, China Shanghai FSD-team rumor/denial, Musk 'Optimus = 80% of value' line (recycled Sept 2025 quote resurfacing, not new) — no new dated developments on any. Death cross 44 trading days old (as_of Thu 27 Aug close $354.81); next earnings Oct 21 2026",
+      "last_run_window": "Sat 29 Aug 09:10 MYT (delta run): nothing scored 4+ since the Fri 28 Aug 21:40 MYT run — quiet ~11.5h window covering the tail of Friday's US session through Friday's close. Stock closed Fri ~$347.92-348.75, down ~1.7-2.5% intraday on no identified stock-specific catalyst (market-wide fade, not scored). Checked: NHTSA suspension/lateral-link probe, Nevada robotaxi permits, Cybercab Austin launch prep, China Shanghai FSD-team rumor/denial, Optimus Fremont production entry (Aug 27, pre-window), Tesla Semi Sparks NV factory rollout event set for Sept 24 (Aug 27, pre-window) — no new dated developments inside the window on any. Death cross 44 trading days old (as_of Thu 27 Aug close $354.81); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -438,7 +438,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 28 Aug 21:40 MYT (delta run): 1 new since last digest — Figma Weave tools now callable via the Figma MCP server directly from third-party AI agents (ChatGPT, Claude, Cursor), new (4, bullish); free during beta, usage-based pricing to follow. Checked: Aug 31 lockup mechanics (confirmed Extended Lock-Up already released Aug 7, no separate Aug 31 event), CPO replacement search (no hire named yet), Findell activist letter follow-up, Greylock distribution follow-up — all unchanged, no new dated facts. Options: Vol P/C 0.37 (below the 0.45-1.00 band) with OI P/C 0.50 (in band); term-structure ratio 1.682 with no earnings inside 30d — still flagged for /options-sentiment triage. Golden cross 26 trading days old (as_of Thu 27 Aug close $30.62); next earnings Nov 4 2026",
+      "last_run_window": "Sat 29 Aug 09:10 MYT (delta run): nothing scored 4+ since the Fri 28 Aug 21:40 MYT run — quiet ~11.5h window covering the tail of Friday's US session through Friday's close. Checked: insider Form 144/4 filings (Rasmussen trust, ex-CTO Rasmussen, CAO Herb — all pre-window, routine 10b5-1), analyst PT moves (RBC/BofA/Wells Fargo/Morgan Stanley/Citi — all already known or stale), CPO/CMO replacement search (no hire named yet), Findell activist follow-up, competitive-AI product news (Canva/Claude Design — no new dated release) — no new dated developments on any. Options: Vol P/C 0.37 (below the 0.45-1.00 band) with OI P/C 0.50 (in band); term-structure ratio 1.682 with no earnings inside 30d — still flagged for /options-sentiment triage. Golden cross 26 trading days old (as_of Thu 27 Aug close $30.62); next earnings Nov 4 2026",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
