@@ -1,9 +1,15 @@
 {
-  "last_run_utc": "2026-08-30T01:11:28Z",
+  "last_run_utc": "2026-08-30T13:18:42Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sun 30 Aug 09:11 MYT (delta run): nothing scored 4+ since the Sat 29 Aug 09:10 MYT run — quiet ~24h weekend window (Friday's US close through Saturday into early Sunday, no cash session). Checked: NGC2/Army Foundry program status, France DGSI contract-loss thread, UK NHS £330M contract-renewal thread, Pentagon $243.9M no-bid memo (Feinberg/BOND, still unfinalized), insider Form 4/144 filings, short-interest/short-seller reports, analyst PT actions, capital-structure news — no new dated developments on any. Options: Vol P/C 0.81 / OI P/C 0.89 (both in-band), term-structure ratio 0.98 — no positioning-anomaly trigger this run (prior 3.006 reading traced to thin-quote noise, not a real signal). Golden cross 17 trading days old (as_of Fri 28 Aug close $186.29); next earnings Nov 2 2026",
+      "last_run_window": "Sun 30 Aug 21:18 MYT (delta run): 1 catch-up item surfaced — Thu 27 Aug court ruling (Anthropic Pentagon supply-chain-risk case) touching Palantir's Maven program, missed by prior delta runs, now scored 6/bullish. Otherwise nothing new scored 4+ in the ~12h window itself (Sun 09:11 MYT to Sun 21:18 MYT, still weekend, no cash session). Checked: NGC2/Army Foundry program status, France DGSI contract-loss thread, UK NHS £330M contract-renewal thread, Pentagon $243.9M no-bid memo (Feinberg/BOND, still unfinalized), insider Form 4/144 filings, short-interest/short-seller reports, analyst PT actions, capital-structure news — no new dated developments on any of those. Options: Vol P/C 0.81 / OI P/C 0.89 (both in-band), term-structure ratio 0.976 — no positioning-anomaly trigger this run. Golden cross 17 trading days old (as_of Fri 28 Aug close $186.29); next earnings Nov 2 2026",
       "stories": [
+        {
+          "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
+          "headline": "Federal judge (N.D. Cal., Rita Lin) rules Pentagon's 'Supply Chain Risk' designation against Anthropic unlawful ('arbitrary and capricious,' First Amendment retaliation); Palantir not a party, but its Maven Smart System runs Anthropic's Claude and DoD plans to designate Maven an official program of record by end of September",
+          "score": 6,
+          "direction": "bullish"
+        },
         {
           "id": "deutsche-bank-upgrade-buy-post-earnings-aug4",
           "headline": "Deutsche Bank (Brad Zelnick) upgrades PLTR to Buy from Hold post-print, arguing Palantir is 'operating several steps ahead of the rest of Software in converting AI demand into real customer value'",
@@ -151,7 +157,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sun 30 Aug 09:11 MYT (delta run): nothing scored 4+ since the Sat 29 Aug 09:10 MYT run — quiet ~24h weekend window, no cash session. Checked: NHTSA suspension/lateral-link probe, NHTSA degraded-visibility EA26002, Nevada robotaxi ramp, Cybercab Austin launch prep (now confirmed for Sept 3, but that firming predates this window), China Shanghai FSD-team rumor (still denied, no follow-up), Terafab construction, Tesla Semi Sparks NV/IAA Hannover events — no new dated developments inside the window on any. Options: Vol P/C 0.72 / OI P/C 0.72 (both in-band), term-structure ratio 0.67 — no positioning-anomaly trigger. Death cross 45 trading days old (as_of Fri 28 Aug close $348.75); next earnings Oct 21 2026",
+      "last_run_window": "Sun 30 Aug 21:18 MYT (delta run): nothing scored 4+ since the Sun 30 Aug 09:11 MYT run — quiet ~12h weekend window, no cash session. Checked: NHTSA suspension/lateral-link probe, NHTSA degraded-visibility EA26002, Cybercab Austin launch (Sept 3 confirmed, RSVP deadline Aug 30 11:59pm PT for invitees — logistics only, no new stock-moving fact), Nevada robotaxi ramp, China Shanghai FSD-team rumor (still denied, no follow-up), Terafab construction, Tesla Semi Sparks NV/IAA Hannover events — no new dated developments inside the window on any. Options: Vol P/C 0.72 / OI P/C 0.72 (both in-band), term-structure ratio 0.668 — no positioning-anomaly trigger. Death cross 45 trading days old (as_of Fri 28 Aug close $348.75); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -438,7 +444,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sun 30 Aug 09:11 MYT (delta run): nothing scored 4+ since the Sat 29 Aug 09:10 MYT run — quiet ~24h weekend window. Specifically checked for Aug 31 lockup-adjacent activity (pre-lockup trading volume, new insider 10b5-1 filings, short-interest builds) — none found. Also checked insider Form 4/144, analyst PT moves, Findell activist follow-up, CPO/CMO replacement search (no hire named yet), competitive-AI product news (Claude Design/Canva) — no new dated developments on any. Options: Vol P/C 0.50 / OI P/C 0.56 (both back in-band), term-structure ratio 1.01 — below the 1.15 trigger this run. Golden cross 27 trading days old (as_of Fri 28 Aug close $28.82); next earnings Nov 4 2026. Aug 31 2026 lockup expiration is now imminent (Monday, 2 days out) — key catalyst into next week.",
+      "last_run_window": "Sun 30 Aug 21:18 MYT (delta run): nothing scored 4+ since the Sun 30 Aug 09:11 MYT run — quiet ~12h weekend window. Re-checked Aug 31 lockup: the headline Aug 31 date is largely moot — the Extended Lock-Up's earnings-trigger clause already fired early (Aug 7, ~77.7M shares, already scored) following the Aug 5 print, so Monday's nominal expiry is not expected to be a fresh standalone supply event; no new insider 10b5-1 filings or short-interest builds found. Also checked analyst PT moves, Findell activist follow-up, CPO/CMO replacement search (no hire named yet), competitive-AI product news (Claude Design/Canva) — no new dated developments on any. Options: Vol P/C 0.50 / OI P/C 0.56 (both in-band), term-structure ratio 1.012 — below the 1.15 trigger this run. Golden cross 27 trading days old (as_of Fri 28 Aug close $28.82); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
