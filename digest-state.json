@@ -1,11 +1,17 @@
 {
-  "last_run_utc": "2026-08-30T13:15:34Z",
-  "last_run_window": "Sun 30 Aug 09:05 MYT to Sun 30 Aug 21:15 MYT (continued weekend window, still no US cash session)",
+  "last_run_utc": "2026-08-31T01:09:52Z",
+  "last_run_window": "Sun 30 Aug 21:15 MYT to Mon 31 Aug 09:09 MYT (pre-market Monday, weekend-style window continues, no US cash session yet)",
   "stories": [
     {
       "id": "jackson-hole-hawkish-chorus-aug27",
       "headline": "Fed Chair Warsh's Jackson Hole Keynote Confirms Hawkish Tilt — Sept Hike Odds Nearly Double to 57.5%, Overshadowing a Weak NFP Benchmark Revision",
       "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "iran-strait-hormuz-larak-strike-aug30",
+      "headline": "US Strikes Iranian Rocket Launchers Near Strait of Hormuz, First Attack in a Month — Oil Jumps, Asian Equities Sell Off",
+      "score": 6,
       "direction": "bearish"
     }
   ]
