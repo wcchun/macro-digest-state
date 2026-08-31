@@ -1,17 +1,17 @@
 {
-  "last_run_utc": "2026-08-31T01:09:52Z",
-  "last_run_window": "Sun 30 Aug 21:15 MYT to Mon 31 Aug 09:09 MYT (pre-market Monday, weekend-style window continues, no US cash session yet)",
+  "last_run_utc": "2026-08-31T13:37:34Z",
+  "last_run_window": "Mon 31 Aug 09:09 MYT to Mon 31 Aug 21:37 MYT (Monday intraday, pre-US-open)",
   "stories": [
     {
-      "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Fed Chair Warsh's Jackson Hole Keynote Confirms Hawkish Tilt — Sept Hike Odds Nearly Double to 57.5%, Overshadowing a Weak NFP Benchmark Revision",
-      "score": 7,
+      "id": "iran-strait-hormuz-larak-strike-aug30",
+      "headline": "Iran Fires Ballistic Missiles at US Bases in Jordan in Retaliation for Larak Island Strike; Trump Threatens Kharg Island (90% of Iran's Oil Exports)",
+      "score": 8,
       "direction": "bearish"
     },
     {
-      "id": "iran-strait-hormuz-larak-strike-aug30",
-      "headline": "US Strikes Iranian Rocket Launchers Near Strait of Hormuz, First Attack in a Month — Oil Jumps, Asian Equities Sell Off",
-      "score": 6,
+      "id": "jackson-hole-hawkish-chorus-aug27",
+      "headline": "Fed Chair Warsh's Jackson Hole Keynote Confirms Hawkish Tilt — Sept Hike Odds Holding Mid-50s%, 10yr ~4.72%",
+      "score": 7,
       "direction": "bearish"
     }
   ]
