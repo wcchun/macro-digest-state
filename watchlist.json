@@ -7,7 +7,7 @@
     "TSLA": { "news": true, "technicals": true, "wheel": false },
     "FIG": { "news": true, "technicals": true, "wheel": false },
     "GPRO": { "news": true, "technicals": true, "wheel": false },
-    "SATS": { "news": true, "technicals": true, "wheel": false },
+    "ECHO": { "news": true, "technicals": true, "wheel": false },
 
     "IWM": { "news": false, "technicals": false, "wheel": true },
     "XLF": { "news": false, "technicals": false, "wheel": true },

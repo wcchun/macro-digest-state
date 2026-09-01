@@ -14,7 +14,7 @@ Current news tickers at time of writing (for reference only — the JSON wins):
 - TSLA — Tesla, Inc.
 - FIG — Figma, Inc.
 - GPRO — GoPro, Inc.
-- SATS — EchoStar Corporation
+- ECHO — EchoStar Corporation
 
 To add a stock later: set `"news": true` for it in watchlist.json (add the
 entry if missing), and (optionally) add a per-ticker context block in the
@@ -285,7 +285,7 @@ GPRO — GoPro, Inc.
 - Standing catalysts to track: quarterly earnings, new Hero camera launches
   (typically autumn), holiday-quarter guidance and results.
 
-SATS — EchoStar Corporation
+ECHO — EchoStar Corporation
 - Complex, highly leveraged story spanning three businesses — Hughes satellite
   broadband, Boost Mobile wireless, and a large spectrum portfolio. Spectrum
   value and monetization dominate the "multiple" channel far more than any
