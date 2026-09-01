@@ -1,16 +1,22 @@
 {
-  "last_run_utc": "2026-08-31T01:09:52Z",
-  "last_run_window": "Sun 30 Aug 21:15 MYT to Mon 31 Aug 09:09 MYT (pre-market Monday, weekend-style window continues, no US cash session yet)",
+  "last_run_utc": "2026-09-01T01:13:20Z",
+  "last_run_window": "Mon 31 Aug 09:09 MYT to Tue 01 Sep 09:13 MYT (Monday's full US cash session)",
   "stories": [
     {
       "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Fed Chair Warsh's Jackson Hole Keynote Confirms Hawkish Tilt — Sept Hike Odds Nearly Double to 57.5%, Overshadowing a Weak NFP Benchmark Revision",
+      "headline": "Jackson Hole Hawkish Tilt Persists — Sept FOMC Hike Odds Continue Climbing to ~57-60%, No Fresh Fed-Speaker Catalyst",
       "score": 7,
       "direction": "bearish"
     },
     {
       "id": "iran-strait-hormuz-larak-strike-aug30",
-      "headline": "US Strikes Iranian Rocket Launchers Near Strait of Hormuz, First Attack in a Month — Oil Jumps, Asian Equities Sell Off",
+      "headline": "Iran Strikes US-Linked Bases in Jordan and UAE, Trump Threatens Escalation with Fabricated Kharg Island Strike Video — Oil Surges, 10yr Yield Tops 4.75% (Highest Since Jan 2025)",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "nvidia-mediatek-circular-financing-aug31",
+      "headline": "Nvidia Buys $3.5B of MediaTek Convertible Bonds to Deepen NVLink Fusion Partnership — NVDA Closes -4.57% on Circular-Financing Concerns",
       "score": 6,
       "direction": "bearish"
     }
