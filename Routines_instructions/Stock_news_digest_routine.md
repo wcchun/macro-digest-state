@@ -13,6 +13,8 @@ Current news tickers at time of writing (for reference only — the JSON wins):
 - PLTR — Palantir Technologies
 - TSLA — Tesla, Inc.
 - FIG — Figma, Inc.
+- GPRO — GoPro, Inc.
+- SATS — EchoStar Corporation
 
 To add a stock later: set `"news": true` for it in watchlist.json (add the
 entry if missing), and (optionally) add a per-ticker context block in the
@@ -260,6 +262,50 @@ FIG — Figma, Inc.
   other rival's product news — no softer, no harsher.
 - Standing catalysts to track: quarterly earnings dates, the annual Config
   conference, upcoming lockup expiries, index rebalance dates.
+
+GPRO — GoPro, Inc.
+- Small-cap consumer hardware maker in secular decline as smartphones cannibalize
+  dedicated action cameras; the subscription/cloud business is the growth and
+  margin story management leans on — subscriber-count or ARPU updates are
+  genuine fundamental signal, generic "subscription growing" commentary is not.
+- Highly seasonal: the holiday quarter and the summer action-sports season drive
+  the bulk of unit volume. A soft or strong holiday-quarter print is KNOWN
+  seasonal pattern — score on the surprise vs. consensus, not the raw number.
+- Balance sheet / cash-runway concern is a recurring KNOWN thread — capital
+  raises, layoffs, cost-cutting programs, and buyback authorizations are genuine
+  capital-structure events; vague "path to profitability" language without new
+  figures scores low.
+- Product-cycle catalyst: new Hero-line camera launches are the standing
+  fundamental catalyst. Pre-order or launch-day buzz without unit/revenue
+  figures is low-value chatter.
+- Historically a retail/meme-adjacent name with elevated short interest —
+  sentiment-driven single-day spikes are common and decay fast; require a real
+  fundamental change (guidance, unit economics, a confirmed strategic deal)
+  before scoring above mid-single digits on a pure sentiment move.
+- Standing catalysts to track: quarterly earnings, new Hero camera launches
+  (typically autumn), holiday-quarter guidance and results.
+
+SATS — EchoStar Corporation
+- Complex, highly leveraged story spanning three businesses — Hughes satellite
+  broadband, Boost Mobile wireless, and a large spectrum portfolio. Spectrum
+  value and monetization dominate the "multiple" channel far more than any
+  single quarter's operating results; tag spectrum-driven moves explicitly.
+- Spectrum transactions (sales, leases, or FCC-related deals) are the highest-
+  impact catalyst type for this name — a CONFIRMED deal with a dollar figure is
+  a high-importance event; unconfirmed reports or speculation about a possible
+  deal should be scored on verifiability and sourcing, not headline size.
+- The Boost Mobile 5G Open RAN network build-out is capital-intensive and
+  subscriber-dependent. Subscriber-count trend updates are genuine fundamental
+  signal; routine "network milestone" PR without subscriber or capex figures
+  scores low.
+- Heavy debt load makes refinancing, covenant terms, and credit-rating actions
+  structurally important for this name — treat any rating action or maturity-
+  related news as high-priority, not routine.
+- Regulatory/FCC exposure is a standing thread (license conditions, buildout
+  deadlines, spectrum-cap rules) — check for open FCC proceedings each run and
+  track significant ones as an open thread.
+- Standing catalysts to track: quarterly earnings, FCC regulatory decisions,
+  spectrum transaction announcements, debt maturity/refinancing dates.
 
 (When you add a new ticker, add a similar block here: revenue drivers, valuation
 sensitivity, known recurring patterns to discount, standing catalysts. Keep every
