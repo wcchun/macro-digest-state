@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-08-31T01:12:50Z",
+  "last_run_utc": "2026-09-01T01:19:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 31 Aug 09:12 MYT (delta run): nothing scored 4+ since the Sun 30 Aug 21:18 MYT run — quiet ~12h window (Sun 21:18 MYT to Mon 09:12 MYT), still pre-Monday-session, no US cash session yet (next opens Mon 21:30 MYT). Checked: NGC2/Army Foundry program status, France DGSI contract-loss thread, UK NHS £330M contract-renewal thread, Pentagon $243.9M no-bid memo (Feinberg/BOND, still unfinalized per latest reporting), Maven program-of-record timeline (end-Sept target unchanged), insider Form 4 filings (most recent is Karp's Aug 20 10b5-1 tranche, already outside this window and routine), short-interest/short-seller reports, analyst PT actions, capital-structure news — no new dated developments on any of those. Options: Vol P/C 0.81 / OI P/C 0.89 (both in-band), term-structure ratio 0.976 — no positioning-anomaly trigger this run. Golden cross 17 trading days old (as_of Fri 28 Aug close $186.29); next earnings Nov 2 2026",
+      "last_run_window": "Tue 01 Sep 09:19 MYT (delta run): nothing scored 4+ since the Mon 31 Aug 09:12 MYT run — quiet ~24h window covering Monday's full US cash session plus early Tuesday. Checked: NGC2/Army Foundry program status, France DGSI contract-loss thread, UK NHS £330M contract-renewal thread, Pentagon $243.9M no-bid memo (Feinberg/BOND, still unfinalized), Maven program-of-record timeline (end-Sept target unchanged), Karp insider Form 4 filings (last Aug 20 tranche, routine, outside window), short-seller reports, analyst PT actions, capital-structure news — no new dated developments on any. Options: Vol P/C 1.049 / OI P/C 0.871 (Vol P/C above 1.00 band — flagged for /options-sentiment triage), term-structure ratio 1.108. Golden cross 18 trading days old (as_of Mon 31 Aug close $186.38); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -157,7 +157,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 31 Aug 09:12 MYT (delta run): nothing scored 4+ since the Sun 30 Aug 21:18 MYT run — quiet ~12h window, no US cash session yet (next opens Mon 21:30 MYT). Checked: NHTSA suspension/lateral-link probe (PE26006, still preliminary, 156 complaints, no crashes/injuries, no escalation), NHTSA degraded-visibility EA26002, Cybercab Austin launch (Sept 3 confirmed, livestream planned, invite-only in-person guest list — logistics only, no new stock-moving fact since prior run), Nevada robotaxi ramp, China Shanghai FSD-team rumor (still denied, no follow-up), Musk/SpaceX-Tesla merger speculation (still unconfirmed chatter, nothing dated inside window), Terafab construction, Tesla Semi Sparks NV/IAA Hannover events — no new dated developments inside the window on any. Options: Vol P/C 0.72 / OI P/C 0.72 (both in-band), term-structure ratio 0.668 — no positioning-anomaly trigger. Death cross 45 trading days old (as_of Fri 28 Aug close $348.75); next earnings Oct 21 2026",
+      "last_run_window": "Tue 01 Sep 09:19 MYT (delta run): 1 new story since the Mon 31 Aug 09:12 MYT run — SpaceX in-house gas-turbine/AI-power announcement (Musk) re-rated TSLA's multiple channel, stock +5.51% Monday on elevated volume; scored 5 bullish, low confidence (SpaceX news, not Tesla's own fundamentals). Also checked and unchanged: NHTSA suspension/lateral-link probe (PE26006), NHTSA degraded-visibility EA26002, Cybercab Austin launch (Sept 3 confirmed, no new logistics), Nevada robotaxi ramp (5,000-vehicle Clark County permit, Aug 20), China Shanghai FSD-team rumor (denial holds), Tesla-SpaceX merger speculation (still unconfirmed), Terafab construction, Tesla Semi/Einride delivery cadence (reiterated, not new), IAA Hannover Sept 14-20 Europe launch. Options: Vol P/C 0.671 / OI P/C 0.823 (both in-band), term-structure ratio 1.148 (just under the 1.15 trigger) — no positioning-anomaly trigger. Death cross 46 trading days old (as_of Mon 31 Aug close $367.95); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -440,11 +440,17 @@
           "headline": "Dashcam video shows Tesla FSD approaching a railroad crossing at 9mph with flashing signals and an audible train; driver manually brakes to avoid the tracks (Electrek); feeds NHTSA's standing degraded-visibility engineering analysis (EA26002, ~3.2M vehicles)",
           "score": 4,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-spacex-gas-turbine-ai-power-aug31",
+          "headline": "Musk announces SpaceX will manufacture its own gas-turbine parts in-house to bring natural-gas power online up to 18 months faster for AI data centers, alongside solar; framed as reinforcing the shared Tesla-SpaceX AI-infrastructure narrative (Tesla Energy solar/storage read-through, Terafab); TSLA closes +5.51% at $367.95 Monday on ~46% above-average volume",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 31 Aug 09:12 MYT (delta run): nothing scored 4+ since the Sun 30 Aug 21:18 MYT run — quiet ~12h window, still pre-Monday-session. Aug 31 nominal lockup date arrives today but remains moot — the Extended Lock-Up's earnings-trigger clause already fired early (Aug 7, ~77.7M shares, already scored); no confirmed large-scale insider sales tied to today's nominal date, no new Form 4/144 filings beyond routine ones already known. Also checked analyst PT moves (the only 'RBC lowers to $31' hit found is a stale Feb-2026 article, not new), Findell activist follow-up (no new letter/response since the June thread), CPO/CMO replacement search (no hire named yet), competitive-AI product news (Claude Design/Canva) — no new dated developments on any. Options: Vol P/C 0.50 / OI P/C 0.56 (both in-band), term-structure ratio 1.012 — below the 1.15 trigger this run. Golden cross 27 trading days old (as_of Fri 28 Aug close $28.82); next earnings Nov 4 2026.",
+      "last_run_window": "Tue 01 Sep 09:19 MYT (delta run): nothing scored 4+ since the Mon 31 Aug 09:12 MYT run — quiet ~24h window covering Monday's full US cash session plus early Tuesday. Only item found was a routine, pre-scheduled Form 4 (CAO Herb Tyler, 2,000 shares under an existing 10b5-1 plan, filed Aug 31) — immaterial, not stored. No CPO/CMO hire named yet; Findell activist thread unchanged since the May 28 letter; no new analyst actions, competitive-AI product news (Claude Design/Canva), or capital-structure/index news. Options: Vol P/C 0.615 / OI P/C 0.569 (both in-band), term-structure ratio 0.99 — below the 1.15 trigger this run. Golden cross 28 trading days old (as_of Mon 31 Aug close $27.49); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
