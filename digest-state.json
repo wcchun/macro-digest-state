@@ -1,23 +1,23 @@
 {
-  "last_run_utc": "2026-09-01T13:46:57Z",
-  "last_run_window": "Tue 01 Sep 09:13 MYT to Tue 01 Sep 21:46 MYT (Asia/Europe session ahead of Tuesday's US open) — quiet cycle, nothing scored 4+",
+  "last_run_utc": "2026-09-02T01:05:00Z",
+  "last_run_window": "Tue 01 Sep 21:46 MYT to Wed 02 Sep 09:05 MYT (full Tuesday US cash session)",
   "stories": [
     {
-      "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Jackson Hole Hawkish Tilt Persists — Sept FOMC Hike Odds Continue Climbing to ~57-60%, No Fresh Fed-Speaker Catalyst",
-      "score": 7,
+      "id": "iran-strait-hormuz-closure-sep1",
+      "headline": "Strait of Hormuz Effectively Closed to Commercial Shipping After Two Supertankers Struck; US Launches Direct Strikes on IRGC Targets Inside Iran",
+      "score": 8,
       "direction": "bearish"
     },
     {
-      "id": "iran-strait-hormuz-larak-strike-aug30",
-      "headline": "Iran Strikes US-Linked Bases in Jordan and UAE, Trump Threatens Escalation with Fabricated Kharg Island Strike Video — Oil Surges, 10yr Yield Tops 4.75% (Highest Since Jan 2025)",
-      "score": 7,
-      "direction": "bearish"
-    },
-    {
-      "id": "nvidia-mediatek-circular-financing-aug31",
-      "headline": "Nvidia Buys $3.5B of MediaTek Convertible Bonds to Deepen NVLink Fusion Partnership — NVDA Closes -4.57% on Circular-Financing Concerns",
+      "id": "alphabet-ai-leadership-exodus-sep1",
+      "headline": "Alphabet Slides ~5% (~$190B Market Cap) as AI Pioneer Jeff Dean Exits to Launch Rival Startup, Hassabis Steps Down as DeepMind CEO — Drags Broader Megacap AI Complex (AMZN -5%, META -2.3%, MSFT -3%)",
       "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "jackson-hole-hawkish-chorus-aug27",
+      "headline": "Sept FOMC Hike Odds Climb Further to ~66-67% as In-Line ISM Manufacturing (54.6%) and JOLTS (7.27M) Reinforce Resilient-Economy Narrative",
+      "score": 5,
       "direction": "bearish"
     }
   ]
