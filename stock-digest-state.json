@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-01T13:54:58Z",
+  "last_run_utc": "2026-09-02T01:14:27Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 01 Sep 21:50 MYT (delta run): nothing scored 4+ since the Tue 01 Sep 09:19 MYT run — quiet ~12.5h window covering Tuesday's Asia/Europe daytime plus the first ~20min of Tuesday's US cash session. Checked: NGC2/Army Foundry program status, France DGSI contract-loss thread, UK NHS £330M contract-renewal thread, Pentagon $243.9M no-bid memo (Feinberg/BOND, still unfinalized), Maven program-of-record timeline (end-Sept target unchanged), insider Form 4 filings (Ark Invest trims, Sankar/Karp sales all pre-window), short-seller reports, analyst PT actions, capital-structure news — no new dated developments on any. Options: Vol P/C 1.049 / OI P/C 0.871 (Vol P/C above 1.00 band — flagged for /options-sentiment triage), term-structure ratio 1.108. Golden cross 18 trading days old (as_of Mon 31 Aug close $186.38); next earnings Nov 2 2026",
+      "last_run_window": "Wed 02 Sep 09:14 MYT (delta run): 1 new since last digest (Tue 01 Sep 21:50 MYT) — quiet ~11.3h window covering the rest of Tuesday's US cash session plus the quiet Asia-morning period into Wed. New: Army TITAN ground-station program moves to production, $127M to Palantir (of a $192M combined award, Anduril getting $65M) for 8 initial ground stations over 18 months — feeds the standing NGC2/Army Foundry thread. Sub-4 noise excluded: Karp personal investment in a new Ukrainian defense-tech venture (not a Palantir-corporate item), continued routine ARK Invest trims (~$26M), Baird reiteration (no PT change, no rating change). Checked, unchanged: France DGSI contract-loss thread, UK NHS £330M contract-renewal thread, Pentagon $243.9M no-bid memo (Feinberg/BOND, still unfinalized), Maven program-of-record end-Sept 2026 target. Options: Vol P/C 1.173 / OI P/C 0.927 (Vol P/C above the 0.45-1.00 band — flagged for /options-sentiment triage), term-structure ratio 1.046. Golden cross 19 trading days old (as_of Tue 01 Sep close $179.92); next earnings Nov 2 2026",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -153,11 +153,17 @@
           "headline": "DefenseScoop/Federal News Network follow-up reporting: Feinberg's 'Funding Palantir' no-bid memo is tied to the Pentagon's nascent BOND program (embedding private-sector execs in DoD procurement), but coverage notes the memo names no specific contract vehicle or legal justification for skipping competition",
           "score": 5,
           "direction": "neutral"
+        },
+        {
+          "id": "army-titan-production-contract-127m-sep1",
+          "headline": "U.S. Army awards a combined $192M to move the TITAN ground-station program from prototype to production (initial 8 ground stations over 18 months); Palantir's share is $127M, Anduril gets $65M",
+          "score": 6,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 01 Sep 21:50 MYT (delta run): nothing scored 4+ since the Tue 01 Sep 09:19 MYT run — quiet ~12.5h window covering Tuesday's Asia/Europe daytime plus the first ~20min of Tuesday's US cash session, sandwiched between Monday's SpaceX-turbine rally and Thursday's planned Cybercab launch. Checked and unchanged: NHTSA suspension/lateral-link probe (PE26006), NHTSA degraded-visibility EA26002, Cybercab Austin launch (Sept 3 confirmed, no new logistics), Nevada robotaxi ramp (5,000-vehicle Clark County permit, no update since Aug 20), China 5.7M-vehicle recall (no update), Tesla-SpaceX merger speculation (still unconfirmed), analyst actions (none dated in-window), Musk G20 Innovation Ministerial appearance (attention-only, no new fact, capped ≤3, excluded), no new Form 4/13G filings. One item flagged for next run's researcher to re-check: reports of a Tesla 'Verified Engaged' driver-assist disclosure to NHTSA re: a fatal Clute, TX crash — dateline evidence points to Mon 31 Aug (pre-window), unconfirmed; watch for a genuine EA26002 status update. Options: Vol P/C 0.671 / OI P/C 0.823 (both in-band), term-structure ratio 1.148 (just under the 1.15 trigger) — no positioning-anomaly trigger. Death cross 46 trading days old (as_of Mon 31 Aug close $367.95); next earnings Oct 21 2026",
+      "last_run_window": "Wed 02 Sep 09:14 MYT (delta run): 2 new since last digest (Tue 01 Sep 21:50 MYT) — quiet ~11.3h window covering the rest of Tuesday's US cash session plus the quiet Asia-morning period into Wed, two days ahead of the Sept 3 Cybercab launch. New: (1) Electrek investigative-series update ties a 4th documented fatal crash (Batavia, IL, Mar 2026, passenger death, driver-assist logged 'Verified Engaged') to the same pattern as the standing Clute TX/Lake Mary FL/Mesa AZ cases, feeding the open NHTSA EA26002 degraded-visibility probe; (2) mixed August European registration data released same day (France +279% YoY, Denmark +104% YoY vs. Norway -79%, Sweden -41%) — TSLA closed -2.92% Tue, described in coverage as name-specific profit-taking (vs QQQ/DRIV -1%), not attributed to a single new fact beyond the mixed EU data. Checked, unchanged: NHTSA PE26006 (suspension/lateral-link, ~1.2M vehicles), Cybercab Austin launch (Sept 3 confirmed, no new logistics), Nevada robotaxi permit (5,000-vehicle Clark County, no update since Aug 20), China 5.7M-vehicle recall (door-handle remedy starts Sept 25), Tesla-SpaceX Terafab chip plant (no update since Aug 6), Einride 500-Semi order (no update), no analyst actions, insider filings, or capital-structure news dated in-window. Options: Vol P/C 0.889 / OI P/C 0.838 (both in-band), term-structure ratio 0.787 — no positioning-anomaly trigger. Death cross 47 trading days old (as_of Tue 01 Sep close $356.09); next earnings Oct 21 2026",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -446,11 +452,23 @@
           "headline": "Musk announces SpaceX will manufacture its own gas-turbine parts in-house to bring natural-gas power online up to 18 months faster for AI data centers, alongside solar; framed as reinforcing the shared Tesla-SpaceX AI-infrastructure narrative (Tesla Energy solar/storage read-through, Terafab); TSLA closes +5.51% at $367.95 Monday on ~46% above-average volume",
           "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "electrek-verified-engaged-batavia-il-fatal-crash-sep1",
+          "headline": "Electrek investigative-series update documents a 4th fatal crash (Batavia, IL, Mar 2026, passenger death) where Tesla's own NHTSA filing lists driver-assist as 'Verified Engaged' during the fatal turn, tying it to the same pattern as the standing Clute TX/Lake Mary FL/Mesa AZ cases and the open EA26002 probe",
+          "score": 6,
+          "direction": "bearish"
+        },
+        {
+          "id": "tsla-eu-august-registrations-mixed-sep1",
+          "headline": "August European registration data mixed by country: France +279% YoY, Denmark +104% YoY vs. Norway -79%, Sweden -41%; UK/Germany data still pending",
+          "score": 4,
+          "direction": "neutral"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 01 Sep 21:50 MYT (delta run): nothing scored 4+ since the Tue 01 Sep 09:19 MYT run — quiet ~12.5h window covering Tuesday's Asia/Europe daytime plus the first ~20min of Tuesday's US cash session. No CPO/CMO hire named yet; Findell activist thread unchanged since the May 28 letter; no new analyst actions, competitive-AI product news (Claude Design/Canva), lockup-flow data, or capital-structure/index news dated in-window; Goldman Sachs Communacopia + Technology Conference confirmed for Sept 8-11 (outside window). Options: Vol P/C 0.615 / OI P/C 0.569 (both in-band), term-structure ratio 0.99 — below the 1.15 trigger this run. Golden cross 28 trading days old (as_of Mon 31 Aug close $27.49); next earnings Nov 4 2026.",
+      "last_run_window": "Wed 02 Sep 09:14 MYT (delta run): nothing scored 4+ since the Tue 01 Sep 21:50 MYT run — quiet ~11.3h window covering the rest of Tuesday's US cash session plus the quiet Asia-morning period into Wed. Checked, unchanged: no CPO/CMO replacement named yet for Yamashita/Vashee (Crisan/Hourdajian absorbing roles ad interim), Findell activist thread unchanged since the May 28 letter, insider Form 4s dated Aug 28 (pre-window), no analyst actions, competitive-AI product news (Claude Design/Canva), lockup-flow data, or index news dated in-window; Goldman Sachs Communacopia + Technology Conference (Sept 8-11) scheduling unconfirmed beyond what was already known. Options: Vol P/C 0.533 / OI P/C 0.573 (both in-band), term-structure ratio 0.994 — below the 1.15 trigger this run. Golden cross 29 trading days old (as_of Tue 01 Sep close $27.20); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -577,6 +595,40 @@
           "headline": "Figma launches Weave-tools-via-MCP: ChatGPT, Claude, Cursor and other MCP-compatible agents can now discover and run Figma Weave tools directly from chat, without leaving the client; free during beta, usage-based pricing planned later",
           "score": 4,
           "direction": "bullish"
+        }
+      ]
+    },
+    "GPRO": {
+      "last_run_window": "Wed 02 Sep 09:14 MYT (first run): full digest, no delta markers. Covers the run-up to and including Tue 01 Sep 2026's US session, since the 11.7x-ADV20 volume spike and the huge price gap above the 20/50-day MAs both dated to this period. Dominant driver: a definitive merger agreement with Starman Optical ($285M, $1.14/share cash + ~10% stub equity, repays GoPro's ~$92M debt, pivots the combined company to AI-data-center optics/defense/robotics/aerospace), announced Sep 1 — layered on top of a pre-existing short squeeze triggered by YouTuber Markiplier's passive 8.5% Schedule 13G stake disclosure (position dated Jul 13, publicized ~Aug 31) hitting a name with ~16% short interest. Post-merger sell-side reaction: Morgan Stanley cut PT to $0.50 (Underweight), Wedbush cut PT to $1.50 from $2 (Neutral), both anchoring valuation near deal terms. Options: Vol P/C 0.36 / OI P/C 0.126 (both call-heavy, below the 0.45-1.00 band — flagged for /options-sentiment triage), term-structure ratio 1.016; iv_rank sample_size=1, too small to interpret. Death cross 60 trading days old and pre-dates the spike (as_of Tue 01 Sep close $1.23, MA-based trend signals are stale/distorted by the discontinuous jump); next earnings Nov 5 2026 (may be superseded by the merger timeline).",
+      "stories": [
+        {
+          "id": "gpro-starman-optical-merger-285m-sep1",
+          "headline": "GoPro enters a definitive merger agreement with Starman Optical: shareholders get $1.14/share cash (aggregate $285M) plus ~10% of the combined company, GoPro's ~$92M debt is repaid in full, and the combined entity pivots toward AI-data-center optics, defense/national-security, robotics and aerospace hardware; both boards approved, needs a shareholder vote and regulatory clearance, targeted to close by year-end 2026",
+          "score": 10,
+          "direction": "bullish"
+        },
+        {
+          "id": "gpro-markiplier-8-5pct-stake-disclosure",
+          "headline": "YouTuber Mark Fischbach ('Markiplier') discloses an 8.5% passive stake (~13.5M Class A shares, ~$9.3M cost basis, position dated Jul 13) via Schedule 13G, SEC-accepted ~Aug 20 and publicized ~Aug 31, catalyzing short covering in a name with ~16% of float short",
+          "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "gpro-post-merger-analyst-pt-cuts-sep1-2",
+          "headline": "Morgan Stanley cuts GPRO PT to $0.50 (Underweight maintained) and Wedbush cuts to $1.50 from $2 (Neutral maintained), both anchoring valuation to the $1.14/share cash-plus-stub Starman Optical deal terms",
+          "score": 4,
+          "direction": "bearish"
+        }
+      ]
+    },
+    "ECHO": {
+      "last_run_window": "Wed 02 Sep 09:14 MYT (first run): full digest, no delta markers. Covers roughly the past 1-2 weeks given the magnitude of the standing situation for a name receiving its first digest coverage. Dominant thread: EchoStar subsidiary Hughes Satellite Systems filed Chapter 11 on Aug 2 (failed to fund a $1.5B debt maturity, ~400 layoffs); on ~Aug 26 a bankruptcy judge (S.D. Tex.) granted appointment of an independent examiner after noteholders holding ~70% of Hughes's $750M senior notes alleged EchoStar Corp and Chairman Charlie Ergen personally engaged in fraudulent transfers (an above-market Jupiter-3 satellite lease, $1.029B in 2024 dividends, an oversized tax reimbursement, and asset moves tied to the SpaceX spectrum deal) that stripped ~$1.5B from Hughes pre-filing. Background context: the $20.25B AT&T spectrum-sale cash closed Jul 28 (plus $2.4B escrowed against pending tower-litigation conditions); DISH DBS (~$4.75B of 2026 maturities) has an RSA with ~82% noteholder support; consensus analyst target ~$128-137 vs. the $86.04 close. Options: Vol P/C 13.155 / OI P/C 0.408 (both far outside the 0.45-1.00 band — extreme put-heavy print, no single confirmed trigger found; plausibly tied to the parent-level litigation risk and elevated ~21.5% short interest), term-structure ratio 1.29 with no earnings scheduled within 30 days — both flagged for /options-sentiment triage. Death cross 54 trading days old (as_of Tue 01 Sep close $86.04); balance_sheet_ok flagged false in the crossover data; next earnings Nov 5 2026.",
+      "stories": [
+        {
+          "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
+          "headline": "Bankruptcy judge grants appointment of an independent examiner in Hughes Satellite Systems' Chapter 11 after noteholders holding ~70% of Hughes's $750M senior notes allege EchoStar Corp and Chairman Charlie Ergen personally engaged in fraudulent transfers (an above-market Jupiter-3 satellite lease, $1.029B in 2024 dividends, an oversized tax reimbursement, and asset moves tied to the SpaceX spectrum deal) that stripped ~$1.5B from the subsidiary pre-filing",
+          "score": 8,
+          "direction": "bearish"
         }
       ]
     }
