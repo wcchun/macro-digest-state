@@ -1,34 +1,22 @@
 {
-  "last_run_utc": "2026-09-03T01:10:00Z",
-  "last_run_window": "Wed 02 Sep 21:33 MYT to Thu 03 Sep 09:10 MYT (full Wednesday US cash session through Thursday Asia pre-market)",
+  "last_run_utc": "2026-09-03T13:27:42Z",
+  "last_run_window": "Thu 03 Sep 09:10 MYT to Thu 03 Sep 21:27 MYT (Thursday Asia/Europe session, ahead of Thursday US cash open)",
   "stories": [
     {
-      "id": "broadcom-avgo-q3-fy26-earnings-sep2",
-      "headline": "Broadcom Beats Q3 Revenue/EPS, AI Semi Revenue +221% YoY, Guides AI Revenue to ~$230B by FY2028 — Stock Falls ~3-6% After-Hours on 'Priced-for-Perfection' Reaction",
-      "score": 6,
-      "direction": "bearish"
+      "id": "jackson-hole-hawkish-chorus-aug27",
+      "headline": "Fed Governor Waller Signals Support for Holding Rates Steady at September Meeting, Pushing Back on Warsh's Hawkish Jackson Hole Tone — September Hike Odds Fall from ~60-67% to ~54.6%",
+      "score": 7,
+      "direction": "bullish"
     },
     {
       "id": "iran-strait-hormuz-closure-sep1",
-      "headline": "Iran/Hormuz Crisis: US Strikes IRGC Tankers Directly for First Time, 10Yr Treasury Yield Hits 2.5-Year High (~4.81%) as Global Bond Selloff Deepens, But Oil Tops Out and US Equities Rally",
-      "score": 6,
+      "headline": "Oil Tops Out Near $91 WTI / $95 Brent as Trump Calls Renewed Iran Strikes 'Short-Lived'; Asian Equities Sell Off Hard (Kospi -4%, Nikkei -2.85%) on Hormuz/Yield Concerns but US Futures Diverge Higher",
+      "score": 5,
       "direction": "bearish"
     },
     {
-      "id": "adp-august-jobs-miss-sep2",
-      "headline": "August ADP Private Payrolls Miss: +38K vs. ~48K Consensus",
-      "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "nvidia-huggingface-acquisition-sep2",
-      "headline": "Nvidia Reportedly Nearing ~$13B Acquisition of Hugging Face, Could Finalize This Week",
-      "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Sept FOMC Hike Odds Climb Further to ~66-67% as In-Line ISM Manufacturing (54.6%) and JOLTS (7.27M) Reinforce Resilient-Economy Narrative",
+      "id": "chip-tariffs-lutnick-sep2",
+      "headline": "Commerce Secretary Lutnick Confirms Targeted Semiconductor Tariffs Coming, With Exemptions for Companies Committing to US Manufacturing",
       "score": 5,
       "direction": "bearish"
     }
