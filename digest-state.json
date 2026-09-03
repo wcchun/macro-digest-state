@@ -1,18 +1,30 @@
 {
-  "last_run_utc": "2026-09-02T13:33:00Z",
-  "last_run_window": "Wed 02 Sep 09:05 MYT to Wed 02 Sep 21:33 MYT (Asia/Europe pre-market lull, ending right at Wednesday's US cash-session open)",
+  "last_run_utc": "2026-09-03T01:10:00Z",
+  "last_run_window": "Wed 02 Sep 21:33 MYT to Thu 03 Sep 09:10 MYT (full Wednesday US cash session through Thursday Asia pre-market)",
   "stories": [
     {
-      "id": "iran-strait-hormuz-closure-sep1",
-      "headline": "Strait of Hormuz Effectively Closed to Commercial Shipping After Two Supertankers Struck; US Launches Direct Strikes on IRGC Targets Inside Iran",
-      "score": 8,
+      "id": "broadcom-avgo-q3-fy26-earnings-sep2",
+      "headline": "Broadcom Beats Q3 Revenue/EPS, AI Semi Revenue +221% YoY, Guides AI Revenue to ~$230B by FY2028 — Stock Falls ~3-6% After-Hours on 'Priced-for-Perfection' Reaction",
+      "score": 6,
       "direction": "bearish"
     },
     {
-      "id": "alphabet-ai-leadership-exodus-sep1",
-      "headline": "Alphabet Slides ~5% (~$190B Market Cap) as AI Pioneer Jeff Dean Exits to Launch Rival Startup, Hassabis Steps Down as DeepMind CEO — Drags Broader Megacap AI Complex (AMZN -5%, META -2.3%, MSFT -3%)",
+      "id": "iran-strait-hormuz-closure-sep1",
+      "headline": "Iran/Hormuz Crisis: US Strikes IRGC Tankers Directly for First Time, 10Yr Treasury Yield Hits 2.5-Year High (~4.81%) as Global Bond Selloff Deepens, But Oil Tops Out and US Equities Rally",
       "score": 6,
       "direction": "bearish"
+    },
+    {
+      "id": "adp-august-jobs-miss-sep2",
+      "headline": "August ADP Private Payrolls Miss: +38K vs. ~48K Consensus",
+      "score": 5,
+      "direction": "bullish"
+    },
+    {
+      "id": "nvidia-huggingface-acquisition-sep2",
+      "headline": "Nvidia Reportedly Nearing ~$13B Acquisition of Hugging Face, Could Finalize This Week",
+      "score": 5,
+      "direction": "bullish"
     },
     {
       "id": "jackson-hole-hawkish-chorus-aug27",
