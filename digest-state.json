@@ -1,24 +1,18 @@
 {
-  "last_run_utc": "2026-09-03T13:27:42Z",
-  "last_run_window": "Thu 03 Sep 09:10 MYT to Thu 03 Sep 21:27 MYT (Thursday Asia/Europe session, ahead of Thursday US cash open)",
+  "last_run_utc": "2026-09-04T01:08:43Z",
+  "last_run_window": "Thu 03 Sep 21:27 MYT to Fri 04 Sep 09:05 MYT (full Thursday US cash session + early Friday Asia carryover, ahead of Friday's August NFP report)",
   "stories": [
     {
       "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Fed Governor Waller Signals Support for Holding Rates Steady at September Meeting, Pushing Back on Warsh's Hawkish Jackson Hole Tone — September Hike Odds Fall from ~60-67% to ~54.6%",
-      "score": 7,
+      "headline": "Full Thursday US Cash Session Confirms Waller-Driven Rally — Nasdaq +1.4%, S&P +1.06%, Dow +1.18% as September Hike Odds Ease Further to ~50-54% (from 54.6%)",
+      "score": 5,
       "direction": "bullish"
     },
     {
-      "id": "iran-strait-hormuz-closure-sep1",
-      "headline": "Oil Tops Out Near $91 WTI / $95 Brent as Trump Calls Renewed Iran Strikes 'Short-Lived'; Asian Equities Sell Off Hard (Kospi -4%, Nikkei -2.85%) on Hormuz/Yield Concerns but US Futures Diverge Higher",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "chip-tariffs-lutnick-sep2",
-      "headline": "Commerce Secretary Lutnick Confirms Targeted Semiconductor Tariffs Coming, With Exemptions for Companies Committing to US Manufacturing",
-      "score": 5,
-      "direction": "bearish"
+      "id": "software-saas-earnings-cluster-sep3",
+      "headline": "Q2 Software/SaaS Earnings Beat Broadly (Snowflake +16%, Zscaler +2%, DocuSign +4%, Planet Labs +7%) While Asana Misses on Guidance (-10%)",
+      "score": 4,
+      "direction": "bullish"
     }
   ]
 }
