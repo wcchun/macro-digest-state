@@ -1,18 +1,12 @@
 {
-  "last_run_utc": "2026-09-04T01:08:43Z",
-  "last_run_window": "Thu 03 Sep 21:27 MYT to Fri 04 Sep 09:05 MYT (full Thursday US cash session + early Friday Asia carryover, ahead of Friday's August NFP report)",
+  "last_run_utc": "2026-09-04T13:24:49Z",
+  "last_run_window": "Fri 04 Sep 09:05 MYT to Fri 04 Sep 21:24 MYT (Friday pre-market through the August NFP release, ahead of the US cash open)",
   "stories": [
     {
       "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Full Thursday US Cash Session Confirms Waller-Driven Rally — Nasdaq +1.4%, S&P +1.06%, Dow +1.18% as September Hike Odds Ease Further to ~50-54% (from 54.6%)",
-      "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "software-saas-earnings-cluster-sep3",
-      "headline": "Q2 Software/SaaS Earnings Beat Broadly (Snowflake +16%, Zscaler +2%, DocuSign +4%, Planet Labs +7%) While Asana Misses on Guidance (-10%)",
-      "score": 4,
-      "direction": "bullish"
+      "headline": "August NFP Smashes Estimates (+162K vs +53K Consensus), Unemployment Steady at 4.1% — Yields Jump, Hike Odds Firm Back Toward Coin-Flip, Reversing Thursday's Waller-Driven Dovish Rally",
+      "score": 7,
+      "direction": "bearish"
     }
   ]
 }
