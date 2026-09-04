@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-03T01:17:00Z",
+  "last_run_utc": "2026-09-04T01:14:41Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 03 Sep 09:17 MYT (delta run): 2 new since last digest (Wed 02 Sep 09:14 MYT) \u2014 ~24h window covering Tuesday's full US session through Wednesday's close. New: Palantir hires outgoing AIG CEO/Executive Chairman Peter Zaffino as Global Head of Financial Services (eff. Jan 15 2027) to lead a push into banks/insurers/asset managers; stock fell ~6-7% intraday Tue Sep 2 on profit-taking/multiple compression after its post-earnings rally, compounded by a same-day Treasury-yield spike. Army TITAN production award (Sep 1, $127M) \u2014 already captured last run, now confirmed/finalized, not re-scored. Sub-4 noise excluded: Karp's personal investment in a Ukraine-founded defense-tech startup (not a Palantir-corporate item). Checked, unchanged: Maven program-of-record designation (target end-Sept 2026, not yet independently confirmed final), UK NHS \u00a3330M contract-renewal thread, France DGSI/ChapsVision transition, Pentagon $243.9M no-bid memo (still unfinalized), no new insider-selling deviation from the routine 10b5-1 pattern. Options: Vol P/C 0.765 / OI P/C 0.924 (both back in-band), term-structure ratio 1.018. Golden cross 20 trading days old (as_of Wed 02 Sep close $169.46); next earnings Nov 2 2026.",
+      "last_run_window": "Fri 04 Sep 09:15 MYT (delta run): 2 new since last digest (Thu 03 Sep 09:17 MYT) \u2014 ~24h window covering Wednesday's full US session through Thursday's close. New: PwC US and Palantir announce an expanded strategic alliance (enterprise AI, M&A transformation, ERP modernization; new 'AI-native deals platform' claiming up to 50% faster deal execution/45% lower transaction costs); stock rallied ~7-9% intraday Thu Sep 3, aided by sympathy flow from Snowflake's blowout earnings day (not scored separately \u2014 peer/sentiment context, not PLTR-specific). AFP reporting + Karp comments: DGSI will keep running Palantir's tools during an interim period (ChapsVision's ArgonOS replacement still in development) \u2014 slower transition than the June-announced swap; Karp separately called French/EU 'digital sovereignty' restrictions on US software 'backfiring'. Checked, unchanged: Maven program-of-record designation (target end-Sept 2026), UK NHS \u00a3330M contract-renewal thread, Pentagon $243.9M no-bid memo (still unfinalized), no new insider-selling deviation from the routine 10b5-1 pattern, no new analyst PT actions, Michael Burry short stance unchanged. Options: Vol P/C 0.686 / OI P/C 0.899 (both in-band), term-structure ratio 0.919, skew -0.65. Golden cross 21 trading days old (as_of Thu 03 Sep close $182.53); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -171,11 +171,23 @@
           "headline": "PLTR falls ~6-7% intraday Sep 2 (to ~$167) after a ~43% one-month rally at an elevated multiple, compounded by a same-day Treasury-yield spike hitting high-multiple names",
           "score": 5,
           "direction": "bearish"
+        },
+        {
+          "id": "pltr-pwc-alliance-ai-deals-platform-sep3",
+          "headline": "PwC US and Palantir announce an expanded strategic alliance covering enterprise AI, M&A transformation, and ERP modernization, including a new 'AI-native deals platform' claiming up to 50% faster deal execution and up to 45% lower one-time transaction costs; stock rallies ~7-9% intraday Sep 3, aided by sympathy flow from Snowflake's blowout earnings-day rally",
+          "score": 7,
+          "direction": "bullish"
+        },
+        {
+          "id": "pltr-france-dgsi-interim-continuity-karp-sovereignty-sep2-3",
+          "headline": "AFP: French security source says DGSI will keep running Palantir's tools during an interim period because it 'cannot afford operational disruption' while ChapsVision's replacement (ArgonOS) is still in development, implying a slower multi-month/year transition than the June-announced swap; Karp separately says French/EU 'digital sovereignty' restrictions on US software are 'backfiring'",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 03 Sep 09:17 MYT (delta run): 2 new since last digest (Wed 02 Sep 09:14 MYT) \u2014 ~24h window covering Tuesday's full US session through Wednesday's close, day before the Sept 3 Cybercab Austin public launch (scheduled today, no outcome data yet). New: (1) Tesla settles the Mendoza v. Tesla fatal Autopilot 'fire truck' wrongful-death lawsuit (N.D. Cal.) before trial, avoiding jury scrutiny of 'Autopilot' marketing claims a judge had called 'plausibly misleading'; (2) Tesla China August wholesale sales 86,166 units, +3.57% YoY but -7.92% MoM, snapping three straight months of sequential gains. Checked, unchanged: NHTSA EA26002 (degraded-visibility FSD probe \u2014 evidentiary case file grew with additional Clute TX detail, but no new formal agency action), NHTSA PE26006 (suspension/lateral-link, ~1.2M vehicles), Nevada 5,000-vehicle robotaxi permit (no update since Aug 20), Tesla-SpaceX Terafab chip plant (no update), Tesla-SpaceX merger speculation (no update), Europe August registrations (Germany/UK data still pending). Options: Vol P/C 0.717 / OI P/C 0.769 (both in-band), term-structure ratio 0.121. Death cross 48 trading days old (as_of Wed 02 Sep close $357.01); next earnings Oct 21 2026.",
+      "last_run_window": "Fri 04 Sep 09:15 MYT (delta run): 2 new since last digest (Thu 03 Sep 09:17 MYT) \u2014 ~24h window covering Wednesday's full US session through Thursday's close, day of the Sept 3 Cybercab Austin public launch. New: (1) Tesla holds an invite-only Cybercab Austin launch event confirming the two-seat, no-steering-wheel/no-pedal robotaxi runs on AI4 compute, emphasizing fleet economics for commercial operators over consumer specs \u2014 no final MSRP, order button, or delivery date disclosed; same day, Tesla opens a web form soliciting third parties interested in buying/operating Cybercab fleets or mobility hubs, a shift from an all-in-house robotaxi model; stock reaction muted despite a ~6% pre-event intraday rally; (2) a CNN/AP piece syndicated widely on launch day frames Tesla as trailing Waymo on unsupervised robotaxi scale and flags Rivian's planned 50K R2 robotaxis for Uber plus Lucid/Nuro/Wayve supply deals. Checked, unchanged: NHTSA EA26002 (degraded-visibility FSD probe), NHTSA PE26006 (suspension/lateral-link, ~1.2M vehicles), Nevada 5,000-vehicle robotaxi permit (commercial rides still pending inspections/insurance/fare approval), Tesla-SpaceX Terafab chip plant (no update), Tesla-SpaceX merger speculation (no update), no new analyst rating changes (StoneX/Morgan Stanley reiterations only). Options: Vol P/C 0.602 / OI P/C 0.744 (both in-band), term-structure ratio 1.221 (\u22651.15 with no earnings scheduled \u2014 flagged for /options-sentiment triage), skew -2.49. Death cross 49 trading days old (as_of Thu 03 Sep close $376.36); volume 1.71\u00d7 ADV20; next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -488,11 +500,23 @@
           "headline": "Tesla China August wholesale sales: 86,166 units, +3.57% YoY but -7.92% MoM, snapping the streak of sequential monthly gains",
           "score": 4,
           "direction": "neutral"
+        },
+        {
+          "id": "tsla-cybercab-austin-launch-fleet-form-sep3",
+          "headline": "Tesla holds invite-only Cybercab Austin launch event confirming the two-seat, no-steering-wheel/no-pedal robotaxi runs on AI4 compute, emphasizing fleet economics for commercial operators over consumer specs, with no final MSRP, order button, or delivery date disclosed; same day, Tesla opens a web form soliciting third parties interested in buying/operating Cybercab fleets or mobility hubs \u2014 a shift from an all in-house robotaxi model; stock reaction muted despite a ~6% pre-event intraday rally",
+          "score": 6,
+          "direction": "neutral"
+        },
+        {
+          "id": "tsla-waymo-competitive-readthrough-sep3",
+          "headline": "CNN/AP piece syndicated widely on Cybercab-launch day frames Tesla as trailing Waymo (~380K cumulative unsupervised robotaxi miles vs Waymo's ~500K weekly paid rides) and flags Rivian's planned 50K R2 robotaxis for Uber plus Lucid/Nuro/Wayve supply deals",
+          "score": 4,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 03 Sep 09:17 MYT (delta run): nothing scored 4+ since Wed 02 Sep 09:14 MYT \u2014 quiet ~24h window covering Tuesday's full US session through Wednesday's close. Checked, unchanged: no CPO/CMO replacement named yet for Yamashita/Vashee, Findell activist thread unchanged since the May 28 letter, no new shipped competitive-AI-design-tool developments, no confirmed large-scale institutional/VC sale from the Aug 7 Extended Lock-Up beyond routine Form 4/144 filings (GC Mulligan's routine 10b5-1 sale, trade dated pre-window). Newly confirmed (not independently scored): Goldman Sachs Communacopia + Technology Conference fireside chat with CEO Dylan Field now confirmed for Sept 10 2026. Options: Vol P/C 0.533 / OI P/C 0.562 (both in-band), term-structure ratio 1.066, skew proxy -8.4 vol pts (flagged for /options-sentiment triage). Golden cross 30 trading days old (as_of Wed 02 Sep close $25.73); next earnings Nov 4 2026.",
+      "last_run_window": "Fri 04 Sep 09:15 MYT (delta run): nothing scored 4+ since Thu 03 Sep 09:17 MYT \u2014 quiet ~24h window covering Wednesday's full US session through Thursday's close. Checked, unchanged: no CPO/CMO replacement named yet for Yamashita/Vashee, Findell activist thread unchanged since the May 28 letter, no new shipped competitive-AI-design-tool developments, no analyst rating changes, no new insider Form 4 activity (GC Mulligan's routine 10b5-1 sale remains the most recent, trade dated Aug 28, pre-window). Goldman Sachs Communacopia + Technology Conference fireside chat with CEO Dylan Field remains confirmed for Sept 10 2026, no pre-event commentary yet. Options: Vol P/C 0.576 / OI P/C 0.557 (both in-band), term-structure ratio 0.854, skew proxy -6.45 vol pts (back under the 8-pt triage threshold this run). Golden cross 31 trading days old (as_of Thu 03 Sep close $25.22); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -623,7 +647,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Thu 03 Sep 09:17 MYT (delta run): 2 new since last digest (Wed 02 Sep 09:14 MYT, first run for GPRO) \u2014 ~24h window; the Starman Optical merger thesis from the Sep 1 announcement is unchanged, this run covers incremental developments only. New: (1) short-covering rally extends through the full Tue Sep 2 session (close $1.69, +37% vs Monday) and into after-hours (+14.8% to ~$1.94 AH), continuation rather than a one-day fade in a name that was ~16% of float short with 3.3 days-to-cover as of mid-Aug; (2) contributor commentary (Seeking Alpha) argues GPRO now trades well above the $1.14/share cash-plus-stub deal value, flagging merger-arb reversion risk \u2014 one piece downgrades to Hold. Checked: no shareholder lawsuit actually filed yet (only a routine 'investigating fair price' law-firm press release), no proxy/S-4 filed, no regulatory-clearance news, no new Markiplier trading activity since the Aug 20-filed 13G. Options: Vol P/C 0.36 / OI P/C 0.126 (both call-heavy, outside the 0.45-1.00 band \u2014 flagged for /options-sentiment triage), term-structure ratio 1.148; iv_rank sample_size=2, too small to interpret. Fresh golden cross, 0 trading days old (as_of Wed 02 Sep close $1.69, MA-based trend signals still distorted by the discontinuous merger-driven jump); next earnings Nov 5 2026 (may be superseded by the merger timeline).",
+      "last_run_window": "Fri 04 Sep 09:15 MYT (delta run): 1 new since last digest (Thu 03 Sep 09:17 MYT) \u2014 ~24h window; the Starman Optical merger thesis from the Sep 1 announcement is unchanged. New: GPRO gives back most of the prior two-day short-squeeze gain, closing -17.75% at $1.39 Sep 3 (from $1.69), before a ~5% after-hours bounce to ~$1.46 \u2014 stock remains well above the $1.14 cash-plus-stub deal value as merger-arb/short-cover flows partially unwind. Checked: still no shareholder lawsuit actually filed (one law-firm 'investigating' notice, from Monteverde, misidentifies the acquirer as 'Midtown Equities' \u2014 looks like a templated copy-paste error, not a substantive new filing), no proxy/S-4 filed, no HSR/regulatory-clearance news, no new Markiplier trading activity. Options: Vol P/C 0.36 / OI P/C 0.312 (both call-heavy, outside the 0.45-1.00 band \u2014 flagged for /options-sentiment triage), term-structure ratio 1.109; iv_rank sample_size=3, too small to interpret. Golden cross now 1 trading day old (as_of Thu 03 Sep close $1.39, MA-based trend signals still distorted by the discontinuous merger-driven jump), volume 2.72\u00d7 ADV20 \u2014 flagged for /volume triage; next earnings Nov 5 2026 (may be superseded by the merger timeline).",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -654,11 +678,17 @@
           "headline": "Contributor commentary (Seeking Alpha) flags GPRO trading well above the $1.14/share cash deal value plus opaque Starman stub, arguing for merger-arb reversion risk; one piece downgrades to Hold",
           "score": 4,
           "direction": "bearish"
+        },
+        {
+          "id": "gpro-squeeze-unwind-pullback-sep3",
+          "headline": "GPRO gives back most of the prior two-day short-squeeze gain, closing -17.75% at $1.39 Sep 3 (from $1.69), before a ~5% after-hours bounce to ~$1.46; stock remains well above the $1.14 cash-plus-stub deal value as merger-arb/short-cover flows unwind",
+          "score": 4,
+          "direction": "bearish"
         }
       ]
     },
     "ECHO": {
-      "last_run_window": "Thu 03 Sep 09:17 MYT (delta run): nothing scored 4+ since Wed 02 Sep 09:14 MYT (first run for ECHO) \u2014 quiet ~24h window; base thesis (Hughes Chapter 11, independent-examiner appointment Aug 26, fraudulent-transfer allegations against EchoStar Corp/Ergen) unchanged, no interim findings or ruling disclosed yet. Checked, unchanged: DISH DBS ~$4.75B 2026-maturities RSA (~82% noteholder support), no open FCC proceeding update found. No ECHO-specific news items surfaced in-window beyond stale pre-window items (Q2 earnings Aug 3, analyst PT trims early Aug, director Bye's routine option-exercise sale Aug 7). Options: Vol P/C 22.816 (extreme put-heavy, far outside the 0.45-1.00 band) / OI P/C 0.399 (also outside band) \u2014 flagged for /options-sentiment triage; skew proxy +8.2 vol pts; term-structure ratio 0.78. Death cross 56 trading days old (as_of Wed 02 Sep close $86.69); balance_sheet_ok flagged false; next earnings Nov 5 2026.",
+      "last_run_window": "Fri 04 Sep 09:15 MYT (delta run): nothing scored 4+ since Thu 03 Sep 09:17 MYT \u2014 quiet ~24h window; base thesis (Hughes Chapter 11, independent-examiner appointment Aug 26, fraudulent-transfer allegations against EchoStar Corp/Ergen) unchanged; examiner-scope hearing not yet held, no named examiner yet, next scheduled event is the Sept 10 meeting of creditors. Checked, unchanged: DISH DBS 2026-maturities RSA (coverage now cited ~88% of secured/unsecured notes vs the ~82% previously tracked \u2014 reconciling as the same restructuring-support thread, not scored as new), no open FCC proceeding update found, no new analyst actions or insider Form 4 activity since early Aug. Options: Vol P/C 18.112 (extreme put-heavy, far outside the 0.45-1.00 band) / OI P/C 0.39 (also outside band) \u2014 flagged for /options-sentiment triage; skew proxy -3.98 vol pts (back under the 8-pt threshold); term-structure ratio 0.904. Death cross 57 trading days old (as_of Thu 03 Sep close $89.79); balance_sheet_ok flagged false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
