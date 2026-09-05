@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-09-04T13:24:49Z",
-  "last_run_window": "Fri 04 Sep 09:05 MYT to Fri 04 Sep 21:24 MYT (Friday pre-market through the August NFP release, ahead of the US cash open)",
+  "last_run_utc": "2026-09-05T01:08:00Z",
+  "last_run_window": "Fri 04 Sep 21:24 MYT to Sat 05 Sep 09:08 MYT (Friday's full US cash session, post-August-NFP, through early Saturday MYT)",
   "stories": [
     {
       "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "August NFP Smashes Estimates (+162K vs +53K Consensus), Unemployment Steady at 4.1% — Yields Jump, Hike Odds Firm Back Toward Coin-Flip, Reversing Thursday's Waller-Driven Dovish Rally",
-      "score": 7,
+      "headline": "Friday's Full US Cash Session Confirms Post-NFP Hawkish Repricing — 10yr Yield Hits 2-Month High (~4.78%, Intraday Peak 4.81%), Sept Hike Odds Firm to ~58%; Broad Tape Sells Off (Dow -0.51%, S&P -0.38%, Composite -0.29%) but Nasdaq-100/QQQ Roughly Flat (+0.18%)",
+      "score": 5,
       "direction": "bearish"
     }
   ]
