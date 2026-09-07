@@ -1,12 +1,18 @@
 {
-  "last_run_utc": "2026-09-07T01:08:09Z",
-  "last_run_window": "Sun 06 Sep 21:15 MYT to Mon 07 Sep 09:05 MYT (overnight window into US Labor Day holiday, no cash session; nothing material since prior run)",
+  "last_run_utc": "2026-09-07T13:27:00Z",
+  "last_run_window": "Mon 07 Sep 09:05 MYT to Mon 07 Sep 21:27 MYT (US Labor Day holiday, no US cash session; Asia/Europe session and oil markets active)",
   "stories": [
     {
-      "id": "jackson-hole-hawkish-chorus-aug27",
-      "headline": "Friday's Full US Cash Session Confirms Post-NFP Hawkish Repricing — 10yr Yield Hits 2-Month High (~4.78%, Intraday Peak 4.81%), Sept Hike Odds Firm to ~58%; Broad Tape Sells Off (Dow -0.51%, S&P -0.38%, Composite -0.29%) but Nasdaq-100/QQQ Roughly Flat (+0.18%)",
-      "score": 5,
+      "id": "iran-hormuz-exclusion-zone-sep7",
+      "headline": "Iran Declares Hormuz 'Exclusion Zone' After US Sinks Three More Tankers; Strait Traffic Falls to Lowest Since May, Brent Extends Gains to ~$97",
+      "score": 6,
       "direction": "bearish"
+    },
+    {
+      "id": "openai-gpt6-astra-memory-rally-sep7",
+      "headline": "OpenAI Launches GPT-6 Astra Flagship Model, Sparks Asia Memory-Chip Rally — SK Hynix +7-8%, Samsung +4-5%, Kospi +4.6%, Nikkei +2.1%",
+      "score": 6,
+      "direction": "bullish"
     }
   ]
 }
