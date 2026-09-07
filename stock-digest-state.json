@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-06T13:15:56Z",
+  "last_run_utc": "2026-09-07T01:15:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sun 06 Sep 21:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 09:07 MYT \u2014 still the same quiet Sunday weekend window, no new US cash session. Checked, unchanged: PwC alliance, Karp/Fedorov Ukraine defense-tech investment (dated Sep 1-2, pre-window), UK NHS contract-renewal thread, Pentagon no-bid memo, France DGSI interim-continuity transition all unchanged; no new contract, earnings, or analyst action dated in-window. Options/technicals unchanged from prior run (same Fri 04 Sep snapshot): Vol P/C 1.201 (outside 0.45-1.00 band) / OI P/C 0.921 (in-band), term-structure ratio 0.175, skew -0.98, IV rank 65.3% (sample 37). Golden cross 22 trading days old (as_of Fri 04 Sep close $174.33); next earnings Nov 2 2026.",
+      "last_run_window": "Mon 07 Sep 09:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 21:15 MYT \u2014 Labor Day overnight window, no US cash session. Checked, unchanged: PwC alliance, UK NHS contract-renewal thread, Pentagon no-bid memo, France DGSI interim-continuity transition all unchanged. Checked and excluded: Michael Burry's \"Palantir: An Accounting\" bear thesis (AR-growth-vs-revenue, deferred-revenue-ratio critique) is being recirculated by Benzinga/Motley Fool/Globe and Mail on Sep 4-5, but the post itself dates to Feb 2026 \u2014 recycled commentary, no new fact, excluded per recap-article rule. No new contract, earnings, or analyst action dated in-window. Options/technicals unchanged from prior run (same Fri 04 Sep snapshot): Vol P/C 1.201 (outside 0.45-1.00 band) / OI P/C 0.921 (in-band), term-structure ratio 0.175, skew -0.98, IV rank 65.3% (sample 37). Golden cross 22 trading days old (as_of Fri 04 Sep close $174.33); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -193,7 +193,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sun 06 Sep 21:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 09:07 MYT \u2014 still the same quiet Sunday weekend window, no new US cash session. Checked, unchanged: Friday's NHTSA Cybercab Audit Query (Zoox-precedent comparison) remains the operative story; a recirculated 'Mixed Analyst Sentiment ... 5 New Collisions' piece references NHTSA data from Feb 2026 (14 crashes since Jun 2025 launch) \u2014 old news, not a new filing, excluded; no new NHTSA filing, insider transaction, or analyst action found in-window. Options/technicals unchanged (same Fri 04 Sep snapshot): Vol P/C 0.711 / OI P/C 0.834 (both in-band), term-structure ratio 0.166, skew -2.39, IV rank 56.3% (sample 37). Death cross 50 trading days old (as_of Fri 04 Sep close $354.08); next earnings Oct 21 2026.",
+      "last_run_window": "Mon 07 Sep 09:15 MYT (delta run): 1 new since Sun 06 Sep 21:15 MYT \u2014 Sunday Sep 6, Musk confirmed via X a zero-occupant (fully driverless, no rider at all) Robotaxi test run on Austin public roads; feeds the standing NHTSA Cybercab certification Audit Query thread (opened Sep 4). No other new NHTSA filing, insider transaction, or analyst action found in-window; markets closed Monday for Labor Day so no cash-session confirmation of any price reaction yet. Options/technicals unchanged (same Fri 04 Sep snapshot): Vol P/C 0.711 / OI P/C 0.834 (both in-band), term-structure ratio 0.166, skew -2.39, IV rank 56.3% (sample 37). Death cross 50 trading days old (as_of Fri 04 Sep close $354.08); next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -530,11 +530,17 @@
           "headline": "Friday's Cybercab certification concern escalates into a formally named NHTSA Audit Query, explicitly compared to the multi-year Zoox precedent; same-day RBC/Wells Fargo notes flag unanswered pricing/production questions and reported early Austin rider complaints; TSLA closes -5.92% at $354.08 on 1.7x ADV20",
           "score": 7,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-musk-zero-occupant-robotaxi-confirmed-sep6",
+          "headline": "Musk confirms via X (Sunday Sep 6) that Tesla is testing Robotaxi in Austin with zero occupants \u2014 no rider, no safety driver \u2014 after an X user posted video of the empty vehicle driving itself; first fully-driverless public-road demonstration reported, layered on top of NHTSA's Sep 4 Audit Query into Cybercab's no-steering-wheel FMVSS certification",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Sun 06 Sep 21:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 09:07 MYT \u2014 still the same quiet Sunday weekend window, no new US cash session. Checked, unchanged: Friday's hot-jobs-report pullback (Thu $25.22 \u2192 Fri $24.12) remains the last dated price fact; Findell activist thread, the CPO/CMO vacancy, the fully-released Extended Lock-Up supply overhang, and AI-competitive threads are all unchanged with no new dated facts; no new analyst action found in-window; Goldman Sachs Communacopia fireside chat with CEO Dylan Field remains confirmed for Sept 10 2026. Options/technicals unchanged (same Fri 04 Sep snapshot): Vol P/C 0.508 / OI P/C 0.552 (both in-band), term-structure ratio 0.442, skew proxy -8.79 vol pts (crosses the 8-pt triage threshold), IV rank 59.0% (sample 37). Golden cross 32 trading days old (as_of Fri 04 Sep close $24.12); next earnings Nov 4 2026.",
+      "last_run_window": "Mon 07 Sep 09:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 21:15 MYT \u2014 Labor Day overnight window, no US cash session. Checked, unchanged: Findell activist thread, the CPO/CMO vacancy, the fully-released Extended Lock-Up supply overhang, and AI-competitive threads are all unchanged with no new dated facts. Checked and excluded: recirculated coverage of Ark Invest/Cathie Wood adding to its FIG stake \u2014 an ongoing accumulation pattern dating to the IPO with no single new filing tied to this window, recap-style, excluded. No new analyst action found in-window; Goldman Sachs Communacopia fireside chat with CEO Dylan Field remains confirmed for Sept 10 2026. Options/technicals unchanged (same Fri 04 Sep snapshot): Vol P/C 0.508 / OI P/C 0.552 (both in-band), term-structure ratio 0.442, skew proxy -8.79 vol pts (crosses the 8-pt triage threshold), IV rank 59.0% (sample 37). Golden cross 32 trading days old (as_of Fri 04 Sep close $24.12); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -671,7 +677,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Sun 06 Sep 21:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 09:07 MYT \u2014 still the same quiet Sunday weekend window, no new US cash session, so Friday's close ($1.70, golden cross confirmed) remains the last confirmed price/volume fact; merger terms and legal-notice status unchanged. Checked, unchanged: $1.14/share cash-plus-~10%-stub Starman Optical deal terms, Halper Sadeh LLC's Sept 1 fair-price investigation notice (still investigation-notice-only, no lawsuit filed, no proxy/S-4, no vote date, no competing bid). Options/technicals unchanged (same Fri 04 Sep snapshot): Vol P/C 1.068 / OI P/C 0.305 (both outside the 0.45-1.00 band), skew proxy -17.97 vol pts (thin small-cap liquidity, sample_size=4 too small to interpret), term-structure ratio 1.135. Golden cross 2 trading days old (as_of Fri 04 Sep close $1.70, MA-based signals still distorted by the merger-driven jump), volume 3.55\u00d7 ADV20; next earnings Nov 5 2026 (may be superseded by the merger timeline).",
+      "last_run_window": "Mon 07 Sep 09:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 21:15 MYT \u2014 Labor Day overnight window, no US cash session, so Friday's close ($1.70, golden cross confirmed) remains the last confirmed price/volume fact; merger terms and legal-notice status unchanged. Checked, unchanged: $1.14/share cash-plus-~10%-stub Starman Optical deal terms, Halper Sadeh LLC's Sept 1 fair-price investigation notice (still investigation-notice-only, no lawsuit filed, no proxy/S-4, no vote date, no competing bid), Markiplier 8.5% stake thread. Options/technicals unchanged (same Fri 04 Sep snapshot): Vol P/C 1.068 / OI P/C 0.305 (both outside the 0.45-1.00 band), skew proxy -17.97 vol pts (thin small-cap liquidity, sample_size=4 too small to interpret), term-structure ratio 1.135. Golden cross 2 trading days old (as_of Fri 04 Sep close $1.70, MA-based signals still distorted by the merger-driven jump), volume 3.55\u00d7 ADV20; next earnings Nov 5 2026 (may be superseded by the merger timeline).",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -712,7 +718,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Sun 06 Sep 21:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 09:07 MYT \u2014 still the same quiet Sunday weekend window. Checked, unchanged: the independent-examiner appointment (Aug 26) and fraudulent-transfer allegations against EchoStar/Ergen remain the base thesis; no rating action, FCC development, or subscriber data found in-window; next scheduled event remains the Sept 10 meeting of creditors in the Hughes Chapter 11 case. Options/technicals unchanged (same Fri 04 Sep snapshot): Vol P/C 12.487 (extreme put-heavy, outside band) / OI P/C 0.391 (outside band), skew proxy -1.81 vol pts (under the 8-pt threshold), term-structure ratio 1.051. Death cross 58 trading days old (as_of Fri 04 Sep close $89.80); balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Mon 07 Sep 09:15 MYT (delta run): nothing scored 4+ since Sun 06 Sep 21:15 MYT \u2014 Labor Day overnight window, no US cash session. Checked, unchanged: the independent-examiner appointment (Aug 26) and fraudulent-transfer allegations against EchoStar/Ergen remain the base thesis; no rating action, FCC development, or subscriber data found in-window; next scheduled event remains the Sept 10 meeting of creditors in the Hughes Chapter 11 case. Options/technicals unchanged (same Fri 04 Sep snapshot): Vol P/C 12.487 (extreme put-heavy, outside band) / OI P/C 0.391 (outside band), skew proxy -1.81 vol pts (under the 8-pt threshold), term-structure ratio 1.051. Death cross 58 trading days old (as_of Fri 04 Sep close $89.80); balance_sheet_ok false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
