@@ -1,18 +1,24 @@
 {
-  "last_run_utc": "2026-09-08T01:07:00Z",
-  "last_run_window": "Mon 07 Sep 21:27 MYT to Tue 08 Sep 09:07 MYT (overnight window, no US cash session; early Tuesday Asia session just opening)",
+  "last_run_utc": "2026-09-08T13:30:25Z",
+  "last_run_window": "Tue 08 Sep 09:07 MYT to Tue 08 Sep 21:30 MYT (Asia/Europe session, pre-market ahead of Tuesday US cash open)",
   "stories": [
     {
       "id": "iran-hormuz-exclusion-zone-sep7",
-      "headline": "Iran Declares Hormuz 'Exclusion Zone' After US Sinks Three More Tankers; Strait Traffic Falls to Lowest Since May, Brent Extends Gains to ~$97",
-      "score": 6,
+      "headline": "Iran/Hormuz Escalation: Houthi Attack Wounds 70+, Hits Saudi Aramco Facilities (Abha/Najran/Jizan incl. 400k bpd refinery); Iran Touts New Missile Doctrine, Threatens 'Economic Warfare'; Brent +2.3% to ~$99.22, WTI +3.3% to $94.54",
+      "score": 7,
       "direction": "bearish"
     },
     {
       "id": "openai-gpt6-astra-memory-rally-sep7",
-      "headline": "OpenAI Launches GPT-6 Astra Flagship Model, Sparks Asia Memory-Chip Rally — SK Hynix +7-8%, Samsung +4-5%, Kospi +4.6%, Nikkei +2.1%",
-      "score": 6,
+      "headline": "GPT-6 Astra Memory Rally Continues — Kospi Past 7,130 (SK Hynix +4%, Samsung +2.6% Tue), but Nikkei -1.7% as Yen Surges to ~152/USD on BOJ Tightening Bets, Offsetting Chip Gains; Kioxia Bucks Trend",
+      "score": 4,
       "direction": "bullish"
+    },
+    {
+      "id": "us-canada-tariff-war-sep8",
+      "headline": "Canada's Retaliatory Tariffs (15-50% on ~$20-27.6B US Goods incl. Electronics) Take Effect After US-Canada Trade Talks Collapse",
+      "score": 4,
+      "direction": "bearish"
     }
   ]
 }
