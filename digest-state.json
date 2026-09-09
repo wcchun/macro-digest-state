@@ -1,24 +1,24 @@
 {
-  "last_run_utc": "2026-09-08T13:30:25Z",
-  "last_run_window": "Tue 08 Sep 09:07 MYT to Tue 08 Sep 21:30 MYT (Asia/Europe session, pre-market ahead of Tuesday US cash open)",
+  "last_run_utc": "2026-09-09T01:12:04Z",
+  "last_run_window": "Tue 08 Sep 21:30 MYT to Wed 09 Sep 09:12 MYT (Tuesday full US cash session through Wednesday Asia pre-market)",
   "stories": [
     {
       "id": "iran-hormuz-exclusion-zone-sep7",
-      "headline": "Iran/Hormuz Escalation: Houthi Attack Wounds 70+, Hits Saudi Aramco Facilities (Abha/Najran/Jizan incl. 400k bpd refinery); Iran Touts New Missile Doctrine, Threatens 'Economic Warfare'; Brent +2.3% to ~$99.22, WTI +3.3% to $94.54",
-      "score": 7,
+      "headline": "Iran/Hormuz Escalation Continues to Weigh: Oil Holds Near Multi-Week Highs (Brent ~$97-99, WTI ~$93-94) Through Tuesday's US Session; No Fresh Strike Reported This Window — Cited Alongside Trade War as Driver of Tuesday's Tech-Led Selloff (AAPL -2.55%, GOOGL -2.10%, MSFT -2.05%)",
+      "score": 6,
       "direction": "bearish"
-    },
-    {
-      "id": "openai-gpt6-astra-memory-rally-sep7",
-      "headline": "GPT-6 Astra Memory Rally Continues — Kospi Past 7,130 (SK Hynix +4%, Samsung +2.6% Tue), but Nikkei -1.7% as Yen Surges to ~152/USD on BOJ Tightening Bets, Offsetting Chip Gains; Kioxia Bucks Trend",
-      "score": 4,
-      "direction": "bullish"
     },
     {
       "id": "us-canada-tariff-war-sep8",
-      "headline": "Canada's Retaliatory Tariffs (15-50% on ~$20-27.6B US Goods incl. Electronics) Take Effect After US-Canada Trade Talks Collapse",
+      "headline": "Canada's Retaliatory Tariffs (15-50% on 700+ Items incl. Electronics) Confirmed in Effect Sep 8; Cited as Co-Driver of Tuesday's Broad Equity Pullback (Dow -1.1%, S&P -0.5%, Nasdaq -0.3%)",
       "score": 4,
       "direction": "bearish"
+    },
+    {
+      "id": "broadcom-ai-capex-goldman-conf-sep8",
+      "headline": "Broadcom (Goldman Sachs Communacopia Conf.): Guides AI Revenue to $115B (2027) / $230B (2028); Launches $35B XPV Financing Vehicle w/ Apollo & Blackstone for 20+GW AI Compute (Anthropic 1GW in 2026 -> 5GW 2027); Flags Power/Site/Construction — Not Chip Supply — as Binding Bottleneck",
+      "score": 5,
+      "direction": "bullish"
     }
   ]
 }
