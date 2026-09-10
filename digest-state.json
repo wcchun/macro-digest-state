@@ -1,24 +1,24 @@
 {
-  "last_run_utc": "2026-09-09T13:28:20Z",
-  "last_run_window": "Wed 09 Sep 09:12 MYT to Wed 09 Sep 21:28 MYT (Wednesday Asia/Europe session through Wednesday US pre-market)",
+  "last_run_utc": "2026-09-10T01:04:42Z",
+  "last_run_window": "Wed 09 Sep 21:28 MYT to Thu 10 Sep 09:04 MYT (Wednesday's full US cash session through early Thursday Asia pre-open)",
   "stories": [
     {
-      "id": "iran-hormuz-exclusion-zone-sep7",
-      "headline": "Iran/Hormuz Escalation Continues: Brent Crosses $100/bbl for First Time Since July (~$100.4, WTI ~$94.9, both +2%) on Continued US-Iran Tanker/Missile Exchange; Wed US Pre-Market Futures Soft (Nasdaq -0.4%, S&P -0.3%, Dow -0.6%) Ahead of Wednesday's US Open — No Fresh Military Strike This Window, Price Action Only",
-      "score": 6,
+      "id": "iran-jordan-tanker-strikes-sep9",
+      "headline": "Iran/Hormuz Escalation: US Destroys 5 Iranian Crude Tankers After IRGC Attempts on US Warship; Iran Retaliates with 20-30 Ballistic Missiles at Jordan's Al Azraq Base (Hosting US Forces, 18/20 Intercepted, No Casualties) and Strikes at 10 Ships Near Hormuz; Brent Closes ~$100.71 (+2.85%, Highest in ~7 Weeks); US Equities Close Lower (Dow -0.77%, S&P -0.48%, Nasdaq -0.64%)",
+      "score": 7,
       "direction": "bearish"
     },
     {
-      "id": "us-canada-tariff-war-sep8",
-      "headline": "Canada's Retaliatory Tariffs (15-50% on 700+ Items incl. Electronics) Confirmed in Effect Sep 8; Cited as Co-Driver of Tuesday's Broad Equity Pullback (Dow -1.1%, S&P -0.5%, Nasdaq -0.3%)",
-      "score": 4,
-      "direction": "bearish"
-    },
-    {
-      "id": "broadcom-ai-capex-goldman-conf-sep8",
-      "headline": "Broadcom (Goldman Sachs Communacopia Conf.): Guides AI Revenue to $115B (2027) / $230B (2028); Launches $35B XPV Financing Vehicle w/ Apollo & Blackstone for 20+GW AI Compute (Anthropic 1GW in 2026 -> 5GW 2027); Flags Power/Site/Construction — Not Chip Supply — as Binding Bottleneck",
+      "id": "treasury-yields-cycle-high-sep9",
+      "headline": "10yr Treasury Yield Grinds to 4.83% (Highest Close Since Nov 2023) on Fiscal-Supply Concerns, Ahead of Thu PPI / Fri CPI",
       "score": 5,
-      "direction": "bullish"
+      "direction": "bearish"
+    },
+    {
+      "id": "apple-iphone18-foldable-event-sep9",
+      "headline": "Apple Unveils iPhone 18 Pro/Pro Max (+$100 Price Hike) and First-Ever Foldable iPhone Duo (~$2,000+); Stock Reaction Muted (AAPL -0.28%, Tracking Broad Market) Amid Analyst Split on Margin Pressure",
+      "score": 4,
+      "direction": "neutral"
     }
   ]
 }
