@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-09T13:31:17Z",
+  "last_run_utc": "2026-09-10T01:13:41Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open), matching the macro digest's own \"thin window\" finding for the same period. Checked and excluded: a Wolfe Research PLTR upgrade to Peer Perform surfaced in search results dates to Jun 16 2026 \u2014 stale, not in-window. No new contract, earnings, insider-filing, or analyst-action news found. Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 0.986 (in-band) / OI P/C 1.002 (marginally outside the 0.45-1.00 band), term-structure ratio 0.974, skew -1.96, IV rank 68.2% (sample 39). Golden cross 23 trading days old (as_of Tue 08 Sep close $170.30); next earnings Nov 2 2026.",
+      "last_run_window": "Thu 10 Sep 09:13 MYT (delta run): nothing scored 4+ since Wed 09 Sep 21:31 MYT \u2014 covers the full Wed 09 Sep US cash session (9:30pm-4am MYT) plus early after-hours. Checked and excluded: ARK/Cathie Wood trimmed 38,395 PLTR shares (~$6.5M) on Sep 9 \u2014 portfolio-level trimming against a $407B market cap, no thesis change, immaterial (would score \u22642). No new contract award, analyst action, or insider Form 4 found in-window. Options/technicals refreshed to Wed 09 Sep close: Vol P/C 0.589 / OI P/C 0.938 (both in-band), term-structure ratio 0.929, skew -2.17, IV rank 67.5% (sample 40). Golden cross 24 trading days old (as_of Wed 09 Sep close $169.53); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -186,7 +186,7 @@
         },
         {
           "id": "pltr-post-pwc-pop-mean-reversion-sep4",
-          "headline": "PLTR gives back Thursday's PwC-alliance pop, closing -4.4% Friday (Thu $182.53 → Fri $174.33) as a hot August NFP print (+162K vs ~53-56K est) reignites Sept rate-hike odds and lifts yields while Nasdaq-100/QQQ finished roughly flat — a repeat of the Sept 2 multiple-compression pattern",
+          "headline": "PLTR gives back Thursday's PwC-alliance pop, closing -4.4% Friday (Thu $182.53 \u2192 Fri $174.33) as a hot August NFP print (+162K vs ~53-56K est) reignites Sept rate-hike odds and lifts yields while Nasdaq-100/QQQ finished roughly flat \u2014 a repeat of the Sept 2 multiple-compression pattern",
           "score": 5,
           "direction": "bearish"
         },
@@ -198,14 +198,14 @@
         },
         {
           "id": "pltr-neso-uk-21m-contract-sep8",
-          "headline": "UK's National Energy System Operator (NESO) hands Palantir a £21.2M direct award (no competitive bid) continuing Foundry licensing for its Connections and Skip Rates processes, Sep 8 2026-Jul 31 2027 with extension options; a modest counter-signal to the standing NHS contract-renewal-risk thread from a different UK public body",
+          "headline": "UK's National Energy System Operator (NESO) hands Palantir a \u00a321.2M direct award (no competitive bid) continuing Foundry licensing for its Connections and Skip Rates processes, Sep 8 2026-Jul 31 2027 with extension options; a modest counter-signal to the standing NHS contract-renewal-risk thread from a different UK public body",
           "score": 4,
           "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open). Checked, unchanged: NHTSA Cybercab certification Audit Query AQ26002 (opened Sep 3-4, confirmed still the active/most-recent NHTSA action, no escalation this window), degraded-visibility FSD engineering analysis (EA26002), suspension-lateral-link preliminary evaluation, Nevada 5,000-vehicle Clark County permit, Slovenia FSD approval/Uber read-through. Checked and excluded: no new NHTSA filing, insider Form 4, or analyst thesis change found in-window (SEC insider-filing search returned nothing dated after Jun 2026). Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 0.543 / OI P/C 0.737 (both in-band), term-structure ratio 0.825, skew -1.42, IV rank 59.6% (sample 39). Death cross 51 trading days old (as_of Tue 08 Sep close $368.16, still below 200MA despite the recent rally); next earnings Oct 21 2026.",
+      "last_run_window": "Thu 10 Sep 09:13 MYT (delta run): nothing scored 4+ since Wed 09 Sep 21:31 MYT \u2014 covers the full Wed 09 Sep US cash session. Stock closed +3.98% on continued robotaxi/Cybercab momentum, but no discrete new fact behind the move was found \u2014 coverage was recap/commentary only (\"is TSLA a buy\" pieces), which is not stock news on its own. Standing threads unchanged: NHTSA Cybercab certification Audit Query AQ26002, degraded-visibility FSD engineering analysis (EA26002), suspension-lateral-link preliminary evaluation, IAA Hannover Semi Europe launch (Sept 14-20, still upcoming). No new NHTSA filing, insider Form 4, or analyst thesis change found in-window. Options/technicals refreshed to Wed 09 Sep close: Vol P/C 0.637 / OI P/C 0.781 (both in-band), term-structure ratio 0.074 (0DTE-distorted), skew -1.57, IV rank 61.2% (sample 40). Death cross 52 trading days old (as_of Wed 09 Sep close $367.81, still below 200MA despite the rally); next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -558,7 +558,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open). Checked, unchanged: Tuesday's post-close Goldman Sachs conference remarks (Dylan Field AI-first strategy reiteration, ~50% Figma Make AI-credit price cut) remain the operative fact, already scored last run; Findell activist thread (no new letter this window), the CPO/CMO vacancy, the fully-released Extended Lock-Up supply overhang. Checked and excluded: routine 10b5-1 Form 4s, recirculated Canva/Adobe/Anthropic AI-tooling comparisons with no new FIG-specific fact this window. Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 0.487 / OI P/C 0.591 (both in-band), term-structure ratio 1.139, skew proxy -3.71 vol pts, IV rank 61.5% (sample 39). Golden cross 33 trading days old (as_of Tue 08 Sep close $22.75, price has since round-tripped back below it); next earnings Nov 4 2026.",
+      "last_run_window": "Thu 10 Sep 09:13 MYT (delta run): nothing scored 4+ since Wed 09 Sep 21:31 MYT \u2014 covers the full Wed 09 Sep US cash session. Checked, unchanged: Tuesday's Goldman Sachs conference remarks (Dylan Field AI-first reiteration, ~50% Figma Make AI-credit price cut) remain the operative fact, already scored last run; Findell activist thread (no board response found this window); the fully-released Extended Lock-Up supply overhang. Checked and excluded: routine 10b5-1 Form 4s; no new FIG-specific fact surfaced beyond recycled Canva/Adobe/Anthropic AI-tooling comparisons. Options/technicals refreshed to Wed 09 Sep close: Vol P/C 0.478 / OI P/C 0.600 (both in-band), term-structure ratio 0.967, skew proxy -12.6 vol pts (crosses the 8-pt threshold), IV rank 62.7% (sample 40). Golden cross 34 trading days old (as_of Wed 09 Sep close $22.01, price has round-tripped back below it); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -688,7 +688,7 @@
         },
         {
           "id": "fig-hot-jobs-report-selloff-sep4",
-          "headline": "FIG falls ~4.3% Friday (Thu $25.22 → Fri $24.12) as a hot August jobs report reignites Sept rate-hike odds and lifts yields, hitting high-multiple growth software names (FIG named explicitly in outlet coverage) while the broader Nasdaq was little changed",
+          "headline": "FIG falls ~4.3% Friday (Thu $25.22 \u2192 Fri $24.12) as a hot August jobs report reignites Sept rate-hike odds and lifts yields, hitting high-multiple growth software names (FIG named explicitly in outlet coverage) while the broader Nasdaq was little changed",
           "score": 4,
           "direction": "bearish"
         },
@@ -701,7 +701,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open). Checked, unchanged: $1.14/share cash-plus-~10%-stub Starman Optical deal terms, Halper Sadeh/Ademi LLP/Kahn Swick & Foti fair-price investigation notices (still notice-only, no lawsuit filed), Markiplier 8.5% stake thread. Checked and excluded: Monteverde & Associates also confirmed investigating the deal \u2014 same standard M&A law-firm piling-on pattern as the others already logged, no new valuation information, scores \u22643. No shareholder-vote date announced yet. Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 0.522 / OI P/C 0.575 (both in-band), skew proxy +2.34 vol pts, term-structure ratio 1.085, IV rank 22.1% but sample_size=6 \u2014 too small to interpret. Golden cross 3 trading days old (as_of Tue 08 Sep close $1.46; MA distances of +73%/+89%/+38% vs 20/50/200MA are merger-jump artifacts, not a trend signal), volume 1.1\u00d7 ADV20; next earnings Nov 5 2026 (likely superseded by the merger timeline).",
+      "last_run_window": "Thu 10 Sep 09:13 MYT (delta run): nothing scored 4+ since Wed 09 Sep 21:31 MYT \u2014 covers the full Wed 09 Sep US cash session. Checked, unchanged: $1.14/share cash-plus-~10%-stub Starman Optical deal terms; Halper Sadeh/Ademi LLP/Kahn Swick & Foti/Monteverde fair-price investigation notices remain notice-only, no lawsuit filed; Markiplier 8.5% stake thread. No shareholder-vote date announced yet (a Sep 4 proxy-statement filing predates this window and disclosed no new deal terms or vote date). Options/technicals refreshed to Wed 09 Sep close: Vol P/C 0.511 / OI P/C 0.550 (both in-band), skew proxy -19.53 vol pts (crosses the 8-pt threshold), term-structure ratio 1.301, IV rank 2.6% but sample_size=7 \u2014 too small to interpret. Golden cross now 4 trading days old (as_of Wed 09 Sep close $1.41; MA distances remain merger-jump artifacts, not a trend signal), volume 0.44\u00d7 ADV20; next earnings Nov 5 2026 (likely superseded by the merger timeline).",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -742,7 +742,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open). Checked, unchanged: the independent-examiner appointment (Aug 26) and fraudulent-transfer allegations against EchoStar/Ergen remain the base thesis; Tuesday's UBS Buy upgrade (PT $150) remains the operative fact, already scored last run; next scheduled event remains the Sept 10 meeting of creditors in the Hughes Chapter 11 case. Checked and excluded: generic trade-press recaps of the AT&T/SpaceX spectrum deals and the Hughes bankruptcy already on file \u2014 no new dated filing or FCC action confirmed in-window. Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 3.835 (extreme put-heavy, outside band) / OI P/C 0.430 (outside band), skew proxy -17.26 vol pts (crosses the 8-pt threshold), term-structure ratio 0.967, IV rank 100.0% but sample_size=6 \u2014 too small to interpret. Death cross 59 trading days old (as_of Tue 08 Sep close $93.42); balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Thu 10 Sep 09:13 MYT (delta run): nothing scored 4+ since Wed 09 Sep 21:31 MYT \u2014 covers the full Wed 09 Sep US cash session. Checked, unchanged: the independent-examiner appointment (Aug 26) and fraudulent-transfer allegations against EchoStar/Ergen remain the base thesis; Tuesday's UBS Buy upgrade (PT $150) remains the operative fact, already scored last run. The Hughes Chapter 11 meeting of creditors is scheduled for Sept 10 (US business hours) \u2014 still pending, falls after this window's cutoff. Checked and excluded: no new dated FCC filing or spectrum-transaction news found in-window. Options/technicals refreshed to Wed 09 Sep close: Vol P/C 6.097 (extreme put-heavy, outside band) / OI P/C 0.439 (outside band), skew proxy -7.57 vol pts, term-structure ratio 1.281, IV rank 71.5% but sample_size=7 \u2014 too small to interpret. Death cross 60 trading days old (as_of Wed 09 Sep close $91.32); balance_sheet_ok false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
