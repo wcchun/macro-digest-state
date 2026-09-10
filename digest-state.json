@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-09-10T01:04:42Z",
-  "last_run_window": "Wed 09 Sep 21:28 MYT to Thu 10 Sep 09:04 MYT (Wednesday's full US cash session through early Thursday Asia pre-open)",
+  "last_run_utc": "2026-09-10T13:23:11Z",
+  "last_run_window": "Thu 10 Sep 09:04 MYT to Thu 10 Sep 21:23 MYT (Thursday US pre-market session, through August PPI and jobless claims releases)",
   "stories": [
     {
       "id": "iran-jordan-tanker-strikes-sep9",
@@ -9,16 +9,10 @@
       "direction": "bearish"
     },
     {
-      "id": "treasury-yields-cycle-high-sep9",
-      "headline": "10yr Treasury Yield Grinds to 4.83% (Highest Close Since Nov 2023) on Fiscal-Supply Concerns, Ahead of Thu PPI / Fri CPI",
-      "score": 5,
+      "id": "ppi-fedspeak-hawkish-repricing-sep10",
+      "headline": "Aug PPI Mixed (Headline +0.4% m/m In Line, YoY 5.4% ~0.1pt Hot; Core +0.2% m/m Cooler Than 0.3% Forecast); Fed's Daly & Musalem Publicly Rule Out a Jumbo 50bp Cut; 10yr Yield +5bp, DXY +0.42% Ahead of Sept 15-16 FOMC",
+      "score": 6,
       "direction": "bearish"
-    },
-    {
-      "id": "apple-iphone18-foldable-event-sep9",
-      "headline": "Apple Unveils iPhone 18 Pro/Pro Max (+$100 Price Hike) and First-Ever Foldable iPhone Duo (~$2,000+); Stock Reaction Muted (AAPL -0.28%, Tracking Broad Market) Amid Analyst Split on Margin Pressure",
-      "score": 4,
-      "direction": "neutral"
     }
   ]
 }
