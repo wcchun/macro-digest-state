@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-09T13:31:17Z",
+  "last_run_utc": "2026-09-11T01:16:56Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open), matching the macro digest's own \"thin window\" finding for the same period. Checked and excluded: a Wolfe Research PLTR upgrade to Peer Perform surfaced in search results dates to Jun 16 2026 \u2014 stale, not in-window. No new contract, earnings, insider-filing, or analyst-action news found. Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 0.986 (in-band) / OI P/C 1.002 (marginally outside the 0.45-1.00 band), term-structure ratio 0.974, skew -1.96, IV rank 68.2% (sample 39). Golden cross 23 trading days old (as_of Tue 08 Sep close $170.30); next earnings Nov 2 2026.",
+      "last_run_window": "Fri 11 Sep 09:16 MYT (delta run): 1 new since Wed 09 Sep 21:31 MYT — NVIDIA/Cisco/FAA/L3Harris sovereign-AI-for-supply-chains announcement at AIPCon 11 (Sep 10), scored 5 bullish, no dollar figure disclosed. Checked and excluded: two Seeking Alpha contributor-opinion downgrade pieces (not sell-side analyst actions), a recap listicle, a routine director Form 4 sale (pre-window, immaterial size), and stale UK NFLMS/DEVCOM contract mentions surfaced by search. No new contract dollar-figure win, earnings item, insider-filing anomaly, index action, or credible sell-side rating change found in-window. Options/technicals from Thu 10 Sep close (fresh, 1 trading day old): Vol P/C 0.768 / OI P/C 0.928 (both in-band), term-structure ratio 0.829, skew -1.31, IV rank 68.2% (sample 41). Golden cross 25 trading days old (as_of Thu 10 Sep close $165.86); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -66,7 +66,7 @@
         },
         {
           "id": "uk-nhs-contract-renewal-risk",
-          "headline": "UK Parliament Science Committee recommends against renewal of \u00a3330M NHS contract expiring early 2027; creates material revenue risk",
+          "headline": "UK Parliament Science Committee recommends against renewal of £330M NHS contract expiring early 2027; creates material revenue risk",
           "score": 7,
           "direction": "bearish"
         },
@@ -78,7 +78,7 @@
         },
         {
           "id": "da-davidson-upgrade-buy-175",
-          "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165\u2192$175, raises EPS estimates above consensus",
+          "headline": "D.A. Davidson upgrades PLTR to Buy, PT $165→$175, raises EPS estimates above consensus",
           "score": 6,
           "direction": "bullish"
         },
@@ -201,11 +201,17 @@
           "headline": "UK's National Energy System Operator (NESO) hands Palantir a £21.2M direct award (no competitive bid) continuing Foundry licensing for its Connections and Skip Rates processes, Sep 8 2026-Jul 31 2027 with extension options; a modest counter-signal to the standing NHS contract-renewal-risk thread from a different UK public body",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "pltr-nvidia-supply-chain-sovereign-ai-aipcon11-sep10",
+          "headline": "Palantir and NVIDIA announce a jointly-built sovereign-AI stack for critical supply chains (Nemotron models integrated into Foundry/AIP/Ontology) at AIPCon 11, showcased alongside customer presentations from Cisco, FAA, L3Harris, Eaton, Acrisure, Hexion, Ondas Sentinel, USA Today and Zeta Global; no dollar figure disclosed",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open). Checked, unchanged: NHTSA Cybercab certification Audit Query AQ26002 (opened Sep 3-4, confirmed still the active/most-recent NHTSA action, no escalation this window), degraded-visibility FSD engineering analysis (EA26002), suspension-lateral-link preliminary evaluation, Nevada 5,000-vehicle Clark County permit, Slovenia FSD approval/Uber read-through. Checked and excluded: no new NHTSA filing, insider Form 4, or analyst thesis change found in-window (SEC insider-filing search returned nothing dated after Jun 2026). Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 0.543 / OI P/C 0.737 (both in-band), term-structure ratio 0.825, skew -1.42, IV rank 59.6% (sample 39). Death cross 51 trading days old (as_of Tue 08 Sep close $368.16, still below 200MA despite the recent rally); next earnings Oct 21 2026.",
+      "last_run_window": "Fri 11 Sep 09:16 MYT (delta run): nothing scored 4+ since Wed 09 Sep 21:31 MYT. NHTSA Cybercab Audit Query AQ26002 unchanged — no escalation, no new filing found in-window. Checked and excluded: a routine CFO (Vaibhav Taneja) sell-to-cover Form 4 (~2,606 shares, ~$938k, dated Sep 8, pre-window, tax-withholding mechanics not a discretionary sale), recap/opinion articles on the Cybercab launch, no new NHTSA action, analyst rating/PT change, lawsuit ruling, short-seller report, capital-structure event, or contract/product news dated in-window. Options/technicals from Thu 10 Sep close (fresh, 1 trading day old): Vol P/C 0.800 / OI P/C 0.847 (both in-band), term-structure ratio 0.881, skew -1.68, IV rank 58.6% (sample 41). Death cross 53 trading days old (as_of Thu 10 Sep close $363.56, still below 200MA); next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -215,7 +221,7 @@
         },
         {
           "id": "china-july-wholesale-record-93k-aug4",
-          "headline": "Tesla China July wholesale sales: 93,579 units, highest month of 2026, +37.85% YoY, 9th straight month of YoY growth \u2014 counters the soft-EV-demand/BYD-share-loss narrative for the Shanghai plant (>50% of global output)",
+          "headline": "Tesla China July wholesale sales: 93,579 units, highest month of 2026, +37.85% YoY, 9th straight month of YoY growth — counters the soft-EV-demand/BYD-share-loss narrative for the Shanghai plant (>50% of global output)",
           "score": 5,
           "direction": "bullish"
         },
@@ -263,7 +269,7 @@
         },
         {
           "id": "analyst-pt-cuts-jul-23-24-post-earnings",
-          "headline": "Multiple analysts cut price targets post-Q2 earnings: Goldman Sachs PT $315\u2192$285 (-8%), consensus shifts from Buy (47) to Hold (26); stock fell 7.5%, rallied to $420",
+          "headline": "Multiple analysts cut price targets post-Q2 earnings: Goldman Sachs PT $315→$285 (-8%), consensus shifts from Buy (47) to Hold (26); stock fell 7.5%, rallied to $420",
           "score": 6,
           "direction": "bearish"
         },
@@ -281,7 +287,7 @@
         },
         {
           "id": "nhtsa-headlight-recall-denial-19900-vehicles-jul-16",
-          "headline": "NHTSA denies Tesla petition and mandates 19,900-vehicle recall (2017\u20132023 Model 3/Y) over headlight glare risk; regulatory escalation signals stricter oversight",
+          "headline": "NHTSA denies Tesla petition and mandates 19,900-vehicle recall (2017–2023 Model 3/Y) over headlight glare risk; regulatory escalation signals stricter oversight",
           "score": 6,
           "direction": "bearish"
         },
@@ -395,13 +401,13 @@
         },
         {
           "id": "burry-covers-tsla-short-aug13",
-          "headline": "Michael Burry (Scion Asset Management) covers his TSLA short (opened Jun 30 at $416.22); same reporting batch shows him adding to Micron shorts and rolling into a larger QQQ put position \u2014 a broad risk-rotation, not a TSLA-specific thesis reversal",
+          "headline": "Michael Burry (Scion Asset Management) covers his TSLA short (opened Jun 30 at $416.22); same reporting batch shows him adding to Micron shorts and rolling into a larger QQQ put position — a broad risk-rotation, not a TSLA-specific thesis reversal",
           "score": 6,
           "direction": "bullish"
         },
         {
           "id": "nevada-av-regulatory-filing-aug13",
-          "headline": "Secondary-sourced reports (TipRanks, CoinCentral) of a Nevada Transportation Authority robotaxi-related filing/approval contributing to Thursday's rally; exact scope unconfirmed \u2014 could be the pending 5,000-vehicle commercial AVNC permit (Docket 26-05015) or a narrower procedural filing; primary docket unverified",
+          "headline": "Secondary-sourced reports (TipRanks, CoinCentral) of a Nevada Transportation Authority robotaxi-related filing/approval contributing to Thursday's rally; exact scope unconfirmed — could be the pending 5,000-vehicle commercial AVNC permit (Docket 26-05015) or a narrower procedural filing; primary docket unverified",
           "score": 5,
           "direction": "bullish"
         },
@@ -413,13 +419,13 @@
         },
         {
           "id": "nevada-robotaxi-permit-resolved-10-vehicle-cap-aug14",
-          "headline": "Nevada Transportation Authority interim order confirms Tesla Robotaxi LLC's AVNC Permit (Docket 26-05015): capped at just 10 fully autonomous vehicles, geofenced to the Las Vegas Strip corridor, roads \u226445mph only \u2014 a fraction of the 5,000-vehicle request that drove Thursday's rally on unconfirmed reports; any fleet/area expansion requires separate NTA approval",
+          "headline": "Nevada Transportation Authority interim order confirms Tesla Robotaxi LLC's AVNC Permit (Docket 26-05015): capped at just 10 fully autonomous vehicles, geofenced to the Las Vegas Strip corridor, roads ≤45mph only — a fraction of the 5,000-vehicle request that drove Thursday's rally on unconfirmed reports; any fleet/area expansion requires separate NTA approval",
           "score": 5,
           "direction": "neutral"
         },
         {
           "id": "tsla-cybercab-wireless-charging-hub-permit",
-          "headline": "Austin permit filings show Tesla leased a facility on St. Elmo Road, planning 80 wireless chargers for the Cybercab fleet \u2014 first physical-infrastructure evidence behind the 'launch as soon as this month' reporting",
+          "headline": "Austin permit filings show Tesla leased a facility on St. Elmo Road, planning 80 wireless chargers for the Cybercab fleet — first physical-infrastructure evidence behind the 'launch as soon as this month' reporting",
           "score": 5,
           "direction": "bullish"
         },
@@ -431,7 +437,7 @@
         },
         {
           "id": "tesla-cybercab-public-launch-prep-austin-aug17",
-          "headline": "The Information: Tesla preps public Cybercab (no-wheel/no-pedal) launch in Austin 'as soon as this month' \u2014 starts with employee rides on public roads before rolling into paid robotaxi service",
+          "headline": "The Information: Tesla preps public Cybercab (no-wheel/no-pedal) launch in Austin 'as soon as this month' — starts with employee rides on public roads before rolling into paid robotaxi service",
           "score": 6,
           "direction": "bullish"
         },
@@ -455,25 +461,25 @@
         },
         {
           "id": "nevada-5000-robotaxi-permit-clark-county-aug20",
-          "headline": "Nevada Transportation Authority unanimously approves permits for Tesla (up to 5,000 vehicles), Uber (1,000, via Motional/Zoox), and Waymo (1,000) to run commercial robotaxi service across all of Clark County \u2014 reversing the Jul 27/Aug 14 order that had capped Tesla at 10 vehicles geofenced to the Strip; Tesla's Cybercab lead Eric Early calls 5,000 'always... a ceiling,' says the company would be satisfied reaching ~2,500 within a year; local taxi/livery operators opposed the permits as moving too fast",
+          "headline": "Nevada Transportation Authority unanimously approves permits for Tesla (up to 5,000 vehicles), Uber (1,000, via Motional/Zoox), and Waymo (1,000) to run commercial robotaxi service across all of Clark County — reversing the Jul 27/Aug 14 order that had capped Tesla at 10 vehicles geofenced to the Strip; Tesla's Cybercab lead Eric Early calls 5,000 'always... a ceiling,' says the company would be satisfied reaching ~2,500 within a year; local taxi/livery operators opposed the permits as moving too fast",
           "score": 7,
           "direction": "bullish"
         },
         {
           "id": "tsla-china-recall-door-handle-driver-monitoring-aug21",
-          "headline": "Tesla recalls ~5.7M combined vehicles in China (2.96M for emergency door-handle visibility/accessibility post-collision \u2014 remedied via warning labels plus an OTA update that auto-lowers windows after a crash; 2.74M for driver-monitoring \u2014 adds cabin-camera eye-tracking to the assisted-driving system) as part of an 11-automaker, ~4M+ vehicle industry-wide regulatory crackdown; China will also ban concealed door handles from 2027, a design Tesla popularized \u2014 no physical part replacement required, but sets a design-standard precedent",
+          "headline": "Tesla recalls ~5.7M combined vehicles in China (2.96M for emergency door-handle visibility/accessibility post-collision — remedied via warning labels plus an OTA update that auto-lowers windows after a crash; 2.74M for driver-monitoring — adds cabin-camera eye-tracking to the assisted-driving system) as part of an 11-automaker, ~4M+ vehicle industry-wide regulatory crackdown; China will also ban concealed door handles from 2027, a design Tesla popularized — no physical part replacement required, but sets a design-standard precedent",
           "score": 6,
           "direction": "bearish"
         },
         {
           "id": "tsla-semi-iaa-hannover-europe-launch-confirmed-aug21",
-          "headline": "Tesla confirms it will reveal European Semi launch details (local pricing, Megacharger rollout plans, delivery timeline) at IAA Transportation Hannover, Sept 15-20 2026 (press day Sept 14) \u2014 first concrete step toward commercializing the Semi in Europe; no range, pricing, or on-sale date disclosed yet",
+          "headline": "Tesla confirms it will reveal European Semi launch details (local pricing, Megacharger rollout plans, delivery timeline) at IAA Transportation Hannover, Sept 15-20 2026 (press day Sept 14) — first concrete step toward commercializing the Semi in Europe; no range, pricing, or on-sale date disclosed yet",
           "score": 5,
           "direction": "bullish"
         },
         {
           "id": "tsla-solar-roof-discontinued-aug20",
-          "headline": "Trade press (Electrek, TeslaNorth, Benzinga et al.) reports Tesla has quietly discontinued its Solar Roof tile product (~10 years after launch), telling certified installers the tiles are no longer orderable and pulling the product from its website; company shifts Energy focus entirely to traditional solar panels (incl. new 420W panels from Giga New York); no official Tesla statement, cited as not financially viable. Solar Roof volumes have been immaterial for years \u2014 Energy segment revenue is overwhelmingly Megapack/Powerwall \u2014 so direct P&L impact is negligible, but it reinforces a narrative of Tesla product bets not scaling",
+          "headline": "Trade press (Electrek, TeslaNorth, Benzinga et al.) reports Tesla has quietly discontinued its Solar Roof tile product (~10 years after launch), telling certified installers the tiles are no longer orderable and pulling the product from its website; company shifts Energy focus entirely to traditional solar panels (incl. new 420W panels from Giga New York); no official Tesla statement, cited as not financially viable. Solar Roof volumes have been immaterial for years — Energy segment revenue is overwhelmingly Megapack/Powerwall — so direct P&L impact is negligible, but it reinforces a narrative of Tesla product bets not scaling",
           "score": 4,
           "direction": "bearish"
         },
@@ -521,7 +527,7 @@
         },
         {
           "id": "tsla-cybercab-austin-launch-fleet-form-sep3",
-          "headline": "Tesla holds invite-only Cybercab Austin launch event confirming the two-seat, no-steering-wheel/no-pedal robotaxi runs on AI4 compute, emphasizing fleet economics for commercial operators over consumer specs, with no final MSRP, order button, or delivery date disclosed; same day, Tesla opens a web form soliciting third parties interested in buying/operating Cybercab fleets or mobility hubs \u2014 a shift from an all in-house robotaxi model; stock reaction muted despite a ~6% pre-event intraday rally",
+          "headline": "Tesla holds invite-only Cybercab Austin launch event confirming the two-seat, no-steering-wheel/no-pedal robotaxi runs on AI4 compute, emphasizing fleet economics for commercial operators over consumer specs, with no final MSRP, order button, or delivery date disclosed; same day, Tesla opens a web form soliciting third parties interested in buying/operating Cybercab fleets or mobility hubs — a shift from an all in-house robotaxi model; stock reaction muted despite a ~6% pre-event intraday rally",
           "score": 6,
           "direction": "neutral"
         },
@@ -545,7 +551,7 @@
         },
         {
           "id": "tsla-musk-zero-occupant-robotaxi-confirmed-sep6",
-          "headline": "Musk confirms via X (Sunday Sep 6) that Tesla is testing Robotaxi in Austin with zero occupants \u2014 no rider, no safety driver \u2014 after an X user posted video of the empty vehicle driving itself; first fully-driverless public-road demonstration reported, layered on top of NHTSA's Sep 4 Audit Query into Cybercab's no-steering-wheel FMVSS certification",
+          "headline": "Musk confirms via X (Sunday Sep 6) that Tesla is testing Robotaxi in Austin with zero occupants — no rider, no safety driver — after an X user posted video of the empty vehicle driving itself; first fully-driverless public-road demonstration reported, layered on top of NHTSA's Sep 4 Audit Query into Cybercab's no-steering-wheel FMVSS certification",
           "score": 5,
           "direction": "bullish"
         },
@@ -558,17 +564,17 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open). Checked, unchanged: Tuesday's post-close Goldman Sachs conference remarks (Dylan Field AI-first strategy reiteration, ~50% Figma Make AI-credit price cut) remain the operative fact, already scored last run; Findell activist thread (no new letter this window), the CPO/CMO vacancy, the fully-released Extended Lock-Up supply overhang. Checked and excluded: routine 10b5-1 Form 4s, recirculated Canva/Adobe/Anthropic AI-tooling comparisons with no new FIG-specific fact this window. Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 0.487 / OI P/C 0.591 (both in-band), term-structure ratio 1.139, skew proxy -3.71 vol pts, IV rank 61.5% (sample 39). Golden cross 33 trading days old (as_of Tue 08 Sep close $22.75, price has since round-tripped back below it); next earnings Nov 4 2026.",
+      "last_run_window": "Fri 11 Sep 09:16 MYT (delta run): 1 new since Wed 09 Sep 21:31 MYT — Bloomberg removed FIG from the Bloomberg 500 Index effective before Thu 10 Sep open (Sept reconstitution, 1 of 13 removals), scored 5 bearish on the flows channel; magnitude of any price reaction is unconfirmed across sources (one data point put Thursday's close roughly flat). Checked and excluded: three routine Form 4s (General Counsel, CAO, CRO — RSU/tax-withholding sales, pre-window), no new Findell activist letter or board response, recirculated Canva/Adobe/Anthropic AI-competitor narrative pieces with no new FIG-specific shipped fact, and an uncorroborated search-summary claim of a Dylan Field CEO departure that could not be verified against any primary source — rejected, not carried forward, flagged for re-check only if independently confirmed later. Options/technicals from Thu 10 Sep close (fresh, 1 trading day old): Vol P/C 0.553 / OI P/C 0.581 (both in-band), term-structure ratio 0.957, skew -6.93 (approaching but under the 8pt threshold), IV rank 60.6% (sample 41). Golden cross 35 trading days old but price ($22.14) has since fallen back below all three MAs — a mixed technical signal; next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
-          "headline": "Figma Config 2026: launches major AI feature suite \u2014 motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides",
+          "headline": "Figma Config 2026: launches major AI feature suite — motion, 3D transforms, shaders, code layers, agent skills, generative plugins, Weave workflows; extends to FigJam/Slides",
           "score": 7,
           "direction": "bullish"
         },
         {
           "id": "anthropic-claude-design-competitive-threat-apr-17",
-          "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5\u20137%; Mike Krieger (FIG CPO) resigned board same day",
+          "headline": "Anthropic launches Claude Design (Apr 17) with text-to-prototype capability; targets non-designer MVP buyers; Figma stock fell 5–7%; Mike Krieger (FIG CPO) resigned board same day",
           "score": 8,
           "direction": "bearish"
         },
@@ -610,7 +616,7 @@
         },
         {
           "id": "august-2026-lockup-expiration-risk",
-          "headline": "August 2026 post-IPO lockup expiration (Aug 31) looming; 54.1% of Class A shares eligible (~$6\u20137B supply); VC holders have low-cost basis incentive to monetize",
+          "headline": "August 2026 post-IPO lockup expiration (Aug 31) looming; 54.1% of Class A shares eligible (~$6–7B supply); VC holders have low-cost basis incentive to monetize",
           "score": 5,
           "direction": "bearish"
         },
@@ -652,13 +658,13 @@
         },
         {
           "id": "fig-wells-fargo-morgan-stanley-pt-cuts-aug6",
-          "headline": "Wells Fargo cuts FIG PT to $36 from $38 (Overweight maintained); Morgan Stanley cuts to $33 from $38 (Equal Weight maintained) \u2014 same post-earnings wave as RBC's move to $28",
+          "headline": "Wells Fargo cuts FIG PT to $36 from $38 (Overweight maintained); Morgan Stanley cuts to $33 from $38 (Equal Weight maintained) — same post-earnings wave as RBC's move to $28",
           "score": 4,
           "direction": "bearish"
         },
         {
           "id": "fig-citi-pt-raise-37-aug7",
-          "headline": "Citi raises FIG price target to $37 from $35, maintains Buy, following the Q2 beat-and-raise \u2014 joins the post-earnings analyst-action wave alongside Wells Fargo/Morgan Stanley cuts and RBC's raise",
+          "headline": "Citi raises FIG price target to $37 from $35, maintains Buy, following the Q2 beat-and-raise — joins the post-earnings analyst-action wave alongside Wells Fargo/Morgan Stanley cuts and RBC's raise",
           "score": 4,
           "direction": "bullish"
         },
@@ -676,7 +682,7 @@
         },
         {
           "id": "fig-ai-threat-to-tailwind-sector-rerate-aug27",
-          "headline": "Design-software sector-wide re-rating: investors flip AI from perceived existential threat to monetization tailwind for design/collaboration platforms; FIG +13.28% Thu (~$27.03->~$30.27), Atlassian +8%, group outpaces QQQ's ~+1% \u2014 no discrete new company fact behind the move",
+          "headline": "Design-software sector-wide re-rating: investors flip AI from perceived existential threat to monetization tailwind for design/collaboration platforms; FIG +13.28% Thu (~$27.03->~$30.27), Atlassian +8%, group outpaces QQQ's ~+1% — no discrete new company fact behind the move",
           "score": 6,
           "direction": "bullish"
         },
@@ -697,11 +703,17 @@
           "headline": "CEO Dylan Field, at the Goldman Sachs Communacopia + Technology Conference fireside chat (Tue Sep 8, 5:25pm ET), reiterates an AI-first strategy centered on making the canvas the hub of product work, and discloses Figma cut Figma Make AI-credit pricing by roughly 50% in some cases to favor volume/adoption over near-term margin",
           "score": 5,
           "direction": "bearish"
+        },
+        {
+          "id": "fig-bloomberg500-index-removal-sep10",
+          "headline": "Figma removed from the Bloomberg 500 Index effective before Thursday Sep 10's open (Bloomberg's September reconstitution, one of 13 removals); a passive-flow event on top of FIG's existing thin float and lockup supply overhang — net intraday price impact unconfirmed across sources",
+          "score": 5,
+          "direction": "bearish"
         }
       ]
     },
     "GPRO": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open). Checked, unchanged: $1.14/share cash-plus-~10%-stub Starman Optical deal terms, Halper Sadeh/Ademi LLP/Kahn Swick & Foti fair-price investigation notices (still notice-only, no lawsuit filed), Markiplier 8.5% stake thread. Checked and excluded: Monteverde & Associates also confirmed investigating the deal \u2014 same standard M&A law-firm piling-on pattern as the others already logged, no new valuation information, scores \u22643. No shareholder-vote date announced yet. Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 0.522 / OI P/C 0.575 (both in-band), skew proxy +2.34 vol pts, term-structure ratio 1.085, IV rank 22.1% but sample_size=6 \u2014 too small to interpret. Golden cross 3 trading days old (as_of Tue 08 Sep close $1.46; MA distances of +73%/+89%/+38% vs 20/50/200MA are merger-jump artifacts, not a trend signal), volume 1.1\u00d7 ADV20; next earnings Nov 5 2026 (likely superseded by the merger timeline).",
+      "last_run_window": "Fri 11 Sep 09:16 MYT (delta run): nothing scored 4+ since Wed 09 Sep 21:31 MYT — second consecutive thin window. Checked per the standing merger thread: no shareholder-vote date set yet (still \"intends to file\" a proxy per DEFA14A filings through Sep 4), law-firm fair-price notices remain at investigation-stage only (no lawsuit filed), no update on the Markiplier stake or float-short data, no regulatory (HSR/FCC/CFIUS) clearance news. Noted, pre-window (Sep 8, one day before this window opened, so out of scope this run): GoPro closed its third-and-final $20M convertible-debenture tranche with Yorkville (YA II PN) — a genuine capital-structure item; will score if new dilution/pricing detail emerges. Options/technicals from Thu 10 Sep close (fresh, 1 trading day old): Vol P/C 0.173 (well outside the 0.45-1.00 band, call-heavy) / OI P/C 0.518 (in-band), skew proxy 0.0, term-structure ratio 1.065, IV rank 9.1% but sample_size=6→8 — still too small to interpret. Golden cross 5 trading days old (as_of Thu 10 Sep close $1.40; MA distances of +52%/+76%/+33% vs 20/50/200MA remain merger-jump artifacts, not a trend signal), volume 1.0× ADV20; next earnings Nov 5 2026 (likely superseded by the merger timeline).",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -742,7 +754,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Wed 09 Sep 21:31 MYT (delta run): nothing scored 4+ since Wed 09 Sep 09:13 MYT \u2014 thin intraday window (Wed Asia/Europe daytime, pre-US-open). Checked, unchanged: the independent-examiner appointment (Aug 26) and fraudulent-transfer allegations against EchoStar/Ergen remain the base thesis; Tuesday's UBS Buy upgrade (PT $150) remains the operative fact, already scored last run; next scheduled event remains the Sept 10 meeting of creditors in the Hughes Chapter 11 case. Checked and excluded: generic trade-press recaps of the AT&T/SpaceX spectrum deals and the Hughes bankruptcy already on file \u2014 no new dated filing or FCC action confirmed in-window. Options/technicals unchanged from Tue 08 Sep close snapshot (no new snapshot published this window): Vol P/C 3.835 (extreme put-heavy, outside band) / OI P/C 0.430 (outside band), skew proxy -17.26 vol pts (crosses the 8-pt threshold), term-structure ratio 0.967, IV rank 100.0% but sample_size=6 \u2014 too small to interpret. Death cross 59 trading days old (as_of Tue 08 Sep close $93.42); balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Fri 11 Sep 09:16 MYT (delta run): nothing scored 4+ since Wed 09 Sep 21:31 MYT. The Sept 10 meeting of creditors in the Hughes Chapter 11 case appears to have occurred as scheduled but no outcome has been reported yet; the next dated catalyst is now the Sept 17 2026 hearing on the independent examiner's scope/budget (Judge Pérez, S.D. Tex.) — no examiner has been named yet. Also flagged for next run: an unresolved procedural dispute (Debtors' Emergency Motion to Quash the Noteholder Group's Rule 2004 document requests, opposed by both the Noteholder Group and the Official Committee of Unsecured Creditors) that could not be dated precisely enough to score this run — re-check with a firmer filing date next time. Checked and excluded: no new FCC/spectrum action, no credit-rating action, no insider Form 4, no Boost Mobile subscriber update; SpaceX (SPCX) traded a normal range Sep 10, no swing large enough to be a new catalyst for ECHO's not-yet-closed stake. Options/technicals from Thu 10 Sep close (fresh, 1 trading day old): Vol P/C 7.626 (extreme put-heavy, outside band) / OI P/C 0.439 (outside band), skew proxy +10.45 vol pts (crosses the 8pt threshold), term-structure ratio 0.927, IV rank 92.3% but sample_size=6→8 — still too small to interpret. Death cross 61 trading days old (as_of Thu 10 Sep close $91.85); balance_sheet_ok false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
