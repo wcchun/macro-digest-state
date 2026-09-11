@@ -1,17 +1,23 @@
 {
-  "last_run_utc": "2026-09-11T01:05:17Z",
-  "last_run_window": "Thu 10 Sep 21:23 MYT to Fri 11 Sep 09:05 MYT (Thursday's full US cash session through pre-CPI Friday morning)",
+  "last_run_utc": "2026-09-11T13:21:44Z",
+  "last_run_window": "Fri 11 Sep 09:05 MYT to Fri 11 Sep 21:21 MYT (pre-market hours ahead of tonight's US cash open)",
   "stories": [
     {
       "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Escalation: US Destroys 5 Iranian Crude Tankers After IRGC Attempts on US Warship; Iran Retaliates with 20-30 Ballistic Missiles at Jordan's Al Azraq Base (Hosting US Forces, 18/20 Intercepted, No Casualties) and Strikes at 10 Ships Near Hormuz; Thursday's Full Session Confirms the Move: Nasdaq -0.6% to 26,253 (4th Straight Down Day), Brent Settles $101.21, 10yr Yield Holds ~4.84-4.86% Near Multi-Year Highs",
-      "score": 7,
+      "headline": "Iran/Hormuz Escalation Continues: Acting Navy Secretary Says Iranian Forces Heavily Damaged US Fifth Fleet Base in Bahrain; Iran Declares a \"Maritime Exclusion Zone\" Across the Persian Gulf/Strait of Hormuz and Threatens Response to Latest IAEA Board Resolution; Hormuz Ship Traffic Falls to Lowest Since May",
+      "score": 8,
       "direction": "bearish"
     },
     {
       "id": "doj-nvidia-groq-antitrust-probe-sep10",
       "headline": "DOJ Investigating Whether Nvidia Structured Its $20B Non-Exclusive Licensing Deal with AI Chip Startup Groq to Evade Antitrust Review; Formal Information Demand Sent, NVDA Dips Modestly on the Report",
       "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "cpi-hawkish-fed-repricing-sep11",
+      "headline": "August CPI Beats Ahead of FOMC: Headline +0.4% MoM (3.4% YoY), Core +0.3% MoM (0.1pt Above Forecast, 2.4% YoY In Line); Combined with War-Driven August PPI, 10yr Treasury Yield Spikes to Cusp of 5% (+18bp on the Week, Highest Since 2023) as Markets Price ~71% Odds of a 25bp Fed HIKE (Not Cut) at the Sept 15-16 FOMC",
+      "score": 7,
       "direction": "bearish"
     }
   ]
