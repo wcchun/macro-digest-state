@@ -1,16 +1,16 @@
 {
-  "last_run_utc": "2026-09-10T13:23:11Z",
-  "last_run_window": "Thu 10 Sep 09:04 MYT to Thu 10 Sep 21:23 MYT (Thursday US pre-market session, through August PPI and jobless claims releases)",
+  "last_run_utc": "2026-09-11T01:05:17Z",
+  "last_run_window": "Thu 10 Sep 21:23 MYT to Fri 11 Sep 09:05 MYT (Thursday's full US cash session through pre-CPI Friday morning)",
   "stories": [
     {
       "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Escalation: US Destroys 5 Iranian Crude Tankers After IRGC Attempts on US Warship; Iran Retaliates with 20-30 Ballistic Missiles at Jordan's Al Azraq Base (Hosting US Forces, 18/20 Intercepted, No Casualties) and Strikes at 10 Ships Near Hormuz; Brent Closes ~$100.71 (+2.85%, Highest in ~7 Weeks); US Equities Close Lower (Dow -0.77%, S&P -0.48%, Nasdaq -0.64%)",
+      "headline": "Iran/Hormuz Escalation: US Destroys 5 Iranian Crude Tankers After IRGC Attempts on US Warship; Iran Retaliates with 20-30 Ballistic Missiles at Jordan's Al Azraq Base (Hosting US Forces, 18/20 Intercepted, No Casualties) and Strikes at 10 Ships Near Hormuz; Thursday's Full Session Confirms the Move: Nasdaq -0.6% to 26,253 (4th Straight Down Day), Brent Settles $101.21, 10yr Yield Holds ~4.84-4.86% Near Multi-Year Highs",
       "score": 7,
       "direction": "bearish"
     },
     {
-      "id": "ppi-fedspeak-hawkish-repricing-sep10",
-      "headline": "Aug PPI Mixed (Headline +0.4% m/m In Line, YoY 5.4% ~0.1pt Hot; Core +0.2% m/m Cooler Than 0.3% Forecast); Fed's Daly & Musalem Publicly Rule Out a Jumbo 50bp Cut; 10yr Yield +5bp, DXY +0.42% Ahead of Sept 15-16 FOMC",
+      "id": "doj-nvidia-groq-antitrust-probe-sep10",
+      "headline": "DOJ Investigating Whether Nvidia Structured Its $20B Non-Exclusive Licensing Deal with AI Chip Startup Groq to Evade Antitrust Review; Formal Information Demand Sent, NVDA Dips Modestly on the Report",
       "score": 6,
       "direction": "bearish"
     }
