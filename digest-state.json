@@ -1,23 +1,23 @@
 {
-  "last_run_utc": "2026-09-12T01:07:38Z",
-  "last_run_window": "Fri 11 Sep 21:21 MYT to Sat 12 Sep 09:07 MYT (Friday's US cash session through Saturday pre-dawn MYT)",
+  "last_run_utc": "2026-09-12T13:06:55Z",
+  "last_run_window": "Sat 12 Sep 09:07 MYT to Sat 12 Sep 21:06 MYT (Saturday daytime; no US cash session fell in this window)",
   "stories": [
     {
-      "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Thread: Oil Pulls Back From a Brief Push Above $100 as Friday's Fighting Reportedly Pauses and US Equities Rebound ~0.9-1%, but Unconfirmed Reports Describe Expanded Iranian Strikes on Bahrain/Kuwait/Jordan and a First Reported Tanker Fatality",
+      "id": "umich-sentiment-inflation-expectations-sep11",
+      "headline": "Prelim Sept University of Michigan Consumer Sentiment Craters to 47.8 (from 51.7) as 1-Year Inflation Expectations Jump to 4.6% (from 4.0%), Landing Just Ahead of the Sept 15-16 FOMC",
       "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "iran-jordan-tanker-strikes-sep9",
+      "headline": "Iran/Hormuz Thread: Pezeshkian Announces Iran-Oman Transit-Route Deal Will Be Signed Monday in Muscat, but Reopening Stays Conditional on the US Ending Its Naval Blockade; Strait Traffic Still ~94% Below Pre-War Levels",
+      "score": 5,
       "direction": "bearish"
     },
     {
       "id": "cpi-hawkish-fed-repricing-sep11",
       "headline": "CPI/Rates Thread: 10yr Treasury Touches Cusp of 5% (Highest Since 2007) Intraday, Then Eases as August CPI Prints In-Line and Oil Retreats; S&P/Nasdaq/Dow Rebound ~0.9-1% on the Session",
       "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "umich-sentiment-inflation-expectations-sep11",
-      "headline": "Prelim Sept University of Michigan Consumer Sentiment Craters to 47.8 (from 51.7) as 1-Year Inflation Expectations Jump to 4.6% (from 4.0%), Landing Just Ahead of the Sept 15-16 FOMC",
-      "score": 6,
       "direction": "bearish"
     }
   ]
