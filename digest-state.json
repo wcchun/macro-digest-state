@@ -1,23 +1,23 @@
 {
-  "last_run_utc": "2026-09-11T13:21:44Z",
-  "last_run_window": "Fri 11 Sep 09:05 MYT to Fri 11 Sep 21:21 MYT (pre-market hours ahead of tonight's US cash open)",
+  "last_run_utc": "2026-09-12T01:07:38Z",
+  "last_run_window": "Fri 11 Sep 21:21 MYT to Sat 12 Sep 09:07 MYT (Friday's US cash session through Saturday pre-dawn MYT)",
   "stories": [
     {
       "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Escalation Continues: Acting Navy Secretary Says Iranian Forces Heavily Damaged US Fifth Fleet Base in Bahrain; Iran Declares a \"Maritime Exclusion Zone\" Across the Persian Gulf/Strait of Hormuz and Threatens Response to Latest IAEA Board Resolution; Hormuz Ship Traffic Falls to Lowest Since May",
-      "score": 8,
-      "direction": "bearish"
-    },
-    {
-      "id": "doj-nvidia-groq-antitrust-probe-sep10",
-      "headline": "DOJ Investigating Whether Nvidia Structured Its $20B Non-Exclusive Licensing Deal with AI Chip Startup Groq to Evade Antitrust Review; Formal Information Demand Sent, NVDA Dips Modestly on the Report",
+      "headline": "Iran/Hormuz Thread: Oil Pulls Back From a Brief Push Above $100 as Friday's Fighting Reportedly Pauses and US Equities Rebound ~0.9-1%, but Unconfirmed Reports Describe Expanded Iranian Strikes on Bahrain/Kuwait/Jordan and a First Reported Tanker Fatality",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "cpi-hawkish-fed-repricing-sep11",
-      "headline": "August CPI Beats Ahead of FOMC: Headline +0.4% MoM (3.4% YoY), Core +0.3% MoM (0.1pt Above Forecast, 2.4% YoY In Line); Combined with War-Driven August PPI, 10yr Treasury Yield Spikes to Cusp of 5% (+18bp on the Week, Highest Since 2023) as Markets Price ~71% Odds of a 25bp Fed HIKE (Not Cut) at the Sept 15-16 FOMC",
-      "score": 7,
+      "headline": "CPI/Rates Thread: 10yr Treasury Touches Cusp of 5% (Highest Since 2007) Intraday, Then Eases as August CPI Prints In-Line and Oil Retreats; S&P/Nasdaq/Dow Rebound ~0.9-1% on the Session",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "umich-sentiment-inflation-expectations-sep11",
+      "headline": "Prelim Sept University of Michigan Consumer Sentiment Craters to 47.8 (from 51.7) as 1-Year Inflation Expectations Jump to 4.6% (from 4.0%), Landing Just Ahead of the Sept 15-16 FOMC",
+      "score": 6,
       "direction": "bearish"
     }
   ]
