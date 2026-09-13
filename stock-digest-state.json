@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-12T13:10:27Z",
+  "last_run_utc": "2026-09-13T13:16:26Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sat 12 Sep 21:10 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 09:12 MYT. Checked and excluded (score \u22643 / likely pre-window, not stored): D.A. Davidson (Gil Luria) PT raise to $250 from $200 (Buy) citing AIPCon 11 sovereign-AI theme and the already-stored Army TITAN award \u2014 publish timing ambiguous but consistent with Fri 11 Sep trading hours, already inside the prior run's covered window and no new fact beyond stored items. No new analyst action, insider-filing deviation, legal ruling, or DoD/allied contract found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 0.818 / OI P/C 0.933 (both in-band), term-structure ratio 0.129, skew -1.05, IV rank 65.0% (sample 42). Golden cross 26 trading days old (as_of Fri 11 Sep close $167.23, now -4.74% vs 20MA); next earnings Nov 2 2026.",
+      "last_run_window": "Sun 13 Sep 21:16 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 21:10 MYT. Checked and excluded (score \u22643 / pre-window or pure recap): Rosenblatt reiterated Buy $225 PT and D.A. Davidson $250 PT (both dated Sep 11, pre-window, reiterations not changes); Motley Fool \"Burry Is Staying Short\" recap (Sep 12) reiterates his known Sep 2-3 short thesis with no new position size or fact. No new Form 4/144 filing, contract award, litigation development, or NHS/DGSI/Nebius thread update found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 0.818 / OI P/C 0.933 (both in-band), term-structure ratio 0.129, skew -1.05, IV rank 65.0% (sample 42). Golden cross 26 trading days old (as_of Fri 11 Sep close $167.23, now -4.74% vs 20MA); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -211,7 +211,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sat 12 Sep 21:10 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 09:12 MYT. Checked and excluded: #TeslaTakedown protest events Sat 12 Sep (recurring, not stock-moving); recycled China-August-sales-slowdown commentary already stored (tsla-china-august-wholesale-86k-sep2). No new NHTSA docket movement on the Cybercab Audit Query (AQ26002) or FSD EA26002, no new analyst action, no new contract news found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 0.712 / OI P/C 0.818 (both in-band), term-structure ratio 0.097, skew -1.85, IV rank 52.9% (sample 42). Golden cross remains 0 trading days old as of Fri 11 Sep close (as_of $365.44, now +2.9% vs 20MA) — flagged again in STRATEGY TRIAGE since it is still ≤3 trading days old; next earnings Oct 21 2026.",
+      "last_run_window": "Sun 13 Sep 21:16 MYT (delta run, weekend/no-session window): 2 new since Sat 12 Sep 21:10 MYT — Morgan Stanley autonomous-trucking bull case on Tesla Semi, and the Oct 1 Roadster unveil date confirmed. Checked and excluded: Rep. Krishnamoorthi's DOT/NHTSA letter on \"sleeping FSD driver\" videos (dated Sep 9, pre-window, no agency response yet); CFO Taneja ~$938k share sale (dated Sep 8, pre-window, routine size); unverifiable September China wholesale rumor (~56k units, month incomplete, no credible source). No new NHTSA docket movement on Cybercab AQ26002 or FSD EA26002 found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 0.712 / OI P/C 0.818 (both in-band), term-structure ratio 0.097, skew -1.85, IV rank 52.9% (sample 42). Golden cross remains 0 trading days old as of Fri 11 Sep close (as_of $365.44, now +2.9% vs 20MA) — flagged again in STRATEGY TRIAGE since it is still ≤3 trading days old; next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -566,11 +566,23 @@
           "headline": "NBC News (Sep 9, citing Sep 8 remarks): Austin Fire Dept Capt. Matthew McElearney says Tesla trained first responders to move a stalled/disabled Cybercab via its touchscreen (no steering wheel/pedals) but calls it 'not the silver bullet' and wants federal standards; Tesla's own emergency-responder safety plan says a stalled Cybercab may need to be 'pushed' \u2014 a concrete new fact layered onto the open NHTSA Cybercab Audit Query (AQ26002, opened Sep 3-4)",
           "score": 5,
           "direction": "bearish"
+        },
+        {
+          "id": "ms-semi-autonomous-trucking-bullcase",
+          "headline": "Morgan Stanley (Andrew Percoco) lifts its Tesla Semi/autonomous-trucking bull-case scenario to $840 (from $820) on a new per-mile autonomous-driving software-revenue model ($12k-18k/month, ~$0.85-$1/mile per truck; ~$17B software revenue and $7.5B incremental EBIT by 2040 if Tesla reaches 82,000 Semis); Hold rating and $400 base-case PT unchanged; record diesel prices (~$6+) cited as an added tailwind",
+          "score": 5,
+          "direction": "bullish"
+        },
+        {
+          "id": "roadster-oct1-unveil-confirmed",
+          "headline": "Tesla confirms next-gen Roadster unveil for Oct 1 2026 (X post + website countdown), teaser shows SpaceX-thruster imagery, Musk calls it 'out of this world'; Musk has already flagged production is still 12-18 months out post-reveal",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Sat 12 Sep 21:10 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 09:12 MYT. Checked and excluded: a search-aggregator summary conflating Figma's actual Aug 5 AMC Q2 earnings with a spurious 'Sep 9 earnings' claim and mismatched revenue/NDR figures \u2014 contradicts the confirmed Aug 5 print and the Nov 4 2026 next-earnings date in crossover-result.json, treated as unreliable and not stored. No new Findell letter, insider filing, or analyst action found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 0.460 / OI P/C 0.576 (both in-band), term-structure ratio 0.415, skew -2.73, IV rank 55.9% (sample 42). Golden cross 36 trading days old (as_of Fri 11 Sep close $23.20, price now -10.54% vs 20MA despite the golden-cross MA structure); next earnings Nov 4 2026.",
+      "last_run_window": "Sun 13 Sep 21:16 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 21:10 MYT. Checked and excluded: GC Brendan Mulligan 10b5-1 sale (109,106 sh, dated Sep 3, pre-window, routine/immaterial); CAO Herb Tyler sale (1,840 sh, dated Aug 21, pre-window, trivial); Findell Capital activist letter re-surfacing in search results as if dated \"September\" but actually from May 28 2026, no new Findell action found in-window; conflicting/stale aggregator consensus-PT blurbs. Note: search turned up that the 2026 Config conference already occurred Jun 23-25 2026 \u2014 correcting the standing-catalyst assumption that it's still upcoming; no next edition date announced yet. No new Weave/MCP pricing rollout, insider filing beyond the above, or analyst action found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 0.460 / OI P/C 0.576 (both in-band), term-structure ratio 0.415, skew -2.73, IV rank 55.9% (sample 42). Golden cross 36 trading days old (as_of Fri 11 Sep close $23.20, price now -10.54% vs 20MA despite the golden-cross MA structure); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -713,7 +725,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Sat 12 Sep 21:10 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 09:12 MYT. Checked and excluded: a Sep 4 Schedule 14A shareholder-communications filing exists on EDGAR but no DEFM14A merger proxy or shareholder-vote date has been filed/announced yet; law-firm fair-price investigation notices remain notice-only, none escalated to a filed complaint. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 0.334 (outside the 0.45-1.00 band, call-heavy/merger-arb positioning) / OI P/C 0.510 (in-band), term-structure ratio 1.199, skew -40.63 vol pts (thin book, noisy), IV rank 0.0% but sample_size=9 \u2014 too small to interpret. Golden cross 6 trading days old (as_of Fri 11 Sep close $1.38; MA distances of +43.55%/+70.83%/+30.85% vs 20/50/200MA are merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
+      "last_run_window": "Sun 13 Sep 21:16 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 21:10 MYT. Confirmed still no DEFM14A merger proxy or shareholder-vote date filed as of this run (only DEFA14A soliciting-material/Schedule 14A comms filings exist); the four law-firm fair-price investigation notices (Halper Sadeh, Ademi, Kahn Swick & Foti, Monteverde) remain notice-only, none escalated to a filed complaint; no HSR/regulatory clearance news; no Markiplier update since his Aug 31 disclosure/Sep 2 statement. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 0.334 (outside the 0.45-1.00 band, call-heavy/merger-arb positioning) / OI P/C 0.510 (in-band), term-structure ratio 1.199, skew -40.63 vol pts (thin book, noisy), IV rank 0.0% but sample_size=9 \u2014 too small to interpret. Golden cross 6 trading days old (as_of Fri 11 Sep close $1.38; MA distances of +43.55%/+70.83%/+30.85% vs 20/50/200MA are merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -754,7 +766,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Sat 12 Sep 21:10 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 09:12 MYT. The Sep 10 Hughes 341 meeting of creditors still has no published outcome write-up \u2014 carrying forward as an open thread again. Dish DBS/Dish Wireless unsecured-creditors-committee trustee motion (filed Sep 6) remains unresolved, no ruling yet. No new FCC action, spectrum transaction, credit-rating action, or Boost Mobile subscriber update found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 9.002 (extreme put-heavy, well outside the 0.45-1.00 band) / OI P/C 0.437 (marginally outside band), skew proxy +3.86 vol pts, term-structure ratio 1.236, IV rank 17.3% but sample_size=9 \u2014 too small to interpret. Death cross 62 trading days old (as_of Fri 11 Sep close $93.14); balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Sun 13 Sep 21:16 MYT (delta run, weekend/no-session window): nothing scored 4+ since Sat 12 Sep 21:10 MYT. The Sep 10 Hughes 341 meeting of creditors still has no published outcome write-up \u2014 carrying forward as an open thread again. Dish DBS/Dish Wireless unsecured-creditors-committee trustee motion (filed Sep 6) remains unresolved, no ruling yet; separately, Dish Wireless's own plan-confirmation hearing has reportedly slipped toward as late as Dec 2 2026 on tower-company ($7.6B) lease-claim disputes \u2014 a related but distinct thread now being tracked. No new FCC action, spectrum transaction, credit-rating action, or Boost Mobile subscriber update found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session over the weekend): Vol P/C 9.002 (extreme put-heavy, well outside the 0.45-1.00 band) / OI P/C 0.437 (marginally outside band), skew proxy +3.86 vol pts, term-structure ratio 1.236, IV rank 17.3% but sample_size=9 \u2014 too small to interpret. Death cross 62 trading days old (as_of Fri 11 Sep close $93.14); balance_sheet_ok false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
