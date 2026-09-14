@@ -1,10 +1,16 @@
 {
-  "last_run_utc": "2026-09-14T01:07:57Z",
-  "last_run_window": "Sun 13 Sep 21:10 MYT to Mon 14 Sep 09:07 MYT (Sunday overnight into Monday pre-market Globex session)",
+  "last_run_utc": "2026-09-14T13:21:33Z",
+  "last_run_window": "Mon 14 Sep 09:07 MYT to Mon 14 Sep 21:21 MYT (Monday pre-market/European session, ahead of US cash open)",
   "stories": [
     {
+      "id": "iran-jordan-tanker-strikes-sep9",
+      "headline": "Iran/Hormuz Thread: Strait Remains Effectively Closed (~6 ships/day vs ~85 normal) and Saudi East-West Pipeline Still Offline From Its Sept 10-11 Drone Strikes; Brent Breaks Above $107.82 (+$3.21) and WTI ~$103 Monday, Explicitly Cited Alongside the AI-Slowdown Story as a Co-Driver of Today's Nasdaq/S&P Futures Weakness",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
       "id": "ai-slowdown-call-amodei-altman-musk-sep12",
-      "headline": "Anthropic's Amodei Posts Essay Calling for Industry-Wide Slowdown in Frontier AI Capability Development on Safety Grounds; Altman and Musk Back the Call; Nasdaq 100 Futures Fall Over 1% Sunday Night/Monday Pre-Market With Chip Names (NVDA, AMD, MU, SanDisk, Western Digital) Under Pressure",
+      "headline": "AI-Industry-Slowdown Thread: Nasdaq-100 Futures Selloff Deepens to -1.5% Monday Pre-Market (Dow -0.3%, S&P -0.6%) With Chip Names (NVDA, AMD, MU, SanDisk, WDC) Leading, as Altman's Sept 12 'Ill-Advised' IPO-Delay Comments Reinforce the Amodei/Altman/Musk Slowdown Call From the Same Weekend",
       "score": 6,
       "direction": "bearish"
     },
@@ -15,14 +21,8 @@
       "direction": "bearish"
     },
     {
-      "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Thread: Pezeshkian Announces Iran-Oman Transit-Route Deal Will Be Signed Monday in Muscat, but Reopening Stays Conditional on the US Ending Its Naval Blockade; Strait Traffic Still ~94% Below Pre-War Levels",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
       "id": "cpi-hawkish-fed-repricing-sep11",
-      "headline": "CPI/Rates Thread: 10yr Treasury Touches Cusp of 5% (Highest Since 2007) Intraday, Then Eases as August CPI Prints In-Line and Oil Retreats; S&P/Nasdaq/Dow Rebound ~0.9-1% on the Session; FOMC Hike Odds Climb to ~85% (from ~60% Two Weeks Ago) Ahead of Sept 15-16 Decision",
+      "headline": "CPI/Rates Thread: 10yr Treasury Holding Near 5% (4.96-4.98%), FOMC Hike Odds Steady Around 85-87%, DXY ~99.3-99.5 as Markets Price a Sept 16 Hike Off the In-Line-but-Hot August CPI Print",
       "score": 5,
       "direction": "bearish"
     }
