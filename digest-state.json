@@ -1,7 +1,13 @@
 {
-  "last_run_utc": "2026-09-13T13:10:00Z",
-  "last_run_window": "Sun 13 Sep 09:10 MYT to Sun 13 Sep 21:10 MYT (Sunday daytime; no US cash session or futures reopen fell in this window)",
+  "last_run_utc": "2026-09-14T01:07:57Z",
+  "last_run_window": "Sun 13 Sep 21:10 MYT to Mon 14 Sep 09:07 MYT (Sunday overnight into Monday pre-market Globex session)",
   "stories": [
+    {
+      "id": "ai-slowdown-call-amodei-altman-musk-sep12",
+      "headline": "Anthropic's Amodei Posts Essay Calling for Industry-Wide Slowdown in Frontier AI Capability Development on Safety Grounds; Altman and Musk Back the Call; Nasdaq 100 Futures Fall Over 1% Sunday Night/Monday Pre-Market With Chip Names (NVDA, AMD, MU, SanDisk, Western Digital) Under Pressure",
+      "score": 6,
+      "direction": "bearish"
+    },
     {
       "id": "umich-sentiment-inflation-expectations-sep11",
       "headline": "Prelim Sept University of Michigan Consumer Sentiment Craters to 47.8 (from 51.7) as 1-Year Inflation Expectations Jump to 4.6% (from 4.0%), Landing Just Ahead of the Sept 15-16 FOMC",
@@ -16,7 +22,7 @@
     },
     {
       "id": "cpi-hawkish-fed-repricing-sep11",
-      "headline": "CPI/Rates Thread: 10yr Treasury Touches Cusp of 5% (Highest Since 2007) Intraday, Then Eases as August CPI Prints In-Line and Oil Retreats; S&P/Nasdaq/Dow Rebound ~0.9-1% on the Session",
+      "headline": "CPI/Rates Thread: 10yr Treasury Touches Cusp of 5% (Highest Since 2007) Intraday, Then Eases as August CPI Prints In-Line and Oil Retreats; S&P/Nasdaq/Dow Rebound ~0.9-1% on the Session; FOMC Hike Odds Climb to ~85% (from ~60% Two Weeks Ago) Ahead of Sept 15-16 Decision",
       "score": 5,
       "direction": "bearish"
     }
