@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-14T01:10:00Z",
+  "last_run_utc": "2026-09-14T13:28:13Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT (delta run, short pre-Monday-session window): nothing scored 4+ since Sun 13 Sep 21:16 MYT. Checked and excluded: no new Form 4/144 filing since the Sep 1 director sale (pre-window); no DoD/Nebius/Fujitsu/AIPCon follow-up, no NHS/DGSI contract development, no new analyst action found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.818 / OI P/C 0.933 (both in-band), term-structure ratio 0.129, skew -1.05, IV rank 65.0% (sample 42). Golden cross 26 trading days old (as_of $167.23, -4.74% vs 20MA); next earnings Nov 2 2026.",
+      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. Checked and excluded: only insider filing found was a routine pre-scheduled 10b5-1 Form 4 (director Lauren Friedman, 1,342 shares, Sep 1 -- pre-window); no DoD/Nebius/Fujitsu/AIPCon follow-up, no NHS/DGSI contract development, no new analyst action found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.818 / OI P/C 0.933 (both in-band), term-structure ratio 0.129, skew -1.05, IV rank 65.0% (sample 42). Golden cross 26 trading days old (as_of $167.23, -4.74% vs 20MA); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -211,7 +211,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT (delta run, short pre-Monday-session window): nothing scored 4+ since Sun 13 Sep 21:16 MYT. Checked and excluded: Musk's Sep 12 AI-risk/AGI-danger remarks (aligned with Amodei's 'Pace the Frontier' essay and Altman) are industry-wide AI commentary already covered by the macro digest, not a Tesla-specific fact; no new NHTSA docket movement on Cybercab AQ26002 or FSD EA26002 found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.712 / OI P/C 0.818 (both in-band), term-structure ratio 0.097, skew -1.85, IV rank 52.9% (sample 42). Golden cross remains 0 trading days old as of Fri 11 Sep close ($365.44, +2.9% vs 20MA) -- flagged again in STRATEGY TRIAGE; next earnings Oct 21 2026.",
+      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. Checked and excluded: today's IAA Transportation Hannover press day (Sep 14) confirmed the Semi's European-market presence but disclosed no new fact beyond the specs/timeline already known (550km range, 800kW Megacharger, 2027 European deliveries, still no euro pricing); no new NHTSA docket movement on Cybercab AQ26002 or FSD EA26002 found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.712 / OI P/C 0.818 (both in-band), term-structure ratio 0.097, skew -1.85, IV rank 52.9% (sample 42). Golden cross remains 0 trading days old as of Fri 11 Sep close ($365.44, +2.9% vs 20MA) -- flagged again in STRATEGY TRIAGE; next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -582,7 +582,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT (delta run, short pre-Monday-session window): nothing scored 4+ since Sun 13 Sep 21:16 MYT. Checked and excluded: no new lockup flow data, Findell activist action, Weave/pricing news, or insider filing found in-window; no next-Config-edition date announced yet. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.460 / OI P/C 0.576 (both in-band), term-structure ratio 0.415, skew -2.73, IV rank 55.9% (sample 42). Golden cross 36 trading days old (as_of $23.20, -10.54% vs 20MA despite the bullish MA structure); next earnings Nov 4 2026.",
+      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. Checked and excluded: no new lockup flow data, Findell activist follow-up (letter/board response), Weave/pricing news, or insider filing found in-window; no next-Config-edition date announced yet. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.460 / OI P/C 0.576 (both in-band), term-structure ratio 0.415, skew -2.73, IV rank 55.9% (sample 42). Golden cross 36 trading days old (as_of $23.20, -10.54% vs 20MA despite the bullish MA structure); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -725,7 +725,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT (delta run, short pre-Monday-session window): nothing scored 4+ since Sun 13 Sep 21:16 MYT. Confirmed still no DEFM14A merger proxy or shareholder-vote date filed; the four law-firm fair-price investigation notices remain notice-only, none escalated to a filed complaint; no HSR/regulatory clearance news; no Markiplier update since Sep 2. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.334 (outside the 0.45-1.00 band) / OI P/C 0.510 (in-band), term-structure ratio 1.199, skew -40.63 vol pts (thin book, noisy), IV rank 0.0% but sample_size=9 -- too small to interpret. Golden cross 6 trading days old (as_of $1.38; MA distances are merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
+      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. Confirmed still no DEFM14A merger proxy or shareholder-vote date filed; the law-firm fair-price investigation notices (Halper Sadeh, Ademi, Monteverde, Kahn Swick) remain notice-only, none escalated to a filed complaint; no HSR/regulatory clearance news; no Markiplier update since Sep 2. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.334 (outside the 0.45-1.00 band) / OI P/C 0.510 (in-band), term-structure ratio 1.199, skew -40.63 vol pts (thin book, noisy), IV rank 0.0% but sample_size=9 -- too small to interpret. Golden cross 6 trading days old (as_of $1.38; MA distances are merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -766,7 +766,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT (delta run, short pre-Monday-session window): nothing scored 4+ since Sun 13 Sep 21:16 MYT. The Sep 10 Hughes 341 meeting of creditors still has no published outcome -- carrying forward as an open thread again. Dish DBS/Dish Wireless unsecured-creditors-committee trustee motion remains unresolved. No new FCC action, spectrum transaction, credit-rating action, or Boost Mobile subscriber update found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 9.002 (extreme put-heavy, well outside the 0.45-1.00 band) / OI P/C 0.437 (marginally outside band), skew proxy +3.86 vol pts, term-structure ratio 1.236, IV rank 17.3% but sample_size=9 -- too small to interpret. Death cross 62 trading days old (as_of $93.14); balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. The Sep 10 Hughes 341 meeting of creditors still has no published outcome -- carrying forward as an open thread again. Dish DBS/Dish Wireless unsecured-creditors-committee trustee motion remains unresolved. No new FCC action, spectrum transaction, credit-rating action, or Boost Mobile subscriber update found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 9.002 (extreme put-heavy, well outside the 0.45-1.00 band) / OI P/C 0.437 (marginally outside band), skew proxy +3.86 vol pts, term-structure ratio 1.236, IV rank 17.3% but sample_size=9 -- too small to interpret. Death cross 62 trading days old (as_of $93.14); balance_sheet_ok false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
