@@ -1,28 +1,28 @@
 {
-  "last_run_utc": "2026-09-14T13:21:33Z",
-  "last_run_window": "Mon 14 Sep 09:07 MYT to Mon 14 Sep 21:21 MYT (Monday pre-market/European session, ahead of US cash open)",
+  "last_run_utc": "2026-09-15T01:06:45Z",
+  "last_run_window": "Mon 14 Sep 21:21 MYT to Tue 15 Sep 09:06 MYT (full Monday US cash session through Tuesday pre-Asia hours)",
   "stories": [
     {
-      "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Thread: Strait Remains Effectively Closed (~6 ships/day vs ~85 normal) and Saudi East-West Pipeline Still Offline From Its Sept 10-11 Drone Strikes; Brent Breaks Above $107.82 (+$3.21) and WTI ~$103 Monday, Explicitly Cited Alongside the AI-Slowdown Story as a Co-Driver of Today's Nasdaq/S&P Futures Weakness",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "ai-slowdown-call-amodei-altman-musk-sep12",
-      "headline": "AI-Industry-Slowdown Thread: Nasdaq-100 Futures Selloff Deepens to -1.5% Monday Pre-Market (Dow -0.3%, S&P -0.6%) With Chip Names (NVDA, AMD, MU, SanDisk, WDC) Leading, as Altman's Sept 12 'Ill-Advised' IPO-Delay Comments Reinforce the Amodei/Altman/Musk Slowdown Call From the Same Weekend",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
       "id": "umich-sentiment-inflation-expectations-sep11",
-      "headline": "Prelim Sept University of Michigan Consumer Sentiment Craters to 47.8 (from 51.7) as 1-Year Inflation Expectations Jump to 4.6% (from 4.0%), Landing Just Ahead of the Sept 15-16 FOMC",
+      "headline": "Prelim Sept UMich Consumer Sentiment at 47.8 / 1yr Inflation Expectations at 4.6% — No New Data Since Sept 11, Remains Live Background Into Wed's FOMC Decision",
       "score": 6,
       "direction": "bearish"
     },
     {
       "id": "cpi-hawkish-fed-repricing-sep11",
-      "headline": "CPI/Rates Thread: 10yr Treasury Holding Near 5% (4.96-4.98%), FOMC Hike Odds Steady Around 85-87%, DXY ~99.3-99.5 as Markets Price a Sept 16 Hike Off the In-Line-but-Hot August CPI Print",
+      "headline": "CPI/Rates Thread: 10yr Ticks to 4.99% (Highest Since 2023) and DXY to 99.6 (4th Straight Up Session) as FOMC Meeting Opens Monday With Hike Odds ~85-89%, Essentially Unchanged From Last Digest",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "ai-slowdown-call-amodei-altman-musk-sep12",
+      "headline": "AI-Slowdown Thread: Monday Cash Session Closes Nasdaq Composite -0.56% / S&P -0.48% / Dow -0.29% — Selloff Moderates From -1.5% Pre-Market Fears, With Rotation Emerging (INTC -5.7%, MRVL -6.2%, NVDA Down vs. MSFT/META/GOOGL Holding Up Better)",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "iran-jordan-tanker-strikes-sep9",
+      "headline": "Iran/Hormuz Thread: Brent Hits Fresh 4-Month High ~$108 (WTI Pulls Back From $105 Intraday Peak to ~$102), Saudi Pipeline Still Offline, But Sept 14 Satellite Imagery Shows Tentative Resumption of Bi-Directional VLCC Tanker Traffic Through the Strait",
       "score": 5,
       "direction": "bearish"
     }
