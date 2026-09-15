@@ -1,29 +1,23 @@
 {
-  "last_run_utc": "2026-09-15T01:06:45Z",
-  "last_run_window": "Mon 14 Sep 21:21 MYT to Tue 15 Sep 09:06 MYT (full Monday US cash session through Tuesday pre-Asia hours)",
+  "last_run_utc": "2026-09-15T13:16:07Z",
+  "last_run_window": "Tue 15 Sep 09:06 MYT to Tue 15 Sep 21:16 MYT (day 1 of FOMC meeting, pre-US-cash-open)",
   "stories": [
     {
-      "id": "umich-sentiment-inflation-expectations-sep11",
-      "headline": "Prelim Sept UMich Consumer Sentiment at 47.8 / 1yr Inflation Expectations at 4.6% — No New Data Since Sept 11, Remains Live Background Into Wed's FOMC Decision",
-      "score": 6,
+      "id": "cpi-hawkish-fed-repricing-sep11",
+      "headline": "CPI/Rates Thread: 10yr Treasury Breaks to Highest Since 2007 (~5.02-5.04%) as Global Bond Selloff Deepens Hours Before Wed's FOMC Decision, DXY Holds ~99.6-99.8 on 4th Straight Up Session",
+      "score": 7,
       "direction": "bearish"
     },
     {
-      "id": "cpi-hawkish-fed-repricing-sep11",
-      "headline": "CPI/Rates Thread: 10yr Ticks to 4.99% (Highest Since 2023) and DXY to 99.6 (4th Straight Up Session) as FOMC Meeting Opens Monday With Hike Odds ~85-89%, Essentially Unchanged From Last Digest",
+      "id": "iran-jordan-tanker-strikes-sep9",
+      "headline": "Iran/Hormuz Thread: Fresh Tanker Fire in Gulf of Oman Near Strait Entrance (23 Evacuated by Oman Navy) Undercuts Monday's Tentative-Resumption Read, Oil Roughly Steady (Brent ~$107, WTI ~$102-103)",
       "score": 5,
       "direction": "bearish"
     },
     {
       "id": "ai-slowdown-call-amodei-altman-musk-sep12",
-      "headline": "AI-Slowdown Thread: Monday Cash Session Closes Nasdaq Composite -0.56% / S&P -0.48% / Dow -0.29% — Selloff Moderates From -1.5% Pre-Market Fears, With Rotation Emerging (INTC -5.7%, MRVL -6.2%, NVDA Down vs. MSFT/META/GOOGL Holding Up Better)",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Thread: Brent Hits Fresh 4-Month High ~$108 (WTI Pulls Back From $105 Intraday Peak to ~$102), Saudi Pipeline Still Offline, But Sept 14 Satellite Imagery Shows Tentative Resumption of Bi-Directional VLCC Tanker Traffic Through the Strait",
-      "score": 5,
+      "headline": "AI-Slowdown Thread: Nasdaq Futures Extend Monday's Amodei-Driven Slide (~-0.2% Pre-Market), Chip Names Still Underperforming Megacap Software (Meta/Alphabet/Microsoft) Into FOMC Week",
+      "score": 4,
       "direction": "bearish"
     }
   ]
