@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-14T13:28:13Z",
+  "last_run_utc": "2026-09-15T13:23:59Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. Checked and excluded: only insider filing found was a routine pre-scheduled 10b5-1 Form 4 (director Lauren Friedman, 1,342 shares, Sep 1 -- pre-window); no DoD/Nebius/Fujitsu/AIPCon follow-up, no NHS/DGSI contract development, no new analyst action found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.818 / OI P/C 0.933 (both in-band), term-structure ratio 0.129, skew -1.05, IV rank 65.0% (sample 42). Golden cross 26 trading days old (as_of $167.23, -4.74% vs 20MA); next earnings Nov 2 2026.",
+      "last_run_window": "Mon 14 Sep 21:28 MYT to Tue 15 Sep 21:19 MYT (Monday full US cash session + Tuesday Asia/Europe day session, pre-US-open): nothing scored 4+ in-window. Checked and excluded: DA Davidson PT raise to $250 (Sep 11, pre-window), Phillip Securities PT to $215 (August, pre-window), no new contract award/loss, no insider-selling deviation from the known 10b5-1 pattern, no new litigation or short report found in-window. Options/technicals from Mon 14 Sep close: Vol P/C 0.502 / OI P/C 0.983 (both in-band), term-structure ratio 1.048, skew -1.84, IV rank 68.6% (sample 43). Golden cross 27 trading days old (as_of $173.31, -1.26% vs 20MA); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -211,7 +211,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. Checked and excluded: today's IAA Transportation Hannover press day (Sep 14) confirmed the Semi's European-market presence but disclosed no new fact beyond the specs/timeline already known (550km range, 800kW Megacharger, 2027 European deliveries, still no euro pricing); no new NHTSA docket movement on Cybercab AQ26002 or FSD EA26002 found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.712 / OI P/C 0.818 (both in-band), term-structure ratio 0.097, skew -1.85, IV rank 52.9% (sample 42). Golden cross remains 0 trading days old as of Fri 11 Sep close ($365.44, +2.9% vs 20MA) -- flagged again in STRATEGY TRIAGE; next earnings Oct 21 2026.",
+      "last_run_window": "Mon 14 Sep 21:28 MYT to Tue 15 Sep 21:19 MYT (Monday full US cash session + Tuesday Asia/Europe day session, pre-US-open): 1 new since last digest, nothing re-rated. New: EU 'Semi Charging for Business' infrastructure launch (5 markets) scored 4, bullish, low-confidence -- incremental charging-hardware sales ahead of 2027 Semi deliveries, not a pricing/order announcement for the trucks themselves. IAA Hannover show floor (Sep 15-20) opened today with no Semi pricing/orders disclosed yet -- still awaited. No new NHTSA docket movement on Cybercab AQ26002 or FSD EA26002 found in-window. Options/technicals from Mon 14 Sep close: Vol P/C 0.782 / OI P/C 0.831 (both in-band), term-structure ratio 0.122, skew -1.68, IV rank 55.5% (sample 43). Golden cross 1 trading day old (as_of $358.97, +0.84% vs 20MA) -- flagged again in STRATEGY TRIAGE; next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -578,11 +578,17 @@
           "headline": "Tesla confirms next-gen Roadster unveil for Oct 1 2026 (X post + website countdown), teaser shows SpaceX-thruster imagery, Musk calls it 'out of this world'; Musk has already flagged production is still 12-18 months out post-reveal",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "tsla-eu-semi-charging-for-business-launch-sep14",
+          "headline": "Tesla launches 'Semi Charging for Business' across 5 European markets (Germany, Netherlands, Belgium, France, UK): direct B2B sale of Megacharger (1.2MW) and Basecharger (120kW) hardware to fleets ahead of 2027 Semi deliveries, announced at IAA Transportation Hannover press day",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. Checked and excluded: no new lockup flow data, Findell activist follow-up (letter/board response), Weave/pricing news, or insider filing found in-window; no next-Config-edition date announced yet. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.460 / OI P/C 0.576 (both in-band), term-structure ratio 0.415, skew -2.73, IV rank 55.9% (sample 42). Golden cross 36 trading days old (as_of $23.20, -10.54% vs 20MA despite the bullish MA structure); next earnings Nov 4 2026.",
+      "last_run_window": "Mon 14 Sep 21:28 MYT to Tue 15 Sep 21:19 MYT (Monday full US cash session + Tuesday Asia/Europe day session, pre-US-open): nothing scored 4+ in-window. Checked and excluded: GC Brendan Mulligan's Sep 3 10b5-1 sale (reported Sep 8-9, pre-window), no new Findell letter/board response, no new shipped AI-competition substance, no new lockup-flow Form 4/144 filing, no analyst action dated in-window; no next-Config-edition date announced yet. Options/technicals from Mon 14 Sep close: Vol P/C 0.319 (outside 0.45-1.00 band) / OI P/C 0.590 (in-band), term-structure ratio 1.027, skew -2.29, IV rank 59.3% (sample 43). Golden cross 37 trading days old (as_of $23.91, -7.53% vs 20MA despite the bullish MA structure); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -725,7 +731,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. Confirmed still no DEFM14A merger proxy or shareholder-vote date filed; the law-firm fair-price investigation notices (Halper Sadeh, Ademi, Monteverde, Kahn Swick) remain notice-only, none escalated to a filed complaint; no HSR/regulatory clearance news; no Markiplier update since Sep 2. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 0.334 (outside the 0.45-1.00 band) / OI P/C 0.510 (in-band), term-structure ratio 1.199, skew -40.63 vol pts (thin book, noisy), IV rank 0.0% but sample_size=9 -- too small to interpret. Golden cross 6 trading days old (as_of $1.38; MA distances are merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
+      "last_run_window": "Mon 14 Sep 21:28 MYT to Tue 15 Sep 21:19 MYT (Monday full US cash session + Tuesday Asia/Europe day session, pre-US-open): nothing scored 4+ in-window. Confirmed via EDGAR: still no DEFM14A merger proxy or shareholder-vote date filed (only DEFA14A soliciting materials from Sep 1/Sep 4 on record); the law-firm fair-price investigation notices (Halper Sadeh, Ademi, Monteverde, Kahn Swick) remain notice-only, none escalated to a filed complaint; no HSR/regulatory clearance news; no new Markiplier/large-holder activity. Options/technicals from Mon 14 Sep close: Vol P/C 1.012 (outside the 0.45-1.00 band) / OI P/C 0.501 (in-band), term-structure ratio 0.988, skew -15.62 vol pts (thin book, noisy), IV rank 8.4% but sample_size=10 -- too small to interpret. Golden cross 7 trading days old (as_of $1.35; MA distances are merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -766,7 +772,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Mon 14 Sep 09:10 MYT to Mon 14 Sep 21:28 MYT (Monday day session, Asia/Europe hours, pre-US-cash-open): nothing scored 4+ since the 09:10 MYT run. The Sep 10 Hughes 341 meeting of creditors still has no published outcome -- carrying forward as an open thread again. Dish DBS/Dish Wireless unsecured-creditors-committee trustee motion remains unresolved. No new FCC action, spectrum transaction, credit-rating action, or Boost Mobile subscriber update found in-window. Options/technicals from Fri 11 Sep close snapshot (unchanged, no new session yet): Vol P/C 9.002 (extreme put-heavy, well outside the 0.45-1.00 band) / OI P/C 0.437 (marginally outside band), skew proxy +3.86 vol pts, term-structure ratio 1.236, IV rank 17.3% but sample_size=9 -- too small to interpret. Death cross 62 trading days old (as_of $93.14); balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Mon 14 Sep 21:28 MYT to Tue 15 Sep 21:19 MYT (Monday full US cash session + Tuesday Asia/Europe day session, pre-US-open): 1 new since last digest, nothing re-rated. New: Morgan Stanley assumes coverage, upgrades to Overweight, PT $134 (from Equalweight/$82) -- scored 6, bullish. The Sep 10 Hughes 341 meeting of creditors still has no published outcome -- carrying forward as an open thread again. Dish DBS/Dish Wireless unsecured-creditors-committee trustee motion remains unresolved. No new FCC action, spectrum transaction, credit-rating action, or Boost Mobile subscriber update found in-window. Options/technicals from Mon 14 Sep close: Vol P/C 6.871 (extreme put-heavy, well outside the 0.45-1.00 band) / OI P/C 0.434 (marginally outside band), skew proxy -7.85 vol pts, term-structure ratio 1.322, IV rank 11.7% but sample_size=10 -- too small to interpret. Death cross 63 trading days old (as_of $93.89); balance_sheet_ok false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -777,6 +783,12 @@
         {
           "id": "echo-ubs-upgrade-buy-150-spacex-stake-sep8",
           "headline": "UBS upgrades EchoStar to Buy from Neutral, raises PT to $150 from $127, citing the value of EchoStar's pending ~2% (~262M share) SpaceX equity stake from the spectrum-for-equity deal; shares open ~4.5% higher and hold the gain into the close",
+          "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "echo-morgan-stanley-upgrade-overweight-134-sep14",
+          "headline": "Morgan Stanley assumes coverage of EchoStar, upgrades to Overweight from Equalweight, raises PT to $134 from $82, arguing the market-implied discount to EchoStar's pending ~2% SpaceX equity stake is too wide (~44% implied upside from Friday's close); analyst flags the Hughes bankruptcy overhang and lack of near-term buybacks as reasons for no urgency",
           "score": 6,
           "direction": "bullish"
         }
