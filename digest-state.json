@@ -1,23 +1,23 @@
 {
-  "last_run_utc": "2026-09-15T13:16:07Z",
-  "last_run_window": "Tue 15 Sep 09:06 MYT to Tue 15 Sep 21:16 MYT (day 1 of FOMC meeting, pre-US-cash-open)",
+  "last_run_utc": "2026-09-16T01:07:34Z",
+  "last_run_window": "Tue 15 Sep 21:16 MYT to Wed 16 Sep 09:07 MYT (Tue US cash session through pre-Asia hours, ahead of Wed 2pm ET FOMC decision)",
   "stories": [
     {
       "id": "cpi-hawkish-fed-repricing-sep11",
-      "headline": "CPI/Rates Thread: 10yr Treasury Breaks to Highest Since 2007 (~5.02-5.04%) as Global Bond Selloff Deepens Hours Before Wed's FOMC Decision, DXY Holds ~99.6-99.8 on 4th Straight Up Session",
+      "headline": "Fed-Hike Thread: September Hike Odds Surge to ~90-92% (from ~60% Two Sessions Ago) per CME FedWatch/Polymarket Ahead of Wed 2pm ET FOMC Decision; 10yr Holds ~5.01-5.02% (Highest Since 2007), DXY Pulls Back to ~99.1, Dow -328pts/-0.63%, S&P -0.45%, Nasdaq -0.78% on Tue Close",
       "score": 7,
       "direction": "bearish"
     },
     {
-      "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Thread: Fresh Tanker Fire in Gulf of Oman Near Strait Entrance (23 Evacuated by Oman Navy) Undercuts Monday's Tentative-Resumption Read, Oil Roughly Steady (Brent ~$107, WTI ~$102-103)",
-      "score": 5,
-      "direction": "bearish"
+      "id": "ai-slowdown-call-amodei-altman-musk-sep12",
+      "headline": "AI-Slowdown Thread Rotates: NVDA/AVGO Stabilize While AMD/Intel Break Out on 'GPU-to-CPU Agentic Compute' Narrative, Diluting Monday's Uniform Chip-Complex Selloff; Megacap Software (META/GOOGL/MSFT) Continues Outperforming Chips",
+      "score": 4,
+      "direction": "neutral"
     },
     {
-      "id": "ai-slowdown-call-amodei-altman-musk-sep12",
-      "headline": "AI-Slowdown Thread: Nasdaq Futures Extend Monday's Amodei-Driven Slide (~-0.2% Pre-Market), Chip Names Still Underperforming Megacap Software (Meta/Alphabet/Microsoft) Into FOMC Week",
-      "score": 4,
+      "id": "iran-jordan-tanker-strikes-sep9",
+      "headline": "Iran/Hormuz Thread: No Material New Development This Cycle — Strait Traffic Remains ~93% Below Normal, Oman-Brokered Safe-Corridor Talks Still Pending, Brent Roughly Steady ~$107-108",
+      "score": 5,
       "direction": "bearish"
     }
   ]
