@@ -1,23 +1,11 @@
 {
-  "last_run_utc": "2026-09-16T01:07:34Z",
-  "last_run_window": "Tue 15 Sep 21:16 MYT to Wed 16 Sep 09:07 MYT (Tue US cash session through pre-Asia hours, ahead of Wed 2pm ET FOMC decision)",
+  "last_run_utc": "2026-09-16T13:18:04Z",
+  "last_run_window": "Wed 16 Sep 09:07 MYT to Wed 16 Sep 21:18 MYT (Asia/Europe session, pre-US-cash-open, ahead of the Wed 2pm ET FOMC decision / Thu 2am MYT)",
   "stories": [
     {
       "id": "cpi-hawkish-fed-repricing-sep11",
-      "headline": "Fed-Hike Thread: September Hike Odds Surge to ~90-92% (from ~60% Two Sessions Ago) per CME FedWatch/Polymarket Ahead of Wed 2pm ET FOMC Decision; 10yr Holds ~5.01-5.02% (Highest Since 2007), DXY Pulls Back to ~99.1, Dow -328pts/-0.63%, S&P -0.45%, Nasdaq -0.78% on Tue Close",
-      "score": 7,
-      "direction": "bearish"
-    },
-    {
-      "id": "ai-slowdown-call-amodei-altman-musk-sep12",
-      "headline": "AI-Slowdown Thread Rotates: NVDA/AVGO Stabilize While AMD/Intel Break Out on 'GPU-to-CPU Agentic Compute' Narrative, Diluting Monday's Uniform Chip-Complex Selloff; Megacap Software (META/GOOGL/MSFT) Continues Outperforming Chips",
-      "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "iran-jordan-tanker-strikes-sep9",
-      "headline": "Iran/Hormuz Thread: No Material New Development This Cycle — Strait Traffic Remains ~93% Below Normal, Oman-Brokered Safe-Corridor Talks Still Pending, Brent Roughly Steady ~$107-108",
-      "score": 5,
+      "headline": "Fed-Hike Thread Holds Into Decision Day: Odds Steady ~93% per CME FedWatch, 10yr Near 19-Year High ~5.01-5.04%, DXY Firms to ~99.7; August Retail Sales Blowout (+1.2% m/m vs +0.1% Consensus) Adds Fresh Hawkish-Leaning Data Hours Before the Wed 2pm ET Decision",
+      "score": 6,
       "direction": "bearish"
     }
   ]
