@@ -1,10 +1,10 @@
 {
-  "last_run_utc": "2026-09-16T13:18:04Z",
-  "last_run_window": "Wed 16 Sep 09:07 MYT to Wed 16 Sep 21:18 MYT (Asia/Europe session, pre-US-cash-open, ahead of the Wed 2pm ET FOMC decision / Thu 2am MYT)",
+  "last_run_utc": "2026-09-17T01:06:19Z",
+  "last_run_window": "Wed 16 Sep 21:18 MYT (pre-FOMC) through the Wed 16 Sep US cash close and after-hours, to Thu 17 Sep 09:06 MYT",
   "stories": [
     {
-      "id": "cpi-hawkish-fed-repricing-sep11",
-      "headline": "Fed-Hike Thread Holds Into Decision Day: Odds Steady ~93% per CME FedWatch, 10yr Near 19-Year High ~5.01-5.04%, DXY Firms to ~99.7; August Retail Sales Blowout (+1.2% m/m vs +0.1% Consensus) Adds Fresh Hawkish-Leaning Data Hours Before the Wed 2pm ET Decision",
+      "id": "fomc-hike-hawkish-guidance-sep16",
+      "headline": "FOMC Delivers Fully-Priced 25bp Hike to 3.75-4% (First Hike in 3 Years); Chair Warsh's Hawkish Presser + Dot Plot (16-of-18 See Another Hike This Year, No 2027 Cuts Penciled) Pushes 10yr Back Above 5%; Dow -1.21% (-631pts), S&P -0.45%, Nasdaq Roughly Flat (-0.01%)",
       "score": 6,
       "direction": "bearish"
     }
