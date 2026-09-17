@@ -1,12 +1,24 @@
 {
-  "last_run_utc": "2026-09-17T01:06:19Z",
-  "last_run_window": "Wed 16 Sep 21:18 MYT (pre-FOMC) through the Wed 16 Sep US cash close and after-hours, to Thu 17 Sep 09:06 MYT",
+  "last_run_utc": "2026-09-17T13:13:45Z",
+  "last_run_window": "Thu 17 Sep 09:06 MYT through Thu 17 Sep 21:13 MYT (Asia/Europe session and US pre-market ahead of Thursday cash open)",
   "stories": [
     {
       "id": "fomc-hike-hawkish-guidance-sep16",
       "headline": "FOMC Delivers Fully-Priced 25bp Hike to 3.75-4% (First Hike in 3 Years); Chair Warsh's Hawkish Presser + Dot Plot (16-of-18 See Another Hike This Year, No 2027 Cuts Penciled) Pushes 10yr Back Above 5%; Dow -1.21% (-631pts), S&P -0.45%, Nasdaq Roughly Flat (-0.01%)",
       "score": 6,
       "direction": "bearish"
+    },
+    {
+      "id": "post-fomc-futures-bounce-sep17",
+      "headline": "Nasdaq-100 Futures Jump ~1.7% Pre-Market Thursday (Dow +1.2%, S&P +1.3%), Led by NVDA/AMZN +2%, MSFT +1%, AI-Adjacent Semis (Applied Materials, Qualcomm, Intel) +3%, Clawing Back Part of Wednesday's Post-FOMC Slide",
+      "score": 5,
+      "direction": "bullish"
+    },
+    {
+      "id": "jobless-claims-beat-sep17",
+      "headline": "Initial Jobless Claims Fall to 196K vs. 207K Forecast (Prior Revised to 206K); Continuing Claims Down to 1.73M — Labor Market Still Resilient Right After the Hike",
+      "score": 4,
+      "direction": "neutral"
     }
   ]
 }
