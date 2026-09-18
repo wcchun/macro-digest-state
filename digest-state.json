@@ -1,24 +1,24 @@
 {
-  "last_run_utc": "2026-09-17T13:13:45Z",
-  "last_run_window": "Thu 17 Sep 09:06 MYT through Thu 17 Sep 21:13 MYT (Asia/Europe session and US pre-market ahead of Thursday cash open)",
+  "last_run_utc": "2026-09-18T01:06:30Z",
+  "last_run_window": "Thu 17 Sep 21:13 MYT through Fri 18 Sep 09:06 MYT (Thursday's full post-FOMC US cash session, close, and after-hours)",
   "stories": [
     {
       "id": "fomc-hike-hawkish-guidance-sep16",
-      "headline": "FOMC Delivers Fully-Priced 25bp Hike to 3.75-4% (First Hike in 3 Years); Chair Warsh's Hawkish Presser + Dot Plot (16-of-18 See Another Hike This Year, No 2027 Cuts Penciled) Pushes 10yr Back Above 5%; Dow -1.21% (-631pts), S&P -0.45%, Nasdaq Roughly Flat (-0.01%)",
+      "headline": "FOMC Delivered 25bp Hike to 3.75-4% With Hawkish Dot Plot (16-of-18 See Another Hike This Year, No 2027 Cuts); Chair Warsh Presser Stayed Firm on Inflation Being 'Too High for Too Long'",
       "score": 6,
       "direction": "bearish"
     },
     {
-      "id": "post-fomc-futures-bounce-sep17",
-      "headline": "Nasdaq-100 Futures Jump ~1.7% Pre-Market Thursday (Dow +1.2%, S&P +1.3%), Led by NVDA/AMZN +2%, MSFT +1%, AI-Adjacent Semis (Applied Materials, Qualcomm, Intel) +3%, Clawing Back Part of Wednesday's Post-FOMC Slide",
+      "id": "post-fomc-bounce-yield-retrace-sep17",
+      "headline": "Post-FOMC Relief Rally Held Through Thursday's Full Session and Extended to a Third Straight Up Day (Nasdaq +0.59%, S&P 7,596, Chip Gauge +3%: AMD +7%, Intel +7%, Broadcom +3%, NVDA edges higher), as 10yr Yield Eased 8bp to 4.94% Retracing Part of Wednesday's Spike Above 5%; Dollar Index Held Near 7-Week High Above 100",
       "score": 5,
       "direction": "bullish"
     },
     {
-      "id": "jobless-claims-beat-sep17",
-      "headline": "Initial Jobless Claims Fall to 196K vs. 207K Forecast (Prior Revised to 206K); Continuing Claims Down to 1.73M — Labor Market Still Resilient Right After the Hike",
+      "id": "amzn-generac-datacenter-power-sep17",
+      "headline": "Amazon Signs Deal Worth Up to $8B for Generac Data-Center Backup Generators (Generac +22%), Read-Through for Continued Hyperscaler AI-Infra Capex Pace",
       "score": 4,
-      "direction": "neutral"
+      "direction": "bullish"
     }
   ]
 }
