@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-17T13:18:00Z",
+  "last_run_utc": "2026-09-18T01:15:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 17 Sep 09:10 MYT to Thu 17 Sep 21:18 MYT (Thu US pre-market window, post-FOMC): nothing scored 4+ since the last digest. Checked and excluded: post-FOMC after-hours/pre-market drift (~$171.7-172.6, roughly flat) -- market beta, not stock-specific; no new contract, insider Form 4, or analyst-action news beyond UBS's Sep 15 PT raise already in state. Options/technicals unchanged from Wed 16 Sep close (same snapshot as last run, still fresh): Vol P/C 0.67 / OI P/C 0.962 (both in-band), term-structure ratio 0.974, skew -1.22, IV rank 69.6% (sample 45). Golden cross 29 trading days old (as_of $174.34, -0.75% vs 20MA, +11.47% vs 50MA); next earnings Nov 2 2026.",
+      "last_run_window": "Thu 17 Sep 21:18 MYT to Fri 18 Sep 09:10 MYT (Thu US session through Fri pre-market): 2 new items -- CEO Karp's Sep 17 CNBC remarks on AI liability/accountability (calling for civil/criminal liability for AI labs, floating possible 'nationalization' of leading labs) scored 4 (sentiment channel, low confidence, decays fast); Palantir hires former UK Labour deputy leader Tom Watson as UK SVP, explicitly framed against the NHS Federated Data Platform contract-renewal-risk backdrop, scored 5 (update to standing NHS thread). No new contract awards, insider Form 4s, or analyst actions found. Options/technicals fresh as of Wed 17 Sep close: Vol P/C 0.609 / OI P/C 0.954 (both in-band), term-structure ratio 0.799, skew -0.68, IV rank 66.9% (sample 46). Golden cross 30 trading days old (as_of $176.24, +0.3% vs 20MA, +12.05% vs 50MA); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -213,11 +213,23 @@
           "headline": "UBS (Karl Keirstead) raises PLTR PT to $250 from $220 (Street-tying high, his third hike this year), reiterates Buy, citing AIPCon 11 customer-conversation follow-through showing 'robust' demand momentum and a relative-valuation case vs AI-linked software peers (~51x 2027E FCF)",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "pltr-karp-ai-liability-nationalization-comments-sep17",
+          "headline": "CEO Karp tells CNBC (Sep 17) that AI developers should face civil/criminal liability for harms caused by their systems, calls regulation-seeking by rival labs an accountability-dodge tactic, and floats that leading AI labs 'might require nationalization' to shield them from litigation; wide media pickup (Bloomberg, Motley Fool, Quartz); one outlet claims shares climbed on the remarks, uncorroborated by a specific move",
+          "score": 4,
+          "direction": "bullish"
+        },
+        {
+          "id": "pltr-tom-watson-uk-svp-hire-nhs-sep17",
+          "headline": "Palantir hires Tom Watson, former UK Labour deputy leader and a company adviser since 2024, as UK Senior VP; Bloomberg frames the hire explicitly against the backdrop of the £330M NHS Federated Data Platform contract under review (break-clause decision point Feb 2027), with a doctors' group and 100+ NHS data/technology specialists having written to the Health Secretary urging termination",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 17 Sep 09:10 MYT to Thu 17 Sep 21:18 MYT (Thu US pre-market window, post-FOMC): nothing scored 4+ since the last digest. Checked and excluded: pre-market bounce (+1.4% to ~$361) tracking the broad post-FOMC relief rally in tech futures -- market beta, not stock news; no new NHTSA docket movement on AQ26002 (Cybercab Audit Query) or EA26002 (FSD degraded-visibility); no new analyst PT/rating changes or insider Form 4 filings. Options/technicals unchanged from Wed 16 Sep close (same snapshot as last run, still fresh): Vol P/C 0.79 / OI P/C 0.831 (both in-band), term-structure ratio 0.166, skew -2.2, IV rank 66.5% (sample 45). Golden cross now 3 trading days old (as_of $358.08, +0.05% vs 20MA) -- flagged again in STRATEGY TRIAGE; next earnings Oct 21 2026.",
+      "last_run_window": "Thu 17 Sep 21:18 MYT to Fri 18 Sep 09:10 MYT (Thu US session through Fri pre-market): 1 new item -- Goldman Sachs cuts its Q3 2026 delivery estimate to 435K from 490K (~11% cut, Neutral/$360 PT unchanged), citing demand softness across US/China/Europe; now well below Visible Alpha consensus (456K) and Kalshi prediction-market centering (~480K), scored 6 (fundamentals channel, ahead of the early-Oct delivery print). Also surfacing in this window's coverage: NHTSA's Sep 10 Special Order on the Cybercab certification probe (AQ26002) demands a sworn-oath affidavit response by Sep 30, disclosing up to $139.35M in civil-penalty exposure plus potential criminal false-certification liability -- materially harder than the 'audit query opened' framing previously captured in state, so logged now as a thread update (score 7, bearish). No new recalls or insider Form 4 filings found. Options/technicals fresh as of Wed 17 Sep close: Vol P/C 0.672 / OI P/C 0.801 (both in-band), term-structure ratio 0.778, skew -1.81, IV rank 60.3% (sample 46). Golden cross now 4 trading days old (as_of $366.20, +2.11% vs 20MA) -- no longer meets the STRATEGY TRIAGE freshness threshold (>3 days); next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -582,13 +594,25 @@
         {
           "id": "roadster-oct1-unveil-confirmed",
           "headline": "Tesla confirms next-gen Roadster unveil for Oct 1 2026 (X post + website countdown), teaser shows SpaceX-thruster imagery, Musk calls it 'out of this world'; Musk has already flagged production is still 12-18 months out post-reveal",
-          "score": 4,
+          "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "tsla-goldman-q3-delivery-cut-435k-sep17",
+          "headline": "Goldman Sachs (Mark Delaney) cuts Q3 2026 delivery estimate to 435,000 vehicles from 490,000 (~11% cut), citing weaker-than-expected demand across US, China, and Europe offsetting export strength; now below Visible Alpha consensus (456,000) and Kalshi prediction-market centering (~480,000); Neutral rating and $360 PT unchanged",
+          "score": 6,
+          "direction": "bearish"
+        },
+        {
+          "id": "tsla-nhtsa-special-order-139m-sworn-affidavit-sep10",
+          "headline": "NHTSA issues a formal Special Order (Sep 10, signed by Chief Counsel Peter Simshauser) escalating the Cybercab certification Audit Query (AQ26002): demands a sworn-oath affidavit from a responsible Tesla officer answering 21 detailed requests on how the no-steering-wheel/no-pedal Cybercab was self-certified to FMVSS, due Sep 30; discloses exposure up to $139.35M in civil penalties plus potential criminal liability for false certification -- a materially harder escalation than the 'audit query opened' framing previously in state",
+          "score": 7,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 17 Sep 09:10 MYT to Thu 17 Sep 21:18 MYT (Thu US pre-market window, post-FOMC): nothing scored 4+ since the last digest. Checked and excluded: web searches for this window surfaced only recycled coverage of the Aug 5-6 post-earnings selloff (same $23.90 premarket print and 117% YoY cost-of-revenue detail already scored and stored under fig-premarket-cost-of-revenue-detail-aug6) -- confirmed not new; no fresh competitive-AI substance, insider Form 4/144, analyst actions, or Findell activist follow-up since the May 28 letter. Options/technicals unchanged from Wed 16 Sep close (same snapshot as last run, still fresh): Vol P/C 0.765 / OI P/C 0.595 (both in-band), term-structure ratio 0.911, skew -3.52, IV rank 58.7% (sample 45). Golden cross 39 trading days old (as_of $23.06, -10.11% vs 20MA despite the bullish MA structure); next earnings Nov 4 2026.",
+      "last_run_window": "Thu 17 Sep 21:18 MYT to Fri 18 Sep 09:10 MYT (Thu US session through Fri pre-market): nothing scored 4+ since the last digest. Checked and excluded: recycled Weave-tools-via-MCP and folder-UI coverage (both dated Sep 16, pre-window); a macro-driven (excluded, market beta) hot-jobs-report software-sector selloff mention naming FIG among decliners; no confirmed new insider Form 4/144, analyst actions, or Findell activist follow-up since the May 28 letter. Options/technicals fresh as of Wed 17 Sep close: Vol P/C 0.67 / OI P/C 0.626 (both in-band), term-structure ratio 0.789, skew -5.37, IV rank 59.0% (sample 46). Golden cross 40 trading days old (as_of $23.29, -8.59% vs 20MA despite the bullish MA structure); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
