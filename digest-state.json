@@ -1,23 +1,11 @@
 {
-  "last_run_utc": "2026-09-18T01:06:30Z",
-  "last_run_window": "Thu 17 Sep 21:13 MYT through Fri 18 Sep 09:06 MYT (Thursday's full post-FOMC US cash session, close, and after-hours)",
+  "last_run_utc": "2026-09-18T13:17:44Z",
+  "last_run_window": "Fri 18 Sep 09:06 MYT through Fri 18 Sep 21:17 MYT (Thursday after-hours into Friday US pre-market/open; thin overnight window)",
   "stories": [
     {
-      "id": "fomc-hike-hawkish-guidance-sep16",
-      "headline": "FOMC Delivered 25bp Hike to 3.75-4% With Hawkish Dot Plot (16-of-18 See Another Hike This Year, No 2027 Cuts); Chair Warsh Presser Stayed Firm on Inflation Being 'Too High for Too Long'",
-      "score": 6,
-      "direction": "bearish"
-    },
-    {
-      "id": "post-fomc-bounce-yield-retrace-sep17",
-      "headline": "Post-FOMC Relief Rally Held Through Thursday's Full Session and Extended to a Third Straight Up Day (Nasdaq +0.59%, S&P 7,596, Chip Gauge +3%: AMD +7%, Intel +7%, Broadcom +3%, NVDA edges higher), as 10yr Yield Eased 8bp to 4.94% Retracing Part of Wednesday's Spike Above 5%; Dollar Index Held Near 7-Week High Above 100",
+      "id": "tariff-delay-china-summit-sep17",
+      "headline": "US Expected to Postpone New China 'Excess-Capacity' Tariff Report/Proposed 7.5% Tariff Until After the ~Sept 24 Trump-Xi Summit, Preserving It as Negotiating Leverage",
       "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "amzn-generac-datacenter-power-sep17",
-      "headline": "Amazon Signs Deal Worth Up to $8B for Generac Data-Center Backup Generators (Generac +22%), Read-Through for Continued Hyperscaler AI-Infra Capex Pace",
-      "score": 4,
       "direction": "bullish"
     }
   ]
