@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-18T01:15:00Z",
+  "last_run_utc": "2026-09-18T13:20:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 17 Sep 21:18 MYT to Fri 18 Sep 09:10 MYT (Thu US session through Fri pre-market): 2 new items -- CEO Karp's Sep 17 CNBC remarks on AI liability/accountability (calling for civil/criminal liability for AI labs, floating possible 'nationalization' of leading labs) scored 4 (sentiment channel, low confidence, decays fast); Palantir hires former UK Labour deputy leader Tom Watson as UK SVP, explicitly framed against the NHS Federated Data Platform contract-renewal-risk backdrop, scored 5 (update to standing NHS thread). No new contract awards, insider Form 4s, or analyst actions found. Options/technicals fresh as of Wed 17 Sep close: Vol P/C 0.609 / OI P/C 0.954 (both in-band), term-structure ratio 0.799, skew -0.68, IV rank 66.9% (sample 46). Golden cross 30 trading days old (as_of $176.24, +0.3% vs 20MA, +12.05% vs 50MA); next earnings Nov 2 2026.",
+      "last_run_window": "Fri 18 Sep 09:15 MYT to Fri 18 Sep 21:20 MYT (Friday daytime Asia/Europe hours, pre-US-open): nothing scored 4+ since the last digest. Checked and excluded: recycled reporting that Palantir/Nvidia/Booz Allen are restricting Anthropic and OpenAI models over data-retention concerns (originated Sep 14-15, pre-window, no fresh escalation today), routine insider Form 4 filings, aggregator analyst-consensus pages. Options/technicals fresh as of Wed 17 Sep close (unchanged from last run): Vol P/C 0.609 / OI P/C 0.954 (both in-band), term-structure ratio 0.799, skew -0.68, IV rank 66.9% (sample 46). Golden cross 30 trading days old (as_of $176.24, +0.3% vs 20MA, +12.05% vs 50MA); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -222,14 +222,14 @@
         },
         {
           "id": "pltr-tom-watson-uk-svp-hire-nhs-sep17",
-          "headline": "Palantir hires Tom Watson, former UK Labour deputy leader and a company adviser since 2024, as UK Senior VP; Bloomberg frames the hire explicitly against the backdrop of the £330M NHS Federated Data Platform contract under review (break-clause decision point Feb 2027), with a doctors' group and 100+ NHS data/technology specialists having written to the Health Secretary urging termination",
+          "headline": "Palantir hires Tom Watson, former UK Labour deputy leader and a company adviser since 2024, as UK Senior VP; Bloomberg frames the hire explicitly against the backdrop of the \u00a3330M NHS Federated Data Platform contract under review (break-clause decision point Feb 2027), with a doctors' group and 100+ NHS data/technology specialists having written to the Health Secretary urging termination",
           "score": 5,
           "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 17 Sep 21:18 MYT to Fri 18 Sep 09:10 MYT (Thu US session through Fri pre-market): 1 new item -- Goldman Sachs cuts its Q3 2026 delivery estimate to 435K from 490K (~11% cut, Neutral/$360 PT unchanged), citing demand softness across US/China/Europe; now well below Visible Alpha consensus (456K) and Kalshi prediction-market centering (~480K), scored 6 (fundamentals channel, ahead of the early-Oct delivery print). Also surfacing in this window's coverage: NHTSA's Sep 10 Special Order on the Cybercab certification probe (AQ26002) demands a sworn-oath affidavit response by Sep 30, disclosing up to $139.35M in civil-penalty exposure plus potential criminal false-certification liability -- materially harder than the 'audit query opened' framing previously captured in state, so logged now as a thread update (score 7, bearish). No new recalls or insider Form 4 filings found. Options/technicals fresh as of Wed 17 Sep close: Vol P/C 0.672 / OI P/C 0.801 (both in-band), term-structure ratio 0.778, skew -1.81, IV rank 60.3% (sample 46). Golden cross now 4 trading days old (as_of $366.20, +2.11% vs 20MA) -- no longer meets the STRATEGY TRIAGE freshness threshold (>3 days); next earnings Oct 21 2026.",
+      "last_run_window": "Fri 18 Sep 09:15 MYT to Fri 18 Sep 21:20 MYT (Friday daytime Asia/Europe hours, pre-US-open): 1 new item -- Tesla dispatches its robotics team to Ningbo, China (Bloomberg, corroborated by Chinese trade press) to begin a formal Optimus mass-production supply-chain audit (team arrived Sep 16, audit started Sep 17), covering quality-consistency standards and manufacturing know-how transfer to Chinese component suppliers (actuators, sensors, thermal); reads as operational confirmation Tesla remains on track toward its ~50,000-unit 2026 Optimus target, scored 5 (multiple/fundamentals channel, medium confidence -- sourced from trade press not a Tesla filing, weeks-to-months horizon, bullish). No update found on the Sep 30 NHTSA Cybercab sworn-affidavit deadline or on any aftermath to Thursday's Goldman Sachs Q3 delivery-estimate cut. Options/technicals fresh as of Wed 17 Sep close (unchanged from last run): Vol P/C 0.672 / OI P/C 0.801 (both in-band), term-structure ratio 0.778, skew -1.81, IV rank 60.3% (sample 46). Golden cross still 4 trading days old (as_of $366.20, +2.11% vs 20MA) -- remains outside the STRATEGY TRIAGE freshness threshold (>3 days); next earnings Oct 21 2026.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -608,11 +608,17 @@
           "headline": "NHTSA issues a formal Special Order (Sep 10, signed by Chief Counsel Peter Simshauser) escalating the Cybercab certification Audit Query (AQ26002): demands a sworn-oath affidavit from a responsible Tesla officer answering 21 detailed requests on how the no-steering-wheel/no-pedal Cybercab was self-certified to FMVSS, due Sep 30; discloses exposure up to $139.35M in civil penalties plus potential criminal liability for false certification -- a materially harder escalation than the 'audit query opened' framing previously in state",
           "score": 7,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-optimus-ningbo-china-supply-chain-audit-sep16-17",
+          "headline": "Tesla dispatches its robotics team to Ningbo, China to conduct a formal Optimus mass-production supply-chain audit (team arrived Sep 16, audit began Sep 17), reviewing quality-consistency standards and transferring US manufacturing know-how to Chinese component suppliers (actuators: Ningbo Tuopu; sensors: Ningbo Joyson; thermal: Zhejiang Sanhua); read as confirmation Tesla remains on track toward its ~50,000-unit 2026 Optimus target",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 17 Sep 21:18 MYT to Fri 18 Sep 09:10 MYT (Thu US session through Fri pre-market): nothing scored 4+ since the last digest. Checked and excluded: recycled Weave-tools-via-MCP and folder-UI coverage (both dated Sep 16, pre-window); a macro-driven (excluded, market beta) hot-jobs-report software-sector selloff mention naming FIG among decliners; no confirmed new insider Form 4/144, analyst actions, or Findell activist follow-up since the May 28 letter. Options/technicals fresh as of Wed 17 Sep close: Vol P/C 0.67 / OI P/C 0.626 (both in-band), term-structure ratio 0.789, skew -5.37, IV rank 59.0% (sample 46). Golden cross 40 trading days old (as_of $23.29, -8.59% vs 20MA despite the bullish MA structure); next earnings Nov 4 2026.",
+      "last_run_window": "Fri 18 Sep 09:15 MYT to Fri 18 Sep 21:20 MYT (Friday daytime Asia/Europe hours, pre-US-open): nothing scored 4+ since the last digest. Checked and excluded: KeyBanc Sector Weight initiation (Sep 14-15, pre-window), recycled Findell Capital activist coverage (original May 28 letter, no new letter/response), routine insider 10b5-1 sales, no shipped update on the Anthropic Claude Design competitive thread. FIG traded up modestly intraday with no identifiable stock-specific catalyst -- read as beta to the broader software tape, not scored. Options/technicals fresh as of Wed 17 Sep close (unchanged from last run): Vol P/C 0.67 / OI P/C 0.626 (both in-band), term-structure ratio 0.789, skew -5.37, IV rank 59.0% (sample 46). Golden cross 40 trading days old (as_of $23.29, -8.59% vs 20MA despite the bullish MA structure); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -755,7 +761,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Thu 17 Sep 09:10 MYT to Thu 17 Sep 21:18 MYT (Thu US pre-market window, post-FOMC): nothing scored 4+ since the last digest. Confirmed still no DEFM14A merger proxy filed, no shareholder-vote date, no HSR/regulatory clearance news, no competing bid or deal-terms change; fair-price law-firm notices remain notice-only. Options/technicals unchanged from Wed 16 Sep close (same snapshot as last run, still fresh): Vol P/C 2.485 (outside the 0.45-1.00 band) / OI P/C 0.435 (marginally outside), term-structure ratio 1.915, skew -18.75 vol pts (thin book, noisy), IV rank 0.0% but sample_size=12 -- too small to interpret. Golden cross 9 trading days old (as_of $1.27; MA distances remain merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
+      "last_run_window": "Fri 18 Sep 09:15 MYT to Fri 18 Sep 21:20 MYT (Friday daytime Asia/Europe hours, pre-US-open): nothing scored 4+ since the last digest. Confirmed still no DEFM14A merger proxy filed, no shareholder-vote date, no HSR/regulatory clearance news, no competing bid or deal-terms change; fair-price law-firm notices remain notice-only, no escalation to a filed suit. A $20M Yorkville convertible-debenture draw (Sep 8) and the Mission 1 Pro ILS launch (Aug 26) both pre-date this window. Options/technicals snapshot refreshed (still as_of Wed 17 Sep close, sample size ticked up to 13): Vol P/C 1.446 (outside the 0.45-1.00 band) / OI P/C 0.417 (marginally outside), term-structure ratio 1.772, skew +26.56 vol pts (thin book, noisy -- micro-cap merger-arb name), IV rank 0.0% but sample_size=13 -- too small to interpret. Golden cross 10 trading days old (as_of $1.34; MA distances remain merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -796,7 +802,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Thu 17 Sep 09:10 MYT to Thu 17 Sep 21:18 MYT (Thu US pre-market window, post-FOMC): nothing scored 4+ since the last digest. The Sep 17 Hughes 341/examiner scope-and-budget hearing is scheduled for today's US session but its outcome remains UNPUBLISHED as of this run (pre-market cutoff, before the hearing); no new spectrum/FCC action, Boost Mobile subscriber update, credit-rating action, or further analyst re-rating on the SpaceX-stake thesis since Morgan Stanley's Sep 14 call already in state. Options/technicals unchanged from Wed 16 Sep close (same snapshot as last run, still fresh): Vol P/C 9.002 (extreme, outside the 0.45-1.00 band) / OI P/C 0.437 (marginally outside band), skew proxy +3.86 vol pts, term-structure ratio 1.333, IV rank 17.3% but sample_size=9 -- too small to interpret. Death cross 65 trading days old (as_of $93.46); balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Fri 18 Sep 09:15 MYT to Fri 18 Sep 21:20 MYT (Friday daytime Asia/Europe hours, pre-US-open): nothing scored 4+ since the last digest. The Sep 17 Hughes 341/examiner scope-and-budget hearing (Judge Alfredo Perez, S.D. Tex.) still has NO reported outcome as of this run -- bankruptcy trade press (9fin, Law360, CreditSights) still describe it as scheduled/pending; flagged for a targeted re-check next cycle rather than treating silence as resolution. No new spectrum/FCC action, Boost Mobile subscriber update, credit-rating action, or further analyst re-rating since Morgan Stanley's Sep 14 call. Options/technicals snapshot refreshed (still as_of Wed 17 Sep close, sample size ticked up to 13): Vol P/C 7.485 (extreme, outside the 0.45-1.00 band) / OI P/C 0.435 (marginally outside band), skew proxy +4.13 vol pts, term-structure ratio 1.551, IV rank 0.0% but sample_size=13 -- too small to interpret. Death cross 66 trading days old (as_of $94.08); balance_sheet_ok false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
