@@ -1,12 +1,24 @@
 {
-  "last_run_utc": "2026-09-18T13:17:44Z",
-  "last_run_window": "Fri 18 Sep 09:06 MYT through Fri 18 Sep 21:17 MYT (Thursday after-hours into Friday US pre-market/open; thin overnight window)",
+  "last_run_utc": "2026-09-19T01:06:13Z",
+  "last_run_window": "Fri 18 Sep 21:17 MYT through Sat 19 Sep 09:06 MYT (full Friday US cash session into early Saturday)",
   "stories": [
     {
       "id": "tariff-delay-china-summit-sep17",
-      "headline": "US Expected to Postpone New China 'Excess-Capacity' Tariff Report/Proposed 7.5% Tariff Until After the ~Sept 24 Trump-Xi Summit, Preserving It as Negotiating Leverage",
-      "score": 5,
+      "headline": "Trump-Xi Summit Dates Firmed Up (Xi Arrives Washington Sept 25, Departs Sept 27); ~$30B Tariff-Relief Package Reportedly on the Agenda Alongside the Already-Delayed 7.5% 'Excess-Capacity' Tariff",
+      "score": 6,
       "direction": "bullish"
+    },
+    {
+      "id": "mideast-iran-strike-risk-vs-saudi-pipeline-sep18",
+      "headline": "Trump Weighs Resuming Strikes on Iran Ahead of Gulf-Leaders Meeting, Even as Saudi Arabia Restores Pipeline Capacity and Reroutes Crude (WTI Eases Toward $101)",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "anthropic-openai-smaller-datacenter-deals-sep18",
+      "headline": "Anthropic and OpenAI Reported Shifting Toward Smaller (20-30MW) Distributed Data-Center Deals Instead of Exclusively Gigawatt-Scale Single Sites",
+      "score": 4,
+      "direction": "neutral"
     }
   ]
 }
