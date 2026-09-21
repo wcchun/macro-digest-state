@@ -1,11 +1,11 @@
 {
-  "last_run_utc": "2026-09-20T01:04:18Z",
-  "last_run_window": "Sat 19 Sep 21:06 MYT through Sun 20 Sep 09:04 MYT (weekend window, no US cash session in range)",
+  "last_run_utc": "2026-09-21T01:06:54Z",
+  "last_run_window": "Sun 20 Sep 09:04 MYT through Mon 21 Sep 09:07 MYT (weekend into Monday pre-market, no US cash session in range)",
   "stories": [
     {
       "id": "tariff-delay-china-summit-sep17",
-      "headline": "Trump-Xi Summit Dates Confirmed (Xi Arrives Washington Sept 24, Departs Sept 26); ~$30B Tariff-Relief Package on the Agenda Alongside the Already-Delayed 7.5% 'Excess-Capacity' Tariff",
-      "score": 6,
+      "headline": "Bessent-He Lifeng Pre-Summit Talks in NYC Wrap 'Very Successful'; New AI-Guardrails Track Opened Ahead of Thu Sep 24 Trump-Xi Summit (Trade Truce Extension, Rare-Earth Flows on Agenda)",
+      "score": 5,
       "direction": "bullish"
     },
     {
