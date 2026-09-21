@@ -1,29 +1,35 @@
 {
-  "last_run_utc": "2026-09-21T01:06:54Z",
-  "last_run_window": "Sun 20 Sep 09:04 MYT through Mon 21 Sep 09:07 MYT (weekend into Monday pre-market, no US cash session in range)",
+  "last_run_utc": "2026-09-21T13:25:00Z",
+  "last_run_window": "Mon 21 Sep 09:06 MYT through Mon 21 Sep 21:25 MYT (Asia trading day, pre-US-cash-open)",
   "stories": [
     {
       "id": "tariff-delay-china-summit-sep17",
-      "headline": "Bessent-He Lifeng Pre-Summit Talks in NYC Wrap 'Very Successful'; New AI-Guardrails Track Opened Ahead of Thu Sep 24 Trump-Xi Summit (Trade Truce Extension, Rare-Earth Flows on Agenda)",
-      "score": 5,
+      "headline": "Xi Departs for Washington Summit (Andrews Arrival Wed, White House Bilateral + State Dinner Thu Sept 24); Chip-Sale-to-China Floated as Bargaining Chip, $14B Taiwan Arms Sale Emerges as Friction Point Beijing Wants Frozen",
+      "score": 6,
       "direction": "bullish"
     },
     {
       "id": "mideast-iran-strike-risk-vs-saudi-pipeline-sep18",
-      "headline": "Aramco Confirms Zero October Crude Allocations to at Least 3 European Refiners After Sept 10 Pipeline Attack; Repair Could Take Up to 6 Weeks (WTI $100.30 / Brent $103.87 Fri Settle)",
-      "score": 6,
-      "direction": "bearish"
+      "headline": "Brent Extends Slide to 4th Straight Session (~$101.65, longest losing streak since June) as Saudi Reroutes Exports via Hormuz and Trump Signals Openness to Meeting Iran's Pezeshkian at Tue UNGA, Even as Fresh Saudi Air-Raid Alerts Hit Riyadh",
+      "score": 4,
+      "direction": "neutral"
+    },
+    {
+      "id": "intel-auo-microled-cpo-sep21",
+      "headline": "Intel Partners with AUO on Micro LED Advanced Packaging for Co-Packaged Optics (CPO); Intel Shares +5.76% Pre-Market on AI-Interconnect Read-Through",
+      "score": 4,
+      "direction": "bullish"
+    },
+    {
+      "id": "boj-hike-yen-carry-trade-sep18",
+      "headline": "Bank of Japan Hikes to 1.25% (Highest Since 1995) on a 7-2 Split; Yen Weakens Past 157, Markets Read Cautious Forward Guidance as Dovish, Keeping the ~$500B Yen Carry Trade Intact (Japan Closed for Holiday Until Thu)",
+      "score": 5,
+      "direction": "neutral"
     },
     {
       "id": "anthropic-openai-smaller-datacenter-deals-sep18",
       "headline": "Anthropic and OpenAI Reported Shifting Toward Smaller (20-30MW) Distributed Data-Center Deals Instead of Exclusively Gigawatt-Scale Single Sites",
       "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "boj-hike-yen-carry-trade-sep18",
-      "headline": "Bank of Japan Hikes to 1.25% (Highest Since 1995) on a 7-2 Split; Yen Weakens Past 157, Nikkei +1.5% as Markets Read Cautious Forward Guidance as Dovish, Keeping the ~$500B Yen Carry Trade Intact",
-      "score": 5,
       "direction": "neutral"
     }
   ]
