@@ -13,8 +13,8 @@ Current news tickers at time of writing (for reference only — the JSON wins):
 - PLTR — Palantir Technologies
 - TSLA — Tesla, Inc.
 - FIG — Figma, Inc.
-- GPRO — GoPro, Inc.
 - ECHO — EchoStar Corporation
+- ONDS — Ondas Holdings, Inc.
 
 To add a stock later: set `"news": true` for it in watchlist.json (add the
 entry if missing), and (optionally) add a per-ticker context block in the
@@ -263,28 +263,6 @@ FIG — Figma, Inc.
 - Standing catalysts to track: quarterly earnings dates, the annual Config
   conference, upcoming lockup expiries, index rebalance dates.
 
-GPRO — GoPro, Inc.
-- Small-cap consumer hardware maker in secular decline as smartphones cannibalize
-  dedicated action cameras; the subscription/cloud business is the growth and
-  margin story management leans on — subscriber-count or ARPU updates are
-  genuine fundamental signal, generic "subscription growing" commentary is not.
-- Highly seasonal: the holiday quarter and the summer action-sports season drive
-  the bulk of unit volume. A soft or strong holiday-quarter print is KNOWN
-  seasonal pattern — score on the surprise vs. consensus, not the raw number.
-- Balance sheet / cash-runway concern is a recurring KNOWN thread — capital
-  raises, layoffs, cost-cutting programs, and buyback authorizations are genuine
-  capital-structure events; vague "path to profitability" language without new
-  figures scores low.
-- Product-cycle catalyst: new Hero-line camera launches are the standing
-  fundamental catalyst. Pre-order or launch-day buzz without unit/revenue
-  figures is low-value chatter.
-- Historically a retail/meme-adjacent name with elevated short interest —
-  sentiment-driven single-day spikes are common and decay fast; require a real
-  fundamental change (guidance, unit economics, a confirmed strategic deal)
-  before scoring above mid-single digits on a pure sentiment move.
-- Standing catalysts to track: quarterly earnings, new Hero camera launches
-  (typically autumn), holiday-quarter guidance and results.
-
 ECHO — EchoStar Corporation
 - Complex, highly leveraged story spanning three businesses — Hughes satellite
   broadband, Boost Mobile wireless, and a large spectrum portfolio. Spectrum
@@ -306,6 +284,29 @@ ECHO — EchoStar Corporation
   track significant ones as an open thread.
 - Standing catalysts to track: quarterly earnings, FCC regulatory decisions,
   spectrum transaction announcements, debt maturity/refinancing dates.
+
+ONDS — Ondas Holdings, Inc.
+- Small-cap, high-beta name spanning two lines: Ondas Networks (private licensed
+  wireless networks for rail, utilities, oil & gas, industrial IoT) and drone/
+  autonomy subsidiaries increasingly positioned toward defense and counter-UAS
+  use cases. The defense/drone narrative channel dominates the "multiple" far
+  more than current revenue — tag it explicitly on sector-driven moves.
+- Government and defense contract news (DoD, allied militaries, homeland
+  security, critical-infrastructure operators) is the highest-impact catalyst
+  type — a confirmed contract with a dollar figure or named counterparty is a
+  genuine fundamental event; "partnership" or MOU announcements without a
+  contract are sentiment/narrative only and score low until dollars attach.
+- Dilution risk is a recurring KNOWN thread for this balance-sheet profile —
+  capital raises, ATM offerings, and warrant/convertible activity are common;
+  routine small raises score low, large or opportunistic raises during a price
+  spike score higher on the flows channel.
+- Thin float relative to headline-driven retail interest: sentiment spikes on
+  drone-sector or defense-budget news that does not specifically name Ondas or
+  a subsidiary should score low — require the news to name the company before
+  scoring above low-single digits on a pure sector-wide move.
+- Standing catalysts to track: quarterly earnings, contract award
+  announcements, FAA/regulatory approvals for drone operations, defense-budget
+  items naming counter-UAS work or the company's subsidiaries.
 
 (When you add a new ticker, add a similar block here: revenue drivers, valuation
 sensitivity, known recurring patterns to discount, standing catalysts. Keep every
