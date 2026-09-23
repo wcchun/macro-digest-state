@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-23T01:23:32Z",
+  "last_run_utc": "2026-09-23T13:31:22Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 22 Sep 21:19 MYT to Wed 23 Sep 09:23 MYT (full Tue US cash session): nothing scored 4+. Genuinely quiet Tuesday -- checked and excluded: a 24/7 Wall St recap on PT dispersion (Sep 22, no new data point), and a Sep-22-dated Form 4 filing whose filer/size could not be confirmed this run (primary-source access blocked; flagged for next run's EDGAR check). No update on NHS/France DGSI/Pentagon BOND threads, no new short-seller/index news. Options/technicals now as_of Tue 22 Sep close (fresh): Vol P/C 0.589 (in-band) / OI P/C 0.962 (in-band -- prior-run OI P/C anomaly has resolved), term-structure ratio 0.951, skew -1.25, IV rank 65.7% (sample 49). Golden cross 33 trading days old (as_of $184.99, +4.81% vs 20MA, +15.27% vs 50MA); next earnings Nov 2 2026.",
+      "last_run_window": "Wed 23 Sep 09:23 MYT to Wed 23 Sep 21:31 MYT (overnight Asia/Europe window, pre-US-open): nothing scored 4+. Quiet window -- checked and excluded: Motley Fool Dow-inclusion speculation piece (Sep 23, opinion, no actual index action), 24/7 Wall St analyst-PT compilation recap (Sep 22, no new rating action), FX Leaders price/technical recap (Sep 23). A Sep-22-dated Form 4 filing surfaced again but filer/size still could not be confirmed (EDGAR blocked); consistent with the routine 10b5-1 cadence, flagged again for next run's direct check. No update on NHS, France DGSI, or Pentagon BOND threads. Options/technicals still as_of Tue 22 Sep close (fresh): Vol P/C 0.589 (in-band) / OI P/C 0.962 (in-band), term-structure ratio 0.951, skew -1.25, IV rank 65.7% (sample 49). Golden cross 33 trading days old (as_of $184.99, +4.81% vs 20MA, +15.27% vs 50MA); next earnings Nov 2 2026.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -229,7 +229,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 22 Sep 21:19 MYT to Wed 23 Sep 09:23 MYT (full Tue US cash session): nothing scored 4+. Checked and excluded: recycled Musk/Merritt FSD-licensing X exchange (Sep 22, no new concrete fact), a 19-vehicle lateral-link-torque recall (scale immaterial vs the standing 1.2M-vehicle NHTSA probe, publish timing unconfirmed), an unverified Seeking Alpha contributor 'downgrade' piece (author/firm unconfirmed, not a sell-side action). Sub-threshold: FAA raised the temporary flight-restriction ceiling over SpaceX's McGregor TX site (Sep 22), confirming an aerial/thruster element for the Oct 1 Roadster reveal -- incremental logistics on the already-scored Roadster thread only. No update on NHTSA AQ26002/EA26002, no new Form 4s, no new delivery data; Oakland trial protective-order motion (from Sep 21) still unresolved. Options/technicals now as_of Tue 22 Sep close (fresh): Vol P/C 0.636 (in-band) / OI P/C 1.006 (outside 0.45-1.00 band -- flagged in STRATEGY TRIAGE), term-structure ratio 0.759, skew -2.33, IV rank 59.3% (sample 49). Golden cross 7 trading days old (as_of $378.90, +4.75% vs 20MA); next earnings Oct 21 2026 (within 30d).",
+      "last_run_window": "Wed 23 Sep 09:23 MYT to Wed 23 Sep 21:31 MYT (overnight Asia/Europe window, pre-US-open): 3 new items, none previously captured in state -- Fitch assigns Tesla its first-ever investment-grade rating (BBB), Tesla Semi wins a 2,500-truck 'ZET SCALE' order (Microsoft/PepsiCo founding shippers), and the Czech Republic recognizes Tesla FSD (Supervised), the 7th EU country. Exact publish timing on all three is uncertain (likely Mon evening/Tue, ahead of this run's strict window start) but none appeared in prior state, so added now. Checked and excluded: recycled Musk 'zero FSD licensing takers' X reply (no new fact), a Benzinga Cybercab-fleet-economics opinion piece. No update on NHTSA AQ26002 (sworn affidavit still due Sep 30) or EA26002; no update on the Oakland trial beyond day-one testimony already in state; no new delivery data or analyst-rating actions confirmed in-window. Options/technicals still as_of Tue 22 Sep close (fresh): Vol P/C 0.636 (in-band) / OI P/C 1.006 (outside 0.45-1.00 band -- flagged in STRATEGY TRIAGE), term-structure ratio 0.759, skew -2.33, IV rank 59.3% (sample 49). Golden cross 7 trading days old (as_of $378.90, +4.75% vs 20MA); next earnings Oct 21 2026 (within 30d).",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -644,11 +644,29 @@
           "headline": "Tesla in-house attorney accused of misleading a witness ahead of the Oakland race-discrimination bench trial; CRD seeks a protective order",
           "score": 4,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-fitch-first-investment-grade-rating-sep21",
+          "headline": "Fitch assigns Tesla its first-ever investment-grade credit rating (BBB), lowering its cost of capital and signaling reduced balance-sheet risk to bond and equity investors",
+          "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "tsla-semi-2500-truck-zet-scale-order-sep22",
+          "headline": "Tesla Semi wins a 2,500-truck 'ZET SCALE' fleet order (founding shippers Microsoft and PepsiCo), roughly doubling the US electric heavy-truck fleet, two days ahead of the Nevada Semi factory inauguration",
+          "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "tsla-czech-fsd-approval-7th-eu-country-sep21",
+          "headline": "Czech Republic recognizes Tesla FSD (Supervised), the 7th EU country to approve it, following the Dutch RDW provisional approval",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 22 Sep 21:19 MYT to Wed 23 Sep 09:23 MYT (full Tue US cash session): nothing scored 4+. No FIG-specific catalyst found; stock fell intraday (sources disagree on magnitude, roughly -2.5% to -5%) with no identifiable company-specific driver -- treated as a recap/price-move item, not news, and excluded. No new Findell letter, no new lockup/offering/SBC data, no new analyst action, no new shipped AI-competitor product, no new 8-K/legal/SEC development. Options/technicals now as_of Tue 22 Sep close (fresh): Vol P/C 0.547 / OI P/C 0.634 (both in-band), term-structure ratio 1.016, skew -0.63, IV rank 57.3% (sample 49). Golden cross 43 trading days old (as_of $21.80, -11.84% vs 20MA, -11.44% vs 50MA, -13.57% vs 200MA -- price remains below all three MAs despite the stale bullish cross flag); next earnings Nov 4 2026.",
+      "last_run_window": "Wed 23 Sep 09:23 MYT to Wed 23 Sep 21:31 MYT (overnight Asia/Europe window, pre-US-open): nothing scored 4+. Second consecutive run with no company-specific explanation found for Tuesday's ~5% intraday decline -- still treated as unexplained price action, not news. No new Findell letter, no new lockup/offering/SBC data, no new analyst action, no new shipped AI-competitor product, no new 8-K/legal/SEC development, no new Form 4 dated in-window. Options/technicals still as_of Tue 22 Sep close (fresh): Vol P/C 0.547 / OI P/C 0.634 (both in-band), term-structure ratio 1.016, skew -0.63, IV rank 57.3% (sample 49). Golden cross 43 trading days old (as_of $21.80, -11.84% vs 20MA, -11.44% vs 50MA, -13.57% vs 200MA -- price remains below all three MAs despite the stale bullish cross flag); next earnings Nov 4 2026.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -832,7 +850,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Tue 22 Sep 21:19 MYT to Wed 23 Sep 09:23 MYT (full Tue US cash session): nothing scored 4+. The Sep 17 Hughes 341/examiner scope-and-budget hearing outcome (Judge Alfredo Perez, S.D. Tex.) STILL has no reported ruling -- this run's access to the Epiq docket, PACER, and SEC EDGAR was blocked, so this is a confirmed data gap rather than a confirmed 'no ruling'; flagged for a direct docket check next run. No update on the creditors'-committee complaint's filing date, SpaceX spectrum-for-equity closing timeline, Boost Mobile subscriber data, or credit-rating action. Golden cross now 1 trading day old (as_of $95.46) -- flagged in STRATEGY TRIAGE for /volume confirmation; no news found explaining the technical move across two consecutive runs. Options/technicals now as_of Tue 22 Sep close (fresh): Vol P/C 1.664 (outside 0.45-1.00 band -- flagged in STRATEGY TRIAGE) / OI P/C 0.531 (in-band), skew proxy 5.81 vol pts, term-structure ratio 0.958, IV rank 24.6% but sample_size=16 -- too small to interpret. balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Wed 23 Sep 09:23 MYT to Wed 23 Sep 21:31 MYT (overnight Asia/Europe window, pre-US-open): nothing scored 4+. The Sep 17 Hughes 341/examiner scope-and-budget hearing outcome (Judge Alfredo Perez, S.D. Tex.) is STILL unpublished -- third consecutive run with no located ruling; this run used broader trade-press search (9fin, Law360, CreditSights, Bloomberg Law) rather than only blocked docket sites, so this is now a confirmed reporting gap, not just blocked access -- escalating for a direct docket check. No update on the creditors'-committee complaint, SpaceX spectrum-for-equity closing timeline, Boost Mobile subscriber data, or credit-rating action. Golden cross still 1 trading day old per repo technicals (as_of $95.46) -- no catalyst identified across two consecutive runs, flagged again in STRATEGY TRIAGE for /volume confirmation. Options/technicals still as_of Tue 22 Sep close (fresh): Vol P/C 1.664 (outside 0.45-1.00 band -- flagged in STRATEGY TRIAGE) / OI P/C 0.531 (in-band), skew proxy 5.81 vol pts, term-structure ratio 0.958, IV rank 24.6% but sample_size=16 -- too small to interpret. balance_sheet_ok false; next earnings Nov 5 2026 per repo technicals (one web source found a conflicting Nov 11 estimate, unverified -- repo JSON used per rules).",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -855,7 +873,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Tue 22 Sep 21:19 MYT to Wed 23 Sep 09:23 MYT (full Tue US cash session): nothing scored 4+. Intraday strength (~+4-5%, unconfirmed primary source) appears to be continued digestion of the GATE/Bron deal (closed Sep 14) rather than any new same-day fact. One unresolved discrepancy found on the Gauntlet II outcome (a conflicting claim that Ascent placed 10th with 1,600 units ordered, vs. the standing 'did not make the final cut' read) -- could not resolve which is current; flagged, not scored. No new contract/defense news, no new Ondas Networks deployment, no new dilution activity, no new Form 4s, no new analyst action, no FAA Part 108 update. Technicals now available: golden-cross feed shows a death cross 5 trading days old (as_of $7.72, +1.84% vs 20MA, -3.11% vs 50MA, -18.70% vs 200MA); options feed live but IV-rank sample_size=1 -- too small to interpret. Vol P/C 0.472 / OI P/C 0.832 (both in-band), term-structure ratio 0.952, skew 0.78. Next earnings ~mid-Nov 2026 (est., no firm date confirmed this run).",
+      "last_run_window": "Wed 23 Sep 09:23 MYT to Wed 23 Sep 21:31 MYT (overnight Asia/Europe window, pre-US-open): nothing scored 4+. The Gauntlet II discrepancy flagged last run is now RESOLVED: corrected reporting (Benzinga, DefenseScoop, ~Sep 18-21) confirms Ascent Aerosystems did NOT place in the Deep Strike top five -- the standing 'did not make the final cut' read was correct; the conflicting '10th place/1,600 units' figure was a stale reference to Gauntlet I, not II. No new contract/defense news naming Ondas or a subsidiary, no new Ondas Networks deployment, no new dilution activity, no new Form 4s, no new analyst action, no FAA Part 108 update (rule still at OIRA/White House review). GATE/Bron acquisition follow-through remains recap-only, no new facts beyond the Sep 14 close. Options/technicals unchanged, still as_of Tue 22 Sep close (fresh): death cross 5 trading days old (as_of $7.72, +1.84% vs 20MA, -3.11% vs 50MA, -18.70% vs 200MA); Vol P/C 0.472 / OI P/C 0.832 (both in-band), term-structure ratio 0.952, skew 0.78, IV-rank sample_size=1 -- too small to interpret. Next earnings ~mid-Nov 2026 (est.; third-party trackers narrow to Nov 12-16, still no firm official date).",
       "stories": []
     }
   }
