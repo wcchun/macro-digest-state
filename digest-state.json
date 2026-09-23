@@ -1,24 +1,24 @@
 {
-  "last_run_utc": "2026-09-22T13:17:52Z",
-  "last_run_window": "Tue 22 Sep 09:06 MYT through Tue 22 Sep 21:17 MYT (Asia/Europe session, pre-US-open Tuesday)",
+  "last_run_utc": "2026-09-23T01:15:57Z",
+  "last_run_window": "Tue 22 Sep 21:17 MYT through Wed 23 Sep 09:15 MYT (full Tue US cash session)",
   "stories": [
     {
-      "id": "meta-muse-chip-ai-rally-sep21",
-      "headline": "Meta's New MUSE AI Agent Sparks Broad Chip/AI Rally Ahead of Thu Trump-Xi Dinner (AI Titans Expected to Attend); AMD Tops $1T Market Cap (+10%), Intel +12%, Arm +17%, SOX +4.3% (5th Straight Gain), Nasdaq Composite Closes at Record High +2.26% (27,122.09)",
-      "score": 8,
+      "id": "trump-xi-summit-ai-dinner-sep24",
+      "headline": "Trump-Xi State Dinner Thu Sept 24 Confirmed to Draw AI/Tech CEOs (Nvidia, OpenAI, Google, Amazon, Apple, SpaceX, Dell, JPMorgan); AI Safety Rules Formally Added to Agenda Alongside Tariff-Truce Extension — Both Sides Flag \"Modest Expectations\"",
+      "score": 7,
       "direction": "bullish"
     },
     {
-      "id": "mideast-iran-strike-risk-vs-saudi-pipeline-sep18",
-      "headline": "Oil Extends Slide to 11-Day Low (Brent ~$101.75, WTI ~$98.34) as Trump Signals Openness to Meeting Iran's Pezeshkian at UNGA and Saudi Export Recovery via Hormuz Continues",
-      "score": 4,
-      "direction": "bullish"
-    },
-    {
-      "id": "tariff-delay-china-summit-sep17",
-      "headline": "Beijing Confirms Xi's State Visit to Washington Sept 23-25 (First in ~11 Years); Trump-Xi Bilateral + State Dinner Thu Sept 24 with AI Titans Expected to Attend; Reciprocal Tariff-Reduction Framework (~$30B Each Side) Under Negotiation",
+      "id": "ai-chip-rally-broadens-memory-sep22",
+      "headline": "Nasdaq Composite/100 Set Fresh Record Closes Tue Sept 22 as AI/Chip Rally Broadens Into Memory (XLK +2.8%, XLC +3.6%, SanDisk & Micron Lead) — Second Straight Session, Smaller Incremental Move Than Monday's Surge",
       "score": 6,
       "direction": "bullish"
+    },
+    {
+      "id": "amazon-meta-muse-agentic-commerce-block-sep21",
+      "headline": "Amazon Blocks Meta's Muse AI Shopping Agent Over Credential-Capture/Identification Concerns; Shopify Partners With Muse for Agentic Checkout Instead — Platform Fight Over Who Controls AI-Agent Commerce",
+      "score": 4,
+      "direction": "neutral"
     }
   ]
 }
