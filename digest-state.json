@@ -1,17 +1,23 @@
 {
-  "last_run_utc": "2026-09-23T01:15:57Z",
-  "last_run_window": "Tue 22 Sep 21:17 MYT through Wed 23 Sep 09:15 MYT (full Tue US cash session)",
+  "last_run_utc": "2026-09-23T13:24:24Z",
+  "last_run_window": "Wed 23 Sep 09:15 MYT through Wed 23 Sep 21:24 MYT (pre-US-open Asia/Europe window)",
   "stories": [
     {
       "id": "trump-xi-summit-ai-dinner-sep24",
-      "headline": "Trump-Xi State Dinner Thu Sept 24 Confirmed to Draw AI/Tech CEOs (Nvidia, OpenAI, Google, Amazon, Apple, SpaceX, Dell, JPMorgan); AI Safety Rules Formally Added to Agenda Alongside Tariff-Truce Extension — Both Sides Flag \"Modest Expectations\"",
+      "headline": "Xi Kicks Off 3-Day DC State Visit Wed Sept 23 With Rare Tarmac Welcome From Trump at Joint Base Andrews (~4pm ET) Ahead of Thu Sept 24 Dinner/AI-CEO Meeting — but Fresh USTR Reporting Shows US-China Still Wrangling Over Extending the Busan Tariff Truce (Nov 10 Deadline), With Greer Blaming Beijing for Insufficient Rare-Earth Supply Commitments",
       "score": 7,
-      "direction": "bullish"
+      "direction": "mixed"
     },
     {
       "id": "ai-chip-rally-broadens-memory-sep22",
-      "headline": "Nasdaq Composite/100 Set Fresh Record Closes Tue Sept 22 as AI/Chip Rally Broadens Into Memory (XLK +2.8%, XLC +3.6%, SanDisk & Micron Lead) — Second Straight Session, Smaller Incremental Move Than Monday's Surge",
-      "score": 6,
+      "headline": "AI/Memory Chip Bid Narrows Wed Premarket to Specific Names (ARM, WDC +2%, MU +5%, SNDK +6.8% on Rosenblatt Upgrade) Even as Broad Index Futures (S&P/Dow) Sit Flat-to-Softer Ahead of Xi Summit — Deceleration From Tuesday's Broad-Index Record Close",
+      "score": 4,
+      "direction": "bullish"
+    },
+    {
+      "id": "oil-slides-mideast-diplomacy-sep23",
+      "headline": "WTI/Brent Fall ~3% Intraday Wed Sept 23 as Diplomatic Efforts Toward an Iran Ceasefire Progress, Easing the Energy-Inflation Channel That Had Been Pressuring the Fed's Post-Hike Rate Path",
+      "score": 5,
       "direction": "bullish"
     },
     {
