@@ -1,18 +1,24 @@
 {
-  "last_run_utc": "2026-09-24T01:14:29Z",
-  "last_run_window": "Wed 23 Sep 21:24 MYT through Thu 24 Sep 09:14 MYT (covers Wednesday's US regular session + pre-US-open Asia window)",
+  "last_run_utc": "2026-09-24T13:20:27Z",
+  "last_run_window": "Thu 24 Sep 09:14 MYT through Thu 24 Sep 21:20 MYT (Asia/Europe window ahead of tonight's US cash open)",
   "stories": [
     {
+      "id": "trump-xi-summit-ai-dinner-sep24",
+      "headline": "US-China Extend \"Busan\" Trade Truce Two Months to Jan 10 as Xi Arrives for State Visit; Reuters Report of ~10 Chinese Firms Cleared for Nvidia H200 Purchases Resurfaces, Helping Wall St to Record Closes Overnight",
+      "score": 6,
+      "direction": "bullish"
+    },
+    {
       "id": "treasury-yield-spike-hawkish-fed-selloff-sep23",
-      "headline": "10yr Treasury Yield Spikes to 19-Year High (5.058%, Biggest 1-Day Move in ~18 Months) as Much-Stronger-Than-Expected US Business-Activity Data (Fastest Since 2021) Combines With Hawkish Fed Governor Barr Comments (\"Further Policy Adjustments Likely Needed\") and a Late-Day Oil Reversal (Brent +3.9% to $103, Erasing the Morning's Iran-Diplomacy Dip) to Push DXY to a 7-Week High and Drive a Tech-Led Equity Selloff (S&P -0.75%, Nasdaq Composite -1.13%, Nasdaq 100 -0.9%)",
-      "score": 7,
+      "headline": "10yr Treasury Grinds to a Fresh 2007-High (~5.12-5.13%), DXY Holds ~101 (7-Week High), No New Catalyst Since Yesterday's Spike",
+      "score": 4,
       "direction": "bearish"
     },
     {
-      "id": "trump-xi-summit-ai-dinner-sep24",
-      "headline": "Trump-Xi Bilateral Meeting and State Dinner Confirmed for Later Today (Thu Sept 24, DC Time); Full AI-Industry CEO Roster Now Locked In — Huang (NVDA), Altman (OpenAI), Cook (AAPL), Nadella (MSFT), Su (AMD), Amon (QCOM), Plus Bezos, Musk, Pichai — but Outcome-Defining Items (Busan Truce Extension, Rare-Earth Terms, Chip-Export Stance) Remain Undecided as of This Digest",
+      "id": "oil-hormuz-saudi-pipeline-iran-talks-sep24",
+      "headline": "Brent Holds Near $105/bbl as Saudi Arabia Preps East-West Pipeline Restart to Bypass Hormuz; Trump Calls Latest Iran Talks \"Very Productive\"",
       "score": 4,
-      "direction": "neutral"
+      "direction": "bearish"
     }
   ]
 }
