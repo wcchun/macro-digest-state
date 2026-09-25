@@ -1,24 +1,24 @@
 {
-  "last_run_utc": "2026-09-24T13:20:27Z",
-  "last_run_window": "Thu 24 Sep 09:14 MYT through Thu 24 Sep 21:20 MYT (Asia/Europe window ahead of tonight's US cash open)",
+  "last_run_utc": "2026-09-25T01:05:58Z",
+  "last_run_window": "Thu 24 Sep 21:20 MYT through Fri 25 Sep 09:06 MYT (Thursday US cash session)",
   "stories": [
     {
-      "id": "trump-xi-summit-ai-dinner-sep24",
-      "headline": "US-China Extend \"Busan\" Trade Truce Two Months to Jan 10 as Xi Arrives for State Visit; Reuters Report of ~10 Chinese Firms Cleared for Nvidia H200 Purchases Resurfaces, Helping Wall St to Record Closes Overnight",
-      "score": 6,
-      "direction": "bullish"
-    },
-    {
       "id": "treasury-yield-spike-hawkish-fed-selloff-sep23",
-      "headline": "10yr Treasury Grinds to a Fresh 2007-High (~5.12-5.13%), DXY Holds ~101 (7-Week High), No New Catalyst Since Yesterday's Spike",
-      "score": 4,
+      "headline": "Flash Composite PMI Hits ~5-Year High but Input Costs Rise Fastest Since Oct 2022; 10yr Treasury Rockets to Fresh 19-Year High (5.14%), DXY at 2-Month High as Oct FOMC Hike Odds Jump ~55%→~70-75%",
+      "score": 6,
       "direction": "bearish"
     },
     {
       "id": "oil-hormuz-saudi-pipeline-iran-talks-sep24",
-      "headline": "Brent Holds Near $105/bbl as Saudi Arabia Preps East-West Pipeline Restart to Bypass Hormuz; Trump Calls Latest Iran Talks \"Very Productive\"",
-      "score": 4,
+      "headline": "Houthi Missile Barrage Hits Saudi Arabia, Spiking Brent to ~$108 Intraday Before Paring to Close +3.4% at $106.60 on Reports of Phased Hormuz Reopening Talks",
+      "score": 5,
       "direction": "bearish"
+    },
+    {
+      "id": "trump-xi-summit-ai-dinner-sep24",
+      "headline": "China Confirms First-Ever US-China AI Talks (Incident Alert System) as Xi Opens Summit with Conciliatory Tone and Trade Truce Extension to Jan 10 Is Formalised; US Semis Firm Into the Meeting",
+      "score": 4,
+      "direction": "bullish"
     }
   ]
 }
