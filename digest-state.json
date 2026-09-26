@@ -1,24 +1,24 @@
 {
-  "last_run_utc": "2026-09-25T13:25:03Z",
-  "last_run_window": "Fri 25 Sep 09:06 MYT through Fri 25 Sep 21:25 MYT (pre-market window ahead of Friday's US cash session)",
+  "last_run_utc": "2026-09-26T01:06:34Z",
+  "last_run_window": "Fri 25 Sep 21:25 MYT through Sat 26 Sep 09:06 MYT (Friday's full US cash session into early Saturday, no weekend catalysts yet)",
   "stories": [
     {
-      "id": "trump-xi-summit-ai-dinner-sep24",
-      "headline": "Trump-Xi Summit Extends Trade Truce to Jan 10 (Already Priced) but Grants No AI-Chip Export Relief; China Counters with Alibaba Zhenwu V900 and Huawei Ascend 960DT (Moved Up to Q1 2027) as Self-Sufficiency Signal",
+      "id": "oil-ease-iran-tanker-blockade-yields-sep25",
+      "headline": "Oil Eases Friday as US-Iran Near Deal to Lift Persian Gulf Tanker Blockades, Halting the Week's Treasury Yield Surge and Lifting Tech into the Weekly Close",
+      "score": 6,
+      "direction": "bullish"
+    },
+    {
+      "id": "akamai-anthropic-11-6b-cpu-deal-sep25",
+      "headline": "Anthropic Signs $11.6B (Scalable to ~$20B) Seven-Year CPU Compute Deal with Akamai, Ceding Akamai a Path to a 5% Equity Stake; Shares Surge ~15-20%",
       "score": 5,
-      "direction": "bearish"
+      "direction": "bullish"
     },
     {
-      "id": "treasury-yield-spike-hawkish-fed-selloff-sep23",
-      "headline": "10yr Treasury Extends Climb to ~5.16% Pre-Market Friday, Continuing Hawkish Repricing and Pressuring Rate-Sensitive Tech Even as Futures Point Modestly Higher",
+      "id": "meta-muse-ai-agent-rally-pause-sep25",
+      "headline": "Meta's Muse AI-Agent Rally Pauses as Shares Retreat Friday After a ~25% Multi-Day Surge, Even as Downloads (1.8M) Outpace ChatGPT's Launch Pace",
       "score": 4,
-      "direction": "bearish"
-    },
-    {
-      "id": "jobless-claims-197k-sep24",
-      "headline": "Weekly Jobless Claims Fall to 197k (vs. 201k Expected), Near Multi-Decade Low, Reinforcing Resilient Labor Market and Trimming Near-Term Fed Cut Odds",
-      "score": 4,
-      "direction": "bearish"
+      "direction": "bullish"
     }
   ]
 }
