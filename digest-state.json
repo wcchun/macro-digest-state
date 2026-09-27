@@ -1,12 +1,18 @@
 {
-  "last_run_utc": "2026-09-26T13:05:00Z",
-  "last_run_window": "Sat 26 Sep 09:06 MYT through Sat 26 Sep 21:05 MYT (weekend stretch, US markets closed, no material developments)",
+  "last_run_utc": "2026-09-27T01:05:16Z",
+  "last_run_window": "Sat 26 Sep 21:05 MYT through Sun 27 Sep 09:05 MYT (weekend stretch, US markets closed)",
   "stories": [
     {
-      "id": "oil-ease-iran-tanker-blockade-yields-sep25",
-      "headline": "Oil Eases Friday as US-Iran Near Deal to Lift Persian Gulf Tanker Blockades, Halting the Week's Treasury Yield Surge and Lifting Tech into the Weekly Close",
+      "id": "china-us-tariff-cut-ai-dialogue-sep26",
+      "headline": "US and China Agree $30B Reciprocal Tariff Cut and Launch \"Superintelligence\" AI Dialogue During Xi's Washington Visit",
       "score": 6,
       "direction": "bullish"
+    },
+    {
+      "id": "oil-ease-iran-tanker-blockade-yields-sep25",
+      "headline": "Trump Rejects Iran's 7-Day Strait-of-Hormuz Reopening Proposal, Delays Renewed Strikes Until After November Midterms",
+      "score": 5,
+      "direction": "bearish"
     },
     {
       "id": "akamai-anthropic-11-6b-cpu-deal-sep25",
