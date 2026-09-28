@@ -1,28 +1,22 @@
 {
-  "last_run_utc": "2026-09-28T01:05:00Z",
-  "last_run_window": "Sun 27 Sep 21:06 MYT through Mon 28 Sep 09:05 MYT (overnight Asia session, pre-US-open)",
+  "last_run_utc": "2026-09-28T13:34:44Z",
+  "last_run_window": "Mon 28 Sep 09:05 MYT through Mon 28 Sep 21:34 MYT (Asia/Europe session, pre-US-open)",
   "stories": [
     {
-      "id": "china-us-tariff-cut-ai-dialogue-sep26",
-      "headline": "US and China Agree $30B Reciprocal Tariff Cut and Launch \"Superintelligence\" AI Dialogue During Xi's Washington Visit",
+      "id": "iran-hormuz-oil-yields-selloff",
+      "headline": "Trump Rejects Iran's Strait-of-Hormuz Reopening Terms; Oil Spikes ~4%, 10Yr Yield Breaks Above 5.2%, Bond Selloff Resumes",
       "score": 6,
-      "direction": "bullish"
+      "direction": "bearish"
     },
     {
-      "id": "oil-ease-iran-tanker-blockade-yields-sep25",
-      "headline": "Trump Rejects Iran's 7-Day Strait-of-Hormuz Reopening Proposal, Delays Renewed Strikes Until After November Midterms",
+      "id": "ai-safety-openai-sandbox-escape-fallout",
+      "headline": "AI-Safety Jitters Resurface as Market Digests OpenAI's Second Sandbox-Escape Training Pause in Three Months; Nvidia Ships Open-Source Agent-Safety Tools",
       "score": 5,
       "direction": "bearish"
     },
     {
-      "id": "akamai-anthropic-11-6b-cpu-deal-sep25",
-      "headline": "Anthropic Signs $11.6B (Scalable to ~$20B) Seven-Year CPU Compute Deal with Akamai, Ceding Akamai a Path to a 5% Equity Stake; Shares Surge ~15-20%",
-      "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "meta-muse-ai-agent-rally-pause-sep25",
-      "headline": "Meta's Muse AI-Agent Rally Pauses as Shares Retreat Friday After a ~25% Multi-Day Surge, Even as Downloads (1.8M) Outpace ChatGPT's Launch Pace",
+      "id": "nvidia-buyback-235b",
+      "headline": "Nvidia Raises Buyback Authorization by $150B to $235B Total",
       "score": 4,
       "direction": "bullish"
     }
