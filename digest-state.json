@@ -1,17 +1,17 @@
 {
-  "last_run_utc": "2026-09-29T01:07:15Z",
-  "last_run_window": "Mon 28 Sep 21:34 MYT through Tue 29 Sep 09:07 MYT (Monday US cash + after-hours session, into Tue Asia pre-market)",
+  "last_run_utc": "2026-09-29T13:27:45Z",
+  "last_run_window": "Tue 29 Sep 09:07 MYT through Tue 29 Sep 21:27 MYT (Tuesday Asia/Europe session into US pre-market)",
   "stories": [
     {
-      "id": "ai-capex-roi-gs-vs-jpm",
-      "headline": "Goldman's $300B/yr AI-Capex Breakeven Warning Fuels Megacap Selloff (META -4.8%, AMZN/MSFT ~-1%); JPMorgan Counters With Tech Re-Engagement Call",
+      "id": "iran-hormuz-oil-yields-selloff",
+      "headline": "Trump Formally Rejects Iran's 7-Day Hormuz Truce Offer, Denies Axios Sanctions-Relief Report (\"I offered them NOTHING!\"); Asian Stocks Fall, Oil +1%, 10Yr Yield Holds ~5.24% Near 2002 Highs",
       "score": 6,
       "direction": "bearish"
     },
     {
-      "id": "iran-hormuz-oil-yields-selloff",
-      "headline": "Iran Floats 7-Day Strait-of-Hormuz Reopening Plan but Talks Remain Stalled; 10Yr Yield Holds ~5.2%, Oil Near Multi-Week Highs",
-      "score": 5,
+      "id": "ai-capex-roi-gs-vs-jpm",
+      "headline": "Goldman's $300B/yr AI-Capex Breakeven Warning Fuels Megacap Selloff (META -4.8%, AMZN/MSFT ~-1%); JPMorgan Counters With Tech Re-Engagement Call",
+      "score": 6,
       "direction": "bearish"
     },
     {
