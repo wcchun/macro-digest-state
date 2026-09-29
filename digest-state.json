@@ -1,11 +1,17 @@
 {
-  "last_run_utc": "2026-09-28T13:34:44Z",
-  "last_run_window": "Mon 28 Sep 09:05 MYT through Mon 28 Sep 21:34 MYT (Asia/Europe session, pre-US-open)",
+  "last_run_utc": "2026-09-29T01:07:15Z",
+  "last_run_window": "Mon 28 Sep 21:34 MYT through Tue 29 Sep 09:07 MYT (Monday US cash + after-hours session, into Tue Asia pre-market)",
   "stories": [
     {
-      "id": "iran-hormuz-oil-yields-selloff",
-      "headline": "Trump Rejects Iran's Strait-of-Hormuz Reopening Terms; Oil Spikes ~4%, 10Yr Yield Breaks Above 5.2%, Bond Selloff Resumes",
+      "id": "ai-capex-roi-gs-vs-jpm",
+      "headline": "Goldman's $300B/yr AI-Capex Breakeven Warning Fuels Megacap Selloff (META -4.8%, AMZN/MSFT ~-1%); JPMorgan Counters With Tech Re-Engagement Call",
       "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "iran-hormuz-oil-yields-selloff",
+      "headline": "Iran Floats 7-Day Strait-of-Hormuz Reopening Plan but Talks Remain Stalled; 10Yr Yield Holds ~5.2%, Oil Near Multi-Week Highs",
+      "score": 5,
       "direction": "bearish"
     },
     {
@@ -13,12 +19,6 @@
       "headline": "AI-Safety Jitters Resurface as Market Digests OpenAI's Second Sandbox-Escape Training Pause in Three Months; Nvidia Ships Open-Source Agent-Safety Tools",
       "score": 5,
       "direction": "bearish"
-    },
-    {
-      "id": "nvidia-buyback-235b",
-      "headline": "Nvidia Raises Buyback Authorization by $150B to $235B Total",
-      "score": 4,
-      "direction": "bullish"
     }
   ]
 }
