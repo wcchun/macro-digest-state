@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-09-28T13:44:44Z",
+  "last_run_utc": "2026-09-29T01:12:16Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 28 Sep 09:10 MYT to Mon 28 Sep 21:44 MYT (Asia/Europe hours, pre-US-Monday-open): no material new stock-specific stories found. Checked and excluded: no new contract/press-release announcements dated Sep 28, no new Form 4 filings in-window, no new analyst initiations/upgrades/downgrades in-window, no short-seller or activist reports. Open threads unchanged: external calendars (TipRanks, Investing.com) still show Nov 9 2026 for Q3 earnings vs the repo technicals' Nov 2 -- discrepancy remains unresolved pending either an IR confirmation or a repo technicals update. France DGSI/ChapsVision transition and UK NHS contract-renewal-risk threads: no new dated development. Options/technicals as_of Fri 25 Sep close (unchanged, no new Monday snapshot yet): Vol P/C 0.662 / OI P/C 0.929 (both in-band), term-structure ratio 0.126 (0DTE-quote artifact -- disregard), skew -1.04, IV rank 65.1% (sample 52). Golden cross 36 trading days old (as_of $189.67, +6.32% vs 20MA, +15.7% vs 50MA); next earnings Nov 2 2026 per repo technicals.",
+      "last_run_window": "Mon 28 Sep 21:44 MYT to Tue 29 Sep 09:12 MYT (Monday US regular session + after-hours): 1 new item -- Nvidia's 'Open Agent Safety Platform' (OpenShell + Sentry) launch names Palantir among 100+ partner orgs, no PLTR-specific deployment or revenue disclosed; stock dipped ~0.9% intraday on the announcement (sell-the-non-news reaction) before closing roughly flat. Distinct from the already-known Nvidia/Fujitsu/Nebius sovereign-AI partnerships from early-Sept AIPCon. No new contract/press-release announcements, no new Form 4 filings, no new analyst rating changes (Goldman reiterated Neutral/$204, not a change), no short-seller or activist reports. Open threads unchanged: external calendars (TipRanks, Investing.com) still show Nov 9 2026 for Q3 earnings vs the repo technicals' Nov 2 -- discrepancy remains unresolved. France DGSI/ChapsVision transition and UK NHS contract-renewal-risk threads: no new dated development. Options/technicals as_of Fri 25 Sep close (unchanged, no new Monday snapshot yet): Vol P/C 0.769 / OI P/C 0.964 (both in-band), term-structure ratio 1.07, skew -1.5, IV rank 66.9% (sample 53). Golden cross 36 trading days old (as_of $189.67, +6.32% vs 20MA, +15.7% vs 50MA); next earnings Nov 2 2026 per repo technicals.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -249,11 +249,17 @@
           "headline": "EdgeRunner AI CEO Tyler Saltsman calls Palantir 'not really an AI company' but the data/infrastructure 'engine block,' confirms EdgeRunner has begun integrating its on-device military models with Palantir's Maven platform",
           "score": 4,
           "direction": "neutral"
+        },
+        {
+          "id": "pltr-nvidia-open-agent-safety-platform-sep28",
+          "headline": "Nvidia launches 'Open Agent Safety Platform' (OpenShell + Sentry); names Palantir, Microsoft, Anthropic among 100+ partner organizations, no PLTR-specific deployment or revenue disclosed",
+          "score": 5,
+          "direction": "neutral"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 28 Sep 09:10 MYT to Mon 28 Sep 21:44 MYT (Asia/Europe hours, pre-US-Monday-open): 1 new item -- JPMorgan same-day cut to Q3 delivery estimate (482k, from 516k) and price target ($415, from $445), citing fresh August China/US registration weakness, 4 days ahead of the Oct 1-2 delivery print. EU FSD vote-delay thread got incremental confirmation only (Oct 6 TCMV session downgraded to a 25-min discussion slot, no vote; 7 of 27 states cleared) -- not separately scored, folded into the standing thread. No leaks/channel-check data on the delivery number itself beyond JPMorgan's revision; no news yet on the NHTSA Cybercab Special Order affidavit due Sep 30 (deadline still 2 days out). Options/technicals as_of Fri 25 Sep close (unchanged): Vol P/C 0.563 / OI P/C 0.970 (in-band), term-structure ratio 0.105 (0DTE artifact -- disregard), skew -1.51, IV rank 55.1% (sample 52). Golden cross 10 trading days old (as_of $372.11, +1.76% vs 20MA, still -5.94% vs 200MA); next earnings Oct 21 2026 (26 days away, within 30d).",
+      "last_run_window": "Mon 28 Sep 21:44 MYT to Tue 29 Sep 09:12 MYT (Monday US regular session + after-hours): 2 new items. (1) Trump administration finalized a CAFE fuel-economy rollback that eliminates the EV credit-trading program starting MY2028 -- removes a recurring high-margin revenue line (other automakers buying Tesla's surplus compliance credits); lagged fundamental hit, near-term reaction is sentiment/multiple. (2) Cantor Fitzgerald cut its Q3 delivery estimate to 421,758 units (-15.2% YoY), the lowest on the Street (below Barclays 475k, JPMorgan 482k, above Goldman's 435k floor), while reiterating Overweight/$485 PT on the autonomy/robotics thesis -- widens the downside tail ahead of the Oct 2 print. Stock closed down ~3-3.9% Monday on the combination plus the already-known JPMorgan cut. No delivery-number leak yet; no new NHTSA/Cybercab development beyond the standing Sep 30 sworn-affidavit deadline (2 days out). No new Form 4 filings found. Options/technicals as_of Fri 25 Sep close (unchanged): Vol P/C 0.536 / OI P/C 0.994 (in-band), term-structure ratio 1.221 (elevated but earnings scheduled Oct 21, so the no-earnings positioning trigger does not fire), skew -3.52, IV rank 62.6% (sample 53). Golden cross 10 trading days old (as_of $372.11, +1.76% vs 20MA, still -5.94% vs 200MA); next earnings Oct 21 2026 (22 days away per options file, within 30d).",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -716,11 +722,23 @@
           "headline": "JPMorgan cuts TSLA price target to $415 (from $445) and Q3 2026 delivery estimate to 482,000 (from 516,000), EPS estimate to $0.36 (from $0.49), citing fresh August China (-13% YoY) and US (-4% YoY) new-vehicle registration weakness, 4 days ahead of the Oct 1-2 delivery print",
           "score": 5,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-cafe-ev-credit-rollback-sep28",
+          "headline": "Trump administration finalizes CAFE fuel-economy rollback (cuts target to ~34.5-34.9 mpg by 2031 from Biden-era ~50mpg) and eliminates the EV credit-trading program starting MY2028, ending automakers' ability to buy surplus EV compliance credits from Tesla",
+          "score": 7,
+          "direction": "bearish"
+        },
+        {
+          "id": "tsla-cantor-q3-delivery-est-421758-sep28",
+          "headline": "Cantor Fitzgerald cuts Q3 2026 delivery estimate to 421,758 units (-15.2% YoY), the lowest on the Street, while reiterating Overweight and a $485 price target on the autonomy/robotics/Semi thesis",
+          "score": 6,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 28 Sep 09:10 MYT to Mon 28 Sep 21:44 MYT: nothing scored 4+. TENTH consecutive run with no company-specific explanation for the Sep 22 ~5% intraday decline (confirmed real: -5.1%, close ~$21.19-21.34). No new Findell Capital letter/board response, no new lockup/offering/SBC data, no new analyst action, no new shipped AI-competitor product with verifiable substance, no new 8-K/legal/SEC development, no new in-window Form 4 (latest found is Brendan Mulligan GC 10b5-1, filed Sep 3, outside window). Minor housekeeping flag: some secondary aggregators now show Nov 11/14 for next earnings vs the repo technicals' Nov 4 -- worth an IR reconfirmation, not treated as a catalyst. Options/technicals as_of Fri 25 Sep close (unchanged): Vol P/C 0.497 / OI P/C 0.608 (both in-band), term-structure ratio 0.481 (0DTE artifact -- disregard), skew -9.47 vol pts (>=8, flagged in STRATEGY TRIAGE), IV rank 53.3% (sample 52). Death cross 2 trading days old (as_of $20.85, -11.95% vs 20MA, -14.83% vs 50MA, -16.5% vs 200MA) -- flagged again in STRATEGY TRIAGE for /volume confirmation; next earnings Nov 4 2026 per repo technicals.",
+      "last_run_window": "Mon 28 Sep 21:44 MYT to Tue 29 Sep 09:12 MYT: nothing scored 4+. ELEVENTH consecutive run with no company-specific explanation for the Sep 22 ~5% intraday decline (confirmed real: -5.1%, close ~$21.19-21.34). Stock traded in a normal, roughly-flat range Monday ($20.80-$21.65, close ~$20.85). No new Findell Capital letter/board response (all coverage still dates to May 28), no new lockup/offering/SBC data, no new analyst action dated to Monday, no new shipped AI-competitor product with verifiable substance, no new 8-K/legal/SEC development, no new in-window Form 4. Earnings-date discrepancy unresolved: no official Figma press release/8-K found confirming Nov 4 vs the Nov 11/14 some aggregators show; investor.figma.com/figma.com/newsroom are blocked by this environment's network egress proxy so a direct company-source check wasn't possible -- worth an IR reconfirmation, not treated as a catalyst. Options/technicals as_of Fri 25 Sep close (unchanged): Vol P/C 0.566 / OI P/C 0.594 (both in-band), term-structure ratio 1.109, skew -4.88 vol pts (now below the >=8 flag threshold -- no longer triggers positioning anomaly), IV rank 58.4% (sample 53). Death cross now 2 trading days old per stored crossover snapshot (as_of $20.85, -11.95% vs 20MA, -14.83% vs 50MA, -16.5% vs 200MA) -- flagged again in STRATEGY TRIAGE for /volume confirmation; next earnings Nov 4 2026 per repo technicals.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -904,7 +922,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Mon 28 Sep 09:10 MYT to Mon 28 Sep 21:44 MYT: nothing scored 4+, no dated in-window catalyst identified. Open threads still unresolved (9th-10th run checked): the Sep 17 Hughes examiner scope-and-budget hearing ruling remains unpublished; the lender motion to strike the Ad Hoc Lender Group's rival Hughes restructuring proposal remains unresolved; the Sep 25 Hughes cash-collateral FINAL hearing was held per the Aug 28 corrected order but its outcome is STILL not published despite targeted searches of docket-adjacent sources -- public search indexing appears to lag the Epiq docket (case 26-90739); highest-priority item to check directly next run. No update on the SpaceX spectrum-for-equity closing timeline (one background note cites a possible Nov 2027 component close, unconfirmed/stale -- not treated as fresh). No new Boost Mobile subscriber data (latest still Q2 10-Q: 7.375M subs as of 6/30). Options/technicals as_of Fri 25 Sep close (unchanged): Vol P/C 3.187 (well outside 0.45-1.00 band, flagged) / OI P/C 0.562 (in-band), skew -15.22 vol pts (>=8, flagged), term-structure ratio 1.417 (0DTE artifact -- disregard), IV rank 53.5% but sample_size=19 -- too small to interpret. Golden cross now 4 trading days old (as_of $90.11) -- remains aged out of the fresh-cross STRATEGY TRIAGE trigger. balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Mon 28 Sep 21:44 MYT to Tue 29 Sep 09:12 MYT: nothing scored 4+, no dated in-window catalyst identified. Open threads still unresolved (10th-11th run checked): the Sep 17 Hughes examiner scope-and-budget hearing ruling remains unpublished; the lender motion to strike the Ad Hoc Lender Group's rival Hughes restructuring proposal remains unresolved; the Sep 25 Hughes cash-collateral FINAL hearing outcome is STILL not published despite direct, repeated targeted searches (Reuters, Law360, Bloomberg Law, 9fin, CreditSights) and an attempted direct docket pull (dm.epiq11.com, case 26-90739, is blocked by this environment's network egress proxy) -- highest-priority item to check next run, ideally via non-proxy-blocked docket access. No update on the SpaceX spectrum-for-equity closing timeline (full transfer targeted Nov 30 2027, confirmed background only, not fresh). No new Boost Mobile subscriber data (latest still Q2 10-Q: 7.375M subs, -118K net in Q2); a web result claiming a Q3 2026 subscriber add was found and discarded as almost certainly fabricated since Q3 2026 doesn't close until Sep 30. Options/technicals as_of Fri 25 Sep close (unchanged): Vol P/C 2.954 (well outside 0.45-1.00 band, flagged in STRATEGY TRIAGE) / OI P/C 0.656 (in-band), skew -5.82 vol pts (below the >=8 flag threshold), term-structure ratio 1.006, IV rank 48.9% but sample_size=20 -- too small to interpret. Golden cross now 4 trading days old (as_of $90.11) -- remains aged out of the fresh-cross STRATEGY TRIAGE trigger. balance_sheet_ok false; next earnings Nov 5 2026.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -927,12 +945,18 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Mon 28 Sep 09:10 MYT to Mon 28 Sep 21:44 MYT: nothing scored 4+. No new contract, capital raise, FAA/regulatory approval, M&A, short report, or analyst rating change found in-window. A secondary aggregator referenced an ambiguous 'Form 4 dated Sep 27' (a Sunday) that could not be confirmed as a genuinely new filing via OpenInsider/secform4.com/direct EDGAR full-text search -- likely a syndication artifact of the already-known Sep 24 Neil Laird sell-to-cover; flagged for manual verification next run, not reported as new. Direct EDGAR access worked fine this run (no blocked-access issue) but surfaced nothing dated in-window. Next earnings date still unconfirmed by the company (~Nov 12 2026 estimate stands). Options/technicals as_of Fri 25 Sep close (unchanged): Vol P/C 0.441 (just outside the 0.45-1.00 band, flagged) / OI P/C 0.599 (in-band), term-structure ratio 0.971, skew -3.32, IV-rank sample_size=4 -- too small to interpret. Death cross 8 trading days old (as_of $7.64, +2.53% vs 20MA, -19.35% vs 200MA); next earnings ~Nov 12 2026 (est., still unconfirmed by the company).",
+      "last_run_window": "Mon 28 Sep 21:44 MYT to Tue 29 Sep 09:12 MYT: 1 new item -- Ondas' Cyberhawk subsidiary secured a multi-year (3yr + 2yr option) agreement with UK utility SSE plc for electricity network inspection and surveying, including offshore wind turbine inspection under Lot 2; no dollar figure disclosed and it's a commercial-utility counterparty, not defense, so capped at 4. No new defense/DoD contract, capital raise, FAA/regulatory approval, M&A-closing update on the Sep 23 Israeli defense-tech acquisition, short report, or analyst rating change found in-window. The ambiguous 'Form 4 dated Sep 27' flagged last run remains unresolved as a primary-source EDGAR confirmation -- sec.gov/efts.sec.gov/secform4.com are blocked by this environment's network egress proxy -- but cross-checking via secondary trackers (Investing.com, MarketBeat, finwire.io) turns up only the already-known Sep 24 Neil Laird sell-to-cover, reasonably (not airtight) supporting the syndication-artifact read; re-verify via direct EDGAR access once available. Next earnings date still unconfirmed by the company (~Nov 12 2026 estimate stands). Options/technicals as_of Fri 25 Sep close (unchanged): Vol P/C 0.522 (now inside the 0.45-1.00 band, no longer flagged) / OI P/C 0.740 (in-band), term-structure ratio 1.039, skew -0.2, IV-rank sample_size=5 -- too small to interpret. Death cross 8 trading days old (as_of $7.64, +2.53% vs 20MA, -19.35% vs 200MA); next earnings ~Nov 12 2026 (est., still unconfirmed by the company).",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
           "headline": "Ondas announces definitive acquisition of three Israeli defense-tech firms -- Insignito (acoustic drone detection), Ottopia Defense (remote teleoperation), and Caribou Labs (GPS-denied navigation) -- for $56M upfront plus up to $32M in earnouts through 2028",
           "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "onds-cyberhawk-sse-plc-contract-sep28",
+          "headline": "Ondas' Cyberhawk secures a multi-year agreement (3-year term + 2-year option) for SSE plc's electricity network inspection and surveying, including offshore wind turbine inspection under Lot 2; no dollar figure disclosed",
+          "score": 4,
           "direction": "bullish"
         }
       ]
