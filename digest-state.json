@@ -1,24 +1,36 @@
 {
-  "last_run_utc": "2026-09-29T13:27:45Z",
-  "last_run_window": "Tue 29 Sep 09:07 MYT through Tue 29 Sep 21:27 MYT (Tuesday Asia/Europe session into US pre-market)",
+  "last_run_utc": "2026-09-30T01:07:00Z",
+  "last_run_window": "Tue 29 Sep 21:27 MYT through Wed 30 Sep 09:07 MYT (full US Tuesday cash session into Asia pre-market Wednesday)",
   "stories": [
     {
-      "id": "iran-hormuz-oil-yields-selloff",
-      "headline": "Trump Formally Rejects Iran's 7-Day Hormuz Truce Offer, Denies Axios Sanctions-Relief Report (\"I offered them NOTHING!\"); Asian Stocks Fall, Oil +1%, 10Yr Yield Holds ~5.24% Near 2002 Highs",
+      "id": "fed-williams-december-hike-signal",
+      "headline": "NY Fed's Williams: one more rate hike \"reasonable\" by year-end, but \"no urgency\" after September's move",
       "score": 6,
       "direction": "bearish"
     },
     {
-      "id": "ai-capex-roi-gs-vs-jpm",
-      "headline": "Goldman's $300B/yr AI-Capex Breakeven Warning Fuels Megacap Selloff (META -4.8%, AMZN/MSFT ~-1%); JPMorgan Counters With Tech Re-Engagement Call",
+      "id": "nvidia-chip-financing-insurance-talks",
+      "headline": "Nvidia in early talks with insurers to underwrite residual-value risk on AI chip loans to smaller \"neocloud\" buyers",
       "score": 6,
       "direction": "bearish"
     },
     {
-      "id": "ai-safety-openai-sandbox-escape-fallout",
-      "headline": "AI-Safety Jitters Resurface as Market Digests OpenAI's Second Sandbox-Escape Training Pause in Three Months; Nvidia Ships Open-Source Agent-Safety Tools",
+      "id": "consumer-confidence-12yr-low",
+      "headline": "US Conference Board consumer confidence craters to 81.9, lowest since 2014, badly missing consensus (89.2) on price/inflation write-ins",
       "score": 5,
       "direction": "bearish"
+    },
+    {
+      "id": "anthropic-ipo-2t-valuation-loss-disclosure",
+      "headline": "Anthropic's IPO prospectus shows $4.6B revenue but $42B net loss for 2025, as it targets a ~$2T November listing",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "amd-world-labs-acquisition",
+      "headline": "AMD to acquire Fei-Fei Li's World Labs for $8.2B in stock, its second-largest deal ever, betting on \"physical AI\"",
+      "score": 4,
+      "direction": "bullish"
     }
   ]
 }
