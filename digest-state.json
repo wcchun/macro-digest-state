@@ -1,12 +1,24 @@
 {
-  "last_run_utc": "2026-09-30T13:22:06Z",
-  "last_run_window": "Wed 30 Sep 09:07 MYT through Wed 30 Sep 21:22 MYT (intraday Asia/Europe session into US pre-market Wednesday)",
+  "last_run_utc": "2026-10-01T01:06:21Z",
+  "last_run_window": "Wed 30 Sep 21:22 MYT through Thu 1 Oct 09:06 MYT (US Wednesday session, after-hours, Asia pre-open)",
   "stories": [
     {
       "id": "pce-adp-data-wednesday-rate-odds-repricing",
-      "headline": "August core PCE cools to 3.0% YoY (vs 3.3% expected); September ADP private payrolls beat (+90k vs +68k expected, wages +3.2%); October FOMC hike odds fall from ~69% to ~36%",
-      "score": 7,
+      "headline": "August core PCE cools to 3.0% YoY; ADP beat; October FOMC hike odds fall to ~37% (now largely priced)",
+      "score": 5,
       "direction": "bullish"
+    },
+    {
+      "id": "long-end-yields-multiyear-highs",
+      "headline": "10yr yield ~5.29-5.30% (+4-5bp) near 2007 highs, 30yr above 5.6%, despite cooler PCE; USD firmer",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "jolts-august-miss",
+      "headline": "August JOLTS 7.08M vs 7.24M expected; jobs report due Friday",
+      "score": 4,
+      "direction": "neutral"
     }
   ]
 }
