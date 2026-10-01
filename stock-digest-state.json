@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-01T01:08:00Z",
+  "last_run_utc": "2026-10-01T13:26:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 30 Sep 21:29 MYT to Thu 01 Oct 09:07 MYT (US session + Asia morning): nothing scored 4+. Only a Labour-conference NHS-contract motion blocked (Skwawkbox, Sep 29) - political noise, scored <4. Options/technicals refreshed: options as_of Tue 29 Sep close, crossover as_of Tue 29 Sep close (run_at 1 Oct 08:11/08:21 MYT), fresh. Vol P/C 0.541 / OI P/C 0.91 (in-band), TS ratio 1.05, skew -1.16, IV rank 67.6% (n=54). Golden cross 38d old; next earnings Nov 2 2026.",
+      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT (Asia day + US pre-market): nothing scored 4+. Surf Air/Air Fuga OperatorOS customer add (stocktitan) and Karp Swedish forestland purchase (AOL) are <4; no new contract/analyst/insider item. Stock ~187. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -259,7 +259,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 30 Sep 21:29 MYT to Thu 01 Oct 09:07 MYT: nothing scored 4+. NHTSA AQ26002 Cybercab sworn-response deadline (Sep 30, up to $139.36M penalty) passed; searches found no report of Tesla's submission or any NHTSA reaction - thread carried forward. Q3 deliveries due Fri 2 Oct (consensus reports vary ~422K-463K); Roadster reveal Oct 15. Options/technicals refreshed: options as_of Tue 29 Sep close, crossover as_of Tue 29 Sep close (run_at 1 Oct 08:11/08:21 MYT), fresh. Vol P/C 0.518 / OI P/C 0.874, TS ratio 1.055, skew -2.69, IV rank 81.8% (n=54). Golden cross 12d old; next earnings Oct 21 2026.",
+      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT: nothing scored 4+. Roadster reveal delayed to Oct 15 (already carried); Q3 deliveries due Fri 2 Oct (consensus ~422K-463K, sources vary); no report of Tesla's NHTSA AQ26002 submission or NHTSA reaction - thread carried. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -750,7 +750,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 30 Sep 21:29 MYT to Thu 01 Oct 09:07 MYT: nothing scored 4+. No new Findell/lockup/analyst/competitor/8-K item; 15th run without a company-specific explanation for the Sep 22 decline. Options/technicals refreshed: options as_of Tue 29 Sep close, crossover as_of Tue 29 Sep close (run_at 1 Oct 08:11/08:21 MYT), fresh. Vol P/C 0.489 / OI P/C 0.561, TS ratio 1.207 (no earnings in 30d -> positioning-anomaly trigger), skew -5.57, IV rank 58.2% (n=54). Death cross 4d old; next earnings Nov 4 2026.",
+      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT: nothing scored 4+. No new Findell/lockup/analyst/competitor/8-K item; stock ~21 near all-time low. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -934,7 +934,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Wed 30 Sep 21:29 MYT to Thu 01 Oct 09:07 MYT: nothing scored 4+. Hughes Sep 25 final-hearing outcome and SpaceX spectrum-for-equity closing timeline still unpublished; no Boost subscriber data. Options/technicals refreshed: options as_of Tue 29 Sep close, crossover as_of Tue 29 Sep close (run_at 1 Oct 08:11/08:21 MYT), fresh. Vol P/C 4.336 (outside band), OI P/C 0.662, TS ratio 1.528, skew 7.06 (below 8), IV rank 25.3% (n=21, too small). Golden cross 6d old; balance_sheet_ok false; next earnings Nov 5 2026.",
+      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT: nothing scored 4+. Hughes examiner scope/Sep hearing outcomes and SpaceX closing timeline still unpublished; no Boost subscriber data. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -957,7 +957,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Wed 30 Sep 21:29 MYT to Thu 01 Oct 09:07 MYT: one new item scored 3 (below threshold): Sep 30 Dronebuster REACH launch with first unit under ONR contract, value/quantity undisclosed. A '$425M underwritten offering' hit surfaced by search was verified as the Oct 2025 deal (priced vs Oct 3 2025 close) - stale, NOT a new raise. Options/technicals refreshed: options as_of Tue 29 Sep close, crossover as_of Tue 29 Sep close (run_at 1 Oct 08:11/08:21 MYT), fresh. Vol P/C 0.381 / OI P/C 0.724, TS ratio 1.051, skew -7.42 (below 8), IV-rank n=6 too small. Death cross 10d old; next earnings ~Nov 12 2026 (est.).",
+      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT: nothing scored 4+. Pentagon Autonomous Warfare Command sector headline does not name Ondas (<4); Dronebuster REACH/ONR (Sep 30) already scored <4; the '$425M offering' hit is the Oct 2025 deal. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
