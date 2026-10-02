@@ -1,23 +1,29 @@
 {
-  "last_run_utc": "2026-10-01T13:25:00Z",
-  "last_run_window": "Thu 1 Oct 09:06 MYT through Thu 1 Oct 21:25 MYT (Asia session, US pre-market)",
+  "last_run_utc": "2026-10-02T01:06:00Z",
+  "last_run_window": "Thu 1 Oct 21:25 MYT through Fri 2 Oct 09:06 MYT (US Thu session, after-hours, Asia morning)",
   "stories": [
     {
-      "id": "pce-adp-data-wednesday-rate-odds-repricing",
-      "headline": "August core PCE cools to 3.0% YoY; ADP beat; October FOMC hike odds fall to ~37% (now largely priced)",
+      "id": "long-end-yields-multiyear-highs",
+      "headline": "10yr yield tags 5.344% intraday (highest since 2002) then reverses lower; 30yr at 24-year high; stocks claw back to flat",
       "score": 5,
-      "direction": "bullish"
+      "direction": "neutral"
     },
     {
-      "id": "long-end-yields-multiyear-highs",
-      "headline": "10yr yield 5.33% (+4bp), highest since Apr 2002; 30yr 5.67%; oil firmer, US-Iran talks stalled",
-      "score": 6,
-      "direction": "bearish"
+      "id": "pce-adp-data-wednesday-rate-odds-repricing",
+      "headline": "August core PCE cools to 3.0% YoY; ADP beat; Fed hold in October now broadly expected (priced)",
+      "score": 4,
+      "direction": "bullish"
     },
     {
       "id": "jolts-august-miss",
       "headline": "August JOLTS 7.08M vs 7.24M expected; jobs report due Friday",
       "score": 4,
+      "direction": "neutral"
+    },
+    {
+      "id": "sept-nfp-preview",
+      "headline": "September NFP due Fri 2 Oct 20:30 MYT: consensus ~+90k (Aug +162k), unemployment 4.1%",
+      "score": 5,
       "direction": "neutral"
     }
   ]
