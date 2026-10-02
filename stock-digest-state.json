@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-01T13:26:00Z",
+  "last_run_utc": "2026-10-02T01:10:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT (Asia day + US pre-market): nothing scored 4+. Surf Air/Air Fuga OperatorOS customer add (stocktitan) and Karp Swedish forestland purchase (AOL) are <4; no new contract/analyst/insider item. Stock ~187. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
+      "last_run_window": "Thu 01 Oct 21:30 MYT to Fri 02 Oct 09:10 MYT (US after-hours + Asia morning): nothing scored 4+. Pre-market ~$189 on recap/valuation pieces only (<4); next earnings 2 Nov. Technicals as_of Wed 30 Sep close; run_at 2 Oct 08:16/08:31 MYT, fresh.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -259,7 +259,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT: nothing scored 4+. Roadster reveal delayed to Oct 15 (already carried); Q3 deliveries due Fri 2 Oct (consensus ~422K-463K, sources vary); no report of Tesla's NHTSA AQ26002 submission or NHTSA reaction - thread carried. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
+      "last_run_window": "Thu 01 Oct 21:30 MYT to Fri 02 Oct 09:10 MYT (US after-hours + Asia morning): nothing scored 4+. Q3 deliveries NOT yet reported at run time (company consensus 461,974; due Fri 2 Oct US morning) - thread carried; no new NHTSA item. Technicals as_of Wed 30 Sep close; run_at 2 Oct 08:16/08:31 MYT, fresh.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -750,7 +750,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT: nothing scored 4+. No new Findell/lockup/analyst/competitor/8-K item; stock ~21 near all-time low. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
+      "last_run_window": "Thu 01 Oct 21:30 MYT to Fri 02 Oct 09:10 MYT (US after-hours + Asia morning): nothing scored 4+. Only recap/PT-consensus items (<4); no new lockup/Findell/competitor item; stock ~21. Technicals as_of Wed 30 Sep close; run_at 2 Oct 08:16/08:31 MYT, fresh.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -934,7 +934,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT: nothing scored 4+. Hughes examiner scope/Sep hearing outcomes and SpaceX closing timeline still unpublished; no Boost subscriber data. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
+      "last_run_window": "Thu 01 Oct 21:30 MYT to Fri 02 Oct 09:10 MYT (US after-hours + Asia morning): nothing scored 4+. Only SpaceX-deal background recap (already carried, closing targeted 30 Nov 2027); no Boost subscriber or new FCC item. Technicals as_of Wed 30 Sep close; run_at 2 Oct 08:16/08:31 MYT, fresh.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -957,7 +957,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Thu 01 Oct 09:08 MYT to Thu 01 Oct 21:30 MYT: nothing scored 4+. Pentagon Autonomous Warfare Command sector headline does not name Ondas (<4); Dronebuster REACH/ONR (Sep 30) already scored <4; the '$425M offering' hit is the Oct 2025 deal. Options/technicals unchanged since prior run (as_of Tue 29 Sep close; run_at 1 Oct 08:11/08:21 MYT), within staleness limit.",
+      "last_run_window": "Thu 01 Oct 21:30 MYT to Fri 02 Oct 09:10 MYT (US after-hours + Asia morning): nothing scored 4+. Dronebuster REACH/ONR (Sep 30) already scored <4; Pentagon Autonomous Warfare Command does not name Ondas; '$425M offering' hit is Oct 2025. Technicals as_of Wed 30 Sep close; run_at 2 Oct 08:16/08:31 MYT, fresh.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
