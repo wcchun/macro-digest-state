@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-03T01:05:56Z",
+  "last_run_utc": "2026-10-03T13:06:17Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Fri 02 Oct 21:30 MYT to Sat 03 Oct ~09:10 MYT (Friday after-hours + Saturday weekend; US closed). nothing scored 4+. Armada sovereign-AI infrastructure partnership (no dollars, <4), White House AI lunch invite and recap pieces only; stock range $188.26-$194.78 Fri. Next earnings 2 Nov. Technicals fresh.",
+      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). nothing new scored 4+; FAA SMART loss/Armada/White House lunch recaps are already-known. Next earnings 2 Nov. Technicals fresh.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -259,7 +259,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Fri 02 Oct 21:30 MYT to Sat 03 Oct ~09:10 MYT (Friday after-hours + Saturday weekend; US closed). Q3 deliveries 486,532 vs 461,974 consensus already tracked (=); stock closed ~+5% Fri (was ~+2% at last run). New: Megapack Nvidia DSX Ready entry (4); storage 13.7 GWh (conflicting sources on vs-expectations). Next earnings 21 Oct. Technicals fresh.",
+      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). Roadster unveil rescheduled Oct 1 -> Oct 15 (weather; update to roadster thread, 4). Nothing else new. Next earnings 21 Oct.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -764,11 +764,17 @@
           "headline": "Q3 energy storage deployments 13.7 GWh (vs 13.5 Q2, 12.5 yr-ago); one source says below 15.9 GWh expected, others call it second-best quarter",
           "score": 4,
           "direction": "neutral"
+        },
+        {
+          "id": "tsla-roadster-unveil-rescheduled-oct15",
+          "headline": "Tesla reschedules Roadster unveil from Oct 1 to Oct 15 citing storm forecast (outdoor-only event)",
+          "score": 4,
+          "direction": "neutral"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Fri 02 Oct 21:30 MYT to Sat 03 Oct ~09:10 MYT (Friday after-hours + Saturday weekend; US closed). nothing scored 4+. Recap/analyst-PT pieces only; no new lockup/activist/competitor item. Technicals fresh (JSON next earnings 4 Nov; one web source says 11 Nov, unverified).",
+      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). nothing scored 4+; no new lockup/activist/competitor item. Next earnings 4 Nov (JSON).",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -952,7 +958,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Fri 02 Oct 21:30 MYT to Sat 03 Oct ~09:10 MYT (Friday after-hours + Saturday weekend; US closed). DISH DBS emerged from Chapter 11 (1 Oct) cutting ~$4.35B debt (new, 5); UBS Buy/$150 upgrade (already tracked, = ; coverage dates it 2 Oct vs stored 8 Sep, same thesis); United OnStream deal (<4). Stock ~$94.25. Technicals fresh.",
+      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). nothing new; DISH DBS emergence and UBS upgrade already tracked. Next earnings 5 Nov.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -981,7 +987,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Fri 02 Oct 21:30 MYT to Sat 03 Oct ~09:10 MYT (Friday after-hours + Saturday weekend; US closed). nothing scored 4+. Dronebuster REACH/ONR first-unit contract (30 Sep, already scored <4), short-interest ~41.6% commentary and drone-sector recaps only. Technicals fresh.",
+      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). nothing scored 4+; no new contract/offering. Next earnings 12 Nov.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
