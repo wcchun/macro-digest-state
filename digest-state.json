@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-10-03T01:10:00Z",
-  "last_run_window": "Fri 2 Oct 21:25 MYT through Sat 3 Oct 09:10 MYT (Fri US session: NFP reaction, close, Fed speakers)",
+  "last_run_utc": "2026-10-03T13:10:00Z",
+  "last_run_window": "Sat 3 Oct 09:10 MYT through Sat 3 Oct 21:10 MYT (weekend; US markets closed, Iran/oil headlines only)",
   "stories": [
     {
       "id": "sept-nfp-preview",
@@ -10,7 +10,13 @@
     },
     {
       "id": "long-end-yields-multiyear-highs",
-      "headline": "10yr reverses to close +1.8bp at ~5.25%, 30yr ~5.63% — jobs-miss yield relief fully faded",
+      "headline": "10yr reverses to close +1.8bp at ~5.25%, 30yr ~5.63% \u2014 jobs-miss yield relief fully faded",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "iran-hormuz-talks-stall",
+      "headline": "Trump rejects Iran proposal to reopen Hormuz; reports of openness to sanctions relief for nuclear progress; Brent ~$102, WTI ~$91",
       "score": 5,
       "direction": "bearish"
     },
