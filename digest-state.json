@@ -1,29 +1,35 @@
 {
-  "last_run_utc": "2026-10-02T13:25:00Z",
-  "last_run_window": "Fri 2 Oct 09:06 MYT through Fri 2 Oct 21:25 MYT (Asia session, pre-market, September NFP release)",
+  "last_run_utc": "2026-10-03T01:10:00Z",
+  "last_run_window": "Fri 2 Oct 21:25 MYT through Sat 3 Oct 09:10 MYT (Fri US session: NFP reaction, close, Fed speakers)",
   "stories": [
     {
       "id": "sept-nfp-preview",
-      "headline": "September NFP +29k vs ~+90k consensus; Aug revised down to +133k; yields fall, hike odds for Oct slide to ~12%",
-      "score": 7,
+      "headline": "September NFP +29k vs ~+84k consensus, unemployment 4.2%; Oct hike odds ~17%, Dec hike still priced; Nasdaq +1.19% on the day",
+      "score": 6,
       "direction": "bullish"
     },
     {
       "id": "long-end-yields-multiyear-highs",
-      "headline": "10yr falls ~6bp to ~5.18% after jobs miss, still near 2002 highs; 30yr ~5.57%",
+      "headline": "10yr reverses to close +1.8bp at ~5.25%, 30yr ~5.63% — jobs-miss yield relief fully faded",
       "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "fed-speakers-hike-bias-split",
+      "headline": "Fed split post-NFP: Kashkari says soft data won't stop hikes; Williams/Jefferson signal more time needed",
+      "score": 4,
       "direction": "neutral"
     },
     {
       "id": "pce-adp-data-wednesday-rate-odds-repricing",
       "headline": "August core PCE cools to 3.0% YoY; ADP beat; Fed October path priced",
-      "score": 3,
+      "score": 2,
       "direction": "neutral"
     },
     {
       "id": "jolts-august-miss",
       "headline": "August JOLTS 7.08M vs 7.24M expected (now superseded by NFP)",
-      "score": 3,
+      "score": 1,
       "direction": "neutral"
     }
   ]
