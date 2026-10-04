@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-10-03T13:10:00Z",
-  "last_run_window": "Sat 3 Oct 09:10 MYT through Sat 3 Oct 21:10 MYT (weekend; US markets closed, Iran/oil headlines only)",
+  "last_run_utc": "2026-10-04T01:04:48Z",
+  "last_run_window": "Sat 3 Oct 21:10 MYT through Sun 4 Oct 09:05 MYT (weekend; US markets closed, no material new information)",
   "stories": [
     {
       "id": "sept-nfp-preview",
@@ -36,6 +36,12 @@
       "id": "jolts-august-miss",
       "headline": "August JOLTS 7.08M vs 7.24M expected (now superseded by NFP)",
       "score": 1,
+      "direction": "neutral"
+    },
+    {
+      "id": "nvidia-chip-smuggling-charge",
+      "headline": "US charges California man over $300M Nvidia chip smuggling to China; industry letter opposes semi tariffs",
+      "score": 3,
       "direction": "neutral"
     }
   ]
