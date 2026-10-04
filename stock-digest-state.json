@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-04T01:10:00Z",
+  "last_run_utc": "2026-10-04T13:10:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (Sunday weekend; US closed). nothing new scored 4+; Jana/Fiserv Palantir-software push (activist, speculative, 3) skipped. Next earnings 2 Nov. Technicals as_of 1 Oct.",
+      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (Sunday; US closed). One new 4: Armada certified modular data center partnership (no dollars). Jana/Fiserv push already skipped. Next earnings 2 Nov. Technicals as_of 1 Oct.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -255,11 +255,17 @@
           "headline": "Nvidia launches 'Open Agent Safety Platform' (OpenShell + Sentry); names Palantir, Microsoft, Anthropic among 100+ partner organizations, no PLTR-specific deployment or revenue disclosed",
           "score": 5,
           "direction": "neutral"
+        },
+        {
+          "id": "pltr-armada-sovereign-ai-modular-dc-partner-oct1-2",
+          "headline": "Palantir names Armada its inaugural Certified Modular Data Center Partner for air-gapped sovereign AI infrastructure; no dollar terms, deployable 'within months'",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (weekend; US closed). nothing new; Q3 delivery beat, Cybercab Austin fleet 125, Roadster Oct 15 already tracked. Next earnings 21 Oct.",
+      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (weekend; US closed). nothing new scoring 4+. nothing new; Q3 delivery beat, Cybercab Austin fleet 125, Roadster Oct 15 already tracked. Next earnings 21 Oct.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -774,7 +780,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (weekend). nothing scored 4+. Next earnings 4 Nov (JSON).",
+      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (weekend; US closed). nothing new scoring 4+. nothing scored 4+. Next earnings 4 Nov (JSON).",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -958,7 +964,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (weekend). nothing new scoring 4+; DISH OnStream/United Airlines streaming deal (3, no dollars) skipped; DBS emergence and UBS upgrade already tracked. Next earnings 5 Nov.",
+      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (weekend; US closed). nothing new scoring 4+. nothing new scoring 4+; DISH OnStream/United Airlines streaming deal (3, no dollars) skipped; DBS emergence and UBS upgrade already tracked. Next earnings 5 Nov.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -987,7 +993,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (weekend). nothing scored 4+; Dronebuster REACH launch (ONR first unit, no dollars, 3) and 41.6% short-interest coverage skipped. Next earnings 12 Nov.",
+      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (weekend; US closed). nothing new scoring 4+. nothing scored 4+; Dronebuster REACH launch (ONR first unit, no dollars, 3) and 41.6% short-interest coverage skipped. Next earnings 12 Nov.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
