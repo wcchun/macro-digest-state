@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-03T13:06:17Z",
+  "last_run_utc": "2026-10-04T01:10:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). nothing new scored 4+; FAA SMART loss/Armada/White House lunch recaps are already-known. Next earnings 2 Nov. Technicals fresh.",
+      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (Sunday weekend; US closed). nothing new scored 4+; Jana/Fiserv Palantir-software push (activist, speculative, 3) skipped. Next earnings 2 Nov. Technicals as_of 1 Oct.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -259,7 +259,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). Roadster unveil rescheduled Oct 1 -> Oct 15 (weather; update to roadster thread, 4). Nothing else new. Next earnings 21 Oct.",
+      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (weekend; US closed). nothing new; Q3 delivery beat, Cybercab Austin fleet 125, Roadster Oct 15 already tracked. Next earnings 21 Oct.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -774,7 +774,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). nothing scored 4+; no new lockup/activist/competitor item. Next earnings 4 Nov (JSON).",
+      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (weekend). nothing scored 4+. Next earnings 4 Nov (JSON).",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -958,7 +958,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). nothing new; DISH DBS emergence and UBS upgrade already tracked. Next earnings 5 Nov.",
+      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (weekend). nothing new scoring 4+; DISH OnStream/United Airlines streaming deal (3, no dollars) skipped; DBS emergence and UBS upgrade already tracked. Next earnings 5 Nov.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -987,7 +987,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Sat 03 Oct ~09:10 MYT to Sat 03 Oct ~21:20 MYT (Saturday weekend; US closed). nothing scored 4+; no new contract/offering. Next earnings 12 Nov.",
+      "last_run_window": "Sat 03 Oct ~21:10 MYT to Sun 04 Oct ~09:10 MYT (weekend). nothing scored 4+; Dronebuster REACH launch (ONR first unit, no dollars, 3) and 41.6% short-interest coverage skipped. Next earnings 12 Nov.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
