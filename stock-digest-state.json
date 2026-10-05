@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-04T13:10:00Z",
+  "last_run_utc": "2026-10-05T01:07:11Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (Sunday; US closed). One new 4: Armada certified modular data center partnership (no dollars). Jana/Fiserv push already skipped. Next earnings 2 Nov. Technicals as_of 1 Oct.",
+      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -265,7 +265,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (weekend; US closed). nothing new scoring 4+. nothing new; Q3 delivery beat, Cybercab Austin fleet 125, Roadster Oct 15 already tracked. Next earnings 21 Oct.",
+      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -780,7 +780,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (weekend; US closed). nothing new scoring 4+. nothing scored 4+. Next earnings 4 Nov (JSON).",
+      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -964,7 +964,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (weekend; US closed). nothing new scoring 4+. nothing new scoring 4+; DISH OnStream/United Airlines streaming deal (3, no dollars) skipped; DBS emergence and UBS upgrade already tracked. Next earnings 5 Nov.",
+      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -993,7 +993,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Sun 04 Oct ~09:10 MYT to ~21:10 MYT (weekend; US closed). nothing new scoring 4+. nothing scored 4+; Dronebuster REACH launch (ONR first unit, no dollars, 3) and 41.6% short-interest coverage skipped. Next earnings 12 Nov.",
+      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+. Late-found: GATE/Bron $205M+$185M earn-out acquisition closed 14 Sep (outside window, now tracked).",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
@@ -1005,6 +1005,12 @@
           "id": "onds-cyberhawk-sse-plc-contract-sep28",
           "headline": "Ondas' Cyberhawk secures a multi-year agreement (3-year term + 2-year option) for SSE plc's electricity network inspection and surveying, including offshore wind turbine inspection under Lot 2; no dollar figure disclosed",
           "score": 4,
+          "direction": "bullish"
+        },
+        {
+          "id": "onds-gate-bron-acquisition-205m-closed-sep14",
+          "headline": "Ondas closes $205M (up to $390M with earn-outs) acquisition of GATE Technologies and Bron Technologies (ESAD/fuzing, 90+ weapon systems); GATE guided to ~$65M 2026 revenue",
+          "score": 6,
           "direction": "bullish"
         }
       ]
