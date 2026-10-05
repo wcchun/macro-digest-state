@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-05T01:07:11Z",
+  "last_run_utc": "2026-10-05T13:35:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+.",
+      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -265,7 +265,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+.",
+      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): 1 new (TSMC Terafab talks, 4).",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -776,11 +776,17 @@
           "headline": "Tesla reschedules Roadster unveil from Oct 1 to Oct 15 citing storm forecast (outdoor-only event)",
           "score": 4,
           "direction": "neutral"
+        },
+        {
+          "id": "tsla-musk-confirms-tsmc-terafab-talks-oct3",
+          "headline": "Musk confirms on X (Sat Oct 3) 'just discussions, but something may come of it' on TSMC involvement in the Terafab Texas chip project; no agreement, ownership or timeline",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+.",
+      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -964,7 +970,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+.",
+      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -993,7 +999,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Mon 05 Oct ~09:10 MYT (pre-open; US closed since Fri close, weekend already covered through Sun 21:10 MYT): nothing new scoring 4+. Late-found: GATE/Bron $205M+$185M earn-out acquisition closed 14 Sep (outside window, now tracked).",
+      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): 1 new (Bron $56M ESAD order, 7).",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
@@ -1011,6 +1017,12 @@
           "id": "onds-gate-bron-acquisition-205m-closed-sep14",
           "headline": "Ondas closes $205M (up to $390M with earn-outs) acquisition of GATE Technologies and Bron Technologies (ESAD/fuzing, 90+ weapon systems); GATE guided to ~$65M 2026 revenue",
           "score": 6,
+          "direction": "bullish"
+        },
+        {
+          "id": "onds-bron-56m-esad-european-loitering-munition-oct5",
+          "headline": "Ondas (Bron Technologies) receives $56M order for Electronic Safe & Arm Devices supporting a European loitering munition program; first ESAD contract since GATE/Bron acquisitions",
+          "score": 7,
           "direction": "bullish"
         }
       ]
