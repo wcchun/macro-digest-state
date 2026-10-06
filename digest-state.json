@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-10-05T13:30:00Z",
-  "last_run_window": "Mon 5 Oct 09:08 MYT through Mon 5 Oct 21:30 MYT (Asia session + US pre-market; no material new information)",
+  "last_run_utc": "2026-10-06T01:10:00Z",
+  "last_run_window": "Mon 5 Oct 21:30 MYT through Tue 6 Oct 09:10 MYT (US Monday session + Asia morning)",
   "stories": [
     {
       "id": "sept-nfp-preview",
@@ -10,7 +10,7 @@
     },
     {
       "id": "long-end-yields-multiyear-highs",
-      "headline": "10yr reverses to close +1.8bp at ~5.25%, 30yr ~5.63% \u2014 jobs-miss yield relief fully faded",
+      "headline": "10yr +5bp to ~5.33% Mon close, highest since 2002; 30yr ~5.66%",
       "score": 5,
       "direction": "bearish"
     },
@@ -43,6 +43,12 @@
       "headline": "US charges California man over $300M Nvidia chip smuggling to China; industry letter opposes semi tariffs",
       "score": 3,
       "direction": "neutral"
+    },
+    {
+      "id": "ism-services-sept-prices-74",
+      "headline": "Sept ISM services 54.9 (Aug 55.4), prices index 74.0 vs 72.6; Nasdaq record +0.37% despite yields",
+      "score": 4,
+      "direction": "bearish"
     }
   ]
 }
