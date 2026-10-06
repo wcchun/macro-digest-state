@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-05T13:35:00Z",
+  "last_run_utc": "2026-10-06T01:05:54Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): nothing new scoring 4+.",
+      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): 1 new (Jana/Fiserv, 4).",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -261,11 +261,17 @@
           "headline": "Palantir names Armada its inaugural Certified Modular Data Center Partner for air-gapped sovereign AI infrastructure; no dollar terms, deployable 'within months'",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "pltr-jana-fiserv-palantir-push-oct5",
+          "headline": "Activist Jana Partners urges Fiserv to adopt Palantir software (third-party push, no contract)",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): 1 new (TSMC Terafab talks, 4).",
+      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -786,7 +792,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): nothing new scoring 4+.",
+      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -970,7 +976,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): nothing new scoring 4+.",
+      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): 1 new (United OnStream, 4).",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -995,11 +1001,17 @@
           "headline": "DISH DBS emerges from prepackaged Chapter 11 (Oct 1) after court confirmation, cutting ~$4.35B of debt",
           "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "echo-dish-onstream-united-airlines-starlink-oct2",
+          "headline": "DISH OnStream live-sports deal with United Airlines on Starlink-enabled seatbacks (200+ aircraft, ~700 by 2027); no dollar figure",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "ONDS": {
-      "last_run_window": "Mon 05 Oct 09:07 MYT to 21:35 MYT (Monday pre-market; delta run): 1 new (Bron $56M ESAD order, 7).",
+      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
