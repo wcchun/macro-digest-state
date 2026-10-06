@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-06T01:05:54Z",
+  "last_run_utc": "2026-10-06T13:25:09Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): 1 new (Jana/Fiserv, 4).",
+      "last_run_window": "Tue 06 Oct, since Tue 06 Oct 09:05 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -271,7 +271,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): nothing new scoring 4+.",
+      "last_run_window": "Tue 06 Oct, since Tue 06 Oct 09:05 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -792,7 +792,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): nothing new scoring 4+.",
+      "last_run_window": "Tue 06 Oct, since Tue 06 Oct 09:05 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -976,7 +976,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): 1 new (United OnStream, 4).",
+      "last_run_window": "Tue 06 Oct, since Tue 06 Oct 09:05 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1011,7 +1011,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Tue 06 Oct, since Mon 05 Oct 21:35 MYT (delta run): nothing new scoring 4+.",
+      "last_run_window": "Tue 06 Oct, since Tue 06 Oct 09:05 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
