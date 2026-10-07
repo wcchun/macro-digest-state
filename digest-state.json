@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-10-06T13:25:00Z",
-  "last_run_window": "Tue 6 Oct 09:10 MYT through Tue 6 Oct 21:25 MYT (Asia day + pre-US-open; no material change)",
+  "last_run_utc": "2026-10-07T01:10:00Z",
+  "last_run_window": "Tue 6 Oct 21:25 MYT through Wed 7 Oct 09:10 MYT (US session Tue 6 Oct; no material change)",
   "stories": [
     {
       "id": "sept-nfp-preview",
@@ -49,6 +49,12 @@
       "headline": "Sept ISM services 54.9 (Aug 55.4), prices index 74.0 vs 72.6; Nasdaq record +0.37% despite yields",
       "score": 4,
       "direction": "bearish"
+    },
+    {
+      "id": "us-close-oct6-records",
+      "headline": "US close Tue 6 Oct: S&P 500 record, Nasdaq ~+0.56%; oil and Treasury yields settle (thin sourcing, no new catalyst)",
+      "score": 3,
+      "direction": "neutral"
     }
   ]
 }
