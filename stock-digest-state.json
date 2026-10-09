@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-08T13:30:00Z",
+  "last_run_utc": "2026-10-09T01:30:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 08 Oct, since Thu 08 Oct 08:55 MYT (delta run): nothing new scoring 4+.",
+      "last_run_window": "Fri 09 Oct, since Thu 08 Oct 21:30 MYT (delta run): Goldman upgrade (new, 5); Form 144 and price recaps below 4.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -267,11 +267,17 @@
           "headline": "Activist Jana Partners urges Fiserv to adopt Palantir software (third-party push, no contract)",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "pltr-goldman-borges-upgrade-buy-oct8",
+          "headline": "Goldman Sachs (Gabriela Borges) upgrades PLTR to Buy from Neutral on expanding AI opportunity; PT reported $230-250 (sources conflict); stock +2-4% to ~$198 on Oct 8, failed at ~$207 record high",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 08 Oct, since Thu 08 Oct 08:55 MYT (delta run): nothing new scoring 4+.",
+      "last_run_window": "Fri 09 Oct, since Thu 08 Oct 21:30 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -792,7 +798,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 08 Oct, since Thu 08 Oct 08:55 MYT (delta run): nothing new scoring 4+.",
+      "last_run_window": "Fri 09 Oct, since Thu 08 Oct 21:30 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -976,7 +982,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Thu 08 Oct, since Thu 08 Oct 08:55 MYT (delta run): nothing new scoring 4+.",
+      "last_run_window": "Fri 09 Oct, since Thu 08 Oct 21:30 MYT (delta run): nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1011,7 +1017,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Thu 08 Oct, since Thu 08 Oct 08:55 MYT (delta run): nothing new scoring 4+.",
+      "last_run_window": "Fri 09 Oct, since Thu 08 Oct 21:30 MYT (delta run): Q3 order-intake tally (4); otherwise nothing new.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
@@ -1035,6 +1041,12 @@
           "id": "onds-bron-56m-esad-european-loitering-munition-oct5",
           "headline": "Ondas (Bron Technologies) receives $56M order for Electronic Safe & Arm Devices supporting a European loitering munition program; first ESAD contract since GATE/Bron acquisitions",
           "score": 7,
+          "direction": "bullish"
+        },
+        {
+          "id": "onds-q3-order-intake-270m-oct7",
+          "headline": "Ondas says Q3 order intake >$270M (>$165M new since mid-Aug) extending backlog into 2027; ULTRA cited as candidate for DoW program of record; aggregates already-tracked orders",
+          "score": 4,
           "direction": "bullish"
         }
       ]
