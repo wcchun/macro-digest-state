@@ -1,7 +1,19 @@
 {
-  "last_run_utc": "2026-10-09T13:30:00Z",
-  "last_run_window": "Fri 9 Oct 09:06 MYT through Fri 9 Oct 21:30 MYT (pre-US-open; no material change, searches returned no new items)",
+  "last_run_utc": "2026-10-10T01:10:00Z",
+  "last_run_window": "Fri 9 Oct 21:30 MYT through Sat 10 Oct 09:10 MYT (US session close + weekend start)",
   "stories": [
+    {
+      "id": "iran-strike-planning-report",
+      "headline": "Report (Atlantic via Bloomberg): White House asked Pentagon for Iran strike options before midterms; oil bid then eased by Fri close",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
+      "id": "us-close-oct9-weekly-gains",
+      "headline": "US close Fri 9 Oct: Dow +0.8%, S&P +0.6%, Nasdaq +0.6%; all three up on week as oil eased and tech rebounded (no new catalyst)",
+      "score": 3,
+      "direction": "neutral"
+    },
     {
       "id": "sept-nfp-preview",
       "headline": "September NFP +29k vs ~+84k consensus, unemployment 4.2%; Oct hike odds ~17%, Dec hike still priced; Nasdaq +1.19% on the day",
