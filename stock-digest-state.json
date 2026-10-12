@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-11T13:06:00Z",
+  "last_run_utc": "2026-10-12T01:20:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sun 11 Oct, since Sun 11 Oct 09:05 MYT (delta run, weekend): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): 1 new item (Barclays initiation, dated Fri 9 Oct).",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -273,11 +273,17 @@
           "headline": "Goldman Sachs (Gabriela Borges) upgrades PLTR to Buy from Neutral on expanding AI opportunity; PT reported $230-250 (sources conflict); stock +2-4% to ~$198 on Oct 8, failed at ~$207 record high",
           "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "pltr-barclays-initiation-overweight-265-oct9",
+          "headline": "Barclays (Anthony Valentini) initiates PLTR at Overweight, street-high $265 PT, citing moat, AI adoption and cash-flow growth",
+          "score": 5,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Sun 11 Oct, since Sun 11 Oct 09:05 MYT (delta run, weekend): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -798,7 +804,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sun 11 Oct, since Sun 11 Oct 09:05 MYT (delta run, weekend): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -982,7 +988,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Sun 11 Oct, since Sun 11 Oct 09:05 MYT (delta run, weekend): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1017,7 +1023,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Sun 11 Oct, since Sun 11 Oct 09:05 MYT (delta run, weekend): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
