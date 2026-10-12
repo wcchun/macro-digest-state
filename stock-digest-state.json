@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-12T01:20:00Z",
+  "last_run_utc": "2026-10-12T13:58:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): 1 new item (Barclays initiation, dated Fri 9 Oct).",
+      "last_run_window": "Mon 12 Oct 21:58 MYT (delta run since Mon 12 Oct 09:20 MYT): 2 new items (Regna AI with Ondas; Maven/Minab review reporting).",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -279,11 +279,23 @@
           "headline": "Barclays (Anthony Valentini) initiates PLTR at Overweight, street-high $265 PT, citing moat, AI adoption and cash-flow growth",
           "score": 5,
           "direction": "bullish"
+        },
+        {
+          "id": "pltr-ondas-regna-ai-sovereign-edge-models-oct12",
+          "headline": "Ondas and Palantir announce Regna AI, a standalone private company (initially wholly owned by Ondas) building mission-specialized edge AI models for defense/security on Palantir training infrastructure and engineering support; no dollar terms",
+          "score": 4,
+          "direction": "bullish"
+        },
+        {
+          "id": "pltr-maven-minab-school-strike-pentagon-review-oct",
+          "headline": "Reporting on an unreleased Pentagon review citing over-reliance on Maven Smart System in the Feb 28 Minab school strike; Palantir says it is not responsible for underlying data; stock still at record",
+          "score": 5,
+          "direction": "bearish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 21:58 MYT (delta run since Mon 12 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -804,7 +816,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 21:58 MYT (delta run since Mon 12 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -988,7 +1000,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 21:58 MYT (delta run since Mon 12 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1023,7 +1035,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Mon 12 Oct 09:05 MYT (delta run, Monday incl. weekend since Sun 11 Oct 21:06 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Mon 12 Oct 21:58 MYT (delta run since Mon 12 Oct 09:20 MYT): 1 new item (Regna AI).",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
@@ -1052,6 +1064,12 @@
         {
           "id": "onds-q3-order-intake-270m-oct7",
           "headline": "Ondas says Q3 order intake >$270M (>$165M new since mid-Aug) extending backlog into 2027; ULTRA cited as candidate for DoW program of record; aggregates already-tracked orders",
+          "score": 4,
+          "direction": "bullish"
+        },
+        {
+          "id": "onds-regna-ai-palantir-oct12",
+          "headline": "Ondas launches Regna AI with Palantir (Palantir supplies training infrastructure/engineering; Ondas first customer; no dollar terms); shares ~+5% early",
           "score": 4,
           "direction": "bullish"
         }
