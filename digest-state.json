@@ -1,7 +1,13 @@
 {
-  "last_run_utc": "2026-10-11T13:10:00Z",
-  "last_run_window": "Sun 11 Oct 09:10 MYT through Sun 11 Oct 21:10 MYT (weekend, no material new items)",
+  "last_run_utc": "2026-10-12T01:04:00Z",
+  "last_run_window": "Sun 11 Oct 21:10 MYT through Mon 12 Oct ~09:05 MYT (weekend/Sunday-evening futures; US Columbus Day Monday)",
   "stories": [
+    {
+      "id": "houthi-saudi-attacks-oil-bid",
+      "headline": "Houthi attacks on Saudi Arabia lift oil Sun night (Brent >$104) before easing; Nasdaq 100 futures +0.1% to +0.5%; big-bank earnings start this week",
+      "score": 5,
+      "direction": "bearish"
+    },
     {
       "id": "iran-strike-planning-report",
       "headline": "Report (Atlantic via Bloomberg): White House asked Pentagon for Iran strike options before midterms; oil bid then eased by Fri close",
