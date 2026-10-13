@@ -1,7 +1,13 @@
 {
-  "last_run_utc": "2026-10-12T13:55:00Z",
-  "last_run_window": "Mon 12 Oct 09:04 MYT through ~21:55 MYT (US Columbus Day session pre-market; no verifiable new catalysts)",
+  "last_run_utc": "2026-10-13T01:10:00Z",
+  "last_run_window": "Mon 12 Oct ~21:55 MYT through Tue 13 Oct 09:10 MYT (Columbus Day US session; bond market shut; bank earnings start Tue)",
   "stories": [
+    {
+      "id": "us-close-oct12-columbus-day",
+      "headline": "US close Mon 12 Oct: Dow +0.4%, S&P ~flat, Nasdaq ~flat, tech weak ahead of big-bank earnings Tue and CPI later in week",
+      "score": 3,
+      "direction": "neutral"
+    },
     {
       "id": "houthi-saudi-attacks-oil-bid",
       "headline": "Houthi attacks on Saudi Arabia lift oil Sun night (Brent >$104) before easing; Nasdaq 100 futures +0.1% to +0.5%; big-bank earnings start this week",
@@ -28,13 +34,13 @@
     },
     {
       "id": "long-end-yields-multiyear-highs",
-      "headline": "10yr +5bp to ~5.33% Mon close, highest since 2002; 30yr ~5.66%",
-      "score": 5,
+      "headline": "10yr at 24-yr highs (~5.3%); bond market closed Mon (Columbus Day) so no new print \u2014 prior \"Mon close 5.33%\" entry unverified",
+      "score": 4,
       "direction": "bearish"
     },
     {
       "id": "iran-hormuz-talks-stall",
-      "headline": "Trump rejects Iran proposal to reopen Hormuz; reports of openness to sanctions relief for nuclear progress; Brent ~$102, WTI ~$91",
+      "headline": "Oil bid on Middle East tensions: Brent just under $107, WTI ~$93 at Mon open (was ~$102/$91); Hormuz talks unresolved",
       "score": 5,
       "direction": "bearish"
     },
