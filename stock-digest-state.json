@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-13T01:20:00Z",
+  "last_run_utc": "2026-10-13T13:35:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 13 Oct 09:20 MYT (delta run since Mon 12 Oct 21:58 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -295,7 +295,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 13 Oct 09:20 MYT (delta run since Mon 12 Oct 21:58 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): 1 new item (NHTSA school-zone defect petition); remainder unchanged.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -812,11 +812,17 @@
           "headline": "Musk confirms on X (Sat Oct 3) 'just discussions, but something may come of it' on TSMC involvement in the Terafab Texas chip project; no agreement, ownership or timeline",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "tsla-nhtsa-robotaxi-school-zone-speeding-defect-petition-oct9",
+          "headline": "NHTSA opens defect petition inquiry into whether Tesla robotaxis speed in school zones (~1,000 2026 Model Y and Cybercab)",
+          "score": 5,
+          "direction": "bearish"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 13 Oct 09:20 MYT (delta run since Mon 12 Oct 21:58 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1000,7 +1006,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Tue 13 Oct 09:20 MYT (delta run since Mon 12 Oct 21:58 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1035,7 +1041,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Tue 13 Oct 09:20 MYT (delta run since Mon 12 Oct 21:58 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
