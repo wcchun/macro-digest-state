@@ -1,7 +1,19 @@
 {
-  "last_run_utc": "2026-10-13T01:10:00Z",
-  "last_run_window": "Mon 12 Oct ~21:55 MYT through Tue 13 Oct 09:10 MYT (Columbus Day US session; bond market shut; bank earnings start Tue)",
+  "last_run_utc": "2026-10-13T13:35:00Z",
+  "last_run_window": "Tue 13 Oct ~09:10 MYT through Tue 13 Oct ~21:35 MYT (pre-market; US cash open ~21:30 MYT; bank earnings day)",
   "stories": [
+    {
+      "id": "memory-chip-selloff-cxmt-ai-capex",
+      "headline": "Memory/semis sell-off extends: KOSPI -7%, SK Hynix -10%, Samsung -7%, Micron ~-3% premarket, NDX futures -0.6%; CXMT competition and OpenAI revenue doubts hit AI-capex returns narrative",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "bank-earnings-jpm-miss-gs-beat",
+      "headline": "JPM EPS $5.57 vs $5.90 est (rare miss); Goldman EPS $17.01 vs $13.08 on equities trading +72%",
+      "score": 3,
+      "direction": "neutral"
+    },
     {
       "id": "us-close-oct12-columbus-day",
       "headline": "US close Mon 12 Oct: Dow +0.4%, S&P ~flat, Nasdaq ~flat, tech weak ahead of big-bank earnings Tue and CPI later in week",
@@ -21,12 +33,6 @@
       "direction": "bearish"
     },
     {
-      "id": "us-close-oct9-weekly-gains",
-      "headline": "US close Fri 9 Oct: Dow +0.8%, S&P +0.6%, Nasdaq +0.6%; all three up on week as oil eased and tech rebounded (no new catalyst)",
-      "score": 3,
-      "direction": "neutral"
-    },
-    {
       "id": "sept-nfp-preview",
       "headline": "September NFP +29k vs ~+84k consensus, unemployment 4.2%; Oct hike odds ~17%, Dec hike still priced; Nasdaq +1.19% on the day",
       "score": 6,
@@ -34,32 +40,20 @@
     },
     {
       "id": "long-end-yields-multiyear-highs",
-      "headline": "10yr at 24-yr highs (~5.3%); bond market closed Mon (Columbus Day) so no new print \u2014 prior \"Mon close 5.33%\" entry unverified",
+      "headline": "10yr -5bp to ~5.19%, 30yr ~5.56% as bond market reopens after Columbus Day; still near 24-yr highs",
       "score": 4,
-      "direction": "bearish"
+      "direction": "bullish"
     },
     {
       "id": "iran-hormuz-talks-stall",
-      "headline": "Oil bid on Middle East tensions: Brent just under $107, WTI ~$93 at Mon open (was ~$102/$91); Hormuz talks unresolved",
-      "score": 5,
-      "direction": "bearish"
+      "headline": "Oil eases Tue: Brent ~$104.4, WTI ~$91.8 (-2%) on temporary US easing of Russian diesel curbs; Hormuz talks still unresolved",
+      "score": 4,
+      "direction": "neutral"
     },
     {
       "id": "fed-speakers-hike-bias-split",
       "headline": "Fed split post-NFP: Kashkari says soft data won't stop hikes; Williams/Jefferson signal more time needed",
       "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "pce-adp-data-wednesday-rate-odds-repricing",
-      "headline": "August core PCE cools to 3.0% YoY; ADP beat; Fed October path priced",
-      "score": 2,
-      "direction": "neutral"
-    },
-    {
-      "id": "jolts-august-miss",
-      "headline": "August JOLTS 7.08M vs 7.24M expected (now superseded by NFP)",
-      "score": 1,
       "direction": "neutral"
     },
     {
@@ -73,12 +67,6 @@
       "headline": "Sept ISM services 54.9 (Aug 55.4), prices index 74.0 vs 72.6; Nasdaq record +0.37% despite yields",
       "score": 4,
       "direction": "bearish"
-    },
-    {
-      "id": "us-close-oct6-records",
-      "headline": "US close Tue 6 Oct: S&P 500 record, Nasdaq ~+0.56%; oil and Treasury yields settle (thin sourcing, no new catalyst)",
-      "score": 3,
-      "direction": "neutral"
     }
   ]
 }
