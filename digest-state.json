@@ -1,36 +1,42 @@
 {
-  "last_run_utc": "2026-10-14T01:10:00Z",
-  "last_run_window": "Tue 13 Oct ~21:35 MYT through Wed 14 Oct ~09:10 MYT (US intraday/close, after-hours, Asia open)",
+  "last_run_utc": "2026-10-14T13:25:00Z",
+  "last_run_window": "Wed 14 Oct ~09:10 MYT through ~21:25 MYT (Asia/Europe session, US pre-market; Sept CPI release unverified)",
   "stories": [
     {
       "id": "memory-chip-selloff-cxmt-ai-capex",
-      "headline": "Memory selloff: MU -5.2% at US close, Kospi -5.5% to -7% (lowest since 31 Jul) on CXMT competition / AI-capex doubts; Mag-7 at record offsets, Nasdaq -0.15%, S&P -0.02%",
-      "score": 6,
+      "headline": "Memory selloff (MU, Kospi) on CXMT competition / AI-capex doubts; no new developments found",
+      "score": 5,
       "direction": "bearish"
     },
     {
       "id": "bank-earnings-jpm-miss-gs-beat",
-      "headline": "JPM EPS $5.57 vs $5.90 est; Goldman beat on revenue; shares -0.9% / -0.2%",
-      "score": 3,
+      "headline": "JPM EPS miss, Goldman beat; shares -0.9% / -0.2%",
+      "score": 2,
       "direction": "neutral"
     },
     {
       "id": "fed-speakers-hike-bias-split",
-      "headline": "Williams (Bloomberg): one more hike may be appropriate this year; Kashkari hawkish; 10yr ~5.2% near 24-yr highs",
+      "headline": "Williams/Kashkari hike bias; 10yr eased to ~5.19% (2nd daily decline) from 5.36% peak (highest since 2002)",
       "score": 4,
       "direction": "bearish"
     },
     {
       "id": "iran-hormuz-oil",
-      "headline": "Oil +1.6% on reports of possible US/Israeli action vs Iran and attacks near Hormuz; Brent ~$104+",
-      "score": 4,
-      "direction": "bearish"
+      "headline": "Oil prices easing in Europe hours after Hormuz-driven rise; Brent ~$104",
+      "score": 3,
+      "direction": "neutral"
     },
     {
       "id": "sept-nfp-preview",
-      "headline": "September NFP +29k vs ~+84k consensus; Oct hike odds sharply lower, Dec hike still priced",
-      "score": 5,
+      "headline": "September NFP +29k vs ~+84k; Oct hike odds lower, Dec hike still priced",
+      "score": 4,
       "direction": "bullish"
+    },
+    {
+      "id": "sept-cpi-ppi",
+      "headline": "Sept CPI (consensus 3.6% y/y headline, core 2.5%) due Wed 14 Oct 8:30 ET; PPI Thu; outcome not verifiable at run time",
+      "score": 6,
+      "direction": "neutral"
     }
   ]
 }
