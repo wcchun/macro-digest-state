@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-13T13:35:00Z",
+  "last_run_utc": "2026-10-14T01:06:02Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Wed 14 Oct 09:15 MYT (delta run since Tue 13 Oct 21:35 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -295,7 +295,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): 1 new item (NHTSA school-zone defect petition); remainder unchanged.",
+      "last_run_window": "Wed 14 Oct 09:15 MYT (delta run since Tue 13 Oct 21:35 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -822,7 +822,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Wed 14 Oct 09:15 MYT (delta run since Tue 13 Oct 21:35 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1006,7 +1006,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Wed 14 Oct 09:15 MYT (delta run since Tue 13 Oct 21:35 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1041,7 +1041,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Tue 13 Oct 21:35 MYT (delta run since Tue 13 Oct 09:20 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
+      "last_run_window": "Wed 14 Oct 09:15 MYT (delta run since Tue 13 Oct 21:35 MYT): searches surfaced no new stock-specific items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
