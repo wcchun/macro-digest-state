@@ -1,72 +1,36 @@
 {
-  "last_run_utc": "2026-10-13T13:35:00Z",
-  "last_run_window": "Tue 13 Oct ~09:10 MYT through Tue 13 Oct ~21:35 MYT (pre-market; US cash open ~21:30 MYT; bank earnings day)",
+  "last_run_utc": "2026-10-14T01:10:00Z",
+  "last_run_window": "Tue 13 Oct ~21:35 MYT through Wed 14 Oct ~09:10 MYT (US intraday/close, after-hours, Asia open)",
   "stories": [
     {
       "id": "memory-chip-selloff-cxmt-ai-capex",
-      "headline": "Memory/semis sell-off extends: KOSPI -7%, SK Hynix -10%, Samsung -7%, Micron ~-3% premarket, NDX futures -0.6%; CXMT competition and OpenAI revenue doubts hit AI-capex returns narrative",
-      "score": 7,
+      "headline": "Memory selloff: MU -5.2% at US close, Kospi -5.5% to -7% (lowest since 31 Jul) on CXMT competition / AI-capex doubts; Mag-7 at record offsets, Nasdaq -0.15%, S&P -0.02%",
+      "score": 6,
       "direction": "bearish"
     },
     {
       "id": "bank-earnings-jpm-miss-gs-beat",
-      "headline": "JPM EPS $5.57 vs $5.90 est (rare miss); Goldman EPS $17.01 vs $13.08 on equities trading +72%",
+      "headline": "JPM EPS $5.57 vs $5.90 est; Goldman beat on revenue; shares -0.9% / -0.2%",
       "score": 3,
       "direction": "neutral"
     },
     {
-      "id": "us-close-oct12-columbus-day",
-      "headline": "US close Mon 12 Oct: Dow +0.4%, S&P ~flat, Nasdaq ~flat, tech weak ahead of big-bank earnings Tue and CPI later in week",
-      "score": 3,
-      "direction": "neutral"
-    },
-    {
-      "id": "houthi-saudi-attacks-oil-bid",
-      "headline": "Houthi attacks on Saudi Arabia lift oil Sun night (Brent >$104) before easing; Nasdaq 100 futures +0.1% to +0.5%; big-bank earnings start this week",
-      "score": 5,
+      "id": "fed-speakers-hike-bias-split",
+      "headline": "Williams (Bloomberg): one more hike may be appropriate this year; Kashkari hawkish; 10yr ~5.2% near 24-yr highs",
+      "score": 4,
       "direction": "bearish"
     },
     {
-      "id": "iran-strike-planning-report",
-      "headline": "Report (Atlantic via Bloomberg): White House asked Pentagon for Iran strike options before midterms; oil bid then eased by Fri close",
+      "id": "iran-hormuz-oil",
+      "headline": "Oil +1.6% on reports of possible US/Israeli action vs Iran and attacks near Hormuz; Brent ~$104+",
       "score": 4,
       "direction": "bearish"
     },
     {
       "id": "sept-nfp-preview",
-      "headline": "September NFP +29k vs ~+84k consensus, unemployment 4.2%; Oct hike odds ~17%, Dec hike still priced; Nasdaq +1.19% on the day",
-      "score": 6,
+      "headline": "September NFP +29k vs ~+84k consensus; Oct hike odds sharply lower, Dec hike still priced",
+      "score": 5,
       "direction": "bullish"
-    },
-    {
-      "id": "long-end-yields-multiyear-highs",
-      "headline": "10yr -5bp to ~5.19%, 30yr ~5.56% as bond market reopens after Columbus Day; still near 24-yr highs",
-      "score": 4,
-      "direction": "bullish"
-    },
-    {
-      "id": "iran-hormuz-talks-stall",
-      "headline": "Oil eases Tue: Brent ~$104.4, WTI ~$91.8 (-2%) on temporary US easing of Russian diesel curbs; Hormuz talks still unresolved",
-      "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "fed-speakers-hike-bias-split",
-      "headline": "Fed split post-NFP: Kashkari says soft data won't stop hikes; Williams/Jefferson signal more time needed",
-      "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "nvidia-chip-smuggling-charge",
-      "headline": "US charges California man over $300M Nvidia chip smuggling to China; industry letter opposes semi tariffs",
-      "score": 3,
-      "direction": "neutral"
-    },
-    {
-      "id": "ism-services-sept-prices-74",
-      "headline": "Sept ISM services 54.9 (Aug 55.4), prices index 74.0 vs 72.6; Nasdaq record +0.37% despite yields",
-      "score": 4,
-      "direction": "bearish"
     }
   ]
 }
