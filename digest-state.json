@@ -1,42 +1,11 @@
 {
-  "last_run_utc": "2026-10-15T01:10:00Z",
-  "last_run_window": "Wed 14 Oct ~21:25 MYT through Thu 15 Oct ~09:10 MYT (US pre-market, full US cash session, close)",
+  "last_run_utc": "2026-10-15T13:25:00Z",
+  "last_run_window": "Thu 15 Oct ~09:10 MYT through ~21:20 MYT (Asia session, US pre-market incl. 20:30 MYT PPI)",
   "stories": [
-    {
-      "id": "sept-cpi-ppi",
-      "headline": "Sept CPI hot: headline 3.7% y/y vs 3.6% est (Aug 3.4%), core 2.6% vs 2.5%, core m/m 0.3% vs 0.2%; Nasdaq-100 ~-1% to Composite ~-1.9% intraday; PPI due Thu",
-      "score": 7,
-      "direction": "bearish"
-    },
-    {
-      "id": "fed-speakers-hike-bias-split",
-      "headline": "Hike odds up post-CPI (Oct 27-28 still a minority, Dec firmly priced); 10yr spiked to ~5.33% then faded to ~5.19% close, below Tue 5.217%",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "memory-chip-selloff-cxmt-ai-capex",
-      "headline": "Semis weak: SOXX down 7th straight day; memory/CXMT/AI-capex doubts persist",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "iran-hormuz-oil",
-      "headline": "Brent ~$106: reported attacks on ships in Hormuz and Houthi hit on Aramco Dhahran; no measurable supply loss yet",
-      "score": 4,
-      "direction": "bearish"
-    },
-    {
-      "id": "sept-nfp-preview",
-      "headline": "September NFP +29k vs ~+84k; Oct hike odds lower, Dec hike still priced (no new info)",
-      "score": 3,
-      "direction": "bullish"
-    },
-    {
-      "id": "bank-earnings-jpm-miss-gs-beat",
-      "headline": "JPM EPS miss, Goldman beat; shares -0.9% / -0.2% (no new info)",
-      "score": 2,
-      "direction": "neutral"
-    }
+    { "id": "sept-ppi-hot", "headline": "Sept PPI hot: +1.3% m/m vs 0.6% est, 6.3% y/y vs 5.5% (highest since Dec 2022); Nasdaq-100 futures ~-1.3%", "score": 7, "direction": "bearish" },
+    { "id": "sept-cpi-ppi", "headline": "Sept CPI hot (3.7% y/y, core 2.6%) - now background to PPI", "score": 4, "direction": "bearish" },
+    { "id": "memory-chip-selloff-cxmt-ai-capex", "headline": "Semis/AI-capex sell-off continues into pre-market; Nasdaq-100 -2.0% Wed to 29,950.82", "score": 5, "direction": "bearish" },
+    { "id": "ust-10yr-yield", "headline": "10yr fades ~9bp to ~5.10% Thu from 5.19%, off 5.33% CPI spike; tempers rate channel", "score": 5, "direction": "bullish" },
+    { "id": "fed-speakers-hike-bias-split", "headline": "Hike odds: Oct hold odds rose to ~68% as Fed speakers softer; Dec hike still in play, PPI risks reversing", "score": 4, "direction": "bearish" }
   ]
 }
