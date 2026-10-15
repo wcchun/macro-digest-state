@@ -1,41 +1,41 @@
 {
-  "last_run_utc": "2026-10-14T13:25:00Z",
-  "last_run_window": "Wed 14 Oct ~09:10 MYT through ~21:25 MYT (Asia/Europe session, US pre-market; Sept CPI release unverified)",
+  "last_run_utc": "2026-10-15T01:10:00Z",
+  "last_run_window": "Wed 14 Oct ~21:25 MYT through Thu 15 Oct ~09:10 MYT (US pre-market, full US cash session, close)",
   "stories": [
     {
-      "id": "memory-chip-selloff-cxmt-ai-capex",
-      "headline": "Memory selloff (MU, Kospi) on CXMT competition / AI-capex doubts; no new developments found",
+      "id": "sept-cpi-ppi",
+      "headline": "Sept CPI hot: headline 3.7% y/y vs 3.6% est (Aug 3.4%), core 2.6% vs 2.5%, core m/m 0.3% vs 0.2%; Nasdaq-100 ~-1% to Composite ~-1.9% intraday; PPI due Thu",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "fed-speakers-hike-bias-split",
+      "headline": "Hike odds up post-CPI (Oct 27-28 still a minority, Dec firmly priced); 10yr spiked to ~5.33% then faded to ~5.19% close, below Tue 5.217%",
       "score": 5,
       "direction": "bearish"
     },
     {
-      "id": "bank-earnings-jpm-miss-gs-beat",
-      "headline": "JPM EPS miss, Goldman beat; shares -0.9% / -0.2%",
-      "score": 2,
-      "direction": "neutral"
-    },
-    {
-      "id": "fed-speakers-hike-bias-split",
-      "headline": "Williams/Kashkari hike bias; 10yr eased to ~5.19% (2nd daily decline) from 5.36% peak (highest since 2002)",
-      "score": 4,
+      "id": "memory-chip-selloff-cxmt-ai-capex",
+      "headline": "Semis weak: SOXX down 7th straight day; memory/CXMT/AI-capex doubts persist",
+      "score": 5,
       "direction": "bearish"
     },
     {
       "id": "iran-hormuz-oil",
-      "headline": "Oil prices easing in Europe hours after Hormuz-driven rise; Brent ~$104",
-      "score": 3,
-      "direction": "neutral"
+      "headline": "Brent ~$106: reported attacks on ships in Hormuz and Houthi hit on Aramco Dhahran; no measurable supply loss yet",
+      "score": 4,
+      "direction": "bearish"
     },
     {
       "id": "sept-nfp-preview",
-      "headline": "September NFP +29k vs ~+84k; Oct hike odds lower, Dec hike still priced",
-      "score": 4,
+      "headline": "September NFP +29k vs ~+84k; Oct hike odds lower, Dec hike still priced (no new info)",
+      "score": 3,
       "direction": "bullish"
     },
     {
-      "id": "sept-cpi-ppi",
-      "headline": "Sept CPI (consensus 3.6% y/y headline, core 2.5%) due Wed 14 Oct 8:30 ET; PPI Thu; outcome not verifiable at run time",
-      "score": 6,
+      "id": "bank-earnings-jpm-miss-gs-beat",
+      "headline": "JPM EPS miss, Goldman beat; shares -0.9% / -0.2% (no new info)",
+      "score": 2,
       "direction": "neutral"
     }
   ]
