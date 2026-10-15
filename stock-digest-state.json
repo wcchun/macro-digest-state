@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-15T01:12:00Z",
+  "last_run_utc": "2026-10-15T13:23:54Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since Thu 15 Oct 09:12 MYT; US pre-market/prior session): 2 new items at 4 (London lawsuit settlement, Baird PT).",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -291,11 +291,23 @@
           "headline": "Reporting on an unreleased Pentagon review citing over-reliance on Maven Smart System in the Feb 28 Minab school strike; Palantir says it is not responsible for underlying data; stock still at record",
           "score": 5,
           "direction": "bearish"
+        },
+        {
+          "id": "pltr-london-met-police-contract-lawsuit-settled-oct14",
+          "headline": "Palantir settles dispute with London Mayor's office over blocked \u00a350M Metropolitan Police contract; mayor's office says Palantir may bid in future procurement",
+          "score": 4,
+          "direction": "neutral"
+        },
+        {
+          "id": "pltr-baird-pt-250-oct",
+          "headline": "Baird raises PLTR PT to $250 from $200",
+          "score": 4,
+          "direction": "bullish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since 09:12 MYT): nothing new scoring 4+; Roadster unveil confirmed for 8:55pm EDT tonight (existing thread).",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -822,7 +834,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since 09:12 MYT): nothing new found scoring 4+ (thin search coverage).",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1006,7 +1018,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since 09:12 MYT): nothing new found scoring 4+ (thin search coverage).",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1041,7 +1053,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since 09:12 MYT): nothing new scoring 4+; -6% on Oct 14 was sector/no company news.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
