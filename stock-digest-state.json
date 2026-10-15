@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-14T13:26:00Z",
+  "last_run_utc": "2026-10-15T01:12:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 14 Oct 21:26 MYT (delta run since Wed 14 Oct 09:15 MYT): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -295,7 +295,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 14 Oct 21:26 MYT (delta run since Wed 14 Oct 09:15 MYT): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -822,7 +822,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 14 Oct 21:26 MYT (delta run since Wed 14 Oct 09:15 MYT): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1006,7 +1006,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Wed 14 Oct 21:26 MYT (delta run since Wed 14 Oct 09:15 MYT): nothing new scoring 4+.",
+      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1041,7 +1041,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Wed 14 Oct 21:26 MYT (delta run since Wed 14 Oct 09:15 MYT): 1 new item (BIRD AMPS EASA certification, Oct 13).",
+      "last_run_window": "Thu 15 Oct 09:12 MYT (delta run since Wed 14 Oct 21:26 MYT, US after-hours/overnight): nothing new scoring 4+.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
