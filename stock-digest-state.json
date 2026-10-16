@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-15T13:23:54Z",
+  "last_run_utc": "2026-10-16T01:06:24Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since Thu 15 Oct 09:12 MYT; US pre-market/prior session): 2 new items at 4 (London lawsuit settlement, Baird PT).",
+      "last_run_window": "Fri 16 Oct 09:06 MYT (delta since Thu 15 Oct ~21:00 MYT): nothing new scoring 4+; thin search coverage (no dated Oct 15-16 items found).",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -307,7 +307,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since 09:12 MYT): nothing new scoring 4+; Roadster unveil confirmed for 8:55pm EDT tonight (existing thread).",
+      "last_run_window": "Fri 16 Oct 09:06 MYT (delta since Thu 15 Oct ~21:00 MYT): nothing new scoring 4+ confirmed; Roadster reveal (McGregor TX, 8:55pm EDT Oct 15) held but post-event details/market reaction not yet verifiable; Q3 earnings Oct 21 per technicals.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -834,7 +834,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since 09:12 MYT): nothing new found scoring 4+ (thin search coverage).",
+      "last_run_window": "Fri 16 Oct 09:06 MYT (delta since Thu 15 Oct ~21:00 MYT): nothing new found scoring 4+ (thin search coverage).",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1018,7 +1018,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since 09:12 MYT): nothing new found scoring 4+ (thin search coverage).",
+      "last_run_window": "Fri 16 Oct 09:06 MYT (delta since Thu 15 Oct ~21:00 MYT): nothing new found scoring 4+ (thin search coverage).",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1053,7 +1053,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Thu 15 Oct ~21:00 MYT (delta since 09:12 MYT): nothing new scoring 4+; -6% on Oct 14 was sector/no company news.",
+      "last_run_window": "Fri 16 Oct 09:06 MYT (delta since Thu 15 Oct ~21:00 MYT): nothing new found scoring 4+ (thin search coverage).",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
