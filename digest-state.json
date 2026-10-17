@@ -1,35 +1,41 @@
 {
-  "last_run_utc": "2026-10-16T13:10:00Z",
-  "last_run_window": "Fri 16 Oct ~09:10 MYT through ~21:10 MYT (Asia hours / US pre-market; no new material items found)",
+  "last_run_utc": "2026-10-17T01:10:00Z",
+  "last_run_window": "Fri 16 Oct ~21:10 MYT through Sat 17 Oct ~09:10 MYT (Fri US session in full + weekend so far)",
   "stories": [
     {
+      "id": "memory-chip-selloff-cxmt-ai-capex",
+      "headline": "SOX -3.8% Fri, 8th straight decline, -11.4% on week, >20% off June peak; Nasdaq Comp -2.14%, S&P -1.09% on AI-debt worries (CoreWeave -13%)",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "oil-spike-geopolitics",
+      "headline": "Oil +~4% Fri on geopolitical supply worries (indirect inflation->rates channel)",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
+      "id": "fed-speakers-hike-bias-split",
+      "headline": "Oct 28 hike odds reported ~25% (down from ~70% earlier in week) after Williams/Jefferson; Dec hike still favoured; FOMC blackout begins; figures conflicting/unverified",
+      "score": 4,
+      "direction": "neutral"
+    },
+    {
+      "id": "ust-10yr-yield",
+      "headline": "10yr ~5.09% flat Fri (single-source, unverified)",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
       "id": "sept-ppi-hot",
-      "headline": "Sept PPI hot (+1.3% m/m vs 0.6% est) but absorbed: Nasdaq Comp +0.08%, S&P +0.33% as yields fell",
-      "score": 5,
+      "headline": "Sept PPI hot (+1.3% m/m vs 0.6% est) - background, absorbed Thu",
+      "score": 3,
       "direction": "bearish"
     },
     {
       "id": "sept-cpi-ppi",
       "headline": "Sept CPI hot (3.7% y/y, core 2.6%) - background",
       "score": 3,
-      "direction": "bearish"
-    },
-    {
-      "id": "memory-chip-selloff-cxmt-ai-capex",
-      "headline": "SOX -0.88% to 11,581, 7th straight decline (vs -4.3% Wed); AI-funding worries, global tech rout",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "ust-10yr-yield",
-      "headline": "Treasuries rallied on flight to safety Thu, 10yr easing from 5.33% CPI spike (close level unverified)",
-      "score": 5,
-      "direction": "bullish"
-    },
-    {
-      "id": "fed-speakers-hike-bias-split",
-      "headline": "Hike odds: ~37% Oct 28, ~91% at least one hike by Dec (CME, as of Wed close); Thu update unverified",
-      "score": 4,
       "direction": "bearish"
     }
   ]
