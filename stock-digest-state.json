@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-17T01:10:00Z",
+  "last_run_utc": "2026-10-17T13:06:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Sat 17 Oct 09:10 MYT (delta since Fri 16 Oct 21:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Sat 17 Oct 21:10 MYT (delta since Sat 17 Oct 09:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -307,7 +307,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Sat 17 Oct 09:10 MYT (delta since Fri 16 Oct 21:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Sat 17 Oct 21:10 MYT (delta since Sat 17 Oct 09:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -834,7 +834,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Sat 17 Oct 09:10 MYT (delta since Fri 16 Oct 21:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Sat 17 Oct 21:10 MYT (delta since Sat 17 Oct 09:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -977,7 +977,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Mon 21 Sep 09:14 MYT to Tue 22 Sep 09:11 MYT (Monday US pre-market through after-hours): nothing scored 4+. Merger process unchanged: still no DEFM14A filed (only DEFA14A soliciting material and numbered 424B3 prospectus supplements on EDGAR), no shareholder-vote date set, no HSR/antitrust clearance news, no competing bid or deal-terms change, no law-firm alert escalated to an actually-filed suit, no new Markiplier stake filing/statement, no new analyst action. Continued short-squeeze price drift (Russell 2000 top MTD performer) carries no new fact, scored below threshold. Nasdaq minimum-bid-price compliance (regained via the Sep 16 8-K) remains resolved/stale. Options/technicals now as_of Mon 21 Sep close (sample size 15): Vol P/C 0.133 (outside 0.45-1.00 band) / OI P/C 0.296 (outside band) -- both flagged in STRATEGY TRIAGE, consistent with ongoing merger-arb positioning; term-structure ratio 1.022, skew -6.25, IV rank 0.0% but sample_size=15 -- too small to interpret. Golden cross 12 trading days old (as_of $1.30; MA distances remain merger-jump artifacts, not a trend signal); next earnings Nov 5 2026 (likely superseded by the merger timeline).",
+      "last_run_window": "Sat 17 Oct 21:10 MYT (delta since Sat 17 Oct 09:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -1018,7 +1018,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Sat 17 Oct 09:10 MYT (delta since Fri 16 Oct 21:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Sat 17 Oct 21:10 MYT (delta since Sat 17 Oct 09:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1053,7 +1053,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Sat 17 Oct 09:10 MYT (delta since Fri 16 Oct 21:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Sat 17 Oct 21:10 MYT (delta since Sat 17 Oct 09:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
