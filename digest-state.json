@@ -1,12 +1,12 @@
 {
-  "last_run_utc": "2026-10-19T13:07:00Z",
-  "last_run_window": "Mon 19 Oct ~09:10 MYT through ~21:07 MYT (Asia/Europe session into US pre-market; no new verified material items found)",
+  "last_run_utc": "2026-10-20T01:10:00Z",
+  "last_run_window": "Mon 19 Oct ~21:07 MYT through Tue 20 Oct ~09:10 MYT (Mon US session full, close to now)",
   "stories": [
     {
       "id": "memory-chip-selloff-cxmt-ai-capex",
-      "headline": "SOX -3.8% Fri, 8th straight decline, -11.4% on week, >20% off June peak; Nasdaq Comp -2.14%, S&P -1.09% on AI-debt worries (CoreWeave -13%)",
-      "score": 7,
-      "direction": "bearish"
+      "headline": "SOX +1.6% Mon, snaps 8-session losing streak (-15.7%, worst since Oct 2008); Nasdaq Comp +1.1% to 26,431, S&P ~+0.4%; rebound seen fragile ahead of megacap earnings",
+      "score": 5,
+      "direction": "bullish"
     },
     {
       "id": "oil-spike-geopolitics",
