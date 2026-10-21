@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-20T13:07:01Z",
+  "last_run_utc": "2026-10-21T01:05:50Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 20 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Wed 21 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -307,7 +307,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 20 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Wed 21 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -834,7 +834,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 20 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Wed 21 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1018,7 +1018,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Tue 20 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Wed 21 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1053,7 +1053,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Tue 20 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Wed 21 Oct (delta since last run, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
