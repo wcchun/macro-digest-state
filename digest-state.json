@@ -1,34 +1,40 @@
 {
-  "last_run_utc": "2026-10-21T01:10:00Z",
-  "last_run_window": "Tue 20 Oct ~21:08 MYT through Wed 21 Oct ~09:10 MYT (Tue US session close and after-hours)",
+  "last_run_utc": "2026-10-21T13:08:00Z",
+  "last_run_window": "Wed 21 Oct ~09:10 MYT through ~21:08 MYT (Tue after-hours, Asia hours and Wed US pre-market)",
   "stories": [
     {
-      "id": "oil-spike-geopolitics",
-      "headline": "Brent eases from ~5-month high to ~$109 on US-Iran diplomacy hopes; Treasuries rally, yields -3 to -6bp",
+      "id": "spacex-q3-profit-ai-trade",
+      "headline": "SpaceX Q3 profit/revenue +161% lifts Nasdaq-100 futures ~+1% pre-market; revives AI trade",
       "score": 5,
       "direction": "bullish"
     },
     {
+      "id": "oil-spike-geopolitics",
+      "headline": "Brent back above $110 on reported Hormuz tanker blockade; US says Iran peace deal 'difficult'",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
       "id": "memory-chip-selloff-cxmt-ai-capex",
-      "headline": "Nasdaq Comp flat (-0.02% to 26,425) as AI-related stocks stay under pressure; S&P +0.28% to 7,713, Dow +1.0% on rotation/earnings",
+      "headline": "Nasdaq Comp flat Tue as AI-related stocks stay under pressure; chips bid pre-market Wed",
       "score": 4,
       "direction": "neutral"
     },
     {
       "id": "netflix-ad-forecast-cut",
-      "headline": "Netflix cuts 2026 ad revenue forecast after the bell; SpaceX first public-company quarterly profit",
+      "headline": "Netflix cuts 2026 ad revenue forecast after the bell Tue",
       "score": 4,
       "direction": "bearish"
     },
     {
       "id": "fed-speakers-hike-bias-split",
-      "headline": "Oct 28 hike odds reported ~25%; Dec hike still favoured; FOMC blackout; no new Fed news found Tue",
+      "headline": "Oct 28 hike odds ~25%; Dec hike still favoured; FOMC blackout; no new Fed news",
       "score": 4,
       "direction": "neutral"
     },
     {
       "id": "ust-10yr-yield",
-      "headline": "10yr ~5.10% after 3-6bp rally Tue (level single-source, unverified)",
+      "headline": "10yr ~5.10% after Tue rally (single-source, unverified); no new level found",
       "score": 4,
       "direction": "bullish"
     },
