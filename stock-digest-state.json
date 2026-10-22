@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-21T13:10:12Z",
+  "last_run_utc": "2026-10-22T01:10:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Wed 21 Oct 21:10 MYT (delta since Wed 21 Oct 09:05 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -307,7 +307,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Wed 21 Oct 21:10 MYT (delta since Wed 21 Oct 09:05 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): Q3 earnings print (Wed 21 Oct AMC) captured.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -830,11 +830,23 @@
           "headline": "NHTSA opens defect petition inquiry into whether Tesla robotaxis speed in school zones (~1,000 2026 Model Y and Cybercab)",
           "score": 5,
           "direction": "bearish"
+        },
+        {
+          "id": "tsla-q3-earnings-beat-capex-cut-oct21",
+          "headline": "Tesla Q3: adj EPS $0.48 vs ~$0.45 est, revenue ~$28.0B (narrow beat), auto revenue -3% YoY; capex guide reportedly cut to ~$20B from $25B; stock +3.4% in session to $386.47, ~-2% after hours",
+          "score": 7,
+          "direction": "neutral"
+        },
+        {
+          "id": "tsla-spacex-merger-musk-noncommittal-oct21",
+          "headline": "Musk says SpaceX merger idea has 'a lot of merit' but not certain, declines detail on call",
+          "score": 3,
+          "direction": "neutral"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Wed 21 Oct 21:10 MYT (delta since Wed 21 Oct 09:05 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1018,7 +1030,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Wed 21 Oct 21:10 MYT (delta since Wed 21 Oct 09:05 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1053,7 +1065,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Wed 21 Oct 21:10 MYT (delta since Wed 21 Oct 09:05 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
