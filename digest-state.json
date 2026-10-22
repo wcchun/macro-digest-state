@@ -1,16 +1,22 @@
 {
-  "last_run_utc": "2026-10-22T01:05:00Z",
-  "last_run_window": "Wed 21 Oct ~21:08 MYT through Thu 22 Oct ~09:05 MYT (Wed US session, after-hours, Thu Asia hours/US pre-market)",
+  "last_run_utc": "2026-10-22T13:25:00Z",
+  "last_run_window": "Thu 22 Oct ~09:05 MYT through ~21:25 MYT (Asia hours, Wed after-hours Meta/Tesla reaction, Thu US pre-market)",
   "stories": [
+    {
+      "id": "meta-tesla-ai-capex-futures-slide",
+      "headline": "Meta & Tesla Q3 prints lead AI trade lower; Nasdaq-100 futures ~-1.7%, S&P ~-1% pre-market Thu; Tesla beat but cut 2026 capex to ~$20B",
+      "score": 7,
+      "direction": "bearish"
+    },
     {
       "id": "spacex-q3-profit-ai-trade",
       "headline": "Wed close: Nasdaq Comp +1.05% to 26,702.86, S&P +0.58%, led by SpaceX/Tesla and chips; Nasdaq pre-market Thu ~+1% (unconfirmed)",
-      "score": 5,
+      "score": 4,
       "direction": "bullish"
     },
     {
       "id": "oil-spike-geopolitics",
-      "headline": "Brent back above $110 on reported Hormuz tanker blockade; US says Iran peace deal 'difficult'",
+      "headline": "Brent ~$110-111 (+~3%) on NYT report US/Israel plan renewed Iran strikes after midterms",
       "score": 5,
       "direction": "bearish"
     },
@@ -52,7 +58,7 @@
     },
     {
       "id": "tesla-q3-earnings-ah",
-      "headline": "Tesla Q3 reported after the bell Wed (options implied ~\u00b16-7.5%); result/reaction not found",
+      "headline": "Tesla Q3 beat on EPS/rev, cut 2026 capex to ~$20B from >$25B; shares -3-5% - folded into AI-capex story",
       "score": 4,
       "direction": "neutral"
     }
