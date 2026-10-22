@@ -1,10 +1,10 @@
 {
-  "last_run_utc": "2026-10-21T13:08:00Z",
-  "last_run_window": "Wed 21 Oct ~09:10 MYT through ~21:08 MYT (Tue after-hours, Asia hours and Wed US pre-market)",
+  "last_run_utc": "2026-10-22T01:05:00Z",
+  "last_run_window": "Wed 21 Oct ~21:08 MYT through Thu 22 Oct ~09:05 MYT (Wed US session, after-hours, Thu Asia hours/US pre-market)",
   "stories": [
     {
       "id": "spacex-q3-profit-ai-trade",
-      "headline": "SpaceX Q3 profit/revenue +161% lifts Nasdaq-100 futures ~+1% pre-market; revives AI trade",
+      "headline": "Wed close: Nasdaq Comp +1.05% to 26,702.86, S&P +0.58%, led by SpaceX/Tesla and chips; Nasdaq pre-market Thu ~+1% (unconfirmed)",
       "score": 5,
       "direction": "bullish"
     },
@@ -49,6 +49,12 @@
       "headline": "Sept CPI hot (3.7% y/y, core 2.6%) - background",
       "score": 3,
       "direction": "bearish"
+    },
+    {
+      "id": "tesla-q3-earnings-ah",
+      "headline": "Tesla Q3 reported after the bell Wed (options implied ~\u00b16-7.5%); result/reaction not found",
+      "score": 4,
+      "direction": "neutral"
     }
   ]
 }
