@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-22T01:10:00Z",
+  "last_run_utc": "2026-10-22T13:30:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 21:30 MYT (delta since Thu 22 Oct 09:10 MYT, chained after macro digest): 1 sub-material update (undated Citi PT cut); otherwise web search returned only stale/undated items.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -303,11 +303,17 @@
           "headline": "Baird raises PLTR PT to $250 from $200",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "pltr-citi-pt-cut-210-from-260-oct",
+          "headline": "Citi lowers PLTR PT to $210 from $260, keeps Buy (date unverified, surfaced in Oct 21-22 search; no new thesis)",
+          "score": 4,
+          "direction": "bearish"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): Q3 earnings print (Wed 21 Oct AMC) captured.",
+      "last_run_window": "Thu 22 Oct 21:30 MYT (delta since Thu 22 Oct 09:10 MYT, chained after macro digest): post-Q3 earnings reaction and analyst follow-through captured.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -842,11 +848,23 @@
           "headline": "Musk says SpaceX merger idea has 'a lot of merit' but not certain, declines detail on call",
           "score": 3,
           "direction": "neutral"
+        },
+        {
+          "id": "tsla-q3-reaction-optimus-robotaxi-timeline-tempered-oct22",
+          "headline": "Post-Q3 print: stock ~-4% premarket (one live feed conflicting at +2%) as Musk tempers Optimus ramp and robotaxi revenue timing (meaningful revenue 2027-28); op income -56% to $718M (William Blair, CNBC)",
+          "score": 5,
+          "direction": "bearish"
+        },
+        {
+          "id": "tsla-canaccord-pt-442-fsd-attach-rate-question-oct22",
+          "headline": "Canaccord raises PT to $442 from $410; Deutsche reiterates Buy; Goldman Neutral $360; Gary Black questions reported 75% FSD attach rate (may include free-trial users)",
+          "score": 3,
+          "direction": "neutral"
         }
       ]
     },
     "FIG": {
-      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 21:30 MYT (delta since Thu 22 Oct 09:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1030,7 +1048,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 21:30 MYT (delta since Thu 22 Oct 09:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1065,7 +1083,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Thu 22 Oct 09:10 MYT (delta since Wed 21 Oct 21:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Thu 22 Oct 21:30 MYT (delta since Thu 22 Oct 09:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
