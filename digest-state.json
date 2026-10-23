@@ -1,66 +1,12 @@
 {
-  "last_run_utc": "2026-10-22T13:25:00Z",
-  "last_run_window": "Thu 22 Oct ~09:05 MYT through ~21:25 MYT (Asia hours, Wed after-hours Meta/Tesla reaction, Thu US pre-market)",
+  "last_run_utc": "2026-10-23T01:10:00Z",
+  "last_run_window": "Thu 22 Oct ~21:25 MYT through Fri 23 Oct ~09:10 MYT (Thu US session, after-hours, Asia early Fri)",
   "stories": [
-    {
-      "id": "meta-tesla-ai-capex-futures-slide",
-      "headline": "Meta & Tesla Q3 prints lead AI trade lower; Nasdaq-100 futures ~-1.7%, S&P ~-1% pre-market Thu; Tesla beat but cut 2026 capex to ~$20B",
-      "score": 7,
-      "direction": "bearish"
-    },
-    {
-      "id": "spacex-q3-profit-ai-trade",
-      "headline": "Wed close: Nasdaq Comp +1.05% to 26,702.86, S&P +0.58%, led by SpaceX/Tesla and chips; Nasdaq pre-market Thu ~+1% (unconfirmed)",
-      "score": 4,
-      "direction": "bullish"
-    },
-    {
-      "id": "oil-spike-geopolitics",
-      "headline": "Brent ~$110-111 (+~3%) on NYT report US/Israel plan renewed Iran strikes after midterms",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "memory-chip-selloff-cxmt-ai-capex",
-      "headline": "Nasdaq Comp flat Tue as AI-related stocks stay under pressure; chips bid pre-market Wed",
-      "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "netflix-ad-forecast-cut",
-      "headline": "Netflix cuts 2026 ad revenue forecast after the bell Tue",
-      "score": 4,
-      "direction": "bearish"
-    },
-    {
-      "id": "fed-speakers-hike-bias-split",
-      "headline": "Oct 28 hike odds ~25%; Dec hike still favoured; FOMC blackout; no new Fed news",
-      "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "ust-10yr-yield",
-      "headline": "10yr ~5.10% after Tue rally (single-source, unverified); no new level found",
-      "score": 4,
-      "direction": "bullish"
-    },
-    {
-      "id": "sept-ppi-hot",
-      "headline": "Sept PPI hot (+1.3% m/m vs 0.6% est) - background, absorbed",
-      "score": 3,
-      "direction": "bearish"
-    },
-    {
-      "id": "sept-cpi-ppi",
-      "headline": "Sept CPI hot (3.7% y/y, core 2.6%) - background",
-      "score": 3,
-      "direction": "bearish"
-    },
-    {
-      "id": "tesla-q3-earnings-ah",
-      "headline": "Tesla Q3 beat on EPS/rev, cut 2026 capex to ~$20B from >$25B; shares -3-5% - folded into AI-capex story",
-      "score": 4,
-      "direction": "neutral"
-    }
+    { "id": "meta-tesla-ai-capex-futures-slide", "headline": "AI-capex selloff: Nasdaq Comp -2.6% to 26,008.86, S&P -1.2%; Meta -7%, Intel -8%, semi-cap (LRCX/KLAC/AMAT) -8 to -12%, Tesla -3%", "score": 8, "direction": "bearish" },
+    { "id": "oil-spike-geopolitics", "headline": "Brent ~$112-113 (+~3%) on Saudi Aramco/airport attacks and report of renewed US/Israel Iran strikes after Nov 3 midterms", "score": 5, "direction": "bearish" },
+    { "id": "ust-10yr-yield", "headline": "10yr fell ~11bp to ~5.02% (one-month low) on flight to bonds", "score": 6, "direction": "bullish" },
+    { "id": "fed-speakers-hike-bias-split", "headline": "FOMC Oct 27-28 next week; Dec hike still favoured; blackout, no new Fed news", "score": 4, "direction": "neutral" },
+    { "id": "spacex-q3-profit-ai-trade", "headline": "Wed close Nasdaq +1.05% (superseded by Thu reversal)", "score": 3, "direction": "neutral" },
+    { "id": "sept-ppi-hot", "headline": "Sept PPI/CPI hot - background, absorbed", "score": 3, "direction": "bearish" }
   ]
 }
