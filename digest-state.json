@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-10-23T01:10:00Z",
-  "last_run_window": "Thu 22 Oct ~21:25 MYT through Fri 23 Oct ~09:10 MYT (Thu US session, after-hours, Asia early Fri)",
+  "last_run_utc": "2026-10-23T13:06:00Z",
+  "last_run_window": "Fri 23 Oct ~09:10 MYT through ~21:05 MYT (Asia session, pre-US-open; no material new items found)",
   "stories": [
     { "id": "meta-tesla-ai-capex-futures-slide", "headline": "AI-capex selloff: Nasdaq Comp -2.6% to 26,008.86, S&P -1.2%; Meta -7%, Intel -8%, semi-cap (LRCX/KLAC/AMAT) -8 to -12%, Tesla -3%", "score": 8, "direction": "bearish" },
     { "id": "oil-spike-geopolitics", "headline": "Brent ~$112-113 (+~3%) on Saudi Aramco/airport attacks and report of renewed US/Israel Iran strikes after Nov 3 midterms", "score": 5, "direction": "bearish" },
