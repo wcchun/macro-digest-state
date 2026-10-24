@@ -1,12 +1,48 @@
 {
-  "last_run_utc": "2026-10-23T13:06:00Z",
-  "last_run_window": "Fri 23 Oct ~09:10 MYT through ~21:05 MYT (Asia session, pre-US-open; no material new items found)",
+  "last_run_utc": "2026-10-24T01:10:00Z",
+  "last_run_window": "Fri 23 Oct ~21:05 MYT through Sat 24 Oct ~09:10 MYT (Fri US session; closing figures not confirmed by sources)",
   "stories": [
-    { "id": "meta-tesla-ai-capex-futures-slide", "headline": "AI-capex selloff: Nasdaq Comp -2.6% to 26,008.86, S&P -1.2%; Meta -7%, Intel -8%, semi-cap (LRCX/KLAC/AMAT) -8 to -12%, Tesla -3%", "score": 8, "direction": "bearish" },
-    { "id": "oil-spike-geopolitics", "headline": "Brent ~$112-113 (+~3%) on Saudi Aramco/airport attacks and report of renewed US/Israel Iran strikes after Nov 3 midterms", "score": 5, "direction": "bearish" },
-    { "id": "ust-10yr-yield", "headline": "10yr fell ~11bp to ~5.02% (one-month low) on flight to bonds", "score": 6, "direction": "bullish" },
-    { "id": "fed-speakers-hike-bias-split", "headline": "FOMC Oct 27-28 next week; Dec hike still favoured; blackout, no new Fed news", "score": 4, "direction": "neutral" },
-    { "id": "spacex-q3-profit-ai-trade", "headline": "Wed close Nasdaq +1.05% (superseded by Thu reversal)", "score": 3, "direction": "neutral" },
-    { "id": "sept-ppi-hot", "headline": "Sept PPI/CPI hot - background, absorbed", "score": 3, "direction": "bearish" }
+    {
+      "id": "meta-tesla-ai-capex-futures-slide",
+      "headline": "AI-capex selloff: Nasdaq Comp -2.6% to 26,008.86, S&P -1.2%; Meta -7%, Intel -8%, semi-cap (LRCX/KLAC/AMAT) -8 to -12%, Tesla -3%",
+      "score": 8,
+      "direction": "bearish"
+    },
+    {
+      "id": "fri-session-oil-vix",
+      "headline": "Fri US session: Dow ~-1.2%, S&P ~-0.5%, Nasdaq ~-0.2% (intraday figures, unconfirmed close); oil higher, VIX >20 first time since June; cybersecurity names +7%",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "oil-spike-geopolitics",
+      "headline": "Brent ~$112-113 (+~3%) on Saudi Aramco/airport attacks and report of renewed US/Israel Iran strikes after Nov 3 midterms",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "ust-10yr-yield",
+      "headline": "10yr fell ~11bp to ~5.02% (one-month low) on flight to bonds",
+      "score": 6,
+      "direction": "bullish"
+    },
+    {
+      "id": "fed-speakers-hike-bias-split",
+      "headline": "FOMC Oct 27-28 next week; Dec hike still favoured; blackout, no new Fed news",
+      "score": 4,
+      "direction": "neutral"
+    },
+    {
+      "id": "spacex-q3-profit-ai-trade",
+      "headline": "Wed close Nasdaq +1.05% (superseded by Thu reversal)",
+      "score": 3,
+      "direction": "neutral"
+    },
+    {
+      "id": "sept-ppi-hot",
+      "headline": "Sept PPI/CPI hot - background, absorbed",
+      "score": 3,
+      "direction": "bearish"
+    }
   ]
 }
