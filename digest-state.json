@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-10-26T01:06:00Z",
-  "last_run_window": "Sun 25 Oct ~21:05 MYT through Mon 26 Oct ~09:05 MYT (weekend tail; no new material items found; Fri Brent settle revised to ~$116.8)",
+  "last_run_utc": "2026-10-26T13:22:00Z",
+  "last_run_window": "Mon 26 Oct ~09:05 MYT through ~21:20 MYT (Asia/Europe session, pre-US-open; no material change: Nasdaq-100 futures ~+0.3%, Brent eased ~-1.9% to ~$109.6)",
   "stories": [
     {
       "id": "meta-tesla-ai-capex-futures-slide",
@@ -16,7 +16,7 @@
     },
     {
       "id": "oil-spike-geopolitics",
-      "headline": "Brent ~$116.8 Fri settle (+3.25%, WTI $103.3) on Saudi Aramco/airport attacks and report of renewed US/Israel Iran strikes after Nov 3 midterms",
+      "headline": "Brent ~$116.8 Fri settle (+3.25%, WTI $103.3) on Saudi Aramco/airport attacks and report of renewed US/Israel Iran strikes after Nov 3 midterms [Mon: Brent eased ~-1.9% to ~$109.6]",
       "score": 5,
       "direction": "bearish"
     },
