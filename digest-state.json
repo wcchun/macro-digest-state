@@ -1,41 +1,41 @@
 {
-  "last_run_utc": "2026-10-26T13:22:00Z",
-  "last_run_window": "Mon 26 Oct ~09:05 MYT through ~21:20 MYT (Asia/Europe session, pre-US-open; no material change: Nasdaq-100 futures ~+0.3%, Brent eased ~-1.9% to ~$109.6)",
+  "last_run_utc": "2026-10-27T01:10:00Z",
+  "last_run_window": "Mon 26 Oct ~21:20 MYT through Tue 27 Oct ~09:10 MYT (full Mon US session; pre-FOMC, pre-megacap earnings)",
   "stories": [
     {
       "id": "meta-tesla-ai-capex-futures-slide",
-      "headline": "AI-capex selloff: Nasdaq Comp -2.6% to 26,008.86, S&P -1.2%; Meta -7%, Intel -8%, semi-cap (LRCX/KLAC/AMAT) -8 to -12%, Tesla -3%",
-      "score": 8,
-      "direction": "bearish"
-    },
-    {
-      "id": "fri-session-oil-vix",
-      "headline": "Fri US session: Dow ~-1.2%, S&P ~-0.5%, Nasdaq ~-0.2% (intraday figures, unconfirmed close); oil higher, VIX >20 first time since June; cybersecurity names +7%",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "oil-spike-geopolitics",
-      "headline": "Brent ~$116.8 Fri settle (+3.25%, WTI $103.3) on Saudi Aramco/airport attacks and report of renewed US/Israel Iran strikes after Nov 3 midterms [Mon: Brent eased ~-1.9% to ~$109.6]",
-      "score": 5,
-      "direction": "bearish"
-    },
-    {
-      "id": "ust-10yr-yield",
-      "headline": "10yr fell ~11bp to ~5.02% (one-month low) on flight to bonds",
+      "headline": "AI-capex selloff (Fri): Nasdaq Comp -2.6%, Meta -7%, Intel -8%, semi-cap -8 to -12%; Mon partial rebound: Nasdaq +0.82%, S&P +0.70%, semis +2.8% (still -12.2% MTD)",
       "score": 6,
       "direction": "bullish"
     },
     {
-      "id": "fed-speakers-hike-bias-split",
-      "headline": "FOMC Oct 27-28 next week; Dec hike still favoured; blackout, no new Fed news",
-      "score": 4,
+      "id": "anthropic-ipo-filing-meta-equity-raise",
+      "headline": "Anthropic IPO filing lifts AI shares; Meta -1 to -2% on plan to raise equity (reported $35B-$95B) for AI buildout - AI capex now funded via equity",
+      "score": 5,
       "direction": "neutral"
     },
     {
-      "id": "spacex-q3-profit-ai-trade",
-      "headline": "Wed close Nasdaq +1.05% (superseded by Thu reversal)",
+      "id": "fri-session-oil-vix",
+      "headline": "Fri US session: VIX >20 first time since June; cybersecurity +7% (background, superseded by Mon rebound)",
       "score": 3,
+      "direction": "bearish"
+    },
+    {
+      "id": "oil-spike-geopolitics",
+      "headline": "Brent ~$116.8 Fri settle, eased Mon (~$109.6 Asia session; further decline reported in US session); Iran/Saudi tension unresolved",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
+      "id": "ust-10yr-yield",
+      "headline": "10yr ~5.0% after 11bp fall Fri (one-month low); Mon close level unconfirmed",
+      "score": 4,
+      "direction": "bullish"
+    },
+    {
+      "id": "fed-speakers-hike-bias-split",
+      "headline": "FOMC Oct 27-28: hold widely expected (hike odds ~15-25%); Dec 8-9 hike favoured; no SEP this meeting",
+      "score": 6,
       "direction": "neutral"
     },
     {
