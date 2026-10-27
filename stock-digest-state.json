@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-10-27T01:10:00Z",
+  "last_run_utc": "2026-10-27T13:33:59Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 27 Oct 09:10 MYT (delta since Mon 26 Oct 21:22 MYT, chained after macro digest; overnight US session): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Tue 27 Oct 21:33 MYT (delta since Tue 27 Oct 09:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -313,7 +313,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 27 Oct 09:10 MYT (delta since Mon 26 Oct 21:22 MYT, chained after macro digest; overnight US session): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Tue 27 Oct 21:33 MYT (delta since Tue 27 Oct 09:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -864,7 +864,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 27 Oct 09:10 MYT (delta since Mon 26 Oct 21:22 MYT, chained after macro digest; overnight US session): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Tue 27 Oct 21:33 MYT (delta since Tue 27 Oct 09:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1048,7 +1048,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Tue 27 Oct 09:10 MYT (delta since Mon 26 Oct 21:22 MYT, chained after macro digest; overnight US session): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Tue 27 Oct 21:33 MYT (delta since Tue 27 Oct 09:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1083,7 +1083,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Tue 27 Oct 09:10 MYT (delta since Mon 26 Oct 21:22 MYT, chained after macro digest; overnight US session): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "Tue 27 Oct 21:33 MYT (delta since Tue 27 Oct 09:10 MYT, chained after macro digest): nothing new scoring 4+; web search returned only stale/undated items.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
