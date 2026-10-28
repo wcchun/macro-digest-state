@@ -1,47 +1,47 @@
 {
-  "last_run_utc": "2026-10-27T13:35:00Z",
-  "last_run_window": "Tue 27 Oct ~09:10 MYT through ~21:35 MYT (Asia/Europe hours, pre US open; no confirmed new material items; FOMC Oct 27-28 pending)",
+  "last_run_utc": "2026-10-28T01:10:00Z",
+  "last_run_window": "Tue 27 Oct ~21:35 MYT through Wed 28 Oct ~09:10 MYT (US Tue session + overnight; FOMC decision due 02:00 MYT Thu 29 Oct)",
   "stories": [
     {
       "id": "meta-tesla-ai-capex-futures-slide",
-      "headline": "AI-capex selloff (Fri): Nasdaq Comp -2.6%, Meta -7%, Intel -8%, semi-cap -8 to -12%; Mon partial rebound: Nasdaq +0.82%, S&P +0.70%, semis +2.8% (still -12.2% MTD)",
-      "score": 6,
+      "headline": "AI-capex selloff recovery extends: Tue Nasdaq Comp +1.18% (26,478), S&P +0.6% (7,723), Dow flat; AMD +5.5%, Broadcom +4%, Micron +2.8%; Broadcom $63B bank financing for chips leased to Anthropic (AI capex now debt/lease funded)",
+      "score": 5,
       "direction": "bullish"
     },
     {
       "id": "anthropic-ipo-filing-meta-equity-raise",
-      "headline": "Anthropic IPO filing lifts AI shares; Meta -1 to -2% on plan to raise equity (reported $35B-$95B) for AI buildout - AI capex now funded via equity",
-      "score": 5,
+      "headline": "Anthropic IPO filing lifts AI shares; Meta -1 to -2% on plan to raise equity (reported $35B-$95B) for AI buildout - background, no new info",
+      "score": 4,
       "direction": "neutral"
     },
     {
       "id": "fri-session-oil-vix",
-      "headline": "Fri US session: VIX >20 first time since June; cybersecurity +7% (background, superseded by Mon rebound)",
-      "score": 3,
+      "headline": "Fri US session: VIX >20 first time since June; cybersecurity +7% (background, superseded by rebound)",
+      "score": 2,
       "direction": "bearish"
     },
     {
       "id": "oil-spike-geopolitics",
-      "headline": "Brent ~$116.8 Fri settle, eased Mon (~$109.6 Asia session; further decline reported in US session); Iran/Saudi tension unresolved",
-      "score": 4,
-      "direction": "bearish"
-    },
-    {
-      "id": "ust-10yr-yield",
-      "headline": "10yr ~5.0% after 11bp fall Fri (one-month low); Mon close level unconfirmed",
-      "score": 4,
+      "headline": "Oil slid in Tue US session (energy weakest sector) though Hormuz uncertainty keeps crude elevated; Iran/Saudi tension unresolved",
+      "score": 3,
       "direction": "bullish"
     },
     {
+      "id": "ust-10yr-yield",
+      "headline": "10yr ~4.995% Tue, flat (<1bp); Conf Board confidence 91.7 beat",
+      "score": 3,
+      "direction": "neutral"
+    },
+    {
       "id": "fed-speakers-hike-bias-split",
-      "headline": "FOMC Oct 27-28: hold widely expected (hike odds ~15-25%); Dec 8-9 hike favoured; no SEP this meeting",
+      "headline": "FOMC Oct 27-28: decision 2pm ET Wed (02:00 MYT Thu); hold at 3.75-4.00% ~90% priced; ~73% odds of a hike by Dec; no SEP; PCE due Thu",
       "score": 6,
       "direction": "neutral"
     },
     {
       "id": "sept-ppi-hot",
       "headline": "Sept PPI/CPI hot - background, absorbed",
-      "score": 3,
+      "score": 2,
       "direction": "bearish"
     }
   ]
