@@ -1,53 +1,53 @@
 {
-  "last_run_utc": "2026-10-28T13:07:00Z",
-  "last_run_window": "Wed 28 Oct ~09:10 MYT through ~21:05 MYT (Asia session + US pre-market; FOMC decision 02:00 MYT Thu 29 Oct; GOOGL/MSFT earnings after Wed close)",
+  "last_run_utc": "2026-10-29T01:08:00Z",
+  "last_run_window": "Wed 28 Oct ~21:05 MYT through Thu 29 Oct ~09:05 MYT (US Wed session, FOMC decision 02:00 MYT, GOOGL/MSFT after-hours earnings)",
   "stories": [
     {
-      "id": "meta-tesla-ai-capex-futures-slide",
-      "headline": "AI-capex selloff recovery extends: Tue Nasdaq Comp +1.18% (26,478), S&P +0.6% (7,723), Dow flat; AMD +5.5%, Broadcom +4%, Micron +2.8%; Broadcom $63B bank financing for chips leased to Anthropic (AI capex now debt/lease funded)",
+      "id": "googl-q3-earnings-fcf-miss",
+      "headline": "Alphabet Q3: EPS/revenue/ads miss, free cash flow negative on AI spend despite Google Cloud ~doubling; stock ~-10% after hours",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "msft-q3-azure-beat",
+      "headline": "Microsoft Q3: Azure ~+48% vs ~44-45% expected; capex heavy but market rewards; stock ~+4% after hours",
+      "score": 6,
+      "direction": "bullish"
+    },
+    {
+      "id": "fed-speakers-hike-bias-split",
+      "headline": "FOMC held 3.75-4.00% as expected; 2 dissents favored a hike; Warsh: fewer meetings (7 in 2027, 6 in 2028); Dec hike odds ~75%; PCE due Thu",
       "score": 5,
+      "direction": "neutral"
+    },
+    {
+      "id": "meta-tesla-ai-capex-futures-slide",
+      "headline": "Wed US session: S&P +0.28% (7,743.98), Nasdaq Comp +0.27% (26,549.85); chips led, equal-weight S&P red; AI capex now debt/lease funded, MSFT/GOOGL CDS at record highs",
+      "score": 4,
       "direction": "bullish"
     },
     {
       "id": "anthropic-ipo-filing-meta-equity-raise",
-      "headline": "Anthropic IPO filing lifts AI shares; Meta -1 to -2% on plan to raise equity (reported $35B-$95B) for AI buildout - background, no new info",
-      "score": 4,
-      "direction": "neutral"
-    },
-    {
-      "id": "fri-session-oil-vix",
-      "headline": "Fri US session: VIX >20 first time since June; cybersecurity +7% (background, superseded by rebound)",
-      "score": 2,
-      "direction": "bearish"
-    },
-    {
-      "id": "oil-spike-geopolitics",
-      "headline": "Oil slid in Tue US session (energy weakest sector) though Hormuz uncertainty keeps crude elevated; Iran/Saudi tension unresolved",
+      "headline": "Anthropic IPO filing / Meta equity raise - background, no new info",
       "score": 3,
-      "direction": "bullish"
+      "direction": "neutral"
     },
     {
       "id": "ust-10yr-yield",
-      "headline": "10yr ~4.995% Tue, flat (<1bp); Conf Board confidence 91.7 beat",
+      "headline": "Curve steepened after Fed (levels unverified)",
       "score": 3,
       "direction": "neutral"
     },
     {
-      "id": "fed-speakers-hike-bias-split",
-      "headline": "FOMC Oct 27-28: decision 2pm ET Wed (02:00 MYT Thu); hold at 3.75-4.00% ~90% priced; ~73% odds of a hike by Dec; no SEP; PCE due Thu",
-      "score": 6,
+      "id": "oil-spike-geopolitics",
+      "headline": "Oil/Hormuz - no new info found",
+      "score": 2,
       "direction": "neutral"
     },
     {
-      "id": "sept-ppi-hot",
-      "headline": "Sept PPI/CPI hot - background, absorbed",
-      "score": 2,
-      "direction": "bearish"
-    },
-    {
       "id": "sk-hynix-profit-boom",
-      "headline": "SK Hynix profit boom lifts Nasdaq futures (~+0.3%); memory/AI demand read-through",
-      "score": 4,
+      "headline": "SK Hynix profit boom - background, absorbed",
+      "score": 2,
       "direction": "bullish"
     }
   ]
