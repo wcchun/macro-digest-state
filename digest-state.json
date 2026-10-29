@@ -1,46 +1,52 @@
 {
-  "last_run_utc": "2026-10-29T01:08:00Z",
-  "last_run_window": "Wed 28 Oct ~21:05 MYT through Thu 29 Oct ~09:05 MYT (US Wed session, FOMC decision 02:00 MYT, GOOGL/MSFT after-hours earnings)",
+  "last_run_utc": "2026-10-29T13:10:00Z",
+  "last_run_window": "Thu 29 Oct ~09:05 MYT through Thu 29 Oct ~21:10 MYT (US pre-market: GOOGL/MSFT reaction, core PCE; AMZN earnings due after close)",
   "stories": [
     {
       "id": "googl-q3-earnings-fcf-miss",
-      "headline": "Alphabet Q3: EPS/revenue/ads miss, free cash flow negative on AI spend despite Google Cloud ~doubling; stock ~-10% after hours",
+      "headline": "Alphabet Q3: revenue miss, FCF -$9.07B vs +$2.7B expected on AI spend; ~-10% pre-market, Nasdaq-100 futures ~-1.2%",
       "score": 7,
       "direction": "bearish"
     },
     {
       "id": "msft-q3-azure-beat",
-      "headline": "Microsoft Q3: Azure ~+48% vs ~44-45% expected; capex heavy but market rewards; stock ~+4% after hours",
+      "headline": "Microsoft FQ1: EPS $4.89 vs $4.72, Azure +48%; ~+3.4-4% pre-market",
       "score": 6,
       "direction": "bullish"
     },
     {
       "id": "fed-speakers-hike-bias-split",
-      "headline": "FOMC held 3.75-4.00% as expected; 2 dissents favored a hike; Warsh: fewer meetings (7 in 2027, 6 in 2028); Dec hike odds ~75%; PCE due Thu",
+      "headline": "FOMC held 3.75-4.00% (10-2, Cook/Hammack dissent for hike); Dec 9 hike odds ~80-88%; no dot/guidance from Warsh",
       "score": 5,
       "direction": "neutral"
     },
     {
+      "id": "core-pce-sep",
+      "headline": "Sept core PCE ~3.1% y/y, in line with consensus (single source, headline unverified)",
+      "score": 4,
+      "direction": "neutral"
+    },
+    {
+      "id": "ust-10yr-yield",
+      "headline": "10yr ~5.0-5.05% post-FOMC, 2yr ~4.70%; curve steeper, term-premium/AI debt supply cited",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
       "id": "meta-tesla-ai-capex-futures-slide",
-      "headline": "Wed US session: S&P +0.28% (7,743.98), Nasdaq Comp +0.27% (26,549.85); chips led, equal-weight S&P red; AI capex now debt/lease funded, MSFT/GOOGL CDS at record highs",
+      "headline": "Wed US session: S&P +0.28%, Nasdaq Comp +0.27%; AI capex debt/lease funded, MSFT/GOOGL CDS at records",
       "score": 4,
       "direction": "bullish"
     },
     {
       "id": "anthropic-ipo-filing-meta-equity-raise",
-      "headline": "Anthropic IPO filing / Meta equity raise - background, no new info",
-      "score": 3,
-      "direction": "neutral"
-    },
-    {
-      "id": "ust-10yr-yield",
-      "headline": "Curve steepened after Fed (levels unverified)",
+      "headline": "Anthropic IPO filing / Meta Class C share plan (announced 22 Oct) - background, no new info",
       "score": 3,
       "direction": "neutral"
     },
     {
       "id": "oil-spike-geopolitics",
-      "headline": "Oil/Hormuz - no new info found",
+      "headline": "Oil/Iran - no new info found",
       "score": 2,
       "direction": "neutral"
     },
