@@ -1,17 +1,17 @@
 {
-  "last_run_utc": "2026-10-29T13:10:00Z",
-  "last_run_window": "Thu 29 Oct ~09:05 MYT through Thu 29 Oct ~21:10 MYT (US pre-market: GOOGL/MSFT reaction, core PCE; AMZN earnings due after close)",
+  "last_run_utc": "2026-10-30T01:05:32Z",
+  "last_run_window": "Thu 29 Oct ~21:10 MYT through Fri 30 Oct ~09:10 MYT (US regular session Thu: GOOGL -12%, Nasdaq Comp -1.38%; after-hours: AMZN/INTC earnings)",
   "stories": [
     {
       "id": "googl-q3-earnings-fcf-miss",
-      "headline": "Alphabet Q3: revenue miss, FCF -$9.07B vs +$2.7B expected on AI spend; ~-10% pre-market, Nasdaq-100 futures ~-1.2%",
-      "score": 7,
+      "headline": "Alphabet Q3 miss: shares ~-12% in regular session (record one-day mkt-cap loss reported); Nasdaq Comp -1.38% to 26,184.72, S&P -0.3% to 7,720.39",
+      "score": 8,
       "direction": "bearish"
     },
     {
       "id": "msft-q3-azure-beat",
-      "headline": "Microsoft FQ1: EPS $4.89 vs $4.72, Azure +48%; ~+3.4-4% pre-market",
-      "score": 6,
+      "headline": "Microsoft FQ1 beat (Azure +48%) failed to offset Alphabet-led selloff in Nasdaq (reaction magnitude unverified)",
+      "score": 5,
       "direction": "bullish"
     },
     {
@@ -55,6 +55,24 @@
       "headline": "SK Hynix profit boom - background, absorbed",
       "score": 2,
       "direction": "bullish"
+    },
+    {
+      "id": "amzn-q3-fcf-capex",
+      "headline": "Amazon Q3: revenue/EPS miss, FCF -$42.4B; ~-6% after hours; Nasdaq-100 futures ~-1.7% (CNBC via search summary, single source)",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "intc-q3-after-hours",
+      "headline": "Intel tumbles after hours on earnings (details unverified)",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
+      "id": "meta-q3-capex-selloff",
+      "headline": "Meta Q3: capex guide 2026 $135-145B, FCF negative, shares reportedly -9.4% (report date/EPS unverified)",
+      "score": 4,
+      "direction": "bearish"
     }
   ]
 }
