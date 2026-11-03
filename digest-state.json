@@ -1,7 +1,19 @@
 {
-  "last_run_utc": "2026-11-02T13:30:00Z",
-  "last_run_window": "Mon 2 Nov ~14:05 MYT through ~21:30 MYT (pre-US-open; searches returned no verifiable new items)",
+  "last_run_utc": "2026-11-03T01:15:00Z",
+  "last_run_window": "Mon 2 Nov ~21:30 MYT through Tue 3 Nov ~09:15 MYT (US Mon session + PLTR after-hours)",
   "stories": [
+    {
+      "id": "nasdaq-nov2-session",
+      "headline": "Mon 2 Nov: Nasdaq Comp -1.07%, S&P -0.51% as AI-capex selloff extends into new week",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "pltr-q3-beat",
+      "headline": "Palantir Q3 beat (EPS 0.44 vs 0.41, rev $2.31B vs $2.18B), FY guide raised; after-hours reaction mixed (-4% to +0.3%)",
+      "score": 4,
+      "direction": "neutral"
+    },
     {
       "id": "googl-q3-earnings-fcf-miss",
       "headline": "Alphabet Q3 miss: ~-12/13% Thu; background for Fri follow-through",
