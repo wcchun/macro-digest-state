@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-11-02T13:28:00Z",
+  "last_run_utc": "2026-11-03T01:10:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Mon 2 Nov 21:28 MYT (delta since Mon 2 Nov 14:05 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items. PLTR Q3 earnings scheduled AMC 2 Nov - results not yet published at run time.",
+      "last_run_window": "Tue 3 Nov 09:10 MYT (delta since Mon 2 Nov 21:28 MYT, chained after macro digest): Q3 print (AMC 2 Nov) now published: beat-and-raise, shares -3% regular session / ~-3.8% after hours.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -309,11 +309,17 @@
           "headline": "Citi lowers PLTR PT to $210 from $260, keeps Buy (date unverified, surfaced in Oct 21-22 search; no new thesis)",
           "score": 4,
           "direction": "bearish"
+        },
+        {
+          "id": "pltr-q3-2026-earnings-beat-raise-shares-fall-nov2",
+          "headline": "Q3 rev $2.31B vs ~$2.18B est (+96% y/y), adj EPS $0.44 vs ~$0.41; FY26 rev guide raised to ~$8.53B, Q4 guide ~$2.65B; US commercial +148% to $984M passes US gov; stock -3% regular then ~-3.8% AH on valuation",
+          "score": 8,
+          "direction": "neutral"
         }
       ]
     },
     "TSLA": {
-      "last_run_window": "Mon 2 Nov 21:28 MYT (delta since Mon 2 Nov 14:05 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "Tue 3 Nov 09:10 MYT (delta since Mon 2 Nov 21:28 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -864,7 +870,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Mon 2 Nov 21:28 MYT (delta since Mon 2 Nov 14:05 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "Tue 3 Nov 09:10 MYT (delta since Mon 2 Nov 21:28 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1048,7 +1054,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Mon 2 Nov 21:28 MYT (delta since Mon 2 Nov 14:05 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "Tue 3 Nov 09:10 MYT (delta since Mon 2 Nov 21:28 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1083,7 +1089,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "Mon 2 Nov 21:28 MYT (delta since Mon 2 Nov 14:05 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "Tue 3 Nov 09:10 MYT (delta since Mon 2 Nov 21:28 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
