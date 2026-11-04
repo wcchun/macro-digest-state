@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-11-03T13:10:00Z",
+  "last_run_utc": "2026-11-04T01:05:25Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "Tue 3 Nov 21:10 MYT (delta since Tue 3 Nov 09:10 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "delta since Tue 3 Nov 21:10 MYT (chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -319,7 +319,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "Tue 3 Nov 21:10 MYT (delta since Tue 3 Nov 09:10 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "delta since Tue 3 Nov 21:10 MYT (chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -870,7 +870,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "Tue 3 Nov 21:10 MYT (delta since Tue 3 Nov 09:10 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "delta since Tue 3 Nov 21:10 MYT (chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1054,7 +1054,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "Tue 3 Nov 21:10 MYT (delta since Tue 3 Nov 09:10 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "delta since Tue 3 Nov 21:10 MYT (chained after macro digest): 1 new item: Q3 2026 10-Q subscriber data.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1085,11 +1085,17 @@
           "headline": "DISH OnStream live-sports deal with United Airlines on Starlink-enabled seatbacks (200+ aircraft, ~700 by 2027); no dollar figure",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "echo-q3-2026-10q-wireless-9m-net-loss-284k-nov3",
+          "headline": "EchoStar Q3 2026 10-Q: Wireless net subscribers -284K over nine months to 7.193M (vs +585K in 9M 2025); three-month Q3 split not confirmed",
+          "score": 5,
+          "direction": "bearish"
         }
       ]
     },
     "ONDS": {
-      "last_run_window": "Tue 3 Nov 21:10 MYT (delta since Tue 3 Nov 09:10 MYT, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
+      "last_run_window": "delta since Tue 3 Nov 21:10 MYT (chained after macro digest): nothing new scoring 4+; searches returned only stale/undated items.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
