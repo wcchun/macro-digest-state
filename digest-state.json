@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-04T13:06:00Z",
-  "last_run_window": "Wed 4 Nov ~09:05 MYT through Wed 4 Nov ~21:06 MYT run time (no new verified items)",
+  "last_run_utc": "2026-11-05T01:04:43Z",
+  "last_run_window": "Wed 4 Nov ~21:06 MYT through Thu 5 Nov ~09:05 MYT (Wed US session close; single secondary source)",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -45,9 +45,9 @@
       "direction": "neutral"
     },
     {
-      "id": "meta-tesla-ai-capex-futures-slide",
-      "headline": "Wed US session: S&P +0.28%, Nasdaq Comp +0.27%; AI capex debt/lease funded, MSFT/GOOGL CDS at records",
-      "score": 4,
+      "id": "wed-nov4-session-rally",
+      "headline": "Wed 4 Nov close: S&P +1.58% to 7,688.62, Nasdaq Comp +1.44% to 25,736.51, Dow best day since Apr 2025; cyclicals lead, AI names lag, oil down (single secondary source, CNBC via StockTitan)",
+      "score": 5,
       "direction": "bullish"
     },
     {
