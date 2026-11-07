@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-07T01:10:00Z",
-  "last_run_window": "Fri 6 Nov ~21:07 MYT through Sat 7 Nov ~09:10 MYT (US Fri session + after-hours; searches returned no verifiable new items; state carried forward)",
+  "last_run_utc": "2026-11-07T13:10:00Z",
+  "last_run_window": "Thu 5 Nov US session through Sat 7 Nov ~21:10 MYT (Thu rout, Fri jobs report/close, weekend; no weekend news found)",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -28,9 +28,9 @@
     },
     {
       "id": "fed-speakers-hike-bias-split",
-      "headline": "FOMC held 3.75-4.00% (10-2, Cook/Hammack dissent for hike); Dec 9 hike odds ~80-88%; no dot/guidance from Warsh",
-      "score": 5,
-      "direction": "neutral"
+      "headline": "FOMC held 3.75-4.00% (10-2, Cook/Hammack dissent for hike); Dec 9 hike odds ~80% after jobs (from ~69% Thu)",
+      "score": 6,
+      "direction": "bearish"
     },
     {
       "id": "core-pce-sep",
@@ -40,9 +40,9 @@
     },
     {
       "id": "ust-10yr-yield",
-      "headline": "10yr ~4.93-4.95% Fri (sources conflict on direction); flight-to-quality bid vs hike odds",
+      "headline": "Fri: 10yr +2bp to ~4.86%, 2yr +5bp to 4.51%, 2s10s flatter (supersedes earlier 4.93-4.95 figures)",
       "score": 4,
-      "direction": "neutral"
+      "direction": "bearish"
     },
     {
       "id": "wed-nov4-session-rally",
@@ -58,9 +58,9 @@
     },
     {
       "id": "oil-spike-geopolitics",
-      "headline": "US-Iran tensions cited, oil higher (Fri); single-source detail",
-      "score": 5,
-      "direction": "bearish"
+      "headline": "Oil reversed: Brent ~$98.3, -13% on week (WTI ~$90.8); easing inflation-channel pressure",
+      "score": 3,
+      "direction": "bullish"
     },
     {
       "id": "sk-hynix-profit-boom",
@@ -91,6 +91,30 @@
       "headline": "Fri 30 Oct: Nasdaq Comp -2.9% to ~25,437, October -5.3% (worst month since Mar 2025); AI cash-burn fears (AMZN/INTC/GOOGL); Apple relatively resilient (-0.4%)",
       "score": 8,
       "direction": "bearish"
+    },
+    {
+      "id": "nasdaq-nov5-datacenter-rout",
+      "headline": "Thu 5 Nov: Nasdaq-100 -6.4% (worst day since Mar 2020), S&P -4.4%; post-election data-center buildout slowdown fears; chip index -12.2% on week",
+      "score": 8,
+      "direction": "bearish"
+    },
+    {
+      "id": "oct-nfp-hot",
+      "headline": "Oct NFP +165K vs ~65K exp, unemployment 4.1%, prior months revised +84K; hike odds up",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "usd-nov6",
+      "headline": "DXY +0.72% to 102.28 on Fri after jobs data",
+      "score": 4,
+      "direction": "bearish"
+    },
+    {
+      "id": "chip-bounce-nov6",
+      "headline": "Fri 6 Nov: chip index +4.2% (AMD +11%, LRCX +8.2%, INTC +7.7%, MU +5.1%); Nasdaq Comp ~+1.1%; dead-cat vs rebound unresolved",
+      "score": 5,
+      "direction": "bullish"
     }
   ]
 }
