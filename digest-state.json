@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-09T13:08:00Z",
-  "last_run_window": "Mon 9 Nov ~09:04 MYT through ~21:08 MYT (Asia session/pre-market; no new material news found)",
+  "last_run_utc": "2026-11-10T01:12:00Z",
+  "last_run_window": "Mon 9 Nov ~21:08 MYT through Tue 10 Nov ~09:12 MYT (US Monday session; sparse/conflicting sources)",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -115,6 +115,18 @@
       "headline": "Fri 6 Nov: chip index +4.2% (AMD +11%, LRCX +8.2%, INTC +7.7%, MU +5.1%); Nasdaq Comp ~+1.1%; dead-cat vs rebound unresolved",
       "score": 5,
       "direction": "bullish"
+    },
+    {
+      "id": "mon-nov9-rebound",
+      "headline": "Mon 9 Nov: reported equity rebound (one source S&P +2.4%/Nasdaq +2.7%; another Nasdaq +1.09%) after AI rout; magnitude unverified",
+      "score": 5,
+      "direction": "bullish"
+    },
+    {
+      "id": "dec-hike-odds-nov9",
+      "headline": "Dec hike odds ~77-85% (CME 85% from 77%); 2yr ~4.51-4.57%, 10yr ~4.87%",
+      "score": 4,
+      "direction": "bearish"
     }
   ]
 }
