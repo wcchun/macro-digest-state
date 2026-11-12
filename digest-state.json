@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-11T13:08:00Z",
-  "last_run_window": "Wed 11 Nov ~09:08 MYT through ~21:08 MYT (searches returned no verifiable new items)",
+  "last_run_utc": "2026-11-12T01:00:00Z",
+  "last_run_window": "Wed 11 Nov ~21:08 MYT through Thu 12 Nov ~09:00 MYT (search returned Nov 10 CPI items not previously captured; no verifiable Nov 11 session close)",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -124,8 +124,26 @@
     },
     {
       "id": "dec-hike-odds-nov9",
-      "headline": "Dec hike odds ~77-85% (CME 85% from 77%); 2yr ~4.51-4.57%, 10yr ~4.87%",
-      "score": 4,
+      "headline": "Dec 8-9 hike ~100% priced after hot Oct CPI; ~13.6% odds of 50bp (BofA still 25bp; Waller hinted 50bp if core ~0.3%)",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "oct-cpi-hot",
+      "headline": "Oct CPI +0.4% m/m vs 0.3% exp; core +0.3% vs 0.2%; Nasdaq futs -1.2% premarket (release Tue 10 Nov; date per secondary sources)",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "nasdaq-nov10-close",
+      "headline": "Nasdaq Comp -0.74% to 25,065.87, S&P -0.38% to 7,520.93 after CPI; chips lead lower",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "nvda-nov10-selloff",
+      "headline": "Nvidia -5.5% on CPI/rate-hike fears, no earnings catalyst; leads chip decline",
+      "score": 5,
       "direction": "bearish"
     }
   ]
