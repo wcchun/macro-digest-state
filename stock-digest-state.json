@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-11-12T13:08:00Z",
+  "last_run_utc": "2026-11-13T01:10:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "delta since Thu 12 Nov 09:08 MYT (Thu 12 Nov 21:07 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Thu 12 Nov 21:07 MYT (Fri 13 Nov 09:10 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -319,7 +319,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "delta since Thu 12 Nov 09:08 MYT (Thu 12 Nov 21:07 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Thu 12 Nov 21:07 MYT (Fri 13 Nov 09:10 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -870,7 +870,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "delta since Thu 12 Nov 09:08 MYT (Thu 12 Nov 21:07 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Thu 12 Nov 21:07 MYT (Fri 13 Nov 09:10 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1019,7 +1019,7 @@
       ]
     },
     "GPRO": {
-      "last_run_window": "Sat 17 Oct 21:10 MYT (delta since Sat 17 Oct 09:10 MYT, weekend): nothing new scoring 4+; web search returned only stale/undated items.",
+      "last_run_window": "delta since Thu 12 Nov 21:07 MYT (Fri 13 Nov 09:10 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "gpro-starman-optical-merger-285m-sep1",
@@ -1060,7 +1060,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "delta since Thu 12 Nov 09:08 MYT (Thu 12 Nov 21:07 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Thu 12 Nov 21:07 MYT (Fri 13 Nov 09:10 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1101,7 +1101,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "delta since Thu 12 Nov 09:08 MYT (Thu 12 Nov 21:07 MYT run, chained after macro digest): nothing new scoring 4+; searches returned only stale/undated or already-tracked items. Q3 2026 results due Thu 12 Nov 8:30 AM ET (21:30 MYT) \u2014 not yet out at run time.",
+      "last_run_window": "delta since Thu 12 Nov 21:07 MYT (Fri 13 Nov 09:10 MYT run, chained after macro digest): ONDS Q3 2026 results (12 Nov pre-market ET) surfaced via 8-K snippet; other items stale.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
@@ -1144,6 +1144,12 @@
           "headline": "Ondas subsidiary BIRD Aerosystems' Airborne Missile Protection System (DIRCM) receives EASA certification for Bombardier Global 7500; no order value disclosed",
           "score": 4,
           "direction": "bullish"
+        },
+        {
+          "id": "onds-q3-2026-results-q4-guide-250m-ebitda-q3-2027-nov12",
+          "headline": "Ondas Q3 2026 results (8-K, 12 Nov): op loss $189.5M (vs $162.9M Q2); Q4 revenue guide >$250M; company-wide adj. EBITDA profitability pulled in to Q3 2027; headline revenue vs $147M consensus not confirmed",
+          "score": 6,
+          "direction": "neutral"
         }
       ]
     }
