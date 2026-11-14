@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-11-13T14:41:11Z",
+  "last_run_utc": "2026-11-14T01:07:00Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "delta since Fri 13 Nov 09:10 MYT (chained run Fri 13 Nov 22:41 MYT): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Fri 13 Nov 22:41 MYT (chained run Sat 14 Nov 09:07 MYT, covers Fri 13 Nov US session): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -319,7 +319,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "delta since Fri 13 Nov 09:10 MYT (chained run Fri 13 Nov 22:41 MYT): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Fri 13 Nov 22:41 MYT (chained run Sat 14 Nov 09:07 MYT, covers Fri 13 Nov US session): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -870,7 +870,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "delta since Fri 13 Nov 09:10 MYT (chained run Fri 13 Nov 22:41 MYT): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Fri 13 Nov 22:41 MYT (chained run Sat 14 Nov 09:07 MYT, covers Fri 13 Nov US session): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1060,7 +1060,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "delta since Fri 13 Nov 09:10 MYT (chained run Fri 13 Nov 22:41 MYT): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Fri 13 Nov 22:41 MYT (chained run Sat 14 Nov 09:07 MYT, covers Fri 13 Nov US session): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1101,7 +1101,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "delta since Fri 13 Nov 09:10 MYT (chained run Fri 13 Nov 22:41 MYT): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
+      "last_run_window": "delta since Fri 13 Nov 22:41 MYT (chained run Sat 14 Nov 09:07 MYT, covers Fri 13 Nov US session): nothing new scoring 4+; web searches returned only stale/undated or already-tracked items.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
