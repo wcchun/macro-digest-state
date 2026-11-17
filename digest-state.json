@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-16T13:07:00Z",
-  "last_run_window": "Mon 16 Nov ~09:10 MYT through ~21:07 MYT (Asia/Europe session, US pre-market; no new verifiable dated items; no material change)",
+  "last_run_utc": "2026-11-17T01:15:00Z",
+  "last_run_window": "Mon 16 Nov US session (pre-market through close, ~21:30 MYT Mon to ~04:00 MYT Tue) plus Tue 17 Nov Asia morning",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -144,6 +144,36 @@
       "id": "nvda-nov10-selloff",
       "headline": "Nvidia -5.5% on CPI/rate-hike fears, no earnings catalyst; leads chip decline",
       "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "nasdaq-nov16-selloff",
+      "headline": "Mon 16 Nov: Nasdaq-100 ~-2.7% (Nasdaq Comp into correction, >10% off Oct record), S&P -1.91% to 7,417.12, Dow -1.4%, VIX ~22.9 ahead of Nvidia earnings",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "nvda-q3-earnings-nov17",
+      "headline": "Nvidia FQ3 due Tue 17 Nov after close (implied move ~8-10%); NVDA -4.1% Mon to ~$156; reported CEO change (Huang exit) unverified",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "warsh-ai-bust-scenario",
+      "headline": "Fed Chair Warsh: staff modelling scenario where AI capex fails to pay off and equities fall; Dec hike still priced; FOMC minutes Wed",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "ust-10yr-above-5-nov16",
+      "headline": "10yr reported >5% Mon (conflicts with stored ~4.86% Fri; single source, unverified)",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "anthropic-ipo-thu",
+      "headline": "Anthropic IPO listing set for Thu 19 Nov; supply/liquidity overhang for AI names",
+      "score": 4,
       "direction": "bearish"
     }
   ]
