@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-17T13:06:00Z",
-  "last_run_window": "Tue 17 Nov Asia/Europe session through ~21:00 MYT (pre-US-open, ahead of NVDA FQ3 after close); no verified new material since prior run",
+  "last_run_utc": "2026-11-18T01:10:00Z",
+  "last_run_window": "Tue 17 Nov 21:06 MYT to Wed 18 Nov ~09:10 MYT (US Tue session + NVDA FQ3 after close); Tue close and NVDA after-hours reaction unverified",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -154,9 +154,9 @@
     },
     {
       "id": "nvda-q3-earnings-nov17",
-      "headline": "Nvidia FQ3 due Tue 17 Nov after close (implied move ~8-10%); NVDA -4.1% Mon to ~$156; reported CEO change (Huang exit) unverified",
-      "score": 6,
-      "direction": "bearish"
+      "headline": "Nvidia FQ3 (reported Tue 17 Nov AMC): rev $115.8B vs ~$108.7B, EPS 2.70 vs 2.47; FQ4 guide $130B +/-3% vs $124.9B, GM 71-72% (down from 74.8%), no China DC revenue; FY28 growth raised to ~75%; $150B buyback; after-hours reaction unverified",
+      "score": 7,
+      "direction": "bullish"
     },
     {
       "id": "warsh-ai-bust-scenario",
@@ -174,6 +174,12 @@
       "id": "anthropic-ipo-thu",
       "headline": "Anthropic IPO listing set for Thu 19 Nov; supply/liquidity overhang for AI names",
       "score": 4,
+      "direction": "bearish"
+    },
+    {
+      "id": "nvda-huang-resignation",
+      "headline": "Jensen Huang resigned as Nvidia CEO/board (~12 Nov, scandal); CFO Kress interim CEO; board will not reinstate; NVDA -28% over past month (confirmed, supersedes 'unverified')",
+      "score": 5,
       "direction": "bearish"
     }
   ]
