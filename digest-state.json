@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-20T01:04:27Z",
-  "last_run_window": "Thu 19 Nov ~21:08 MYT to Fri 20 Nov ~09:10 MYT (no verified new material; searches returned nothing dated 19-20 Nov 2026; Thu close, FOMC minutes, NVDA reaction, Anthropic ANT debut still unverified)",
+  "last_run_utc": "2026-11-20T13:08:00Z",
+  "last_run_window": "Thu 19 Nov ~21:00 MYT to Fri 20 Nov ~21:05 MYT (Wed 18 Nov close and Anthropic IPO pricing found; Thu 19 close, FOMC minutes and ANT first-day trading still unverified)",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -154,7 +154,7 @@
     },
     {
       "id": "nvda-q3-earnings-nov17",
-      "headline": "Nvidia FQ3 (reported Tue 17 Nov AMC): rev $115.8B vs ~$108.7B, EPS 2.70 vs 2.47; FQ4 guide $130B +/-3% vs $124.9B, GM 71-72% (down from 74.8%), no China DC revenue; FY28 growth raised to ~75%; $150B buyback; after-hours reaction unverified",
+      "headline": "Nvidia FQ3 (reported Tue 17 Nov AMC): rev $115.8B vs ~$108.7B, EPS 2.70 vs 2.47; FQ4 guide $130B +/-3% vs $124.9B, GM 71-72% (down from 74.8%), no China DC revenue; FY28 growth raised to ~75%; $150B buyback; after-hours reaction unverified; post-earnings rally reportedly fizzled (Nvidia shares dipped in regular trading)",
       "score": 7,
       "direction": "bullish"
     },
@@ -172,13 +172,19 @@
     },
     {
       "id": "anthropic-ipo-thu",
-      "headline": "Anthropic IPO listing set for Thu 19 Nov; supply/liquidity overhang for AI names",
+      "headline": "Anthropic priced IPO at $83 (above $70-78 range, ~6-7x oversubscribed), ANT trading Thu 19 Nov; first-day trading unverified; employees (~15% equity) may sell day one",
       "score": 4,
       "direction": "bearish"
     },
     {
       "id": "nvda-huang-resignation",
       "headline": "Jensen Huang resigned as Nvidia CEO/board (~12 Nov, scandal); CFO Kress interim CEO; board will not reinstate; NVDA -28% over past month (confirmed, supersedes 'unverified')",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "nasdaq-nov18-close",
+      "headline": "Wed 18 Nov: Nasdaq Comp -0.7% to 24,328; VIX +11% to ~25.5; decliners led; Nvidia rally faded",
       "score": 5,
       "direction": "bearish"
     }
