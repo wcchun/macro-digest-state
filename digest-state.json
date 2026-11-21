@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-20T13:08:00Z",
-  "last_run_window": "Thu 19 Nov ~21:00 MYT to Fri 20 Nov ~21:05 MYT (Wed 18 Nov close and Anthropic IPO pricing found; Thu 19 close, FOMC minutes and ANT first-day trading still unverified)",
+  "last_run_utc": "2026-11-21T01:15:00Z",
+  "last_run_window": "Thu 19 Nov close through Sat 21 Nov ~09:15 MYT (Fri 20 Nov session, FOMC minutes, ANT debut; weekend news light)",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -185,6 +185,48 @@
     {
       "id": "nasdaq-nov18-close",
       "headline": "Wed 18 Nov: Nasdaq Comp -0.7% to 24,328; VIX +11% to ~25.5; decliners led; Nvidia rally faded",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "nasdaq-nov20-rout",
+      "headline": "Fri 20 Nov: Nasdaq Comp -5.3% to 22,617.73 (negative YTD), S&P -3.5% to 6,924.67 (below 200dma/7,000, correction), Dow -1.9%; SOX -10.7%; VIX ~35.9; worst week since Apr 2025/2020",
+      "score": 9,
+      "direction": "bearish"
+    },
+    {
+      "id": "nvda-sec-probe-nov20",
+      "headline": "Nvidia -14% Fri on Reuters report of SEC accounting probe; worst week since Oct 2008; follows Huang exit",
+      "score": 8,
+      "direction": "bearish"
+    },
+    {
+      "id": "semis-nov20-contagion",
+      "headline": "Fri 20 Nov: MU -13.9%, AMD -13.3%, AVGO -12.2%, ARM -14%; megacaps TSLA -7.6%, META -5.9%, AMZN -4.1%, MSFT -2.8%, GOOGL -2.7%, AAPL -1.9%",
+      "score": 7,
+      "direction": "bearish"
+    },
+    {
+      "id": "ant-debut-nov19-20",
+      "headline": "ANT debuted Thu ~+17% over $83 IPO (raised $107.3B); Fri -8.5% to ~88.9; failed to revive AI trade",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "fomc-minutes-nov18",
+      "headline": "Oct FOMC minutes: almost all officials see more hikes; larger Dec move possible; Dec hike ~90% priced; Waller backs 50bp",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "ust-yields-nov20",
+      "headline": "Fri: 10yr ~4.94%, 30yr ~5.34%, 2yr/5yr 4.75%; yields off mid-Nov highs on flight to safety",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "midterms-ai-regulation",
+      "headline": "Democrats won both chambers in midterms; AI regulation / data-center buildout concerns",
       "score": 5,
       "direction": "bearish"
     }
