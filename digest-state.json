@@ -1,6 +1,6 @@
 {
-  "last_run_utc": "2026-11-26T01:04:34Z",
-  "last_run_window": "Wed 25 Nov ~21:06 MYT through Thu 26 Nov ~09:05 MYT (Wed US session; no verifiable new information found beyond stored stories)",
+  "last_run_utc": "2026-11-26T13:10:00Z",
+  "last_run_window": "Wed 25 Nov US session (Thu 26 Nov ~09:05 MYT) through Thu 26 Nov ~21:10 MYT (US closed for Thanksgiving; Asia/Europe session only)",
   "stories": [
     {
       "id": "nasdaq-nov2-session",
@@ -178,7 +178,7 @@
     },
     {
       "id": "nvda-huang-resignation",
-      "headline": "Jensen Huang resigned as Nvidia CEO/board (~12 Nov, scandal); CFO Kress interim CEO; board will not reinstate; NVDA -28% over past month (confirmed, supersedes 'unverified')",
+      "headline": "Jensen Huang resigned as Nvidia CEO/board (~12 Nov, scandal); CFO Kress interim CEO; board will not reinstate; NVDA -28% over past month (confirmed, supersedes 'unverified') | CONFLICT 25-26 Nov: BNN/Bloomberg refers to 'Huang's return as CEO' (reported rally Mon 23 Nov); unresolved vs stored resignation, treat as unverified",
       "score": 5,
       "direction": "bearish"
     },
@@ -229,6 +229,36 @@
       "headline": "Democrats won both chambers in midterms; AI regulation / data-center buildout concerns",
       "score": 5,
       "direction": "bearish"
+    },
+    {
+      "id": "nasdaq-nov25-pre-thanksgiving",
+      "headline": "Wed 25 Nov: Nasdaq Comp -0.6% (intraday -4.6%), S&P -0.3% (intraday -3.2%), Dow +0.3% after violent reversal; AI/chip stocks lead lower (BNN Bloomberg)",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "nvda-sp-negative-watch-nov25",
+      "headline": "Nvidia -3.9% (~$149.30) Wed; S&P Global places credit rating on negative watch over governance; AI shares lose momentum 2nd day",
+      "score": 6,
+      "direction": "bearish"
+    },
+    {
+      "id": "core-pce-oct",
+      "headline": "Oct core PCE reportedly 3.3% y/y, highest since 2023 (single secondary source; consensus/date unverified); keeps Dec 8-9 and Q1 hike risk live",
+      "score": 5,
+      "direction": "bearish"
+    },
+    {
+      "id": "asia-rebound-nov26",
+      "headline": "Thu 26 Nov Asia/Europe rebound (Nikkei +0.9%, Taiex +2.5%, Kospi +0.3% after -6.2% Wed); S&P futs +0.3%; US closed; Fri half-day",
+      "score": 3,
+      "direction": "bullish"
+    },
+    {
+      "id": "brent-nov26",
+      "headline": "Brent ~$90.8, WTI ~$84.1 (down from ~$98 stored); war began late Feb",
+      "score": 3,
+      "direction": "bullish"
     }
   ]
 }
