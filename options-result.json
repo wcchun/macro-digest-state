@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-26T03:11:51.862286+00:00",
+  "run_at": "2026-11-27T03:17:48.883978+00:00",
   "quote_context": {
     "during_us_rth": false,
     "post_close_settled": false,
@@ -12,40 +12,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2377
+          "dte": 0,
+          "atm_iv": 0.3362
         },
         {
           "expiration": "2026-11-30",
-          "dte": 4,
-          "atm_iv": 0.2347
+          "dte": 3,
+          "atm_iv": 0.2624
         },
         {
           "expiration": "2026-12-02",
-          "dte": 6,
-          "atm_iv": 0.257
+          "dte": 5,
+          "atm_iv": 0.2776
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.2637
+          "dte": 7,
+          "atm_iv": 0.2798
         },
         {
           "expiration": "2026-12-07",
-          "dte": 11,
-          "atm_iv": 0.2713
+          "dte": 10,
+          "atm_iv": 0.2833
         },
         {
           "expiration": "2026-12-09",
-          "dte": 13,
-          "atm_iv": 0.2917
+          "dte": 12,
+          "atm_iv": 0.3027
         }
       ],
-      "iv30_interpolated": 0.2917,
-      "term_structure_ratio": 0.815,
+      "iv30_interpolated": 0.3027,
+      "term_structure_ratio": 1.111,
       "volume_put_call_ratio": 1.552,
       "oi_put_call_ratio": 1.354,
-      "skew_25d_proxy_volpts": 11.05,
+      "skew_25d_proxy_volpts": 11.46,
       "skew_expiry_used": "2026-12-09",
       "max_pain_nearest_expiry": 352.5,
       "nearest_expiration": "2026-11-27",
@@ -57,7 +57,7 @@
           "ask": 0.11,
           "volume": 11517.0,
           "openInterest": 24102,
-          "impliedVolatility": 0.2109
+          "impliedVolatility": 0.2988
         },
         {
           "strike": 367.5,
@@ -66,7 +66,7 @@
           "ask": 0.05,
           "volume": 3052.0,
           "openInterest": 16864,
-          "impliedVolatility": 0.2227
+          "impliedVolatility": 0.3145
         },
         {
           "strike": 362.5,
@@ -75,7 +75,7 @@
           "ask": 0.27,
           "volume": 13700.0,
           "openInterest": 13581,
-          "impliedVolatility": 0.2061
+          "impliedVolatility": 0.2915
         },
         {
           "strike": 370.0,
@@ -84,7 +84,7 @@
           "ask": 0.03,
           "volume": 1348.0,
           "openInterest": 9955,
-          "impliedVolatility": 0.2422
+          "impliedVolatility": 0.3418
         },
         {
           "strike": 360.0,
@@ -93,7 +93,7 @@
           "ask": 0.59,
           "volume": 20768.0,
           "openInterest": 9571,
-          "impliedVolatility": 0.1987
+          "impliedVolatility": 0.2813
         }
       ],
       "puts_top5_oi": [
@@ -104,7 +104,7 @@
           "ask": 0.1,
           "volume": 42551.0,
           "openInterest": 13822,
-          "impliedVolatility": 0.3242
+          "impliedVolatility": 0.458
         },
         {
           "strike": 145.0,
@@ -113,7 +113,7 @@
           "ask": 0.02,
           "volume": 9574.0,
           "openInterest": 12485,
-          "impliedVolatility": 3.75
+          "impliedVolatility": 5.25
         },
         {
           "strike": 140.0,
@@ -122,7 +122,7 @@
           "ask": 0.02,
           "volume": 42.0,
           "openInterest": 12047,
-          "impliedVolatility": 3.875
+          "impliedVolatility": 5.5
         },
         {
           "strike": 150.0,
@@ -131,7 +131,7 @@
           "ask": 0.01,
           "volume": 40.0,
           "openInterest": 9567,
-          "impliedVolatility": 3.375
+          "impliedVolatility": 4.875
         },
         {
           "strike": 330.0,
@@ -140,7 +140,7 @@
           "ask": 0.04,
           "volume": 4202.0,
           "openInterest": 8918,
-          "impliedVolatility": 0.4375
+          "impliedVolatility": 0.6094
         }
       ],
       "earnings_within_30d": {
@@ -149,8 +149,8 @@
         "days_away": null
       },
       "iv_rank_to_date": {
-        "rank_pct": 79.2,
-        "sample_size": 92,
+        "rank_pct": 82.4,
+        "sample_size": 93,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -160,40 +160,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.5635
+          "dte": 0,
+          "atm_iv": 0.7969
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.6462
+          "dte": 7,
+          "atm_iv": 0.6855
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.633
+          "dte": 14,
+          "atm_iv": 0.6538
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.6171
+          "dte": 21,
+          "atm_iv": 0.6309
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.5858
+          "dte": 27,
+          "atm_iv": 0.5962
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.5685
+          "dte": 34,
+          "atm_iv": 0.5766
         }
       ],
-      "iv30_interpolated": 0.5809,
-      "term_structure_ratio": 0.97,
+      "iv30_interpolated": 0.5878,
+      "term_structure_ratio": 1.356,
       "volume_put_call_ratio": 0.745,
       "oi_put_call_ratio": 0.853,
-      "skew_25d_proxy_volpts": 0.79,
+      "skew_25d_proxy_volpts": 0.81,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 152.5,
       "nearest_expiration": "2026-11-27",
@@ -205,7 +205,7 @@
           "ask": 0.14,
           "volume": 2468.0,
           "openInterest": 11675,
-          "impliedVolatility": 0.5498
+          "impliedVolatility": 0.7773
         },
         {
           "strike": 165.0,
@@ -214,7 +214,7 @@
           "ask": 2.05,
           "volume": 10640.0,
           "openInterest": 8845,
-          "impliedVolatility": 0.5505
+          "impliedVolatility": 0.7783
         },
         {
           "strike": 177.5,
@@ -223,7 +223,7 @@
           "ask": 0.11,
           "volume": 485.0,
           "openInterest": 8185,
-          "impliedVolatility": 0.5898
+          "impliedVolatility": 0.8359
         },
         {
           "strike": 160.0,
@@ -232,7 +232,7 @@
           "ask": 5.15,
           "volume": 11943.0,
           "openInterest": 7214,
-          "impliedVolatility": 0.5972
+          "impliedVolatility": 0.8447
         },
         {
           "strike": 155.0,
@@ -241,7 +241,7 @@
           "ask": 9.7,
           "volume": 5446.0,
           "openInterest": 6884,
-          "impliedVolatility": 0.7178
+          "impliedVolatility": 1.0156
         }
       ],
       "puts_top5_oi": [
@@ -252,7 +252,7 @@
           "ask": 0.05,
           "volume": 826.0,
           "openInterest": 6550,
-          "impliedVolatility": 3.2188
+          "impliedVolatility": 4.5625
         },
         {
           "strike": 140.0,
@@ -261,7 +261,7 @@
           "ask": 0.03,
           "volume": 1332.0,
           "openInterest": 4963,
-          "impliedVolatility": 0.8672
+          "impliedVolatility": 1.2344
         },
         {
           "strike": 150.0,
@@ -270,7 +270,7 @@
           "ask": 0.14,
           "volume": 8717.0,
           "openInterest": 4938,
-          "impliedVolatility": 0.6738
+          "impliedVolatility": 0.9531
         },
         {
           "strike": 145.0,
@@ -279,7 +279,7 @@
           "ask": 0.05,
           "volume": 1613.0,
           "openInterest": 3569,
-          "impliedVolatility": 0.75
+          "impliedVolatility": 1.0625
         },
         {
           "strike": 125.0,
@@ -288,7 +288,7 @@
           "ask": 0.01,
           "volume": 34.0,
           "openInterest": 3229,
-          "impliedVolatility": 1.2188
+          "impliedVolatility": 1.6875
         }
       ],
       "earnings_within_30d": {
@@ -297,8 +297,8 @@
         "days_away": null
       },
       "iv_rank_to_date": {
-        "rank_pct": 81.9,
-        "sample_size": 93,
+        "rank_pct": 82.9,
+        "sample_size": 94,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -308,40 +308,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.499
+          "dte": 0,
+          "atm_iv": 0.7009
         },
         {
           "expiration": "2026-11-30",
-          "dte": 4,
-          "atm_iv": 0.5079
+          "dte": 3,
+          "atm_iv": 0.5679
         },
         {
           "expiration": "2026-12-02",
-          "dte": 6,
-          "atm_iv": 0.5281
+          "dte": 5,
+          "atm_iv": 0.5704
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.5982
+          "dte": 7,
+          "atm_iv": 0.6345
         },
         {
           "expiration": "2026-12-07",
-          "dte": 11,
-          "atm_iv": 0.5545
+          "dte": 10,
+          "atm_iv": 0.5791
         },
         {
           "expiration": "2026-12-09",
-          "dte": 13,
-          "atm_iv": 0.5901
+          "dte": 12,
+          "atm_iv": 0.6123
         }
       ],
-      "iv30_interpolated": 0.5901,
-      "term_structure_ratio": 0.846,
+      "iv30_interpolated": 0.6123,
+      "term_structure_ratio": 1.145,
       "volume_put_call_ratio": 0.904,
       "oi_put_call_ratio": 1.218,
-      "skew_25d_proxy_volpts": 4.73,
+      "skew_25d_proxy_volpts": 4.91,
       "skew_expiry_used": "2026-12-09",
       "max_pain_nearest_expiry": 367.5,
       "nearest_expiration": "2026-11-27",
@@ -353,7 +353,7 @@
           "ask": 0.12,
           "volume": 3876.0,
           "openInterest": 10199,
-          "impliedVolatility": 0.5098
+          "impliedVolatility": 0.7207
         },
         {
           "strike": 400.0,
@@ -362,7 +362,7 @@
           "ask": 0.42,
           "volume": 17326.0,
           "openInterest": 9767,
-          "impliedVolatility": 0.4668
+          "impliedVolatility": 0.6567
         },
         {
           "strike": 420.0,
@@ -371,7 +371,7 @@
           "ask": 0.06,
           "volume": 2398.0,
           "openInterest": 8440,
-          "impliedVolatility": 0.582
+          "impliedVolatility": 0.8223
         },
         {
           "strike": 390.0,
@@ -380,7 +380,7 @@
           "ask": 1.8,
           "volume": 13100.0,
           "openInterest": 8298,
-          "impliedVolatility": 0.47
+          "impliedVolatility": 0.6589
         },
         {
           "strike": 415.0,
@@ -389,7 +389,7 @@
           "ask": 0.08,
           "volume": 1961.0,
           "openInterest": 7775,
-          "impliedVolatility": 0.5371
+          "impliedVolatility": 0.7578
         }
       ],
       "puts_top5_oi": [
@@ -400,7 +400,7 @@
           "ask": 0.01,
           "volume": 120.0,
           "openInterest": 69149,
-          "impliedVolatility": 4.5
+          "impliedVolatility": 6.375
         },
         {
           "strike": 130.0,
@@ -409,7 +409,7 @@
           "ask": 0.01,
           "volume": 12.0,
           "openInterest": 18691,
-          "impliedVolatility": 4.25
+          "impliedVolatility": 6.0
         },
         {
           "strike": 200.0,
@@ -418,7 +418,7 @@
           "ask": 0.01,
           "volume": 256.0,
           "openInterest": 14924,
-          "impliedVolatility": 2.5625
+          "impliedVolatility": 3.625
         },
         {
           "strike": 350.0,
@@ -427,7 +427,7 @@
           "ask": 0.29,
           "volume": 10592.0,
           "openInterest": 6097,
-          "impliedVolatility": 0.6426
+          "impliedVolatility": 0.9082
         },
         {
           "strike": 310.0,
@@ -436,7 +436,7 @@
           "ask": 0.08,
           "volume": 1980.0,
           "openInterest": 4946,
-          "impliedVolatility": 1.0742
+          "impliedVolatility": 1.5234
         }
       ],
       "earnings_within_30d": {
@@ -445,8 +445,8 @@
         "days_away": null
       },
       "iv_rank_to_date": {
-        "rank_pct": 95.2,
-        "sample_size": 93,
+        "rank_pct": 100.0,
+        "sample_size": 94,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -456,37 +456,37 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.5176
+          "dte": 0,
+          "atm_iv": 0.7344
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.6895
+          "dte": 7,
+          "atm_iv": 0.7314
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.6899
+          "dte": 14,
+          "atm_iv": 0.7124
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.6665
+          "dte": 21,
+          "atm_iv": 0.6812
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.6611
+          "dte": 27,
+          "atm_iv": 0.6733
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.6504
+          "dte": 34,
+          "atm_iv": 0.6592
         }
       ],
-      "iv30_interpolated": 0.658,
-      "term_structure_ratio": 0.787,
+      "iv30_interpolated": 0.6673,
+      "term_structure_ratio": 1.101,
       "volume_put_call_ratio": 0.628,
       "oi_put_call_ratio": 0.603,
       "skew_25d_proxy_volpts": -2.15,
@@ -501,7 +501,7 @@
           "ask": 0.06,
           "volume": 187,
           "openInterest": 2317,
-          "impliedVolatility": 0.5859
+          "impliedVolatility": 0.8281
         },
         {
           "strike": 20.0,
@@ -510,7 +510,7 @@
           "ask": 0.01,
           "volume": 12,
           "openInterest": 1016,
-          "impliedVolatility": 0.9375
+          "impliedVolatility": 1.3125
         },
         {
           "strike": 17.0,
@@ -519,7 +519,7 @@
           "ask": 0.49,
           "volume": 132,
           "openInterest": 981,
-          "impliedVolatility": 0.5078
+          "impliedVolatility": 0.7188
         },
         {
           "strike": 17.5,
@@ -528,7 +528,7 @@
           "ask": 0.16,
           "volume": 391,
           "openInterest": 950,
-          "impliedVolatility": 0.5547
+          "impliedVolatility": 0.7813
         },
         {
           "strike": 28.0,
@@ -537,7 +537,7 @@
           "ask": 0.02,
           "volume": 20,
           "openInterest": 484,
-          "impliedVolatility": 2.6875
+          "impliedVolatility": 3.8125
         }
       ],
       "puts_top5_oi": [
@@ -548,7 +548,7 @@
           "ask": 0.65,
           "volume": 101.0,
           "openInterest": 3542,
-          "impliedVolatility": 0.5547
+          "impliedVolatility": 0.7813
         },
         {
           "strike": 17.0,
@@ -557,7 +557,7 @@
           "ask": 0.35,
           "volume": 236.0,
           "openInterest": 1581,
-          "impliedVolatility": 0.5273
+          "impliedVolatility": 0.75
         },
         {
           "strike": 16.5,
@@ -566,7 +566,7 @@
           "ask": 0.22,
           "volume": 18.0,
           "openInterest": 1285,
-          "impliedVolatility": 0.6641
+          "impliedVolatility": 0.9375
         },
         {
           "strike": 16.0,
@@ -575,7 +575,7 @@
           "ask": 0.14,
           "volume": 1228.0,
           "openInterest": 699,
-          "impliedVolatility": 0.8438
+          "impliedVolatility": 1.1953
         },
         {
           "strike": 15.5,
@@ -584,7 +584,7 @@
           "ask": 0.08,
           "volume": 14.0,
           "openInterest": 572,
-          "impliedVolatility": 0.9375
+          "impliedVolatility": 1.3281
         }
       ],
       "earnings_within_30d": {
@@ -593,8 +593,8 @@
         "days_away": null
       },
       "iv_rank_to_date": {
-        "rank_pct": 56.2,
-        "sample_size": 93,
+        "rank_pct": 57.1,
+        "sample_size": 94,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -604,40 +604,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.6543
+          "dte": 0,
+          "atm_iv": 0.9253
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.5646
+          "dte": 7,
+          "atm_iv": 0.5988
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.6531
+          "dte": 14,
+          "atm_iv": 0.6746
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.5819
+          "dte": 21,
+          "atm_iv": 0.5949
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.6366
+          "dte": 27,
+          "atm_iv": 0.6479
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.6057
+          "dte": 34,
+          "atm_iv": 0.6143
         }
       ],
-      "iv30_interpolated": 0.6278,
-      "term_structure_ratio": 1.042,
+      "iv30_interpolated": 0.6335,
+      "term_structure_ratio": 1.461,
       "volume_put_call_ratio": 0.625,
       "oi_put_call_ratio": 0.558,
-      "skew_25d_proxy_volpts": 3.44,
+      "skew_25d_proxy_volpts": 3.48,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 90.0,
       "nearest_expiration": "2026-11-27",
@@ -649,7 +649,7 @@
           "ask": 2.45,
           "volume": 6.0,
           "openInterest": 419,
-          "impliedVolatility": 0.98
+          "impliedVolatility": 1.3857
         },
         {
           "strike": 97.0,
@@ -658,7 +658,7 @@
           "ask": 1.25,
           "volume": 207.0,
           "openInterest": 246,
-          "impliedVolatility": 1.4629
+          "impliedVolatility": 2.0684
         },
         {
           "strike": 110.0,
@@ -667,7 +667,7 @@
           "ask": 0.1,
           "volume": 1.0,
           "openInterest": 225,
-          "impliedVolatility": 1.5156
+          "impliedVolatility": 2.1406
         },
         {
           "strike": 115.0,
@@ -676,7 +676,7 @@
           "ask": 1.5,
           "volume": 4.0,
           "openInterest": 203,
-          "impliedVolatility": 2.8242
+          "impliedVolatility": 3.9922
         },
         {
           "strike": 95.0,
@@ -685,7 +685,7 @@
           "ask": 0.3,
           "volume": 1.0,
           "openInterest": 166,
-          "impliedVolatility": 0.8867
+          "impliedVolatility": 1.2539
         }
       ],
       "puts_top5_oi": [
@@ -696,7 +696,7 @@
           "ask": 3.0,
           "volume": 4.0,
           "openInterest": 1352,
-          "impliedVolatility": 0.7324
+          "impliedVolatility": 1.0361
         },
         {
           "strike": 82.0,
@@ -705,7 +705,7 @@
           "ask": 1.45,
           "volume": 2.0,
           "openInterest": 1012,
-          "impliedVolatility": 0.8408
+          "impliedVolatility": 1.1895
         },
         {
           "strike": 87.0,
@@ -714,7 +714,7 @@
           "ask": 3.7,
           "volume": 407.0,
           "openInterest": 408,
-          "impliedVolatility": 1.1875
+          "impliedVolatility": 0.6602
         },
         {
           "strike": 99.0,
@@ -723,7 +723,7 @@
           "ask": 15.1,
           "volume": 1.0,
           "openInterest": 297,
-          "impliedVolatility": 2.3535
+          "impliedVolatility": 3.3281
         },
         {
           "strike": 78.0,
@@ -732,7 +732,7 @@
           "ask": 2.2,
           "volume": 263.0,
           "openInterest": 263,
-          "impliedVolatility": 1.5625
+          "impliedVolatility": 2.209
         }
       ],
       "earnings_within_30d": {
@@ -741,8 +741,8 @@
         "days_away": null
       },
       "iv_rank_to_date": {
-        "rank_pct": 84.3,
-        "sample_size": 60,
+        "rank_pct": 87.0,
+        "sample_size": 61,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -752,40 +752,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.875
+          "dte": 0,
+          "atm_iv": 1.25
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 1.0156
+          "dte": 7,
+          "atm_iv": 1.0781
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 1.0156
+          "dte": 14,
+          "atm_iv": 1.0508
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 1.0098
+          "dte": 21,
+          "atm_iv": 1.0332
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.9941
+          "dte": 27,
+          "atm_iv": 1.0137
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.9648
+          "dte": 34,
+          "atm_iv": 0.9805
         }
       ],
-      "iv30_interpolated": 0.9857,
-      "term_structure_ratio": 0.888,
+      "iv30_interpolated": 0.9995,
+      "term_structure_ratio": 1.251,
       "volume_put_call_ratio": 0.364,
       "oi_put_call_ratio": 0.551,
-      "skew_25d_proxy_volpts": 2.73,
+      "skew_25d_proxy_volpts": 2.34,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 4.0,
       "nearest_expiration": "2026-11-27",
@@ -797,7 +797,7 @@
           "ask": 0.01,
           "volume": 2055,
           "openInterest": 9026,
-          "impliedVolatility": 1.0625
+          "impliedVolatility": 1.5
         },
         {
           "strike": 4.0,
@@ -806,7 +806,7 @@
           "ask": 0.07,
           "volume": 4296,
           "openInterest": 5878,
-          "impliedVolatility": 0.9219
+          "impliedVolatility": 1.3125
         },
         {
           "strike": 5.0,
@@ -815,7 +815,7 @@
           "ask": 0.01,
           "volume": 296,
           "openInterest": 5163,
-          "impliedVolatility": 1.6875
+          "impliedVolatility": 2.375
         },
         {
           "strike": 6.0,
@@ -824,7 +824,7 @@
           "ask": 0.01,
           "volume": 11,
           "openInterest": 2627,
-          "impliedVolatility": 2.625
+          "impliedVolatility": 3.75
         },
         {
           "strike": 7.0,
@@ -833,7 +833,7 @@
           "ask": 0.01,
           "volume": 1,
           "openInterest": 2602,
-          "impliedVolatility": 3.5
+          "impliedVolatility": 4.75
         }
       ],
       "puts_top5_oi": [
@@ -844,7 +844,7 @@
           "ask": 0.02,
           "volume": 1314.0,
           "openInterest": 5699,
-          "impliedVolatility": 1.125
+          "impliedVolatility": 1.625
         },
         {
           "strike": 4.0,
@@ -853,7 +853,7 @@
           "ask": 0.16,
           "volume": 1528.0,
           "openInterest": 4835,
-          "impliedVolatility": 0.8281
+          "impliedVolatility": 1.1875
         },
         {
           "strike": 4.5,
@@ -871,7 +871,7 @@
           "ask": 5.4,
           "volume": 4.0,
           "openInterest": 520,
-          "impliedVolatility": 7.1563
+          "impliedVolatility": 10.125
         },
         {
           "strike": 5.0,
@@ -880,7 +880,7 @@
           "ask": 1.25,
           "volume": 27.0,
           "openInterest": 380,
-          "impliedVolatility": 1.6875
+          "impliedVolatility": 2.375
         }
       ],
       "earnings_within_30d": {
@@ -889,8 +889,8 @@
         "days_away": null
       },
       "iv_rank_to_date": {
-        "rank_pct": 83.5,
-        "sample_size": 45,
+        "rank_pct": 86.9,
+        "sample_size": 46,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -900,70 +900,70 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2076
+          "dte": 0,
+          "atm_iv": 0.2936
         },
         {
           "expiration": "2026-11-30",
-          "dte": 4,
-          "atm_iv": 0.2042
+          "dte": 3,
+          "atm_iv": 0.2283
         },
         {
           "expiration": "2026-12-01",
-          "dte": 5,
-          "atm_iv": 0.2206
+          "dte": 4,
+          "atm_iv": 0.2416
         },
         {
           "expiration": "2026-12-02",
-          "dte": 6,
-          "atm_iv": 0.2292
-        },
-        {
-          "expiration": "2026-12-03",
-          "dte": 7,
-          "atm_iv": 0.2367
-        },
-        {
-          "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.2466
-        },
-        {
-          "expiration": "2026-12-07",
-          "dte": 11,
-          "atm_iv": 0.2324
-        },
-        {
-          "expiration": "2026-12-08",
-          "dte": 12,
-          "atm_iv": 0.2358
-        },
-        {
-          "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.2558
-        },
-        {
-          "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.254
-        },
-        {
-          "expiration": "2026-12-24",
-          "dte": 28,
+          "dte": 5,
           "atm_iv": 0.2475
         },
         {
+          "expiration": "2026-12-03",
+          "dte": 6,
+          "atm_iv": 0.2531
+        },
+        {
+          "expiration": "2026-12-04",
+          "dte": 7,
+          "atm_iv": 0.2616
+        },
+        {
+          "expiration": "2026-12-07",
+          "dte": 10,
+          "atm_iv": 0.2427
+        },
+        {
+          "expiration": "2026-12-08",
+          "dte": 11,
+          "atm_iv": 0.2455
+        },
+        {
+          "expiration": "2026-12-11",
+          "dte": 14,
+          "atm_iv": 0.2642
+        },
+        {
+          "expiration": "2026-12-18",
+          "dte": 21,
+          "atm_iv": 0.2597
+        },
+        {
+          "expiration": "2026-12-24",
+          "dte": 27,
+          "atm_iv": 0.2519
+        },
+        {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2403
+          "dte": 34,
+          "atm_iv": 0.2437
         }
       ],
-      "iv30_interpolated": 0.2454,
-      "term_structure_ratio": 0.846,
+      "iv30_interpolated": 0.2484,
+      "term_structure_ratio": 1.182,
       "volume_put_call_ratio": 2.292,
       "oi_put_call_ratio": 2.292,
-      "skew_25d_proxy_volpts": 8.82,
+      "skew_25d_proxy_volpts": 8.97,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 270.0,
       "nearest_expiration": "2026-11-27",
@@ -975,7 +975,7 @@
           "ask": 0.01,
           "volume": 7.0,
           "openInterest": 12129,
-          "impliedVolatility": 0.4766
+          "impliedVolatility": 0.625
         },
         {
           "strike": 270.0,
@@ -984,7 +984,7 @@
           "ask": 1.05,
           "volume": 16575.0,
           "openInterest": 9802,
-          "impliedVolatility": 0.1948
+          "impliedVolatility": 0.2754
         },
         {
           "strike": 298.0,
@@ -993,7 +993,7 @@
           "ask": 0.01,
           "volume": 2.0,
           "openInterest": 9742,
-          "impliedVolatility": 0.5078
+          "impliedVolatility": 0.6719
         },
         {
           "strike": 275.0,
@@ -1002,7 +1002,7 @@
           "ask": 0.08,
           "volume": 5602.0,
           "openInterest": 9552,
-          "impliedVolatility": 0.1865
+          "impliedVolatility": 0.2637
         },
         {
           "strike": 276.0,
@@ -1011,7 +1011,7 @@
           "ask": 0.05,
           "volume": 2577.0,
           "openInterest": 4775,
-          "impliedVolatility": 0.1924
+          "impliedVolatility": 0.2715
         }
       ],
       "puts_top5_oi": [
@@ -1022,7 +1022,7 @@
           "ask": 2.23,
           "volume": 2047.0,
           "openInterest": 34969,
-          "impliedVolatility": 0.2014
+          "impliedVolatility": 0.2847
         },
         {
           "strike": 255.0,
@@ -1031,7 +1031,7 @@
           "ask": 0.04,
           "volume": 5140.0,
           "openInterest": 28943,
-          "impliedVolatility": 0.3379
+          "impliedVolatility": 0.4766
         },
         {
           "strike": 267.0,
@@ -1040,7 +1040,7 @@
           "ask": 1.0,
           "volume": 4269.0,
           "openInterest": 22017,
-          "impliedVolatility": 0.2251
+          "impliedVolatility": 0.3184
         },
         {
           "strike": 250.0,
@@ -1049,7 +1049,7 @@
           "ask": 0.03,
           "volume": 4570.0,
           "openInterest": 13571,
-          "impliedVolatility": 0.4258
+          "impliedVolatility": 0.5742
         },
         {
           "strike": 268.0,
@@ -1058,7 +1058,7 @@
           "ask": 1.33,
           "volume": 7004.0,
           "openInterest": 11355,
-          "impliedVolatility": 0.2183
+          "impliedVolatility": 0.3086
         }
       ],
       "earnings_within_30d": {
@@ -1068,7 +1068,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 268.87,
         "strikes_by_target_delta": {
@@ -1079,10 +1079,10 @@
             "ask": 2.35,
             "mid": 2.32,
             "open_interest": 2034,
-            "iv": 0.3142,
+            "iv": 0.3186,
             "spread_pct_of_mid": 2.59,
             "collateral_usd": 24500.0,
-            "annualised_yield_pct": 9.88,
+            "annualised_yield_pct": 10.17,
             "gate4_liquidity_ok": true,
             "target_delta": 0.15,
             "delta_gap": 0.003,
@@ -1095,10 +1095,10 @@
             "ask": 3.19,
             "mid": 3.15,
             "open_interest": 80,
-            "iv": 0.2947,
+            "iv": 0.299,
             "spread_pct_of_mid": 2.54,
             "collateral_usd": 25100.0,
-            "annualised_yield_pct": 13.09,
+            "annualised_yield_pct": 13.47,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.001,
@@ -1111,10 +1111,10 @@
             "ask": 4.15,
             "mid": 4.08,
             "open_interest": 241,
-            "iv": 0.2795,
+            "iv": 0.2835,
             "spread_pct_of_mid": 3.18,
             "collateral_usd": 25600.0,
-            "annualised_yield_pct": 16.64,
+            "annualised_yield_pct": 17.13,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.005,
@@ -1127,10 +1127,10 @@
             "ask": 4.86,
             "mid": 4.8,
             "open_interest": 393,
-            "iv": 0.2705,
+            "iv": 0.2744,
             "spread_pct_of_mid": 2.5,
             "collateral_usd": 25900.0,
-            "annualised_yield_pct": 19.33,
+            "annualised_yield_pct": 19.9,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.005,
@@ -1141,8 +1141,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 79.3,
-        "sample_size": 82,
+        "rank_pct": 80.5,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -1152,60 +1152,60 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2637
+          "dte": 0,
+          "atm_iv": 0.3731
         },
         {
           "expiration": "2026-11-30",
-          "dte": 4,
-          "atm_iv": 0.2615
+          "dte": 3,
+          "atm_iv": 0.2925
         },
         {
           "expiration": "2026-12-02",
-          "dte": 6,
-          "atm_iv": 0.3125
+          "dte": 5,
+          "atm_iv": 0.3374
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.2712
+          "dte": 7,
+          "atm_iv": 0.2876
         },
         {
           "expiration": "2026-12-07",
-          "dte": 11,
-          "atm_iv": 0.2344
+          "dte": 10,
+          "atm_iv": 0.2446
         },
         {
           "expiration": "2026-12-09",
-          "dte": 13,
-          "atm_iv": 0.2517
+          "dte": 12,
+          "atm_iv": 0.2612
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.2606
+          "dte": 14,
+          "atm_iv": 0.2693
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.4041
+          "dte": 21,
+          "atm_iv": 0.4131
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.2495
+          "dte": 27,
+          "atm_iv": 0.2539
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2616
+          "dte": 34,
+          "atm_iv": 0.2653
         }
       ],
-      "iv30_interpolated": 0.253,
-      "term_structure_ratio": 1.042,
+      "iv30_interpolated": 0.2588,
+      "term_structure_ratio": 1.442,
       "volume_put_call_ratio": 5.486,
-      "oi_put_call_ratio": 1.889,
-      "skew_25d_proxy_volpts": 40.09,
+      "oi_put_call_ratio": 1.908,
+      "skew_25d_proxy_volpts": 40.82,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 57.0,
       "nearest_expiration": "2026-11-27",
@@ -1217,7 +1217,7 @@
           "ask": 0.3,
           "volume": 156.0,
           "openInterest": 3642,
-          "impliedVolatility": 0.3027
+          "impliedVolatility": 0.4277
         },
         {
           "strike": 58.5,
@@ -1226,7 +1226,7 @@
           "ask": 0.01,
           "volume": 6.0,
           "openInterest": 3083,
-          "impliedVolatility": 0.2422
+          "impliedVolatility": 0.3438
         },
         {
           "strike": 57.5,
@@ -1235,7 +1235,7 @@
           "ask": 0.08,
           "volume": 10.0,
           "openInterest": 2534,
-          "impliedVolatility": 0.2324
+          "impliedVolatility": 0.3281
         },
         {
           "strike": 56.5,
@@ -1244,7 +1244,7 @@
           "ask": 0.48,
           "volume": 1491.0,
           "openInterest": 1725,
-          "impliedVolatility": 0.2852
+          "impliedVolatility": 0.4023
         },
         {
           "strike": 59.0,
@@ -1253,7 +1253,7 @@
           "ask": 0.02,
           "volume": 11.0,
           "openInterest": 1412,
-          "impliedVolatility": 0.3242
+          "impliedVolatility": 0.4609
         }
       ],
       "puts_top5_oi": [
@@ -1264,7 +1264,7 @@
           "ask": 0.22,
           "volume": 12,
           "openInterest": 10359,
-          "impliedVolatility": 1.0664
+          "impliedVolatility": 1.5078
         },
         {
           "strike": 55.5,
@@ -1273,7 +1273,7 @@
           "ask": 0.06,
           "volume": 2869,
           "openInterest": 7639,
-          "impliedVolatility": 0.2188
+          "impliedVolatility": 0.3086
         },
         {
           "strike": 51.0,
@@ -1282,7 +1282,7 @@
           "ask": 0.22,
           "volume": 53,
           "openInterest": 7562,
-          "impliedVolatility": 0.9297
+          "impliedVolatility": 1.3125
         },
         {
           "strike": 55.0,
@@ -1291,7 +1291,7 @@
           "ask": 0.25,
           "volume": 600,
           "openInterest": 6451,
-          "impliedVolatility": 0.4766
+          "impliedVolatility": 0.5156
         },
         {
           "strike": 57.0,
@@ -1300,7 +1300,7 @@
           "ask": 0.8,
           "volume": 12,
           "openInterest": 5002,
-          "impliedVolatility": 0.3096
+          "impliedVolatility": 0.4375
         }
       ],
       "earnings_within_30d": {
@@ -1310,7 +1310,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 56.51,
         "strikes_by_target_delta": {
@@ -1321,10 +1321,10 @@
             "ask": 0.43,
             "mid": 0.35,
             "open_interest": 66,
-            "iv": 0.2778,
+            "iv": 0.2817,
             "spread_pct_of_mid": 45.71,
             "collateral_usd": 5200.0,
-            "annualised_yield_pct": 7.02,
+            "annualised_yield_pct": 7.23,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.005,
@@ -1337,10 +1337,10 @@
             "ask": 0.65,
             "mid": 0.47,
             "open_interest": 288,
-            "iv": 0.2793,
+            "iv": 0.2832,
             "spread_pct_of_mid": 73.68,
             "collateral_usd": 5300.0,
-            "annualised_yield_pct": 9.35,
+            "annualised_yield_pct": 9.62,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.002,
@@ -1348,34 +1348,34 @@
           },
           "0.25": {
             "strike": 54.0,
-            "delta": 0.244,
+            "delta": 0.245,
             "bid": 0.37,
             "ask": 0.73,
             "mid": 0.55,
             "open_interest": 332,
-            "iv": 0.2454,
+            "iv": 0.249,
             "spread_pct_of_mid": 65.45,
             "collateral_usd": 5400.0,
-            "annualised_yield_pct": 10.62,
+            "annualised_yield_pct": 10.93,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
-            "delta_gap": 0.006,
+            "delta_gap": 0.005,
             "delta_match_ok": true
           },
           "0.30": {
             "strike": 55.0,
-            "delta": 0.319,
+            "delta": 0.32,
             "bid": 0.58,
             "ask": 0.99,
             "mid": 0.78,
             "open_interest": 752,
-            "iv": 0.2341,
+            "iv": 0.2376,
             "spread_pct_of_mid": 52.23,
             "collateral_usd": 5500.0,
-            "annualised_yield_pct": 14.88,
+            "annualised_yield_pct": 15.32,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
-            "delta_gap": 0.019,
+            "delta_gap": 0.02,
             "delta_match_ok": true
           }
         },
@@ -1383,8 +1383,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 60.2,
-        "sample_size": 82,
+        "rank_pct": 61.6,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -1394,60 +1394,60 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2632
+          "dte": 0,
+          "atm_iv": 0.3716
         },
         {
           "expiration": "2026-11-30",
-          "dte": 4,
-          "atm_iv": 0.3108
+          "dte": 3,
+          "atm_iv": 0.3477
         },
         {
           "expiration": "2026-12-02",
-          "dte": 6,
-          "atm_iv": 0.3308
+          "dte": 5,
+          "atm_iv": 0.3574
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.3208
+          "dte": 7,
+          "atm_iv": 0.3403
         },
         {
           "expiration": "2026-12-07",
-          "dte": 11,
-          "atm_iv": 0.4071
+          "dte": 10,
+          "atm_iv": 0.4251
         },
         {
           "expiration": "2026-12-09",
-          "dte": 13,
-          "atm_iv": 0.4365
+          "dte": 12,
+          "atm_iv": 0.4529
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3399
+          "dte": 14,
+          "atm_iv": 0.3508
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3203
+          "dte": 21,
+          "atm_iv": 0.3275
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.343
+          "dte": 27,
+          "atm_iv": 0.349
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.3294
+          "dte": 34,
+          "atm_iv": 0.3341
         }
       ],
-      "iv30_interpolated": 0.3391,
-      "term_structure_ratio": 0.776,
-      "volume_put_call_ratio": 0.837,
-      "oi_put_call_ratio": 1.37,
-      "skew_25d_proxy_volpts": 3.52,
+      "iv30_interpolated": 0.3426,
+      "term_structure_ratio": 1.085,
+      "volume_put_call_ratio": 0.822,
+      "oi_put_call_ratio": 1.408,
+      "skew_25d_proxy_volpts": 3.54,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 62.0,
       "nearest_expiration": "2026-11-27",
@@ -1459,7 +1459,7 @@
           "ask": 0.02,
           "volume": 6,
           "openInterest": 4003,
-          "impliedVolatility": 0.7813
+          "impliedVolatility": 1.0938
         },
         {
           "strike": 65.5,
@@ -1468,7 +1468,7 @@
           "ask": 0.22,
           "volume": 24,
           "openInterest": 2792,
-          "impliedVolatility": 0.6875
+          "impliedVolatility": 0.9727
         },
         {
           "strike": 69.0,
@@ -1477,7 +1477,7 @@
           "ask": 0.01,
           "volume": 10,
           "openInterest": 2316,
-          "impliedVolatility": 0.6563
+          "impliedVolatility": 0.9375
         },
         {
           "strike": 73.5,
@@ -1486,7 +1486,7 @@
           "ask": 0.01,
           "volume": 2,
           "openInterest": 2033,
-          "impliedVolatility": 0.9375
+          "impliedVolatility": 1.3125
         },
         {
           "strike": 62.5,
@@ -1495,7 +1495,7 @@
           "ask": 0.04,
           "volume": 83,
           "openInterest": 1558,
-          "impliedVolatility": 0.2461
+          "impliedVolatility": 0.3516
         }
       ],
       "puts_top5_oi": [
@@ -1506,7 +1506,7 @@
           "ask": 0.24,
           "volume": 282.0,
           "openInterest": 9839,
-          "impliedVolatility": 0.3262
+          "impliedVolatility": 0.4609
         },
         {
           "strike": 59.0,
@@ -1515,7 +1515,7 @@
           "ask": 0.25,
           "volume": 133.0,
           "openInterest": 7872,
-          "impliedVolatility": 0.5078
+          "impliedVolatility": 0.5742
         },
         {
           "strike": 61.0,
@@ -1524,7 +1524,7 @@
           "ask": 0.5,
           "volume": 1368.0,
           "openInterest": 6096,
-          "impliedVolatility": 0.249
+          "impliedVolatility": 0.3516
         },
         {
           "strike": 62.0,
@@ -1533,7 +1533,7 @@
           "ask": 1.52,
           "volume": 73.0,
           "openInterest": 2684,
-          "impliedVolatility": 0.4746
+          "impliedVolatility": 0.6699
         },
         {
           "strike": 58.5,
@@ -1542,7 +1542,7 @@
           "ask": 0.15,
           "volume": 11.0,
           "openInterest": 1704,
-          "impliedVolatility": 0.4941
+          "impliedVolatility": 0.5742
         }
       ],
       "earnings_within_30d": {
@@ -1552,7 +1552,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 60.9,
         "strikes_by_target_delta": {
@@ -1563,10 +1563,10 @@
             "ask": 0.57,
             "mid": 0.44,
             "open_interest": 562,
-            "iv": 0.342,
+            "iv": 0.3467,
             "spread_pct_of_mid": 56.18,
             "collateral_usd": 5500.0,
-            "annualised_yield_pct": 8.44,
+            "annualised_yield_pct": 8.69,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.004,
@@ -1579,10 +1579,10 @@
             "ask": 0.84,
             "mid": 0.58,
             "open_interest": 2,
-            "iv": 0.3533,
+            "iv": 0.3584,
             "spread_pct_of_mid": 89.66,
             "collateral_usd": 5600.0,
-            "annualised_yield_pct": 10.8,
+            "annualised_yield_pct": 11.12,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.005,
@@ -1595,10 +1595,10 @@
             "ask": 0.97,
             "mid": 0.73,
             "open_interest": 31,
-            "iv": 0.3306,
+            "iv": 0.3355,
             "spread_pct_of_mid": 63.95,
             "collateral_usd": 5700.0,
-            "annualised_yield_pct": 13.45,
+            "annualised_yield_pct": 13.84,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.02,
@@ -1611,10 +1611,10 @@
             "ask": 1.23,
             "mid": 1.0,
             "open_interest": 26,
-            "iv": 0.3235,
+            "iv": 0.3281,
             "spread_pct_of_mid": 44.78,
             "collateral_usd": 5800.0,
-            "annualised_yield_pct": 18.07,
+            "annualised_yield_pct": 18.6,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.019,
@@ -1625,8 +1625,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 58.6,
-        "sample_size": 82,
+        "rank_pct": 59.3,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -1636,60 +1636,60 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.6473
+          "dte": 0,
+          "atm_iv": 0.9154
         },
         {
           "expiration": "2026-11-30",
-          "dte": 4,
-          "atm_iv": 0.6414
+          "dte": 3,
+          "atm_iv": 0.7171
         },
         {
           "expiration": "2026-12-02",
-          "dte": 6,
-          "atm_iv": 0.7093
+          "dte": 5,
+          "atm_iv": 0.7662
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.7334
+          "dte": 7,
+          "atm_iv": 0.7779
         },
         {
           "expiration": "2026-12-07",
-          "dte": 11,
-          "atm_iv": 0.6932
+          "dte": 10,
+          "atm_iv": 0.724
         },
         {
           "expiration": "2026-12-09",
-          "dte": 13,
-          "atm_iv": 0.7098
+          "dte": 12,
+          "atm_iv": 0.7366
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.7067
+          "dte": 14,
+          "atm_iv": 0.7299
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.6762
+          "dte": 21,
+          "atm_iv": 0.6914
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.6503
+          "dte": 27,
+          "atm_iv": 0.6618
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.6282
+          "dte": 34,
+          "atm_iv": 0.6371
         }
       ],
-      "iv30_interpolated": 0.644,
-      "term_structure_ratio": 1.005,
+      "iv30_interpolated": 0.6512,
+      "term_structure_ratio": 1.406,
       "volume_put_call_ratio": 2.308,
       "oi_put_call_ratio": 1.389,
-      "skew_25d_proxy_volpts": 6.38,
+      "skew_25d_proxy_volpts": 6.48,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 452.5,
       "nearest_expiration": "2026-11-27",
@@ -1701,7 +1701,7 @@
           "ask": 0.02,
           "volume": 117.0,
           "openInterest": 8486,
-          "impliedVolatility": 0.6719
+          "impliedVolatility": 0.9531
         },
         {
           "strike": 510.0,
@@ -1710,7 +1710,7 @@
           "ask": 0.05,
           "volume": 21.0,
           "openInterest": 3348,
-          "impliedVolatility": 0.9141
+          "impliedVolatility": 1.2891
         },
         {
           "strike": 535.0,
@@ -1719,7 +1719,7 @@
           "ask": 0.1,
           "volume": 12.0,
           "openInterest": 2944,
-          "impliedVolatility": 1.1953
+          "impliedVolatility": 1.6953
         },
         {
           "strike": 450.0,
@@ -1728,7 +1728,7 @@
           "ask": 1.0,
           "volume": 3400.0,
           "openInterest": 2102,
-          "impliedVolatility": 0.5977
+          "impliedVolatility": 0.8452
         },
         {
           "strike": 505.0,
@@ -1737,7 +1737,7 @@
           "ask": 2.89,
           "volume": 38.0,
           "openInterest": 1872,
-          "impliedVolatility": 1.5693
+          "impliedVolatility": 2.2192
         }
       ],
       "puts_top5_oi": [
@@ -1748,7 +1748,7 @@
           "ask": 0.07,
           "volume": 10369.0,
           "openInterest": 83272,
-          "impliedVolatility": 1.125
+          "impliedVolatility": 1.5938
         },
         {
           "strike": 300.0,
@@ -1757,7 +1757,7 @@
           "ask": 0.05,
           "volume": 1463.0,
           "openInterest": 46406,
-          "impliedVolatility": 1.6094
+          "impliedVolatility": 2.2813
         },
         {
           "strike": 420.0,
@@ -1766,7 +1766,7 @@
           "ask": 7.85,
           "volume": 914.0,
           "openInterest": 5902,
-          "impliedVolatility": 0.6489
+          "impliedVolatility": 0.9177
         },
         {
           "strike": 425.0,
@@ -1775,7 +1775,7 @@
           "ask": 9.8,
           "volume": 1447.0,
           "openInterest": 4780,
-          "impliedVolatility": 0.6165
+          "impliedVolatility": 0.8718
         },
         {
           "strike": 410.0,
@@ -1784,7 +1784,7 @@
           "ask": 4.2,
           "volume": 639.0,
           "openInterest": 3192,
-          "impliedVolatility": 0.6836
+          "impliedVolatility": 0.9668
         }
       ],
       "earnings_within_30d": {
@@ -1794,7 +1794,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 422.46,
         "strikes_by_target_delta": {
@@ -1805,10 +1805,10 @@
             "ask": 10.8,
             "mid": 9.57,
             "open_interest": 20,
-            "iv": 0.747,
+            "iv": 0.7576,
             "spread_pct_of_mid": 25.59,
             "collateral_usd": 34500.0,
-            "annualised_yield_pct": 28.94,
+            "annualised_yield_pct": 29.79,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.006,
@@ -1821,10 +1821,10 @@
             "ask": 13.85,
             "mid": 12.3,
             "open_interest": 33,
-            "iv": 0.7175,
+            "iv": 0.7277,
             "spread_pct_of_mid": 25.2,
             "collateral_usd": 36000.0,
-            "annualised_yield_pct": 35.63,
+            "annualised_yield_pct": 36.68,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.002,
@@ -1837,10 +1837,10 @@
             "ask": 17.15,
             "mid": 15.8,
             "open_interest": 21,
-            "iv": 0.6919,
+            "iv": 0.7017,
             "spread_pct_of_mid": 17.09,
             "collateral_usd": 37500.0,
-            "annualised_yield_pct": 43.94,
+            "annualised_yield_pct": 45.23,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.003,
@@ -1853,10 +1853,10 @@
             "ask": 21.85,
             "mid": 19.68,
             "open_interest": 52,
-            "iv": 0.6583,
+            "iv": 0.6677,
             "spread_pct_of_mid": 22.11,
             "collateral_usd": 39000.0,
-            "annualised_yield_pct": 52.61,
+            "annualised_yield_pct": 54.16,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.003,
@@ -1868,7 +1868,7 @@
       },
       "iv_rank_to_date": {
         "rank_pct": 100.0,
-        "sample_size": 82,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -1878,40 +1878,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.8257
+          "dte": 0,
+          "atm_iv": 1.1675
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.9277
+          "dte": 7,
+          "atm_iv": 0.9841
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.9055
+          "dte": 14,
+          "atm_iv": 0.9352
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.8733
+          "dte": 21,
+          "atm_iv": 0.8928
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.8583
+          "dte": 27,
+          "atm_iv": 0.8734
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.8296
+          "dte": 34,
+          "atm_iv": 0.8414
         }
       ],
-      "iv30_interpolated": 0.8501,
-      "term_structure_ratio": 0.971,
+      "iv30_interpolated": 0.8597,
+      "term_structure_ratio": 1.358,
       "volume_put_call_ratio": 0.899,
       "oi_put_call_ratio": 0.612,
-      "skew_25d_proxy_volpts": 6.45,
+      "skew_25d_proxy_volpts": 6.54,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 56.0,
       "nearest_expiration": "2026-11-27",
@@ -1923,7 +1923,7 @@
           "ask": 0.43,
           "volume": 7030.0,
           "openInterest": 15375,
-          "impliedVolatility": 0.7871
+          "impliedVolatility": 1.1133
         },
         {
           "strike": 60.0,
@@ -1932,7 +1932,7 @@
           "ask": 0.09,
           "volume": 10816.0,
           "openInterest": 15345,
-          "impliedVolatility": 0.8281
+          "impliedVolatility": 1.168
         },
         {
           "strike": 55.0,
@@ -1941,7 +1941,7 @@
           "ask": 1.09,
           "volume": 13264.0,
           "openInterest": 14688,
-          "impliedVolatility": 0.7998
+          "impliedVolatility": 1.1309
         },
         {
           "strike": 75.0,
@@ -1950,7 +1950,7 @@
           "ask": 0.01,
           "volume": 26.0,
           "openInterest": 14458,
-          "impliedVolatility": 1.5
+          "impliedVolatility": 2.125
         },
         {
           "strike": 85.0,
@@ -1959,7 +1959,7 @@
           "ask": 0.01,
           "volume": 5.0,
           "openInterest": 12161,
-          "impliedVolatility": 2.0625
+          "impliedVolatility": 2.875
         }
       ],
       "puts_top5_oi": [
@@ -1970,7 +1970,7 @@
           "ask": 2.3,
           "volume": 1437.0,
           "openInterest": 14755,
-          "impliedVolatility": 0.8037
+          "impliedVolatility": 1.1367
         },
         {
           "strike": 55.0,
@@ -1979,7 +1979,7 @@
           "ask": 1.65,
           "volume": 4520.0,
           "openInterest": 13687,
-          "impliedVolatility": 0.8154
+          "impliedVolatility": 1.1543
         },
         {
           "strike": 50.0,
@@ -1988,7 +1988,7 @@
           "ask": 0.19,
           "volume": 13254.0,
           "openInterest": 12706,
-          "impliedVolatility": 0.9238
+          "impliedVolatility": 1.3086
         },
         {
           "strike": 54.0,
@@ -1997,7 +1997,7 @@
           "ask": 1.16,
           "volume": 3021.0,
           "openInterest": 9844,
-          "impliedVolatility": 0.835
+          "impliedVolatility": 1.1807
         },
         {
           "strike": 45.0,
@@ -2006,7 +2006,7 @@
           "ask": 0.03,
           "volume": 5805.0,
           "openInterest": 6288,
-          "impliedVolatility": 1.1719
+          "impliedVolatility": 1.6563
         }
       ],
       "earnings_within_30d": {
@@ -2016,7 +2016,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 54.47,
         "strikes_by_target_delta": {
@@ -2027,10 +2027,10 @@
             "ask": 1.22,
             "mid": 1.11,
             "open_interest": 1885,
-            "iv": 0.9609,
+            "iv": 0.9746,
             "spread_pct_of_mid": 18.83,
             "collateral_usd": 4000.0,
-            "annualised_yield_pct": 29.07,
+            "annualised_yield_pct": 29.92,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.035,
@@ -2043,10 +2043,10 @@
             "ask": 2.21,
             "mid": 2.06,
             "open_interest": 370,
-            "iv": 0.8987,
+            "iv": 0.9116,
             "spread_pct_of_mid": 14.04,
             "collateral_usd": 4500.0,
-            "annualised_yield_pct": 47.86,
+            "annualised_yield_pct": 49.26,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.0,
@@ -2059,10 +2059,10 @@
             "ask": 3.05,
             "mid": 2.91,
             "open_interest": 247,
-            "iv": 0.8694,
+            "iv": 0.8818,
             "spread_pct_of_mid": 9.62,
             "collateral_usd": 4800.0,
-            "annualised_yield_pct": 63.22,
+            "annualised_yield_pct": 65.08,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.018,
@@ -2075,10 +2075,10 @@
             "ask": 3.4,
             "mid": 3.22,
             "open_interest": 238,
-            "iv": 0.8574,
+            "iv": 0.8696,
             "spread_pct_of_mid": 10.85,
             "collateral_usd": 4900.0,
-            "annualised_yield_pct": 68.64,
+            "annualised_yield_pct": 70.66,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.008,
@@ -2089,8 +2089,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 97.5,
-        "sample_size": 81,
+        "rank_pct": 99.5,
+        "sample_size": 82,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -2100,57 +2100,57 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.9229
+          "dte": 0,
+          "atm_iv": 1.3052
         },
         {
           "expiration": "2026-11-30",
-          "dte": 4,
-          "atm_iv": 0.8925
+          "dte": 3,
+          "atm_iv": 0.9979
         },
         {
           "expiration": "2026-12-02",
-          "dte": 6,
-          "atm_iv": 0.9853
+          "dte": 5,
+          "atm_iv": 1.0643
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 1.0308
+          "dte": 7,
+          "atm_iv": 1.0933
         },
         {
           "expiration": "2026-12-07",
-          "dte": 11,
-          "atm_iv": 0.9364
+          "dte": 10,
+          "atm_iv": 0.978
         },
         {
           "expiration": "2026-12-09",
-          "dte": 13,
-          "atm_iv": 0.9699
+          "dte": 12,
+          "atm_iv": 1.0065
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.9721
+          "dte": 14,
+          "atm_iv": 1.004
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.9829
+          "dte": 21,
+          "atm_iv": 1.005
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.9463
+          "dte": 27,
+          "atm_iv": 0.963
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.904
+          "dte": 34,
+          "atm_iv": 0.9168
         }
       ],
-      "iv30_interpolated": 0.9342,
-      "term_structure_ratio": 0.988,
+      "iv30_interpolated": 0.9432,
+      "term_structure_ratio": 1.384,
       "volume_put_call_ratio": 0.804,
       "oi_put_call_ratio": 0.91,
       "skew_25d_proxy_volpts": 0.45,
@@ -2165,7 +2165,7 @@
           "ask": 0.07,
           "volume": 3742.0,
           "openInterest": 6265,
-          "impliedVolatility": 1.1172
+          "impliedVolatility": 1.582
         },
         {
           "strike": 1005.0,
@@ -2174,7 +2174,7 @@
           "ask": 0.21,
           "volume": 3207.0,
           "openInterest": 6189,
-          "impliedVolatility": 2.4727
+          "impliedVolatility": 3.4961
         },
         {
           "strike": 630.0,
@@ -2183,7 +2183,7 @@
           "ask": 5.85,
           "volume": 7265.0,
           "openInterest": 5249,
-          "impliedVolatility": 0.8809
+          "impliedVolatility": 1.2457
         },
         {
           "strike": 900.0,
@@ -2192,7 +2192,7 @@
           "ask": 0.01,
           "volume": 52.0,
           "openInterest": 4589,
-          "impliedVolatility": 1.5625
+          "impliedVolatility": 2.1875
         },
         {
           "strike": 700.0,
@@ -2201,7 +2201,7 @@
           "ask": 0.35,
           "volume": 10778.0,
           "openInterest": 4377,
-          "impliedVolatility": 0.9766
+          "impliedVolatility": 1.3809
         }
       ],
       "puts_top5_oi": [
@@ -2212,7 +2212,7 @@
           "ask": 0.05,
           "volume": 785.0,
           "openInterest": 8929,
-          "impliedVolatility": 1.9141
+          "impliedVolatility": 2.7031
         },
         {
           "strike": 600.0,
@@ -2221,7 +2221,7 @@
           "ask": 16.85,
           "volume": 4874.0,
           "openInterest": 4952,
-          "impliedVolatility": 0.9413
+          "impliedVolatility": 1.3312
         },
         {
           "strike": 200.0,
@@ -2230,7 +2230,7 @@
           "ask": 0.01,
           "volume": 59.0,
           "openInterest": 4140,
-          "impliedVolatility": 4.125
+          "impliedVolatility": 5.875
         },
         {
           "strike": 300.0,
@@ -2239,7 +2239,7 @@
           "ask": 0.01,
           "volume": 3670.0,
           "openInterest": 4063,
-          "impliedVolatility": 2.6875
+          "impliedVolatility": 3.75
         },
         {
           "strike": 370.0,
@@ -2248,17 +2248,17 @@
           "ask": 0.03,
           "volume": 427.0,
           "openInterest": 3707,
-          "impliedVolatility": 2.1563
+          "impliedVolatility": 3.0469
         }
       ],
       "earnings_within_30d": {
         "flag": true,
         "date": "2026-12-17",
-        "days_away": 21
+        "days_away": 20
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 601.25,
         "strikes_by_target_delta": {
@@ -2269,10 +2269,10 @@
             "ask": 20.15,
             "mid": 18.25,
             "open_interest": 78,
-            "iv": 1.0068,
+            "iv": 1.0211,
             "spread_pct_of_mid": 20.82,
             "collateral_usd": 46000.0,
-            "annualised_yield_pct": 41.37,
+            "annualised_yield_pct": 42.59,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.002,
@@ -2285,10 +2285,10 @@
             "ask": 27.7,
             "mid": 25.32,
             "open_interest": 49,
-            "iv": 0.9831,
+            "iv": 0.9971,
             "spread_pct_of_mid": 18.76,
             "collateral_usd": 49000.0,
-            "annualised_yield_pct": 53.9,
+            "annualised_yield_pct": 55.48,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.001,
@@ -2301,10 +2301,10 @@
             "ask": 36.65,
             "mid": 33.9,
             "open_interest": 25,
-            "iv": 0.9565,
+            "iv": 0.9701,
             "spread_pct_of_mid": 16.22,
             "collateral_usd": 52000.0,
-            "annualised_yield_pct": 67.99,
+            "annualised_yield_pct": 69.99,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.007,
@@ -2317,10 +2317,10 @@
             "ask": 43.5,
             "mid": 40.52,
             "open_interest": 32,
-            "iv": 0.9376,
+            "iv": 0.9509,
             "spread_pct_of_mid": 14.68,
             "collateral_usd": 54000.0,
-            "annualised_yield_pct": 78.26,
+            "annualised_yield_pct": 80.56,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.002,
@@ -2331,8 +2331,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 98.3,
-        "sample_size": 82,
+        "rank_pct": 99.3,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -2342,40 +2342,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.4111
+          "dte": 0,
+          "atm_iv": 0.519
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.4928
+          "dte": 7,
+          "atm_iv": 0.5227
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.4358
+          "dte": 14,
+          "atm_iv": 0.4501
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.4325
+          "dte": 21,
+          "atm_iv": 0.4423
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.4278
+          "dte": 27,
+          "atm_iv": 0.4354
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.5264
+          "dte": 34,
+          "atm_iv": 0.5339
         }
       ],
-      "iv30_interpolated": 0.456,
-      "term_structure_ratio": 0.902,
-      "volume_put_call_ratio": 1.005,
+      "iv30_interpolated": 0.4776,
+      "term_structure_ratio": 1.087,
+      "volume_put_call_ratio": 1.004,
       "oi_put_call_ratio": 1.014,
-      "skew_25d_proxy_volpts": 3.64,
+      "skew_25d_proxy_volpts": 3.69,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 95.0,
       "nearest_expiration": "2026-11-27",
@@ -2387,7 +2387,7 @@
           "ask": 0.03,
           "volume": 361.0,
           "openInterest": 3110,
-          "impliedVolatility": 0.418
+          "impliedVolatility": 0.5547
         },
         {
           "strike": 95.0,
@@ -2396,7 +2396,7 @@
           "ask": 0.76,
           "volume": 705.0,
           "openInterest": 1279,
-          "impliedVolatility": 0.3989
+          "impliedVolatility": 0.5645
         },
         {
           "strike": 96.0,
@@ -2405,7 +2405,7 @@
           "ask": 0.4,
           "volume": 499.0,
           "openInterest": 834,
-          "impliedVolatility": 0.3799
+          "impliedVolatility": 0.5371
         },
         {
           "strike": 103.0,
@@ -2414,7 +2414,7 @@
           "ask": 0.05,
           "volume": 1.0,
           "openInterest": 787,
-          "impliedVolatility": 0.5703
+          "impliedVolatility": 0.8047
         },
         {
           "strike": 97.0,
@@ -2423,7 +2423,7 @@
           "ask": 0.25,
           "volume": 175.0,
           "openInterest": 732,
-          "impliedVolatility": 0.4053
+          "impliedVolatility": 0.5732
         }
       ],
       "puts_top5_oi": [
@@ -2434,7 +2434,7 @@
           "ask": 1.55,
           "volume": 243.0,
           "openInterest": 1227,
-          "impliedVolatility": 0.3955
+          "impliedVolatility": 0.5586
         },
         {
           "strike": 94.0,
@@ -2443,7 +2443,7 @@
           "ask": 1.04,
           "volume": 797.0,
           "openInterest": 956,
-          "impliedVolatility": 0.4092
+          "impliedVolatility": 0.5176
         },
         {
           "strike": 96.0,
@@ -2452,7 +2452,7 @@
           "ask": 2.65,
           "volume": 69.0,
           "openInterest": 879,
-          "impliedVolatility": 0.5664
+          "impliedVolatility": 0.8008
         },
         {
           "strike": 92.0,
@@ -2461,7 +2461,7 @@
           "ask": 0.49,
           "volume": 53.0,
           "openInterest": 562,
-          "impliedVolatility": 0.4746
+          "impliedVolatility": 0.5313
         },
         {
           "strike": 86.0,
@@ -2470,7 +2470,7 @@
           "ask": 0.13,
           "volume": 100.0,
           "openInterest": 515,
-          "impliedVolatility": 0.6836
+          "impliedVolatility": 0.9688
         }
       ],
       "earnings_within_30d": {
@@ -2480,7 +2480,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 94.2,
         "strikes_by_target_delta": {
@@ -2491,10 +2491,10 @@
             "ask": 1.03,
             "mid": 0.85,
             "open_interest": 23,
-            "iv": 0.4971,
+            "iv": 0.5042,
             "spread_pct_of_mid": 42.35,
             "collateral_usd": 8000.0,
-            "annualised_yield_pct": 11.08,
+            "annualised_yield_pct": 11.41,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.028,
@@ -2507,10 +2507,10 @@
             "ask": 1.71,
             "mid": 1.5,
             "open_interest": 17,
-            "iv": 0.4485,
+            "iv": 0.4548,
             "spread_pct_of_mid": 27.24,
             "collateral_usd": 8500.0,
-            "annualised_yield_pct": 18.46,
+            "annualised_yield_pct": 19.01,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.0,
@@ -2523,10 +2523,10 @@
             "ask": 2.21,
             "mid": 1.9,
             "open_interest": 30,
-            "iv": 0.4419,
+            "iv": 0.448,
             "spread_pct_of_mid": 32.63,
             "collateral_usd": 8700.0,
-            "annualised_yield_pct": 22.78,
+            "annualised_yield_pct": 23.44,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.002,
@@ -2539,10 +2539,10 @@
             "ask": 2.9,
             "mid": 2.54,
             "open_interest": 8,
-            "iv": 0.4434,
+            "iv": 0.4497,
             "spread_pct_of_mid": 28.8,
             "collateral_usd": 8900.0,
-            "annualised_yield_pct": 29.7,
+            "annualised_yield_pct": 30.58,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.004,
@@ -2553,8 +2553,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 81.5,
-        "sample_size": 82,
+        "rank_pct": 85.5,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -2564,60 +2564,60 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.8794
+          "dte": 0,
+          "atm_iv": 1.2437
         },
         {
           "expiration": "2026-11-30",
-          "dte": 4,
-          "atm_iv": 0.8497
+          "dte": 3,
+          "atm_iv": 0.95
         },
         {
           "expiration": "2026-12-02",
-          "dte": 6,
-          "atm_iv": 0.9848
+          "dte": 5,
+          "atm_iv": 1.0637
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 1.0319
+          "dte": 7,
+          "atm_iv": 1.0945
         },
         {
           "expiration": "2026-12-07",
-          "dte": 11,
-          "atm_iv": 0.9702
+          "dte": 10,
+          "atm_iv": 1.0133
         },
         {
           "expiration": "2026-12-09",
-          "dte": 13,
-          "atm_iv": 0.9644
+          "dte": 12,
+          "atm_iv": 1.0008
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.9859
+          "dte": 14,
+          "atm_iv": 1.0183
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.935
+          "dte": 21,
+          "atm_iv": 0.9561
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.8949
+          "dte": 27,
+          "atm_iv": 0.9107
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.8471
+          "dte": 34,
+          "atm_iv": 0.8591
         }
       ],
-      "iv30_interpolated": 0.8812,
-      "term_structure_ratio": 0.998,
+      "iv30_interpolated": 0.8886,
+      "term_structure_ratio": 1.4,
       "volume_put_call_ratio": 0.897,
       "oi_put_call_ratio": 0.851,
-      "skew_25d_proxy_volpts": 5.15,
+      "skew_25d_proxy_volpts": 5.24,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 447.5,
       "nearest_expiration": "2026-11-27",
@@ -2629,7 +2629,7 @@
           "ask": 0.01,
           "volume": 432,
           "openInterest": 5259,
-          "impliedVolatility": 1.5625
+          "impliedVolatility": 2.1875
         },
         {
           "strike": 550.0,
@@ -2638,7 +2638,7 @@
           "ask": 0.01,
           "volume": 246,
           "openInterest": 4453,
-          "impliedVolatility": 1.25
+          "impliedVolatility": 1.75
         },
         {
           "strike": 500.0,
@@ -2647,7 +2647,7 @@
           "ask": 0.04,
           "volume": 2925,
           "openInterest": 4335,
-          "impliedVolatility": 1.0
+          "impliedVolatility": 1.4219
         },
         {
           "strike": 467.5,
@@ -2656,7 +2656,7 @@
           "ask": 0.35,
           "volume": 3241,
           "openInterest": 3240,
-          "impliedVolatility": 0.9307
+          "impliedVolatility": 1.3164
         },
         {
           "strike": 530.0,
@@ -2665,7 +2665,7 @@
           "ask": 0.01,
           "volume": 242,
           "openInterest": 2182,
-          "impliedVolatility": 1.0938
+          "impliedVolatility": 1.5625
         }
       ],
       "puts_top5_oi": [
@@ -2676,7 +2676,7 @@
           "ask": 0.01,
           "volume": 56.0,
           "openInterest": 11567,
-          "impliedVolatility": 2.125
+          "impliedVolatility": 3.0
         },
         {
           "strike": 330.0,
@@ -2685,7 +2685,7 @@
           "ask": 0.1,
           "volume": 5610.0,
           "openInterest": 3489,
-          "impliedVolatility": 1.1816
+          "impliedVolatility": 1.6719
         },
         {
           "strike": 315.0,
@@ -2694,7 +2694,7 @@
           "ask": 0.06,
           "volume": 1137.0,
           "openInterest": 3245,
-          "impliedVolatility": 1.2656
+          "impliedVolatility": 1.7969
         },
         {
           "strike": 400.0,
@@ -2703,7 +2703,7 @@
           "ask": 9.0,
           "volume": 3563.0,
           "openInterest": 2953,
-          "impliedVolatility": 0.9182
+          "impliedVolatility": 1.2986
         },
         {
           "strike": 350.0,
@@ -2712,7 +2712,7 @@
           "ask": 0.41,
           "volume": 7576.0,
           "openInterest": 2341,
-          "impliedVolatility": 1.0713
+          "impliedVolatility": 1.5156
         }
       ],
       "earnings_within_30d": {
@@ -2722,7 +2722,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 406.03,
         "strikes_by_target_delta": {
@@ -2733,10 +2733,10 @@
             "ask": 13.45,
             "mid": 12.0,
             "open_interest": 11,
-            "iv": 0.9617,
+            "iv": 0.9753,
             "spread_pct_of_mid": 24.17,
             "collateral_usd": 31500.0,
-            "annualised_yield_pct": 39.73,
+            "annualised_yield_pct": 40.9,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.005,
@@ -2744,18 +2744,18 @@
           },
           "0.20": {
             "strike": 335.0,
-            "delta": 0.205,
+            "delta": 0.206,
             "bid": 15.3,
             "ask": 18.1,
             "mid": 16.7,
             "open_interest": 222,
-            "iv": 0.938,
+            "iv": 0.9513,
             "spread_pct_of_mid": 16.77,
             "collateral_usd": 33500.0,
-            "annualised_yield_pct": 51.99,
+            "annualised_yield_pct": 53.52,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
-            "delta_gap": 0.005,
+            "delta_gap": 0.006,
             "delta_match_ok": true
           },
           "0.25": {
@@ -2765,10 +2765,10 @@
             "ask": 21.1,
             "mid": 20.2,
             "open_interest": 1788,
-            "iv": 0.9013,
+            "iv": 0.9141,
             "spread_pct_of_mid": 8.91,
             "collateral_usd": 35000.0,
-            "annualised_yield_pct": 60.19,
+            "annualised_yield_pct": 61.96,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.004,
@@ -2776,18 +2776,18 @@
           },
           "0.30": {
             "strike": 365.0,
-            "delta": 0.295,
+            "delta": 0.296,
             "bid": 23.8,
             "ask": 27.7,
             "mid": 25.75,
             "open_interest": 576,
-            "iv": 0.8983,
+            "iv": 0.911,
             "spread_pct_of_mid": 15.15,
             "collateral_usd": 36500.0,
-            "annualised_yield_pct": 73.57,
+            "annualised_yield_pct": 75.74,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
-            "delta_gap": 0.005,
+            "delta_gap": 0.004,
             "delta_match_ok": true
           }
         },
@@ -2796,7 +2796,7 @@
       },
       "iv_rank_to_date": {
         "rank_pct": 100.0,
-        "sample_size": 82,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -2806,40 +2806,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2861
+          "dte": 0,
+          "atm_iv": 0.4043
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.3191
+          "dte": 7,
+          "atm_iv": 0.3386
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3369
+          "dte": 14,
+          "atm_iv": 0.3479
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3137
+          "dte": 21,
+          "atm_iv": 0.3208
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.3137
+          "dte": 27,
+          "atm_iv": 0.3193
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.3071
+          "dte": 34,
+          "atm_iv": 0.3115
         }
       ],
-      "iv30_interpolated": 0.3118,
-      "term_structure_ratio": 0.918,
+      "iv30_interpolated": 0.316,
+      "term_structure_ratio": 1.28,
       "volume_put_call_ratio": 0.832,
       "oi_put_call_ratio": 0.798,
-      "skew_25d_proxy_volpts": 7.13,
+      "skew_25d_proxy_volpts": 7.28,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 49.0,
       "nearest_expiration": "2026-11-27",
@@ -2851,7 +2851,7 @@
           "ask": 0.03,
           "volume": 2919.0,
           "openInterest": 7296,
-          "impliedVolatility": 0.2695
+          "impliedVolatility": 0.3828
         },
         {
           "strike": 51.0,
@@ -2860,7 +2860,7 @@
           "ask": 0.01,
           "volume": 147.0,
           "openInterest": 7015,
-          "impliedVolatility": 0.3281
+          "impliedVolatility": 0.4688
         },
         {
           "strike": 49.0,
@@ -2869,7 +2869,7 @@
           "ask": 0.19,
           "volume": 5845.0,
           "openInterest": 3947,
-          "impliedVolatility": 0.2617
+          "impliedVolatility": 0.3691
         },
         {
           "strike": 55.0,
@@ -2878,7 +2878,7 @@
           "ask": 0.01,
           "volume": 11.0,
           "openInterest": 2429,
-          "impliedVolatility": 0.6563
+          "impliedVolatility": 0.9375
         },
         {
           "strike": 48.5,
@@ -2887,7 +2887,7 @@
           "ask": 0.42,
           "volume": 2037.0,
           "openInterest": 2254,
-          "impliedVolatility": 0.2793
+          "impliedVolatility": 0.3945
         }
       ],
       "puts_top5_oi": [
@@ -2898,7 +2898,7 @@
           "ask": 0.21,
           "volume": 1424,
           "openInterest": 3353,
-          "impliedVolatility": 0.2988
+          "impliedVolatility": 0.4238
         },
         {
           "strike": 47.0,
@@ -2907,7 +2907,7 @@
           "ask": 0.07,
           "volume": 943,
           "openInterest": 1998,
-          "impliedVolatility": 0.3594
+          "impliedVolatility": 0.5078
         },
         {
           "strike": 46.0,
@@ -2916,7 +2916,7 @@
           "ask": 0.04,
           "volume": 137,
           "openInterest": 1813,
-          "impliedVolatility": 0.4609
+          "impliedVolatility": 0.5938
         },
         {
           "strike": 48.5,
@@ -2925,7 +2925,7 @@
           "ask": 0.4,
           "volume": 1116,
           "openInterest": 1712,
-          "impliedVolatility": 0.293
+          "impliedVolatility": 0.4141
         },
         {
           "strike": 49.0,
@@ -2934,7 +2934,7 @@
           "ask": 0.69,
           "volume": 562,
           "openInterest": 1707,
-          "impliedVolatility": 0.292
+          "impliedVolatility": 0.4141
         }
       ],
       "earnings_within_30d": {
@@ -2944,7 +2944,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 48.54,
         "strikes_by_target_delta": {
@@ -2955,10 +2955,10 @@
             "ask": 0.47,
             "mid": 0.4,
             "open_interest": 41,
-            "iv": 0.3887,
+            "iv": 0.394,
             "spread_pct_of_mid": 35.0,
             "collateral_usd": 4300.0,
-            "annualised_yield_pct": 9.7,
+            "annualised_yield_pct": 9.99,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.015,
@@ -2971,10 +2971,10 @@
             "ask": 0.71,
             "mid": 0.67,
             "open_interest": 529,
-            "iv": 0.3418,
+            "iv": 0.3467,
             "spread_pct_of_mid": 13.53,
             "collateral_usd": 4500.0,
-            "annualised_yield_pct": 15.41,
+            "annualised_yield_pct": 15.86,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.009,
@@ -2987,10 +2987,10 @@
             "ask": 0.95,
             "mid": 0.9,
             "open_interest": 220,
-            "iv": 0.332,
+            "iv": 0.3367,
             "spread_pct_of_mid": 12.29,
             "collateral_usd": 4600.0,
-            "annualised_yield_pct": 20.29,
+            "annualised_yield_pct": 20.89,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.019,
@@ -3003,10 +3003,10 @@
             "ask": 0.95,
             "mid": 0.9,
             "open_interest": 220,
-            "iv": 0.332,
+            "iv": 0.3367,
             "spread_pct_of_mid": 12.29,
             "collateral_usd": 4600.0,
-            "annualised_yield_pct": 20.29,
+            "annualised_yield_pct": 20.89,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.031,
@@ -3017,8 +3017,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 90.9,
-        "sample_size": 82,
+        "rank_pct": 92.2,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -3028,40 +3028,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.3281
+          "dte": 0,
+          "atm_iv": 0.4639
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.3066
+          "dte": 7,
+          "atm_iv": 0.3252
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3195
+          "dte": 14,
+          "atm_iv": 0.3298
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3158
+          "dte": 21,
+          "atm_iv": 0.3229
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.3126
+          "dte": 27,
+          "atm_iv": 0.3181
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.3037
+          "dte": 34,
+          "atm_iv": 0.308
         }
       ],
-      "iv30_interpolated": 0.3101,
-      "term_structure_ratio": 1.058,
-      "volume_put_call_ratio": 1.44,
-      "oi_put_call_ratio": 1.467,
-      "skew_25d_proxy_volpts": 0.22,
+      "iv30_interpolated": 0.3138,
+      "term_structure_ratio": 1.478,
+      "volume_put_call_ratio": 1.444,
+      "oi_put_call_ratio": 1.465,
+      "skew_25d_proxy_volpts": 0.24,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 82.0,
       "nearest_expiration": "2026-11-27",
@@ -3073,7 +3073,7 @@
           "ask": 0.29,
           "volume": 1.0,
           "openInterest": 1723,
-          "impliedVolatility": 0.6816
+          "impliedVolatility": 0.9648
         },
         {
           "strike": 82.0,
@@ -3082,7 +3082,7 @@
           "ask": 0.33,
           "volume": 348.0,
           "openInterest": 1693,
-          "impliedVolatility": 0.3086
+          "impliedVolatility": 0.4365
         },
         {
           "strike": 85.0,
@@ -3091,7 +3091,7 @@
           "ask": 0.24,
           "volume": 57.0,
           "openInterest": 1650,
-          "impliedVolatility": 0.5918
+          "impliedVolatility": 0.6875
         },
         {
           "strike": 89.0,
@@ -3100,7 +3100,7 @@
           "ask": 0.06,
           "volume": 833.0,
           "openInterest": 1301,
-          "impliedVolatility": 0.6289
+          "impliedVolatility": 0.8906
         },
         {
           "strike": 84.0,
@@ -3109,7 +3109,7 @@
           "ask": 0.18,
           "volume": 309.0,
           "openInterest": 1132,
-          "impliedVolatility": 0.4473
+          "impliedVolatility": 0.5215
         }
       ],
       "puts_top5_oi": [
@@ -3120,7 +3120,7 @@
           "ask": 1.69,
           "volume": 3,
           "openInterest": 2246,
-          "impliedVolatility": 0.4482
+          "impliedVolatility": 0.6338
         },
         {
           "strike": 76.0,
@@ -3129,7 +3129,7 @@
           "ask": 0.09,
           "volume": 103,
           "openInterest": 1565,
-          "impliedVolatility": 0.5586
+          "impliedVolatility": 0.6875
         },
         {
           "strike": 78.0,
@@ -3138,7 +3138,7 @@
           "ask": 0.08,
           "volume": 820,
           "openInterest": 1301,
-          "impliedVolatility": 0.3594
+          "impliedVolatility": 0.5098
         },
         {
           "strike": 80.0,
@@ -3147,7 +3147,7 @@
           "ask": 0.37,
           "volume": 528,
           "openInterest": 1222,
-          "impliedVolatility": 0.3145
+          "impliedVolatility": 0.4453
         },
         {
           "strike": 83.0,
@@ -3156,7 +3156,7 @@
           "ask": 2.51,
           "volume": 3,
           "openInterest": 1146,
-          "impliedVolatility": 0.501
+          "impliedVolatility": 0.708
         }
       ],
       "earnings_within_30d": {
@@ -3166,56 +3166,56 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 80.94,
         "strikes_by_target_delta": {
           "0.15": {
             "strike": 74.0,
-            "delta": 0.177,
+            "delta": 0.178,
             "bid": 0.68,
             "ask": 0.98,
             "mid": 0.83,
             "open_interest": 16,
-            "iv": 0.3479,
+            "iv": 0.353,
             "spread_pct_of_mid": 36.14,
             "collateral_usd": 7400.0,
-            "annualised_yield_pct": 11.7,
+            "annualised_yield_pct": 12.04,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
-            "delta_gap": 0.027,
+            "delta_gap": 0.028,
             "delta_match_ok": true
           },
           "0.20": {
             "strike": 75.0,
-            "delta": 0.204,
+            "delta": 0.205,
             "bid": 0.85,
             "ask": 1.13,
             "mid": 0.99,
             "open_interest": 34,
-            "iv": 0.3359,
+            "iv": 0.3408,
             "spread_pct_of_mid": 28.28,
             "collateral_usd": 7500.0,
-            "annualised_yield_pct": 13.77,
+            "annualised_yield_pct": 14.17,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
-            "delta_gap": 0.004,
+            "delta_gap": 0.005,
             "delta_match_ok": true
           },
           "0.25": {
             "strike": 76.0,
-            "delta": 0.24,
+            "delta": 0.241,
             "bid": 0.97,
             "ask": 1.37,
             "mid": 1.17,
             "open_interest": 120,
-            "iv": 0.332,
+            "iv": 0.3369,
             "spread_pct_of_mid": 34.19,
             "collateral_usd": 7600.0,
-            "annualised_yield_pct": 16.05,
+            "annualised_yield_pct": 16.53,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
-            "delta_gap": 0.01,
+            "delta_gap": 0.009,
             "delta_match_ok": true
           },
           "0.30": {
@@ -3225,10 +3225,10 @@
             "ask": 1.75,
             "mid": 1.58,
             "open_interest": 5,
-            "iv": 0.3008,
+            "iv": 0.3051,
             "spread_pct_of_mid": 21.52,
             "collateral_usd": 7800.0,
-            "annualised_yield_pct": 21.12,
+            "annualised_yield_pct": 21.75,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.012,
@@ -3239,8 +3239,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 79.2,
-        "sample_size": 82,
+        "rank_pct": 80.2,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -3250,40 +3250,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.3313
+          "dte": 0,
+          "atm_iv": 0.4683
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.3084
+          "dte": 7,
+          "atm_iv": 0.3272
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3112
+          "dte": 14,
+          "atm_iv": 0.3215
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3107
+          "dte": 21,
+          "atm_iv": 0.3176
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.3068
+          "dte": 27,
+          "atm_iv": 0.3121
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2954
+          "dte": 34,
+          "atm_iv": 0.2996
         }
       ],
-      "iv30_interpolated": 0.3035,
-      "term_structure_ratio": 1.091,
+      "iv30_interpolated": 0.3067,
+      "term_structure_ratio": 1.527,
       "volume_put_call_ratio": 1.675,
       "oi_put_call_ratio": 0.553,
-      "skew_25d_proxy_volpts": 3.61,
+      "skew_25d_proxy_volpts": 3.66,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 92.0,
       "nearest_expiration": "2026-11-27",
@@ -3295,7 +3295,7 @@
           "ask": 0.23,
           "volume": 54.0,
           "openInterest": 1378,
-          "impliedVolatility": 0.2764
+          "impliedVolatility": 0.3906
         },
         {
           "strike": 94.0,
@@ -3304,7 +3304,7 @@
           "ask": 0.56,
           "volume": 104.0,
           "openInterest": 681,
-          "impliedVolatility": 0.291
+          "impliedVolatility": 0.4111
         },
         {
           "strike": 97.0,
@@ -3313,7 +3313,7 @@
           "ask": 0.08,
           "volume": 88.0,
           "openInterest": 608,
-          "impliedVolatility": 0.3477
+          "impliedVolatility": 0.4922
         },
         {
           "strike": 96.0,
@@ -3322,7 +3322,7 @@
           "ask": 0.12,
           "volume": 1.0,
           "openInterest": 585,
-          "impliedVolatility": 0.3037
+          "impliedVolatility": 0.4297
         },
         {
           "strike": 90.0,
@@ -3331,7 +3331,7 @@
           "ask": 3.9,
           "volume": 156.0,
           "openInterest": 527,
-          "impliedVolatility": 0.5996
+          "impliedVolatility": 0.5273
         }
       ],
       "puts_top5_oi": [
@@ -3342,7 +3342,7 @@
           "ask": 0.11,
           "volume": 26.0,
           "openInterest": 1478,
-          "impliedVolatility": 0.4648
+          "impliedVolatility": 0.5625
         },
         {
           "strike": 65.0,
@@ -3351,7 +3351,7 @@
           "ask": 0.25,
           "volume": 204.0,
           "openInterest": 1445,
-          "impliedVolatility": 2.4688
+          "impliedVolatility": 3.4922
         },
         {
           "strike": 91.0,
@@ -3360,7 +3360,7 @@
           "ask": 0.18,
           "volume": 6.0,
           "openInterest": 855,
-          "impliedVolatility": 0.3438
+          "impliedVolatility": 0.4863
         },
         {
           "strike": 94.0,
@@ -3369,7 +3369,7 @@
           "ask": 1.12,
           "volume": 20.0,
           "openInterest": 644,
-          "impliedVolatility": 0.2949
+          "impliedVolatility": 0.417
         },
         {
           "strike": 60.0,
@@ -3378,7 +3378,7 @@
           "ask": 0.23,
           "volume": 1.0,
           "openInterest": 567,
-          "impliedVolatility": 2.9063
+          "impliedVolatility": 4.1094
         }
       ],
       "earnings_within_30d": {
@@ -3388,24 +3388,24 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 93.45,
         "strikes_by_target_delta": {
           "0.15": {
             "strike": 84.0,
-            "delta": 0.167,
+            "delta": 0.168,
             "bid": 0.38,
             "ask": 1.2,
             "mid": 0.79,
             "open_interest": 1,
-            "iv": 0.3967,
+            "iv": 0.4023,
             "spread_pct_of_mid": 103.8,
             "collateral_usd": 8400.0,
-            "annualised_yield_pct": 9.81,
+            "annualised_yield_pct": 10.1,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
-            "delta_gap": 0.017,
+            "delta_gap": 0.018,
             "delta_match_ok": true
           },
           "0.20": {
@@ -3415,10 +3415,10 @@
             "ask": 2.53,
             "mid": 1.27,
             "open_interest": 1,
-            "iv": 0.6501,
+            "iv": 0.6594,
             "spread_pct_of_mid": 198.43,
             "collateral_usd": 8100.0,
-            "annualised_yield_pct": 16.35,
+            "annualised_yield_pct": 16.83,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.003,
@@ -3431,10 +3431,10 @@
             "ask": 1.4,
             "mid": 1.23,
             "open_interest": 17,
-            "iv": 0.3049,
+            "iv": 0.3093,
             "spread_pct_of_mid": 26.72,
             "collateral_usd": 8800.0,
-            "annualised_yield_pct": 14.64,
+            "annualised_yield_pct": 15.07,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.017,
@@ -3447,10 +3447,10 @@
             "ask": 1.9,
             "mid": 1.71,
             "open_interest": 7,
-            "iv": 0.2913,
+            "iv": 0.2954,
             "spread_pct_of_mid": 21.57,
             "collateral_usd": 9000.0,
-            "annualised_yield_pct": 19.87,
+            "annualised_yield_pct": 20.46,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.005,
@@ -3461,8 +3461,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 73.4,
-        "sample_size": 82,
+        "rank_pct": 74.2,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -3472,37 +3472,37 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2559
+          "dte": 0,
+          "atm_iv": 0.3604
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.2686
+          "dte": 7,
+          "atm_iv": 0.2852
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.2666
+          "dte": 14,
+          "atm_iv": 0.2759
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.2925
+          "dte": 21,
+          "atm_iv": 0.2993
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.3003
+          "dte": 27,
+          "atm_iv": 0.3054
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2922
+          "dte": 34,
+          "atm_iv": 0.2966
         }
       ],
-      "iv30_interpolated": 0.298,
-      "term_structure_ratio": 0.859,
+      "iv30_interpolated": 0.3016,
+      "term_structure_ratio": 1.195,
       "volume_put_call_ratio": 0.448,
       "oi_put_call_ratio": 0.728,
       "skew_25d_proxy_volpts": 1.46,
@@ -3517,7 +3517,7 @@
           "ask": 0.03,
           "volume": 1401.0,
           "openInterest": 19756,
-          "impliedVolatility": 0.2227
+          "impliedVolatility": 0.3125
         },
         {
           "strike": 29.5,
@@ -3526,7 +3526,7 @@
           "ask": 0.01,
           "volume": 275.0,
           "openInterest": 6496,
-          "impliedVolatility": 0.2813
+          "impliedVolatility": 0.3906
         },
         {
           "strike": 28.0,
@@ -3535,7 +3535,7 @@
           "ask": 0.61,
           "volume": 458.0,
           "openInterest": 4102,
-          "impliedVolatility": 0.3965
+          "impliedVolatility": 0.5586
         },
         {
           "strike": 28.5,
@@ -3544,7 +3544,7 @@
           "ask": 0.2,
           "volume": 1252.0,
           "openInterest": 3888,
-          "impliedVolatility": 0.2617
+          "impliedVolatility": 0.3691
         },
         {
           "strike": 32.0,
@@ -3553,7 +3553,7 @@
           "ask": 0.01,
           "volume": 80.0,
           "openInterest": 3503,
-          "impliedVolatility": 0.6875
+          "impliedVolatility": 0.9375
         }
       ],
       "puts_top5_oi": [
@@ -3564,7 +3564,7 @@
           "ask": 0.6,
           "volume": 319.0,
           "openInterest": 6727,
-          "impliedVolatility": 0.2813
+          "impliedVolatility": 0.3984
         },
         {
           "strike": 28.0,
@@ -3573,7 +3573,7 @@
           "ask": 0.05,
           "volume": 1991.0,
           "openInterest": 2370,
-          "impliedVolatility": 0.2422
+          "impliedVolatility": 0.3438
         },
         {
           "strike": 27.0,
@@ -3582,7 +3582,7 @@
           "ask": 0.01,
           "volume": 146.0,
           "openInterest": 2034,
-          "impliedVolatility": 0.3906
+          "impliedVolatility": 0.5
         },
         {
           "strike": 28.5,
@@ -3591,7 +3591,7 @@
           "ask": 0.23,
           "volume": 681.0,
           "openInterest": 1730,
-          "impliedVolatility": 0.25
+          "impliedVolatility": 0.3516
         },
         {
           "strike": 27.5,
@@ -3600,7 +3600,7 @@
           "ask": 0.02,
           "volume": 450.0,
           "openInterest": 1375,
-          "impliedVolatility": 0.3125
+          "impliedVolatility": 0.4453
         }
       ],
       "earnings_within_30d": {
@@ -3610,7 +3610,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 28.46,
         "strikes_by_target_delta": {
@@ -3621,10 +3621,10 @@
             "ask": 0.24,
             "mid": 0.2,
             "open_interest": 147,
-            "iv": 0.3047,
+            "iv": 0.3086,
             "spread_pct_of_mid": 40.0,
             "collateral_usd": 2600.0,
-            "annualised_yield_pct": 8.02,
+            "annualised_yield_pct": 8.26,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.003,
@@ -3637,10 +3637,10 @@
             "ask": 0.4,
             "mid": 0.36,
             "open_interest": 188,
-            "iv": 0.2759,
+            "iv": 0.2798,
             "spread_pct_of_mid": 22.22,
             "collateral_usd": 2700.0,
-            "annualised_yield_pct": 13.9,
+            "annualised_yield_pct": 14.31,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.039,
@@ -3653,10 +3653,10 @@
             "ask": 0.4,
             "mid": 0.36,
             "open_interest": 188,
-            "iv": 0.2759,
+            "iv": 0.2798,
             "spread_pct_of_mid": 22.22,
             "collateral_usd": 2700.0,
-            "annualised_yield_pct": 13.9,
+            "annualised_yield_pct": 14.31,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.011,
@@ -3669,10 +3669,10 @@
             "ask": 0.4,
             "mid": 0.36,
             "open_interest": 188,
-            "iv": 0.2759,
+            "iv": 0.2798,
             "spread_pct_of_mid": 22.22,
             "collateral_usd": 2700.0,
-            "annualised_yield_pct": 13.9,
+            "annualised_yield_pct": 14.31,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.061,
@@ -3683,8 +3683,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 76.7,
-        "sample_size": 82,
+        "rank_pct": 77.7,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -3694,40 +3694,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.3407
+          "dte": 0,
+          "atm_iv": 0.4819
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.447
+          "dte": 7,
+          "atm_iv": 0.4741
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.363
+          "dte": 14,
+          "atm_iv": 0.375
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3545
+          "dte": 21,
+          "atm_iv": 0.3624
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.357
+          "dte": 27,
+          "atm_iv": 0.3633
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.3489
+          "dte": 34,
+          "atm_iv": 0.3539
         }
       ],
-      "iv30_interpolated": 0.3547,
-      "term_structure_ratio": 0.961,
+      "iv30_interpolated": 0.3593,
+      "term_structure_ratio": 1.341,
       "volume_put_call_ratio": 0.405,
-      "oi_put_call_ratio": 0.572,
-      "skew_25d_proxy_volpts": 2.81,
+      "oi_put_call_ratio": 0.571,
+      "skew_25d_proxy_volpts": 2.86,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 135.0,
       "nearest_expiration": "2026-11-27",
@@ -3739,7 +3739,7 @@
           "ask": 21.65,
           "volume": 2.0,
           "openInterest": 856,
-          "impliedVolatility": 1.2324
+          "impliedVolatility": 1.7422
         },
         {
           "strike": 155.0,
@@ -3748,7 +3748,7 @@
           "ask": 0.01,
           "volume": 5.0,
           "openInterest": 612,
-          "impliedVolatility": 0.5
+          "impliedVolatility": 0.6875
         },
         {
           "strike": 145.0,
@@ -3757,7 +3757,7 @@
           "ask": 0.13,
           "volume": 47.0,
           "openInterest": 444,
-          "impliedVolatility": 0.3223
+          "impliedVolatility": 0.457
         },
         {
           "strike": 140.0,
@@ -3766,7 +3766,7 @@
           "ask": 1.66,
           "volume": 227.0,
           "openInterest": 373,
-          "impliedVolatility": 0.365
+          "impliedVolatility": 0.5161
         },
         {
           "strike": 143.0,
@@ -3775,7 +3775,7 @@
           "ask": 0.49,
           "volume": 19.0,
           "openInterest": 329,
-          "impliedVolatility": 0.3496
+          "impliedVolatility": 0.4941
         }
       ],
       "puts_top5_oi": [
@@ -3786,7 +3786,7 @@
           "ask": 4.4,
           "volume": 110,
           "openInterest": 920,
-          "impliedVolatility": 0.4829
+          "impliedVolatility": 0.6836
         },
         {
           "strike": 130.0,
@@ -3795,7 +3795,7 @@
           "ask": 0.16,
           "volume": 20,
           "openInterest": 250,
-          "impliedVolatility": 0.5703
+          "impliedVolatility": 0.8047
         },
         {
           "strike": 135.0,
@@ -3804,7 +3804,7 @@
           "ask": 0.18,
           "volume": 68,
           "openInterest": 125,
-          "impliedVolatility": 0.3965
+          "impliedVolatility": 0.5606
         },
         {
           "strike": 132.0,
@@ -3813,7 +3813,7 @@
           "ask": 0.05,
           "volume": 7,
           "openInterest": 123,
-          "impliedVolatility": 0.4356
+          "impliedVolatility": 0.5703
         },
         {
           "strike": 140.0,
@@ -3822,7 +3822,7 @@
           "ask": 1.17,
           "volume": 36,
           "openInterest": 117,
-          "impliedVolatility": 0.3164
+          "impliedVolatility": 0.4478
         }
       ],
       "earnings_within_30d": {
@@ -3832,7 +3832,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 140.29,
         "strikes_by_target_delta": {
@@ -3843,10 +3843,10 @@
             "ask": 1.3,
             "mid": 1.12,
             "open_interest": 286,
-            "iv": 0.3702,
+            "iv": 0.3755,
             "spread_pct_of_mid": 32.14,
             "collateral_usd": 12500.0,
-            "annualised_yield_pct": 9.34,
+            "annualised_yield_pct": 9.62,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.015,
@@ -3859,10 +3859,10 @@
             "ask": 2.26,
             "mid": 1.97,
             "open_interest": 15,
-            "iv": 0.3586,
+            "iv": 0.3638,
             "spread_pct_of_mid": 29.44,
             "collateral_usd": 13000.0,
-            "annualised_yield_pct": 15.8,
+            "annualised_yield_pct": 16.27,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.018,
@@ -3875,10 +3875,10 @@
             "ask": 2.26,
             "mid": 1.97,
             "open_interest": 15,
-            "iv": 0.3586,
+            "iv": 0.3638,
             "spread_pct_of_mid": 29.44,
             "collateral_usd": 13000.0,
-            "annualised_yield_pct": 15.8,
+            "annualised_yield_pct": 16.27,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.032,
@@ -3891,10 +3891,10 @@
             "ask": 3.9,
             "mid": 3.11,
             "open_interest": 3,
-            "iv": 0.406,
+            "iv": 0.4119,
             "spread_pct_of_mid": 50.8,
             "collateral_usd": 13300.0,
-            "annualised_yield_pct": 24.39,
+            "annualised_yield_pct": 25.1,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.001,
@@ -3905,8 +3905,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 78.0,
-        "sample_size": 82,
+        "rank_pct": 79.0,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -3916,40 +3916,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.5687
+          "dte": 0,
+          "atm_iv": 0.6165
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.4002
+          "dte": 7,
+          "atm_iv": 0.4245
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3713
+          "dte": 14,
+          "atm_iv": 0.3834
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3704
+          "dte": 21,
+          "atm_iv": 0.3788
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.3701
+          "dte": 27,
+          "atm_iv": 0.3767
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.368
+          "dte": 34,
+          "atm_iv": 0.3732
         }
       ],
-      "iv30_interpolated": 0.3695,
-      "term_structure_ratio": 1.539,
+      "iv30_interpolated": 0.3752,
+      "term_structure_ratio": 1.643,
       "volume_put_call_ratio": 0.866,
       "oi_put_call_ratio": 1.431,
-      "skew_25d_proxy_volpts": 3.1,
+      "skew_25d_proxy_volpts": 3.15,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 165.0,
       "nearest_expiration": "2026-11-27",
@@ -3961,7 +3961,7 @@
           "ask": 6.3,
           "volume": 45,
           "openInterest": 704,
-          "impliedVolatility": 0.7393
+          "impliedVolatility": 0.5977
         },
         {
           "strike": 175.0,
@@ -3970,7 +3970,7 @@
           "ask": 4.15,
           "volume": 319,
           "openInterest": 429,
-          "impliedVolatility": 0.6172
+          "impliedVolatility": 0.5259
         },
         {
           "strike": 182.5,
@@ -3979,7 +3979,7 @@
           "ask": 0.6,
           "volume": 2,
           "openInterest": 172,
-          "impliedVolatility": 0.4692
+          "impliedVolatility": 0.5293
         },
         {
           "strike": 167.5,
@@ -3988,7 +3988,7 @@
           "ask": 11.4,
           "volume": 1,
           "openInterest": 137,
-          "impliedVolatility": 0.689
+          "impliedVolatility": 0.9746
         },
         {
           "strike": 180.0,
@@ -3997,7 +3997,7 @@
           "ask": 0.8,
           "volume": 16,
           "openInterest": 130,
-          "impliedVolatility": 0.3848
+          "impliedVolatility": 0.5439
         }
       ],
       "puts_top5_oi": [
@@ -4008,7 +4008,7 @@
           "ask": 0.2,
           "volume": 1.0,
           "openInterest": 680,
-          "impliedVolatility": 0.5371
+          "impliedVolatility": 0.7578
         },
         {
           "strike": 162.5,
@@ -4017,7 +4017,7 @@
           "ask": 1.16,
           "volume": 1.0,
           "openInterest": 367,
-          "impliedVolatility": 0.9097
+          "impliedVolatility": 1.2861
         },
         {
           "strike": 140.0,
@@ -4026,7 +4026,7 @@
           "ask": 1.09,
           "volume": 1.0,
           "openInterest": 149,
-          "impliedVolatility": 1.9785
+          "impliedVolatility": 2.7969
         },
         {
           "strike": 160.0,
@@ -4035,7 +4035,7 @@
           "ask": 1.2,
           "volume": 13.0,
           "openInterest": 138,
-          "impliedVolatility": 1.041
+          "impliedVolatility": 1.4717
         },
         {
           "strike": 157.5,
@@ -4044,7 +4044,7 @@
           "ask": 1.13,
           "volume": 26.0,
           "openInterest": 105,
-          "impliedVolatility": 1.1445
+          "impliedVolatility": 1.6191
         }
       ],
       "earnings_within_30d": {
@@ -4054,7 +4054,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 176.74,
         "strikes_by_target_delta": {
@@ -4065,10 +4065,10 @@
             "ask": 3.15,
             "mid": 1.6,
             "open_interest": 0,
-            "iv": 0.5543,
+            "iv": 0.5621,
             "spread_pct_of_mid": 193.75,
             "collateral_usd": 15250.0,
-            "annualised_yield_pct": 10.94,
+            "annualised_yield_pct": 11.26,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.016,
@@ -4081,10 +4081,10 @@
             "ask": 3.15,
             "mid": 2.04,
             "open_interest": 8,
-            "iv": 0.4367,
+            "iv": 0.4429,
             "spread_pct_of_mid": 108.07,
             "collateral_usd": 16000.0,
-            "annualised_yield_pct": 13.33,
+            "annualised_yield_pct": 13.72,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.002,
@@ -4097,10 +4097,10 @@
             "ask": 4.75,
             "mid": 3.66,
             "open_interest": 40,
-            "iv": 0.4437,
+            "iv": 0.45,
             "spread_pct_of_mid": 59.56,
             "collateral_usd": 16500.0,
-            "annualised_yield_pct": 23.13,
+            "annualised_yield_pct": 23.81,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.024,
@@ -4108,18 +4108,18 @@
           },
           "0.30": {
             "strike": 167.5,
-            "delta": 0.298,
+            "delta": 0.299,
             "bid": 2.47,
             "ask": 4.8,
             "mid": 3.63,
             "open_interest": 2,
-            "iv": 0.4013,
+            "iv": 0.407,
             "spread_pct_of_mid": 64.1,
             "collateral_usd": 16750.0,
-            "annualised_yield_pct": 22.63,
+            "annualised_yield_pct": 23.3,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
-            "delta_gap": 0.002,
+            "delta_gap": 0.001,
             "delta_match_ok": true
           }
         },
@@ -4127,8 +4127,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 74.6,
-        "sample_size": 82,
+        "rank_pct": 75.9,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -4138,40 +4138,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2124
+          "dte": 0,
+          "atm_iv": 0.3003
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.2393
+          "dte": 7,
+          "atm_iv": 0.2538
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.2379
+          "dte": 14,
+          "atm_iv": 0.2457
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.2257
+          "dte": 21,
+          "atm_iv": 0.2307
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.2278
+          "dte": 27,
+          "atm_iv": 0.2319
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2212
+          "dte": 34,
+          "atm_iv": 0.2244
         }
       ],
-      "iv30_interpolated": 0.2259,
-      "term_structure_ratio": 0.94,
+      "iv30_interpolated": 0.2287,
+      "term_structure_ratio": 1.313,
       "volume_put_call_ratio": 0.377,
       "oi_put_call_ratio": 0.962,
-      "skew_25d_proxy_volpts": 2.86,
+      "skew_25d_proxy_volpts": 2.93,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 97.0,
       "nearest_expiration": "2026-11-27",
@@ -4183,7 +4183,7 @@
           "ask": 1.45,
           "volume": 5721.0,
           "openInterest": 6752,
-          "impliedVolatility": 0.3936
+          "impliedVolatility": 0.5566
         },
         {
           "strike": 99.0,
@@ -4192,7 +4192,7 @@
           "ask": 0.12,
           "volume": 7220.0,
           "openInterest": 6322,
-          "impliedVolatility": 0.1953
+          "impliedVolatility": 0.2754
         },
         {
           "strike": 98.0,
@@ -4201,7 +4201,7 @@
           "ask": 0.48,
           "volume": 1109.0,
           "openInterest": 2423,
-          "impliedVolatility": 0.2305
+          "impliedVolatility": 0.3252
         },
         {
           "strike": 100.0,
@@ -4210,7 +4210,7 @@
           "ask": 0.03,
           "volume": 2713.0,
           "openInterest": 2376,
-          "impliedVolatility": 0.1992
+          "impliedVolatility": 0.2813
         },
         {
           "strike": 102.0,
@@ -4219,7 +4219,7 @@
           "ask": 0.01,
           "volume": 213.0,
           "openInterest": 2032,
-          "impliedVolatility": 0.2734
+          "impliedVolatility": 0.3828
         }
       ],
       "puts_top5_oi": [
@@ -4230,7 +4230,7 @@
           "ask": 0.79,
           "volume": 3207.0,
           "openInterest": 4331,
-          "impliedVolatility": 0.1943
+          "impliedVolatility": 0.2754
         },
         {
           "strike": 95.0,
@@ -4239,7 +4239,7 @@
           "ask": 0.07,
           "volume": 713.0,
           "openInterest": 3571,
-          "impliedVolatility": 0.2617
+          "impliedVolatility": 0.3711
         },
         {
           "strike": 94.0,
@@ -4248,7 +4248,7 @@
           "ask": 0.03,
           "volume": 84.0,
           "openInterest": 3420,
-          "impliedVolatility": 0.2852
+          "impliedVolatility": 0.4023
         },
         {
           "strike": 93.0,
@@ -4257,7 +4257,7 @@
           "ask": 0.03,
           "volume": 31.0,
           "openInterest": 3290,
-          "impliedVolatility": 0.3477
+          "impliedVolatility": 0.4922
         },
         {
           "strike": 97.0,
@@ -4266,7 +4266,7 @@
           "ask": 0.34,
           "volume": 1689.0,
           "openInterest": 2551,
-          "impliedVolatility": 0.2051
+          "impliedVolatility": 0.29
         }
       ],
       "earnings_within_30d": {
@@ -4276,7 +4276,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 97.59,
         "strikes_by_target_delta": {
@@ -4287,10 +4287,10 @@
             "ask": 0.75,
             "mid": 0.62,
             "open_interest": 62,
-            "iv": 0.2493,
+            "iv": 0.2529,
             "spread_pct_of_mid": 40.0,
             "collateral_usd": 9100.0,
-            "annualised_yield_pct": 7.16,
+            "annualised_yield_pct": 7.37,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.009,
@@ -4298,50 +4298,50 @@
           },
           "0.20": {
             "strike": 92.0,
-            "delta": 0.185,
+            "delta": 0.186,
             "bid": 0.68,
             "ask": 0.87,
             "mid": 0.78,
             "open_interest": 53,
-            "iv": 0.2383,
+            "iv": 0.2417,
             "spread_pct_of_mid": 24.52,
             "collateral_usd": 9200.0,
-            "annualised_yield_pct": 8.78,
+            "annualised_yield_pct": 9.04,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
-            "delta_gap": 0.015,
+            "delta_gap": 0.014,
             "delta_match_ok": true
           },
           "0.25": {
             "strike": 94.0,
-            "delta": 0.271,
+            "delta": 0.272,
             "bid": 1.09,
             "ask": 1.39,
             "mid": 1.24,
             "open_interest": 21,
-            "iv": 0.2358,
+            "iv": 0.2393,
             "spread_pct_of_mid": 24.19,
             "collateral_usd": 9400.0,
-            "annualised_yield_pct": 13.76,
+            "annualised_yield_pct": 14.16,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
-            "delta_gap": 0.021,
+            "delta_gap": 0.022,
             "delta_match_ok": true
           },
           "0.30": {
             "strike": 95.0,
-            "delta": 0.315,
+            "delta": 0.316,
             "bid": 1.39,
             "ask": 1.62,
             "mid": 1.5,
             "open_interest": 77,
-            "iv": 0.2256,
+            "iv": 0.2288,
             "spread_pct_of_mid": 15.28,
             "collateral_usd": 9500.0,
-            "annualised_yield_pct": 16.52,
+            "annualised_yield_pct": 17.01,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
-            "delta_gap": 0.015,
+            "delta_gap": 0.016,
             "delta_match_ok": true
           }
         },
@@ -4349,8 +4349,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 71.8,
-        "sample_size": 82,
+        "rank_pct": 72.8,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -4360,40 +4360,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2837
+          "dte": 0,
+          "atm_iv": 0.4014
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.3208
+          "dte": 7,
+          "atm_iv": 0.3402
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3207
+          "dte": 14,
+          "atm_iv": 0.3312
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3491
+          "dte": 21,
+          "atm_iv": 0.3569
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.3174
+          "dte": 27,
+          "atm_iv": 0.323
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.359
+          "dte": 34,
+          "atm_iv": 0.3641
         }
       ],
-      "iv30_interpolated": 0.3293,
-      "term_structure_ratio": 0.862,
-      "volume_put_call_ratio": 0.534,
+      "iv30_interpolated": 0.3406,
+      "term_structure_ratio": 1.178,
+      "volume_put_call_ratio": 0.543,
       "oi_put_call_ratio": 1.029,
-      "skew_25d_proxy_volpts": 7.3,
+      "skew_25d_proxy_volpts": 7.45,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 106.0,
       "nearest_expiration": "2026-11-27",
@@ -4405,7 +4405,7 @@
           "ask": 0.24,
           "volume": 529.0,
           "openInterest": 954,
-          "impliedVolatility": 0.3057
+          "impliedVolatility": 0.4326
         },
         {
           "strike": 106.0,
@@ -4414,7 +4414,7 @@
           "ask": 2.8,
           "volume": 102.0,
           "openInterest": 505,
-          "impliedVolatility": 0.5693
+          "impliedVolatility": 0.5791
         },
         {
           "strike": 108.0,
@@ -4423,7 +4423,7 @@
           "ask": 0.8,
           "volume": 711.0,
           "openInterest": 474,
-          "impliedVolatility": 0.29
+          "impliedVolatility": 0.4102
         },
         {
           "strike": 107.0,
@@ -4432,7 +4432,7 @@
           "ask": 1.95,
           "volume": 308.0,
           "openInterest": 287,
-          "impliedVolatility": 0.4893
+          "impliedVolatility": 0.5117
         },
         {
           "strike": 111.0,
@@ -4441,7 +4441,7 @@
           "ask": 0.57,
           "volume": 34.0,
           "openInterest": 267,
-          "impliedVolatility": 0.5371
+          "impliedVolatility": 0.5791
         }
       ],
       "puts_top5_oi": [
@@ -4452,7 +4452,7 @@
           "ask": 0.07,
           "volume": 354.0,
           "openInterest": 775,
-          "impliedVolatility": 0.3145
+          "impliedVolatility": 0.4453
         },
         {
           "strike": 106.0,
@@ -4461,7 +4461,7 @@
           "ask": 0.4,
           "volume": 231.0,
           "openInterest": 672,
-          "impliedVolatility": 0.332
+          "impliedVolatility": 0.4697
         },
         {
           "strike": 105.0,
@@ -4470,7 +4470,7 @@
           "ask": 0.11,
           "volume": 341.0,
           "openInterest": 597,
-          "impliedVolatility": 0.2774
+          "impliedVolatility": 0.3926
         },
         {
           "strike": 102.0,
@@ -4479,7 +4479,7 @@
           "ask": 0.03,
           "volume": 24.0,
           "openInterest": 434,
-          "impliedVolatility": 0.3828
+          "impliedVolatility": 0.5391
         },
         {
           "strike": 97.0,
@@ -4488,7 +4488,7 @@
           "ask": 2.13,
           "volume": 3.0,
           "openInterest": 416,
-          "impliedVolatility": 1.5098
+          "impliedVolatility": 2.1348
         }
       ],
       "earnings_within_30d": {
@@ -4498,7 +4498,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 107.74,
         "strikes_by_target_delta": {
@@ -4509,10 +4509,10 @@
             "ask": 1.67,
             "mid": 0.94,
             "open_interest": 3,
-            "iv": 0.4495,
+            "iv": 0.4558,
             "spread_pct_of_mid": 153.44,
             "collateral_usd": 9600.0,
-            "annualised_yield_pct": 10.27,
+            "annualised_yield_pct": 10.57,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.026,
@@ -4520,18 +4520,18 @@
           },
           "0.20": {
             "strike": 100.0,
-            "delta": 0.204,
+            "delta": 0.205,
             "bid": 0.38,
             "ask": 1.47,
             "mid": 0.93,
             "open_interest": 4,
-            "iv": 0.3284,
+            "iv": 0.333,
             "spread_pct_of_mid": 117.84,
             "collateral_usd": 10000.0,
-            "annualised_yield_pct": 9.65,
+            "annualised_yield_pct": 9.93,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
-            "delta_gap": 0.004,
+            "delta_gap": 0.005,
             "delta_match_ok": true
           },
           "0.25": {
@@ -4541,10 +4541,10 @@
             "ask": 1.87,
             "mid": 1.52,
             "open_interest": 7,
-            "iv": 0.3408,
+            "iv": 0.3456,
             "spread_pct_of_mid": 45.25,
             "collateral_usd": 10100.0,
-            "annualised_yield_pct": 15.75,
+            "annualised_yield_pct": 16.21,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.01,
@@ -4557,10 +4557,10 @@
             "ask": 2.09,
             "mid": 1.52,
             "open_interest": 1,
-            "iv": 0.3049,
+            "iv": 0.3093,
             "spread_pct_of_mid": 74.1,
             "collateral_usd": 10300.0,
-            "annualised_yield_pct": 15.44,
+            "annualised_yield_pct": 15.89,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.015,
@@ -4571,8 +4571,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 57.9,
-        "sample_size": 82,
+        "rank_pct": 60.0,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -4582,40 +4582,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.3897
+          "dte": 0,
+          "atm_iv": 0.5029
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.4116
+          "dte": 7,
+          "atm_iv": 0.4365
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.4136
+          "dte": 14,
+          "atm_iv": 0.427
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.5371
+          "dte": 21,
+          "atm_iv": 0.5493
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.5059
+          "dte": 27,
+          "atm_iv": 0.5147
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.5002
+          "dte": 34,
+          "atm_iv": 0.5073
         }
       ],
-      "iv30_interpolated": 0.5043,
-      "term_structure_ratio": 0.773,
+      "iv30_interpolated": 0.5115,
+      "term_structure_ratio": 0.983,
       "volume_put_call_ratio": 0.627,
       "oi_put_call_ratio": 0.576,
-      "skew_25d_proxy_volpts": 3.66,
+      "skew_25d_proxy_volpts": 3.71,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 35.0,
       "nearest_expiration": "2026-11-27",
@@ -4627,7 +4627,7 @@
           "ask": 0.92,
           "volume": 1789.0,
           "openInterest": 2990,
-          "impliedVolatility": 0.4902
+          "impliedVolatility": 0.5117
         },
         {
           "strike": 38.0,
@@ -4636,7 +4636,7 @@
           "ask": 0.04,
           "volume": 4792.0,
           "openInterest": 2559,
-          "impliedVolatility": 0.3594
+          "impliedVolatility": 0.5078
         },
         {
           "strike": 40.0,
@@ -4645,7 +4645,7 @@
           "ask": 0.01,
           "volume": 1036.0,
           "openInterest": 2407,
-          "impliedVolatility": 0.5
+          "impliedVolatility": 0.7188
         },
         {
           "strike": 35.0,
@@ -4654,7 +4654,7 @@
           "ask": 1.87,
           "volume": 1112.0,
           "openInterest": 2293,
-          "impliedVolatility": 0.5547
+          "impliedVolatility": 0.7813
         },
         {
           "strike": 42.0,
@@ -4663,7 +4663,7 @@
           "ask": 0.02,
           "volume": 45.0,
           "openInterest": 2064,
-          "impliedVolatility": 0.8125
+          "impliedVolatility": 1.1563
         }
       ],
       "puts_top5_oi": [
@@ -4674,7 +4674,7 @@
           "ask": 0.05,
           "volume": 1963,
           "openInterest": 5062,
-          "impliedVolatility": 0.3555
+          "impliedVolatility": 0.5
         },
         {
           "strike": 35.0,
@@ -4683,7 +4683,7 @@
           "ask": 0.04,
           "volume": 2686,
           "openInterest": 2943,
-          "impliedVolatility": 0.4375
+          "impliedVolatility": 0.5547
         },
         {
           "strike": 34.5,
@@ -4692,7 +4692,7 @@
           "ask": 0.02,
           "volume": 1091,
           "openInterest": 2431,
-          "impliedVolatility": 0.4688
+          "impliedVolatility": 0.5938
         },
         {
           "strike": 36.0,
@@ -4701,7 +4701,7 @@
           "ask": 0.13,
           "volume": 772,
           "openInterest": 1573,
-          "impliedVolatility": 0.3457
+          "impliedVolatility": 0.4883
         },
         {
           "strike": 33.0,
@@ -4710,17 +4710,17 @@
           "ask": 0.06,
           "volume": 35,
           "openInterest": 1411,
-          "impliedVolatility": 0.7969
+          "impliedVolatility": 1.125
         }
       ],
       "earnings_within_30d": {
         "flag": true,
         "date": "2026-12-17",
-        "days_away": 21
+        "days_away": 20
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 36.66,
         "strikes_by_target_delta": {
@@ -4731,10 +4731,10 @@
             "ask": 0.68,
             "mid": 0.61,
             "open_interest": 48,
-            "iv": 0.5122,
+            "iv": 0.5195,
             "spread_pct_of_mid": 22.95,
             "collateral_usd": 3200.0,
-            "annualised_yield_pct": 19.88,
+            "annualised_yield_pct": 20.46,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.018,
@@ -4742,50 +4742,50 @@
           },
           "0.20": {
             "strike": 33.0,
-            "delta": 0.221,
+            "delta": 0.216,
             "bid": 0.77,
             "ask": 0.86,
             "mid": 0.81,
             "open_interest": 758,
-            "iv": 0.5117,
+            "iv": 0.5059,
             "spread_pct_of_mid": 11.04,
             "collateral_usd": 3300.0,
-            "annualised_yield_pct": 25.76,
+            "annualised_yield_pct": 26.51,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
-            "delta_gap": 0.021,
+            "delta_gap": 0.016,
             "delta_match_ok": true
           },
           "0.25": {
-            "strike": 33.0,
-            "delta": 0.221,
-            "bid": 0.77,
-            "ask": 0.86,
-            "mid": 0.81,
-            "open_interest": 758,
-            "iv": 0.5117,
-            "spread_pct_of_mid": 11.04,
-            "collateral_usd": 3300.0,
-            "annualised_yield_pct": 25.76,
-            "gate4_liquidity_ok": false,
-            "target_delta": 0.25,
-            "delta_gap": 0.029,
-            "delta_match_ok": true
-          },
-          "0.30": {
             "strike": 34.0,
-            "delta": 0.282,
+            "delta": 0.277,
             "bid": 1.05,
             "ask": 1.2,
             "mid": 1.12,
             "open_interest": 72,
-            "iv": 0.5176,
+            "iv": 0.5059,
             "spread_pct_of_mid": 13.33,
             "collateral_usd": 3400.0,
-            "annualised_yield_pct": 34.51,
+            "annualised_yield_pct": 35.52,
+            "gate4_liquidity_ok": false,
+            "target_delta": 0.25,
+            "delta_gap": 0.027,
+            "delta_match_ok": true
+          },
+          "0.30": {
+            "strike": 34.0,
+            "delta": 0.277,
+            "bid": 1.05,
+            "ask": 1.2,
+            "mid": 1.12,
+            "open_interest": 72,
+            "iv": 0.5059,
+            "spread_pct_of_mid": 13.33,
+            "collateral_usd": 3400.0,
+            "annualised_yield_pct": 35.52,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
-            "delta_gap": 0.018,
+            "delta_gap": 0.023,
             "delta_match_ok": true
           }
         },
@@ -4793,8 +4793,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 93.4,
-        "sample_size": 82,
+        "rank_pct": 94.8,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -4804,37 +4804,37 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2691
+          "dte": 0,
+          "atm_iv": 0.3804
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.3234
+          "dte": 7,
+          "atm_iv": 0.343
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3258
+          "dte": 14,
+          "atm_iv": 0.3366
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3098
+          "dte": 21,
+          "atm_iv": 0.3168
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.306
+          "dte": 27,
+          "atm_iv": 0.3115
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2975
+          "dte": 34,
+          "atm_iv": 0.3017
         }
       ],
-      "iv30_interpolated": 0.3036,
-      "term_structure_ratio": 0.886,
+      "iv30_interpolated": 0.3073,
+      "term_structure_ratio": 1.238,
       "volume_put_call_ratio": 0.187,
       "oi_put_call_ratio": 0.66,
       "skew_25d_proxy_volpts": -0.74,
@@ -4849,7 +4849,7 @@
           "ask": 0.01,
           "volume": 1780.0,
           "openInterest": 18786,
-          "impliedVolatility": 0.3203
+          "impliedVolatility": 0.4531
         },
         {
           "strike": 175.0,
@@ -4858,7 +4858,7 @@
           "ask": 0.01,
           "volume": 19.0,
           "openInterest": 11693,
-          "impliedVolatility": 0.5
+          "impliedVolatility": 0.6875
         },
         {
           "strike": 172.5,
@@ -4867,7 +4867,7 @@
           "ask": 0.01,
           "volume": 1.0,
           "openInterest": 10444,
-          "impliedVolatility": 0.4688
+          "impliedVolatility": 0.6094
         },
         {
           "strike": 165.0,
@@ -4876,7 +4876,7 @@
           "ask": 0.04,
           "volume": 753.0,
           "openInterest": 3849,
-          "impliedVolatility": 0.3047
+          "impliedVolatility": 0.4297
         },
         {
           "strike": 190.0,
@@ -4885,7 +4885,7 @@
           "ask": 0.01,
           "volume": 435.0,
           "openInterest": 2991,
-          "impliedVolatility": 0.8438
+          "impliedVolatility": 1.1875
         }
       ],
       "puts_top5_oi": [
@@ -4896,7 +4896,7 @@
           "ask": 0.3,
           "volume": 844.0,
           "openInterest": 2149,
-          "impliedVolatility": 0.2808
+          "impliedVolatility": 0.3975
         },
         {
           "strike": 152.5,
@@ -4905,7 +4905,7 @@
           "ask": 0.09,
           "volume": 114.0,
           "openInterest": 1453,
-          "impliedVolatility": 0.3106
+          "impliedVolatility": 0.4395
         },
         {
           "strike": 150.0,
@@ -4914,7 +4914,7 @@
           "ask": 0.1,
           "volume": 151.0,
           "openInterest": 1170,
-          "impliedVolatility": 0.4287
+          "impliedVolatility": 0.5332
         },
         {
           "strike": 160.0,
@@ -4923,7 +4923,7 @@
           "ask": 2.3,
           "volume": 301.0,
           "openInterest": 986,
-          "impliedVolatility": 0.2295
+          "impliedVolatility": 0.3252
         },
         {
           "strike": 157.5,
@@ -4932,7 +4932,7 @@
           "ask": 0.92,
           "volume": 751.0,
           "openInterest": 794,
-          "impliedVolatility": 0.2549
+          "impliedVolatility": 0.3604
         }
       ],
       "earnings_within_30d": {
@@ -4942,7 +4942,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 158.08,
         "strikes_by_target_delta": {
@@ -4953,10 +4953,10 @@
             "ask": 1.58,
             "mid": 1.48,
             "open_interest": 17,
-            "iv": 0.3152,
+            "iv": 0.3196,
             "spread_pct_of_mid": 14.24,
             "collateral_usd": 14500.0,
-            "annualised_yield_pct": 10.61,
+            "annualised_yield_pct": 10.92,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.014,
@@ -4969,10 +4969,10 @@
             "ask": 1.58,
             "mid": 1.48,
             "open_interest": 17,
-            "iv": 0.3152,
+            "iv": 0.3196,
             "spread_pct_of_mid": 14.24,
             "collateral_usd": 14500.0,
-            "annualised_yield_pct": 10.61,
+            "annualised_yield_pct": 10.92,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.036,
@@ -4985,10 +4985,10 @@
             "ask": 2.63,
             "mid": 2.41,
             "open_interest": 66,
-            "iv": 0.3005,
+            "iv": 0.3048,
             "spread_pct_of_mid": 18.26,
             "collateral_usd": 15000.0,
-            "annualised_yield_pct": 16.76,
+            "annualised_yield_pct": 17.25,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.006,
@@ -5001,10 +5001,10 @@
             "ask": 2.63,
             "mid": 2.41,
             "open_interest": 66,
-            "iv": 0.3005,
+            "iv": 0.3048,
             "spread_pct_of_mid": 18.26,
             "collateral_usd": 15000.0,
-            "annualised_yield_pct": 16.76,
+            "annualised_yield_pct": 17.25,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.044,
@@ -5015,8 +5015,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 76.4,
-        "sample_size": 82,
+        "rank_pct": 77.4,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -5026,40 +5026,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2863
+          "dte": 0,
+          "atm_iv": 0.4048
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.323
+          "dte": 7,
+          "atm_iv": 0.3426
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3136
+          "dte": 14,
+          "atm_iv": 0.3239
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3138
+          "dte": 21,
+          "atm_iv": 0.3209
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.3113
+          "dte": 27,
+          "atm_iv": 0.3168
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2974
+          "dte": 34,
+          "atm_iv": 0.3017
         }
       ],
-      "iv30_interpolated": 0.3073,
-      "term_structure_ratio": 0.932,
+      "iv30_interpolated": 0.3103,
+      "term_structure_ratio": 1.304,
       "volume_put_call_ratio": 0.251,
       "oi_put_call_ratio": 0.579,
-      "skew_25d_proxy_volpts": 1.17,
+      "skew_25d_proxy_volpts": 1.18,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 210.0,
       "nearest_expiration": "2026-11-27",
@@ -5071,7 +5071,7 @@
           "ask": 0.04,
           "volume": 38,
           "openInterest": 20512,
-          "impliedVolatility": 0.4688
+          "impliedVolatility": 0.6094
         },
         {
           "strike": 215.0,
@@ -5080,7 +5080,7 @@
           "ask": 0.28,
           "volume": 1223,
           "openInterest": 2455,
-          "impliedVolatility": 0.2412
+          "impliedVolatility": 0.3413
         },
         {
           "strike": 217.5,
@@ -5089,7 +5089,7 @@
           "ask": 0.1,
           "volume": 1284,
           "openInterest": 1976,
-          "impliedVolatility": 0.2607
+          "impliedVolatility": 0.3691
         },
         {
           "strike": 212.5,
@@ -5098,7 +5098,7 @@
           "ask": 0.93,
           "volume": 1101,
           "openInterest": 1228,
-          "impliedVolatility": 0.2537
+          "impliedVolatility": 0.3589
         },
         {
           "strike": 220.0,
@@ -5107,7 +5107,7 @@
           "ask": 0.13,
           "volume": 67,
           "openInterest": 1206,
-          "impliedVolatility": 0.3535
+          "impliedVolatility": 0.5
         }
       ],
       "puts_top5_oi": [
@@ -5118,7 +5118,7 @@
           "ask": 0.18,
           "volume": 388.0,
           "openInterest": 1467,
-          "impliedVolatility": 0.4619
+          "impliedVolatility": 0.5703
         },
         {
           "strike": 205.0,
@@ -5127,7 +5127,7 @@
           "ask": 0.16,
           "volume": 733.0,
           "openInterest": 1171,
-          "impliedVolatility": 0.2778
+          "impliedVolatility": 0.3926
         },
         {
           "strike": 207.5,
@@ -5136,7 +5136,7 @@
           "ask": 0.44,
           "volume": 878.0,
           "openInterest": 966,
-          "impliedVolatility": 0.2607
+          "impliedVolatility": 0.3687
         },
         {
           "strike": 210.0,
@@ -5145,7 +5145,7 @@
           "ask": 1.19,
           "volume": 625.0,
           "openInterest": 802,
-          "impliedVolatility": 0.2607
+          "impliedVolatility": 0.3687
         },
         {
           "strike": 195.0,
@@ -5154,7 +5154,7 @@
           "ask": 0.46,
           "volume": 64.0,
           "openInterest": 758,
-          "impliedVolatility": 0.6631
+          "impliedVolatility": 0.9375
         }
       ],
       "earnings_within_30d": {
@@ -5164,7 +5164,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 210.95,
         "strikes_by_target_delta": {
@@ -5175,10 +5175,10 @@
             "ask": 1.58,
             "mid": 1.29,
             "open_interest": 95,
-            "iv": 0.3222,
+            "iv": 0.3267,
             "spread_pct_of_mid": 44.02,
             "collateral_usd": 19000.0,
-            "annualised_yield_pct": 7.11,
+            "annualised_yield_pct": 7.32,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.023,
@@ -5186,34 +5186,34 @@
           },
           "0.20": {
             "strike": 195.0,
-            "delta": 0.174,
+            "delta": 0.175,
             "bid": 1.65,
             "ask": 2.17,
             "mid": 1.91,
             "open_interest": 23,
-            "iv": 0.3007,
+            "iv": 0.3049,
             "spread_pct_of_mid": 27.23,
             "collateral_usd": 19500.0,
-            "annualised_yield_pct": 10.21,
+            "annualised_yield_pct": 10.52,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
-            "delta_gap": 0.026,
+            "delta_gap": 0.025,
             "delta_match_ok": true
           },
           "0.25": {
             "strike": 200.0,
-            "delta": 0.251,
+            "delta": 0.252,
             "bid": 2.63,
             "ask": 3.4,
             "mid": 3.01,
             "open_interest": 132,
-            "iv": 0.2979,
+            "iv": 0.3021,
             "spread_pct_of_mid": 25.54,
             "collateral_usd": 20000.0,
-            "annualised_yield_pct": 15.72,
+            "annualised_yield_pct": 16.18,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
-            "delta_gap": 0.001,
+            "delta_gap": 0.002,
             "delta_match_ok": true
           },
           "0.30": {
@@ -5223,10 +5223,10 @@
             "ask": 5.05,
             "mid": 4.5,
             "open_interest": 89,
-            "iv": 0.2941,
+            "iv": 0.2983,
             "spread_pct_of_mid": 24.44,
             "collateral_usd": 20500.0,
-            "annualised_yield_pct": 22.89,
+            "annualised_yield_pct": 23.57,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.042,
@@ -5237,8 +5237,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 89.1,
-        "sample_size": 82,
+        "rank_pct": 90.1,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -5248,37 +5248,37 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2197
+          "dte": 0,
+          "atm_iv": 0.3106
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.2507
+          "dte": 7,
+          "atm_iv": 0.2661
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.2761
+          "dte": 14,
+          "atm_iv": 0.2852
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.2617
+          "dte": 21,
+          "atm_iv": 0.2676
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.2623
+          "dte": 27,
+          "atm_iv": 0.2671
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2618
+          "dte": 34,
+          "atm_iv": 0.2655
         }
       ],
-      "iv30_interpolated": 0.2622,
-      "term_structure_ratio": 0.838,
+      "iv30_interpolated": 0.2664,
+      "term_structure_ratio": 1.166,
       "volume_put_call_ratio": 0.619,
       "oi_put_call_ratio": 0.823,
       "skew_25d_proxy_volpts": 0.1,
@@ -5293,7 +5293,7 @@
           "ask": 0.13,
           "volume": 1467.0,
           "openInterest": 6977,
-          "impliedVolatility": 0.2754
+          "impliedVolatility": 0.3906
         },
         {
           "strike": 47.0,
@@ -5302,7 +5302,7 @@
           "ask": 0.55,
           "volume": 1594.0,
           "openInterest": 5648,
-          "impliedVolatility": 0.2832
+          "impliedVolatility": 0.4004
         },
         {
           "strike": 46.0,
@@ -5311,7 +5311,7 @@
           "ask": 1.51,
           "volume": 338.0,
           "openInterest": 1879,
-          "impliedVolatility": 0.5
+          "impliedVolatility": 0.5469
         },
         {
           "strike": 46.5,
@@ -5320,7 +5320,7 @@
           "ask": 1.11,
           "volume": 223.0,
           "openInterest": 1868,
-          "impliedVolatility": 0.4668
+          "impliedVolatility": 0.5
         },
         {
           "strike": 47.5,
@@ -5329,7 +5329,7 @@
           "ask": 0.24,
           "volume": 576.0,
           "openInterest": 1846,
-          "impliedVolatility": 0.2422
+          "impliedVolatility": 0.3418
         }
       ],
       "puts_top5_oi": [
@@ -5340,7 +5340,7 @@
           "ask": 0.2,
           "volume": 160.0,
           "openInterest": 1139,
-          "impliedVolatility": 0.4707
+          "impliedVolatility": 0.5117
         },
         {
           "strike": 23.0,
@@ -5349,7 +5349,7 @@
           "ask": 2.13,
           "volume": 9.0,
           "openInterest": 1120,
-          "impliedVolatility": 8.0859
+          "impliedVolatility": 11.4297
         },
         {
           "strike": 47.0,
@@ -5358,7 +5358,7 @@
           "ask": 0.26,
           "volume": 1210.0,
           "openInterest": 1114,
-          "impliedVolatility": 0.2754
+          "impliedVolatility": 0.3906
         },
         {
           "strike": 43.0,
@@ -5367,7 +5367,7 @@
           "ask": 0.18,
           "volume": 14.0,
           "openInterest": 769,
-          "impliedVolatility": 0.8672
+          "impliedVolatility": 1.2266
         },
         {
           "strike": 45.0,
@@ -5376,7 +5376,7 @@
           "ask": 0.07,
           "volume": 44.0,
           "openInterest": 748,
-          "impliedVolatility": 0.4961
+          "impliedVolatility": 0.5938
         }
       ],
       "earnings_within_30d": {
@@ -5386,7 +5386,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 47.28,
         "strikes_by_target_delta": {
@@ -5397,10 +5397,10 @@
             "ask": 0.36,
             "mid": 0.32,
             "open_interest": 22,
-            "iv": 0.2529,
+            "iv": 0.2564,
             "spread_pct_of_mid": 21.54,
             "collateral_usd": 4400.0,
-            "annualised_yield_pct": 7.7,
+            "annualised_yield_pct": 7.93,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.006,
@@ -5408,50 +5408,50 @@
           },
           "0.20": {
             "strike": 45.0,
-            "delta": 0.228,
+            "delta": 0.229,
             "bid": 0.46,
             "ask": 0.56,
             "mid": 0.51,
             "open_interest": 118,
-            "iv": 0.2456,
+            "iv": 0.249,
             "spread_pct_of_mid": 19.61,
             "collateral_usd": 4500.0,
-            "annualised_yield_pct": 11.82,
+            "annualised_yield_pct": 12.17,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
-            "delta_gap": 0.028,
+            "delta_gap": 0.029,
             "delta_match_ok": true
           },
           "0.25": {
             "strike": 45.0,
-            "delta": 0.228,
+            "delta": 0.229,
             "bid": 0.46,
             "ask": 0.56,
             "mid": 0.51,
             "open_interest": 118,
-            "iv": 0.2456,
+            "iv": 0.249,
             "spread_pct_of_mid": 19.61,
             "collateral_usd": 4500.0,
-            "annualised_yield_pct": 11.82,
+            "annualised_yield_pct": 12.17,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
-            "delta_gap": 0.022,
+            "delta_gap": 0.021,
             "delta_match_ok": true
           },
           "0.30": {
             "strike": 46.0,
-            "delta": 0.315,
+            "delta": 0.316,
             "bid": 0.71,
             "ask": 0.8,
             "mid": 0.76,
             "open_interest": 101,
-            "iv": 0.23,
+            "iv": 0.2334,
             "spread_pct_of_mid": 11.92,
             "collateral_usd": 4600.0,
-            "annualised_yield_pct": 17.12,
+            "annualised_yield_pct": 17.62,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
-            "delta_gap": 0.015,
+            "delta_gap": 0.016,
             "delta_match_ok": true
           }
         },
@@ -5459,8 +5459,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 56.7,
-        "sample_size": 81,
+        "rank_pct": 57.7,
+        "sample_size": 82,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -5470,40 +5470,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.2617
+          "dte": 0,
+          "atm_iv": 0.3701
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.2804
+          "dte": 7,
+          "atm_iv": 0.2975
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.2832
+          "dte": 14,
+          "atm_iv": 0.2925
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3034
+          "dte": 21,
+          "atm_iv": 0.3103
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.2861
+          "dte": 27,
+          "atm_iv": 0.2912
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.2822
+          "dte": 34,
+          "atm_iv": 0.2863
         }
       ],
-      "iv30_interpolated": 0.285,
-      "term_structure_ratio": 0.918,
+      "iv30_interpolated": 0.2891,
+      "term_structure_ratio": 1.28,
       "volume_put_call_ratio": 0.524,
       "oi_put_call_ratio": 0.692,
-      "skew_25d_proxy_volpts": 2.61,
+      "skew_25d_proxy_volpts": 2.67,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 118.0,
       "nearest_expiration": "2026-11-27",
@@ -5515,7 +5515,7 @@
           "ask": 1.35,
           "volume": 1454.0,
           "openInterest": 1685,
-          "impliedVolatility": 0.2764
+          "impliedVolatility": 0.3906
         },
         {
           "strike": 126.0,
@@ -5524,7 +5524,7 @@
           "ask": 0.81,
           "volume": 288.0,
           "openInterest": 1654,
-          "impliedVolatility": 0.2686
+          "impliedVolatility": 0.3799
         },
         {
           "strike": 128.0,
@@ -5533,7 +5533,7 @@
           "ask": 0.17,
           "volume": 765.0,
           "openInterest": 1602,
-          "impliedVolatility": 0.2422
+          "impliedVolatility": 0.3418
         },
         {
           "strike": 120.0,
@@ -5542,7 +5542,7 @@
           "ask": 5.9,
           "volume": 130.0,
           "openInterest": 1594,
-          "impliedVolatility": 0.5342
+          "impliedVolatility": 0.5703
         },
         {
           "strike": 124.0,
@@ -5551,7 +5551,7 @@
           "ask": 2.18,
           "volume": 1025.0,
           "openInterest": 872,
-          "impliedVolatility": 0.3301
+          "impliedVolatility": 0.4668
         }
       ],
       "puts_top5_oi": [
@@ -5562,7 +5562,7 @@
           "ask": 0.49,
           "volume": 1.0,
           "openInterest": 1750,
-          "impliedVolatility": 1.0137
+          "impliedVolatility": 1.4336
         },
         {
           "strike": 110.0,
@@ -5571,7 +5571,7 @@
           "ask": 0.34,
           "volume": 6.0,
           "openInterest": 1690,
-          "impliedVolatility": 1.0566
+          "impliedVolatility": 1.4961
         },
         {
           "strike": 117.0,
@@ -5580,7 +5580,7 @@
           "ask": 0.01,
           "volume": 84.0,
           "openInterest": 1336,
-          "impliedVolatility": 0.3984
+          "impliedVolatility": 0.5313
         },
         {
           "strike": 114.0,
@@ -5589,7 +5589,7 @@
           "ask": 0.07,
           "volume": 9.0,
           "openInterest": 1220,
-          "impliedVolatility": 0.6211
+          "impliedVolatility": 0.8789
         },
         {
           "strike": 116.0,
@@ -5598,7 +5598,7 @@
           "ask": 0.04,
           "volume": 26.0,
           "openInterest": 673,
-          "impliedVolatility": 0.5352
+          "impliedVolatility": 0.6875
         }
       ],
       "earnings_within_30d": {
@@ -5608,7 +5608,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 125.6,
         "strikes_by_target_delta": {
@@ -5619,10 +5619,10 @@
             "ask": 1.05,
             "mid": 0.92,
             "open_interest": 28,
-            "iv": 0.2986,
+            "iv": 0.3027,
             "spread_pct_of_mid": 29.51,
             "collateral_usd": 11500.0,
-            "annualised_yield_pct": 8.3,
+            "annualised_yield_pct": 8.54,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.002,
@@ -5635,10 +5635,10 @@
             "ask": 1.64,
             "mid": 1.35,
             "open_interest": 18,
-            "iv": 0.313,
+            "iv": 0.3174,
             "spread_pct_of_mid": 42.07,
             "collateral_usd": 11700.0,
-            "annualised_yield_pct": 12.08,
+            "annualised_yield_pct": 12.43,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
             "delta_gap": 0.005,
@@ -5646,18 +5646,18 @@
           },
           "0.25": {
             "strike": 119.0,
-            "delta": 0.251,
+            "delta": 0.252,
             "bid": 1.44,
             "ask": 2.05,
             "mid": 1.74,
             "open_interest": 227,
-            "iv": 0.3016,
+            "iv": 0.3059,
             "spread_pct_of_mid": 34.96,
             "collateral_usd": 11900.0,
-            "annualised_yield_pct": 15.29,
+            "annualised_yield_pct": 15.74,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
-            "delta_gap": 0.001,
+            "delta_gap": 0.002,
             "delta_match_ok": true
           },
           "0.30": {
@@ -5667,10 +5667,10 @@
             "ask": 2.62,
             "mid": 2.34,
             "open_interest": 1,
-            "iv": 0.2951,
+            "iv": 0.2992,
             "spread_pct_of_mid": 23.45,
             "collateral_usd": 12100.0,
-            "annualised_yield_pct": 20.21,
+            "annualised_yield_pct": 20.81,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
             "delta_gap": 0.008,
@@ -5681,8 +5681,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 67.0,
-        "sample_size": 82,
+        "rank_pct": 68.0,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     },
@@ -5692,40 +5692,40 @@
       "iv_term_structure": [
         {
           "expiration": "2026-11-27",
-          "dte": 1,
-          "atm_iv": 0.3276
+          "dte": 0,
+          "atm_iv": 0.4634
         },
         {
           "expiration": "2026-12-04",
-          "dte": 8,
-          "atm_iv": 0.3621
+          "dte": 7,
+          "atm_iv": 0.3838
         },
         {
           "expiration": "2026-12-11",
-          "dte": 15,
-          "atm_iv": 0.3534
+          "dte": 14,
+          "atm_iv": 0.3648
         },
         {
           "expiration": "2026-12-18",
-          "dte": 22,
-          "atm_iv": 0.3601
+          "dte": 21,
+          "atm_iv": 0.3682
         },
         {
           "expiration": "2026-12-24",
-          "dte": 28,
-          "atm_iv": 0.3431
+          "dte": 27,
+          "atm_iv": 0.3491
         },
         {
           "expiration": "2026-12-31",
-          "dte": 35,
-          "atm_iv": 0.3433
+          "dte": 34,
+          "atm_iv": 0.3482
         }
       ],
-      "iv30_interpolated": 0.3432,
-      "term_structure_ratio": 0.955,
+      "iv30_interpolated": 0.3487,
+      "term_structure_ratio": 1.329,
       "volume_put_call_ratio": 0.476,
       "oi_put_call_ratio": 0.518,
-      "skew_25d_proxy_volpts": 5.52,
+      "skew_25d_proxy_volpts": 5.59,
       "skew_expiry_used": "2026-12-24",
       "max_pain_nearest_expiry": 55.0,
       "nearest_expiration": "2026-11-27",
@@ -5737,7 +5737,7 @@
           "ask": 0.42,
           "volume": 1352,
           "openInterest": 9705,
-          "impliedVolatility": 0.2979
+          "impliedVolatility": 0.4219
         },
         {
           "strike": 56.0,
@@ -5746,7 +5746,7 @@
           "ask": 2.62,
           "volume": 759,
           "openInterest": 7568,
-          "impliedVolatility": 0.5762
+          "impliedVolatility": 0.8145
         },
         {
           "strike": 55.0,
@@ -5755,7 +5755,7 @@
           "ask": 4.45,
           "volume": 103,
           "openInterest": 1402,
-          "impliedVolatility": 1.001
+          "impliedVolatility": 1.416
         },
         {
           "strike": 65.0,
@@ -5764,7 +5764,7 @@
           "ask": 0.03,
           "volume": 45,
           "openInterest": 1249,
-          "impliedVolatility": 0.7188
+          "impliedVolatility": 1.0156
         },
         {
           "strike": 57.0,
@@ -5773,7 +5773,7 @@
           "ask": 1.13,
           "volume": 379,
           "openInterest": 1072,
-          "impliedVolatility": 0.3809
+          "impliedVolatility": 0.5391
         }
       ],
       "puts_top5_oi": [
@@ -5784,7 +5784,7 @@
           "ask": 0.1,
           "volume": 217.0,
           "openInterest": 1146,
-          "impliedVolatility": 0.5195
+          "impliedVolatility": 0.6211
         },
         {
           "strike": 47.0,
@@ -5793,7 +5793,7 @@
           "ask": 2.13,
           "volume": 1021.0,
           "openInterest": 1028,
-          "impliedVolatility": 2.9727
+          "impliedVolatility": 4.2051
         },
         {
           "strike": 56.0,
@@ -5802,7 +5802,7 @@
           "ask": 0.12,
           "volume": 37.0,
           "openInterest": 567,
-          "impliedVolatility": 0.3984
+          "impliedVolatility": 0.5625
         },
         {
           "strike": 54.0,
@@ -5811,7 +5811,7 @@
           "ask": 0.2,
           "volume": 32.0,
           "openInterest": 536,
-          "impliedVolatility": 0.6582
+          "impliedVolatility": 0.9297
         },
         {
           "strike": 52.0,
@@ -5820,7 +5820,7 @@
           "ask": 0.01,
           "volume": 7.0,
           "openInterest": 320,
-          "impliedVolatility": 0.5781
+          "impliedVolatility": 0.8125
         }
       ],
       "earnings_within_30d": {
@@ -5830,7 +5830,7 @@
       },
       "wheel": {
         "expiration": "2026-12-31",
-        "dte": 35,
+        "dte": 34,
         "in_30_45_window": true,
         "spot": 57.81,
         "strikes_by_target_delta": {
@@ -5841,10 +5841,10 @@
             "ask": 0.91,
             "mid": 0.46,
             "open_interest": 3,
-            "iv": 0.5693,
+            "iv": 0.5772,
             "spread_pct_of_mid": 195.65,
             "collateral_usd": 4900.0,
-            "annualised_yield_pct": 9.79,
+            "annualised_yield_pct": 10.08,
             "gate4_liquidity_ok": false,
             "target_delta": 0.15,
             "delta_gap": 0.003,
@@ -5852,18 +5852,18 @@
           },
           "0.20": {
             "strike": 53.0,
-            "delta": 0.202,
+            "delta": 0.203,
             "bid": 0.13,
             "ask": 0.9,
             "mid": 0.52,
             "open_interest": 3,
-            "iv": 0.3804,
+            "iv": 0.3857,
             "spread_pct_of_mid": 149.51,
             "collateral_usd": 5300.0,
-            "annualised_yield_pct": 10.13,
+            "annualised_yield_pct": 10.43,
             "gate4_liquidity_ok": false,
             "target_delta": 0.2,
-            "delta_gap": 0.002,
+            "delta_gap": 0.003,
             "delta_match_ok": true
           },
           "0.25": {
@@ -5873,10 +5873,10 @@
             "ask": 1.08,
             "mid": 0.9,
             "open_interest": 7,
-            "iv": 0.3635,
+            "iv": 0.3687,
             "spread_pct_of_mid": 40.0,
             "collateral_usd": 5400.0,
-            "annualised_yield_pct": 17.38,
+            "annualised_yield_pct": 17.89,
             "gate4_liquidity_ok": false,
             "target_delta": 0.25,
             "delta_gap": 0.008,
@@ -5884,18 +5884,18 @@
           },
           "0.30": {
             "strike": 55.0,
-            "delta": 0.3,
+            "delta": 0.301,
             "bid": 0.98,
             "ask": 1.48,
             "mid": 1.23,
             "open_interest": 22,
-            "iv": 0.3755,
+            "iv": 0.3809,
             "spread_pct_of_mid": 40.65,
             "collateral_usd": 5500.0,
-            "annualised_yield_pct": 23.32,
+            "annualised_yield_pct": 24.01,
             "gate4_liquidity_ok": false,
             "target_delta": 0.3,
-            "delta_gap": 0.0,
+            "delta_gap": 0.001,
             "delta_match_ok": true
           }
         },
@@ -5903,8 +5903,8 @@
         "note": "annualised_yield_pct is gross of commission; subtract round-trip fees before comparing to the tier hurdle. Delta is Black-Scholes, no dividend adjustment."
       },
       "iv_rank_to_date": {
-        "rank_pct": 53.6,
-        "sample_size": 82,
+        "rank_pct": 54.6,
+        "sample_size": 83,
         "note": "rank within stored history only; needs ~252 samples to equal a true 52-week IVR"
       }
     }
