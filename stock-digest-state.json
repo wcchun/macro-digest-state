@@ -1,8 +1,8 @@
 {
-  "last_run_utc": "2026-11-28T01:05:08Z",
+  "last_run_utc": "2026-11-28T13:05:13Z",
   "tickers": {
     "PLTR": {
-      "last_run_window": "delta since Fri 27 Nov 21:06 MYT (chained run, Sat 28 Nov MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
+      "last_run_window": "delta since Sat 28 Nov 09:05 MYT (chained run, Sat 28 Nov 21:10 MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "maven-anthropic-supply-chain-risk-ruling-aug27",
@@ -319,7 +319,7 @@
       ]
     },
     "TSLA": {
-      "last_run_window": "delta since Fri 27 Nov 21:06 MYT (chained run, Sat 28 Nov MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
+      "last_run_window": "delta since Sat 28 Nov 09:05 MYT (chained run, Sat 28 Nov 21:10 MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "project-crystal-sun-solar-factory-tx-aug11-12",
@@ -870,7 +870,7 @@
       ]
     },
     "FIG": {
-      "last_run_window": "delta since Fri 27 Nov 21:06 MYT (chained run, Sat 28 Nov MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
+      "last_run_window": "delta since Sat 28 Nov 09:05 MYT (chained run, Sat 28 Nov 21:10 MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "config-2026-ai-feature-suite",
@@ -1060,7 +1060,7 @@
       ]
     },
     "ECHO": {
-      "last_run_window": "delta since Fri 27 Nov 21:06 MYT (chained run, Sat 28 Nov MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
+      "last_run_window": "delta since Sat 28 Nov 09:05 MYT (chained run, Sat 28 Nov 21:10 MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "echo-hughes-examiner-fraudulent-transfer-allegations-aug26",
@@ -1101,7 +1101,7 @@
       ]
     },
     "ONDS": {
-      "last_run_window": "delta since Fri 27 Nov 21:06 MYT (chained run, Sat 28 Nov MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
+      "last_run_window": "delta since Sat 28 Nov 09:05 MYT (chained run, Sat 28 Nov 21:10 MYT; weekend, US markets closed): searches returned no dated in-window items; nothing new scoring 4+.",
       "stories": [
         {
           "id": "onds-insignito-ottopia-caribou-acquisition-sep23",
